@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "id": "310633997",
+      "name": "Whatsapp（备注，可留空，程序会自动从API获取）"
+    },
+    {
+      "id": "544007664",
+      "name": "Shadowrocket"
+    },
+    {
+      "id": "1107421413",
+      "name": "Darkroom"
+    }
+  ],
+  "settings": {
+    "notify_on_price_drop": true,
+    "notify_on_free": true,
+    "country": "us",
+    "language": "en-us"
+  }
+}

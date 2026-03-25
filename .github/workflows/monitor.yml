@@ -1,0 +1,89 @@
+name: "App Store Price Monitor"
+
+on:
+  # 每 6 小时运行一次（UTC 时间 0/6/12/18 点整）
+  schedule:
+    - cron: "0 0,6,12,18 * * *"
+
+  # 允许在 GitHub Actions 界面手动触发（方便调试）
+  workflow_dispatch:
+
+# 仓库写权限（用于 commit & push 更新后的数据文件）
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  monitor:
+    name: "Run Price Monitor"
+    runs-on: ubuntu-latest
+    timeout-minutes: 30        # 最长允许运行 30 分钟，防止卡死
+
+    steps:
+      # ── 1. 检出仓库代码 ──────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 拉取完整历史，确保 git push 不冲突
+          fetch-depth: 0
+
+      # ── 2. 设置 Python 环境 ──────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"           # 缓存 pip 依赖，加快后续运行
+
+      # ── 3. 安装依赖 ──────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. 运行监控脚本 ──────────────────────────────────
+      - name: Run monitor script
+        env:
+          # Bark 推送（iOS）：在仓库 Settings → Secrets 中设置
+          BARK_KEY:    ${{ secrets.BARK_KEY }}
+          BARK_SERVER: ${{ secrets.BARK_SERVER }}   # 可选，默认 https://api.day.app
+          # Telegram 推送：二选一，不用的留空即可
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python main.py
+
+      # ── 5. 提交并推送更新的数据文件 ──────────────────────
+      - name: Commit and push updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 只添加需要提交的文件
+          git add history_prices.json index.html
+
+          # 如果没有变化，不提交（避免空 commit）
+          if git diff --cached --quiet; then
+            echo "No changes to commit — prices unchanged."
+          else
+            TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M UTC")
+            git commit -m "chore: update prices [${TIMESTAMP}] [skip ci]"
+            git push
+            echo "Data files committed and pushed successfully."
+          fi
+
+  # ── 可选：GitHub Pages 部署 ──────────────────────────────
+  # 如果你开启了 GitHub Pages（Source: Deploy from a branch → main），
+  # 上面的 push 会自动触发 Pages 更新，无需单独 job。
+  # 如果你想用官方 Pages Action，取消下方注释：
+  #
+  # deploy-pages:
+  #   needs: monitor
+  #   runs-on: ubuntu-latest
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
+  #   steps:
+  #     - name: Deploy to GitHub Pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v4
