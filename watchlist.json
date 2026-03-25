@@ -2,15 +2,23 @@
   "apps": [
     {
       "id": "310633997",
-      "name": "Whatsapp（备注，可留空，程序会自动从API获取）"
+      "name": "WhatsApp Messenger"
     },
     {
       "id": "544007664",
-      "name": "Shadowrocket"
+      "name": "YouTube"
     },
     {
-      "id": "1107421413",
-      "name": "Darkroom"
+      "id": "324684580",
+      "name": "Paper by WeTransfer"
+    },
+    {
+      "id": "908369743",
+      "name": "Telegram Messenger"
+    },
+    {
+      "id": "1299136500",
+      "name": "Bear - Markdown Notes"
     }
   ],
   "settings": {
