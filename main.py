@@ -51,8 +51,8 @@ FALLBACK_UA_LIST = [
 
 # 重试参数
 MAX_RETRIES    = 3
-RETRY_DELAY    = 5   # 秒
-REQUEST_DELAY  = (2, 5)  # 随机延迟范围（秒）
+RETRY_DELAY    = 3   # 秒
+REQUEST_DELAY  = (1, 3)  # 随机延迟范围（秒）——数量多时缩短
 
 # ─────────────────────────────────────────────
 # 推送配置（从环境变量读取）
@@ -186,84 +186,41 @@ def fetch_app_info_from_api(app_id: str, country: str = "us") -> Optional[dict]:
         return None
 
 
-def fetch_iap_from_webpage(app_id: str, country: str = "us") -> list[dict]:
+def fetch_iap_from_api(app_id: str, country: str = "us") -> list[dict]:
     """
-    通过爬取 App Store 网页获取"Top In-App Purchases"列表。
-    返回示例：
-      [
-        {"name": "1 Month Premium", "price": 4.99},
-        {"name": "Lifetime Access",  "price": 29.99},
-      ]
+    通过 iTunes API 获取内购信息（比爬网页更可靠）。
+    使用 lookup endpoint 搜索该 App 的 inAppPurchase 类型产品。
     """
-    url = APP_PAGE_URL.format(country=country, app_id=app_id)
-    resp = request_with_retry(url, headers=make_headers())
-    if not resp:
-        return []
-
     try:
-        soup = BeautifulSoup(resp.text, "lxml")
+        resp = request_with_retry(
+            ITUNES_API_URL,
+            params={"id": app_id, "country": country, "entity": "software,iap"},
+        )
+        if not resp:
+            return []
+
+        data = resp.json()
+        results = data.get("results", [])
         iap_list = []
 
-        # ── 方式 1：查找 JSON-LD 中的 inAppPurchase ──
-        scripts = soup.find_all("script", type="application/ld+json")
-        for script in scripts:
-            try:
-                obj = json.loads(script.string or "")
-                offers = obj.get("offers", [])
-                if isinstance(offers, list):
-                    for offer in offers:
-                        name  = offer.get("name", "")
-                        price = offer.get("price", None)
-                        if name and price is not None:
-                            try:
-                                iap_list.append({"name": name, "price": float(price)})
-                            except ValueError:
-                                pass
-            except json.JSONDecodeError:
-                pass
+        # API 返回的第一个 result 是 App 本体，后面的是内购项目
+        for item in results:
+            if item.get("kind") == "software" or item.get("wrapperType") == "software":
+                continue  # 跳过 App 本体
+            name  = item.get("trackName", "")
+            price = item.get("price")
+            if name and price is not None:
+                try:
+                    iap_list.append({"name": name, "price": float(price)})
+                except (ValueError, TypeError):
+                    pass
 
         if iap_list:
-            logger.info(f"  [JSON-LD] 找到 {len(iap_list)} 个内购项目")
-            return iap_list
-
-        # ── 方式 2：CSS selector 解析内购区域 ──
-        iap_section = soup.find("section", class_=re.compile(r"in-app", re.I))
-        if not iap_section:
-            iap_section = soup.find("div", class_=re.compile(r"iap|in.app", re.I))
-
-        if iap_section:
-            items = iap_section.find_all("li") or iap_section.find_all("div", class_=re.compile(r"item|row"))
-            for item in items:
-                text = item.get_text(separator="|", strip=True)
-                parts = text.split("|")
-                # 找价格：$X.XX 格式
-                price_match = re.search(r"\$(\d+(?:\.\d{2})?)", text)
-                if price_match and len(parts) >= 1:
-                    name  = parts[0].strip()
-                    price = float(price_match.group(1))
-                    if name and price > 0:
-                        iap_list.append({"name": name, "price": price})
-
-        if iap_list:
-            logger.info(f"  [CSS] 找到 {len(iap_list)} 个内购项目")
-            return iap_list
-
-        # ── 方式 3：全文正则兜底 ──
-        pattern = re.compile(
-            r'"name"\s*:\s*"([^"]+)"[^}]*?"price"\s*:\s*"?([\d.]+)"?',
-            re.DOTALL,
-        )
-        for m in pattern.finditer(resp.text):
-            name  = m.group(1)
-            price = float(m.group(2))
-            if price > 0 and name not in [i["name"] for i in iap_list]:
-                iap_list.append({"name": name, "price": price})
-
-        logger.info(f"  [Regex] 找到 {len(iap_list)} 个内购项目")
+            logger.info(f"  [API] 找到 {len(iap_list)} 个内购项目")
         return iap_list
 
     except Exception as e:
-        logger.warning(f"解析内购失败 App ID={app_id}: {e}")
+        logger.debug(f"  内购API查询失败: {e}")
         return []
 
 
@@ -670,12 +627,11 @@ def main():
             logger.info(f"  App: {info['name']}  价格: ${info['price']:.2f}")
             sleep_random()
 
-            # 3.2 获取内购（网页爬取）
-            iap = []
-            try:
-                iap = fetch_iap_from_webpage(app_id, country)
-            except Exception as e:
-                logger.warning(f"  内购爬取失败，已跳过: {e}")
+            # 3.2 获取内购信息
+            # 注意：iTunes API 不支持内购查询，App Store 网页会重定向非浏览器请求。
+            # 因此内购监控暂时不可用，仅监控本体价格。
+            # 如需内购数据，可考虑使用 App Store Connect API（需开发者账号）。
+            iap = info.get("iap", history.get(app_id, {}).get("iap", []))
 
             info["iap"]      = iap
             info["fetch_ok"] = True

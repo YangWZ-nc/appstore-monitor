@@ -1,24 +1,176 @@
 {
   "apps": [
     {
-      "id": "310633997",
-      "name": "WhatsApp Messenger"
-    },
-    {
-      "id": "544007664",
-      "name": "YouTube"
+      "id": "932747118",
+      "name": "Shadowrocket"
     },
     {
       "id": "324684580",
       "name": "Paper by WeTransfer"
     },
     {
-      "id": "908369743",
-      "name": "Telegram Messenger"
+      "id": "1491530147",
+      "name": "Slay the Spire"
     },
     {
-      "id": "1299136500",
-      "name": "Bear - Markdown Notes"
+      "id": "625334537",
+      "name": "Geometry Dash"
+    },
+    {
+      "id": "479516143",
+      "name": "Minecraft"
+    },
+    {
+      "id": "1406710800",
+      "name": "Stardew Valley"
+    },
+    {
+      "id": "525818839",
+      "name": "Plague Inc."
+    },
+    {
+      "id": "1118115766",
+      "name": "Bloons TD 6"
+    },
+    {
+      "id": "6502453075",
+      "name": "Balatro"
+    },
+    {
+      "id": "824305459",
+      "name": "Papas Freezeria To Go!"
+    },
+    {
+      "id": "623592465",
+      "name": "Heads Up!"
+    },
+    {
+      "id": "1477966166",
+      "name": "MONOPOLY"
+    },
+    {
+      "id": "1596736236",
+      "name": "Reds First Flight"
+    },
+    {
+      "id": "1610947489",
+      "name": "Poppy Playtime Ch1"
+    },
+    {
+      "id": "6746137187",
+      "name": "Poppy Playtime Ch4"
+    },
+    {
+      "id": "575154654",
+      "name": "Pou"
+    },
+    {
+      "id": "6478975337",
+      "name": "Vampire Survivors+"
+    },
+    {
+      "id": "6450374417",
+      "name": "Dead Cells: Netflix Ed."
+    },
+    {
+      "id": "916366645",
+      "name": "Procreate Pocket"
+    },
+    {
+      "id": "362057947",
+      "name": "Sketchbook"
+    },
+    {
+      "id": "1130395705",
+      "name": "Halide"
+    },
+    {
+      "id": "373493387",
+      "name": "AnkiMobile Flashcards"
+    },
+    {
+      "id": "908369743",
+      "name": "Telegram"
+    },
+    {
+      "id": "310633997",
+      "name": "WhatsApp"
+    },
+    {
+      "id": "544007664",
+      "name": "YouTube"
+    },
+    {
+      "id": "1127655994",
+      "name": "Todoist"
+    },
+    {
+      "id": "6462360082",
+      "name": "Resident Evil 4 (Capcom)"
+    },
+    {
+      "id": "6450980545",
+      "name": "Resident Evil Village (Capcom)"
+    },
+    {
+      "id": "1640632432",
+      "name": "RESIDENT EVIL 2 (Capcom)"
+    },
+    {
+      "id": "1640630077",
+      "name": "RESIDENT EVIL 3 (Capcom)"
+    },
+    {
+      "id": "1640629241",
+      "name": "RESIDENT EVIL 7 (Capcom)"
+    },
+    {
+      "id": "1591864714",
+      "name": "Monster Hunter Puzzles (Capcom)"
+    },
+    {
+      "id": "1339054344",
+      "name": "Monster Hunter Stories (Capcom)"
+    },
+    {
+      "id": "1339054474",
+      "name": "MHST Adventure Begins (Capcom)"
+    },
+    {
+      "id": "6446021269",
+      "name": "MEGA MAN X DiVE (Capcom)"
+    },
+    {
+      "id": "469343097",
+      "name": "MEGA MAN X (Capcom)"
+    },
+    {
+      "id": "1621065119",
+      "name": "Ace Attorney Trilogy (Capcom)"
+    },
+    {
+      "id": "1227608370",
+      "name": "Ace Attorney INVESTIGATIONS (Capcom)"
+    },
+    {
+      "id": "1248661960",
+      "name": "Ace Attorney Spirit of Justice (Capcom)"
+    },
+    {
+      "id": "882362024",
+      "name": "Ace Attorney Dual Destinies (Capcom)"
+    },
+    {
+      "id": "1136993233",
+      "name": "Apollo Justice Ace Attorney (Capcom)"
+    },
+    {
+      "id": "6473715300",
+      "name": "GHOST TRICK (Capcom)"
+    },
+    {
+      "id": "1239299402",
+      "name": "Street Fighter IV CE (Capcom)"
     }
   ],
   "settings": {
