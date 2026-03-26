@@ -1,157 +1,908 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>App Store 价格监控</title>
-  <style>
-    :root {
-      --bg: #0d1117;
-      --card: #161b22;
-      --border: #30363d;
-      --text: #e6edf3;
-      --muted: #8b949e;
-      --accent: #58a6ff;
-      --green: #3fb950;
-      --red: #f85149;
-      --gold: #f0c40a;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      background: var(--bg); color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      min-height: 100vh; padding: 24px 16px;
-    }
-    header {
-      text-align: center; margin-bottom: 32px;
-    }
-    header h1 {
-      font-size: 1.8rem; color: var(--accent);
-      display: flex; align-items: center; justify-content: center; gap: 10px;
-    }
-    .meta { color: var(--muted); font-size: 0.85rem; margin-top: 8px; }
-    .stats {
-      display: flex; justify-content: center; gap: 24px; margin-bottom: 28px;
-      flex-wrap: wrap;
-    }
-    .stat-card {
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 10px; padding: 14px 28px; text-align: center;
-    }
-    .stat-card .num { font-size: 2rem; font-weight: 700; color: var(--accent); }
-    .stat-card .label { font-size: 0.8rem; color: var(--muted); }
-    .table-wrap {
-      overflow-x: auto;
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 12px;
-    }
-    table {
-      width: 100%; border-collapse: collapse;
-    }
-    thead tr { background: #1c2128; }
-    th, td {
-      padding: 12px 16px; text-align: left;
-      border-bottom: 1px solid var(--border);
-      vertical-align: middle;
-    }
-    th { color: var(--muted); font-size: 0.82rem; text-transform: uppercase; font-weight: 600; }
-    tbody tr:hover { background: #1c2128; }
-    tbody tr:last-child td { border-bottom: none; }
-    .app-icon { width: 52px; height: 52px; border-radius: 12px; object-fit: cover; }
-    .app-icon-placeholder {
-      width: 52px; height: 52px; border-radius: 12px;
-      background: var(--border); display: flex; align-items: center;
-      justify-content: center; font-size: 0.7rem; color: var(--muted);
-    }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .genre { color: var(--muted); font-size: 0.78rem; }
-    .price { font-weight: 700; font-size: 1.05rem; }
-    .price.free { color: var(--green); }
-    .badge {
-      display: inline-block; padding: 2px 8px; border-radius: 20px;
-      font-size: 0.75rem; font-weight: 600;
-    }
-    .badge-success { background: rgba(63,185,80,.2); color: var(--green); }
-    .badge-error   { background: rgba(248,81,73,.2); color: var(--red); }
-    details summary {
-      cursor: pointer; color: var(--accent); font-size: 0.85rem;
-      padding: 4px 0; user-select: none;
-    }
-    .iap-table { width: 100%; margin-top: 8px; font-size: 0.82rem; }
-    .iap-table th, .iap-table td {
-      padding: 4px 8px; border-bottom: 1px solid var(--border);
-    }
-    .iap-table th { font-size: 0.75rem; }
-    .no-iap { color: var(--muted); font-size: 0.82rem; }
-    footer { text-align: center; color: var(--muted); font-size: 0.78rem; margin-top: 32px; }
-    @media(max-width: 600px) {
-      th:nth-child(4), td:nth-child(4) { display: none; }
-    }
-  </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🎯 App Store 价格监控</title>
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --surface: #14141e;
+            --surface2: #1e1e2e;
+            --border: #2a2a3d;
+            --text: #e2e2ee;
+            --muted: #7f7f99;
+            --accent: #5c6bc0;
+            --green: #30d158;
+            --orange: #ff9f0a;
+            --red: #ff453a;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif;
+            min-height: 100vh;
+        }
+        header {
+            background: linear-gradient(135deg, var(--surface) 0%, #1a1a2e 100%);
+            border-bottom: 1px solid var(--border);
+            padding: 24px 32px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+        }
+        .header-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.5px; }
+        h1 span { color: var(--accent); }
+        .stats {
+            display: flex;
+            gap: 16px;
+            font-size: 0.85rem;
+            color: var(--muted);
+        }
+        .stats b { color: var(--text); }
+        .search-bar {
+            margin-top: 16px;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .search-bar input {
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            font-size: 0.9rem;
+            padding: 8px 16px;
+            outline: none;
+            width: 240px;
+        }
+        .search-bar input:focus { border-color: var(--accent); }
+        .filter-btn {
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            cursor: pointer;
+            font-size: 0.85rem;
+            padding: 8px 14px;
+            transition: all 0.2s;
+        }
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+        }
+        main {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 24px 16px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 16px;
+        }
+        .app-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .app-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--accent);
+        }
+        .card-link {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            padding: 16px;
+        }
+        .card-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+        .app-icon {
+            width: 60px;
+            height: 60px;
+            border-radius: 14px;
+            flex-shrink: 0;
+            object-fit: cover;
+        }
+        .app-icon-placeholder {
+            width: 60px;
+            height: 60px;
+            border-radius: 14px;
+            background: var(--surface2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+        }
+        .card-info { flex: 1; min-width: 0; }
+        .app-name {
+            font-size: 0.95rem;
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .app-dev, .app-cat {
+            font-size: 0.78rem;
+            color: var(--muted);
+            margin-top: 2px;
+        }
+        .rating { color: var(--orange); letter-spacing: -1px; }
+        .price-badge {
+            font-size: 0.85rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 20px;
+            white-space: nowrap;
+            color: #000;
+            flex-shrink: 0;
+        }
+        .iap-section {
+            border-top: 1px solid var(--border);
+            padding: 0 16px;
+        }
+        .iap-section summary {
+            padding: 10px 0;
+            cursor: pointer;
+            font-size: 0.82rem;
+            color: var(--muted);
+            user-select: none;
+            list-style: none;
+        }
+        .iap-section summary:hover { color: var(--text); }
+        .iap-list {
+            list-style: none;
+            padding-bottom: 12px;
+        }
+        .iap-list li {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 4px 0;
+            font-size: 0.82rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .iap-list li:last-child { border-bottom: none; }
+        .iap-name {
+            color: var(--text);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            max-width: 200px;
+        }
+        .iap-price {
+            color: var(--green);
+            font-weight: 600;
+            flex-shrink: 0;
+            margin-left: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 24px;
+            color: var(--muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border);
+            margin-top: 32px;
+        }
+        .hidden { display: none !important; }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>🍎 App Store 价格监控</h1>
-    <p class="meta">美区（US） · 最近更新：2026-03-25 07:45 UTC</p>
-  </header>
+    <header>
+        <div class="header-top">
+            <h1>🎯 App Store <span>价格监控</span></h1>
+            <div class="stats">
+                <span>共监控 <b>46</b> 个 App</span>
+                <span>付费 <b>27</b> 个</span>
+                <span>含内购 <b>1</b> 个</span>
+                <span>更新于 2026-03-26 01:32 UTC</span>
+            </div>
+        </div>
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="🔍 搜索 App 名称..." oninput="filterApps()" />
+            <button class="filter-btn active" onclick="setFilter('all', this)">全部</button>
+            <button class="filter-btn" onclick="setFilter('paid', this)">付费</button>
+            <button class="filter-btn" onclick="setFilter('iap', this)">含内购</button>
+            <button class="filter-btn" onclick="setFilter('free', this)">免费</button>
+        </div>
+    </header>
+    <main>
+        <div class="grid" id="app-grid">
 
-  <div class="stats">
-    <div class="stat-card">
-      <div class="num">2</div>
-      <div class="label">监控 App 数量</div>
-    </div>
-    <div class="stat-card">
-      <div class="num" style="color:var(--green)">
-        2
-      </div>
-      <div class="label">当前免费</div>
-    </div>
-    <div class="stat-card">
-      <div class="num" style="color:var(--gold)">
-        0
-      </div>
-      <div class="label">内购项目总数</div>
-    </div>
-  </div>
+        <div class="app-card" data-price="6.99" data-name="minecraft: dream it, build it!">
+            <a href="https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143?uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/dc/26/8ddc26b0-d312-63f9-33a3-7f65dcb45cf0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg" alt="Minecraft: Dream it, Build it!" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Minecraft: Dream it, Build it!</h3>
+                        <p class="app-dev">Mojang</p>
+                        <p class="app-cat">Games <span class="rating" title="4.5">★★★★☆</span></p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">$6.99</span>
+                </div>
+            </a>
+            
+            <details class="iap-section">
+                <summary>🎁 内购 10 项</summary>
+                <ul class="iap-list"><li><span class="iap-name">Minecraft Store Item 2</span><span class="iap-price">$1.99</span></li><li><span class="iap-name">Realms Plus:10 Friends w/trial</span><span class="iap-price">$7.99</span></li><li><span class="iap-name">Minecraft Store Item 6</span><span class="iap-price">$5.99</span></li><li><span class="iap-name">Realms Monthly Subscription: You + 2 Friends</span><span class="iap-price">$3.99</span></li><li><span class="iap-name">Minecraft Store Item 5</span><span class="iap-price">$4.99</span></li><li><span class="iap-name">Minecraft Store Item 10</span><span class="iap-price">$9.99</span></li><li><span class="iap-name">Minecraft Store Item 4</span><span class="iap-price">$3.99</span></li><li><span class="iap-name">Minecraft Store Item 3</span><span class="iap-price">$2.99</span></li><li><span class="iap-name">Realms Plus: You + 10 Friends</span><span class="iap-price">$7.99</span></li><li><span class="iap-name">Minecraft Store Item 8</span><span class="iap-price">$7.99</span></li></ul>
+            </details>
+        </div>
+        <div class="app-card" data-price="29.99" data-name="mega man x dive offline">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/a8/cb/d1a8cb78-8bdd-04dc-4f2b-6573d1e52d33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg" alt="MEGA MAN X DiVE Offline" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">MEGA MAN X DiVE Offline</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="24.99" data-name="ankimobile flashcards">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/6b/da/306bdac5-3088-c97f-c682-e4626bfc6b43/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg" alt="AnkiMobile Flashcards" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">AnkiMobile Flashcards</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="24.99" data-name="ace attorney trilogy">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg" alt="Ace Attorney Trilogy" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Ace Attorney Trilogy</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="19.99" data-name="monster hunter stories">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/41/c8/f841c803-0596-e2c5-cafb-dc0d3962b88b/iOSAppIcon-1x_U007emarketing-0-9-85-220.png/100x100bb.jpg" alt="Monster Hunter Stories" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Monster Hunter Stories</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="6.99" data-name="slay the spire">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg" alt="Slay the Spire" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Slay the Spire</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="6.99" data-name="balatro">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" alt="Balatro" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Balatro</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="5.99" data-name="procreate pocket">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/8e/82/cf8e82ce-2d9d-6a38-d42c-2852e7fe606c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg" alt="Procreate Pocket" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Procreate Pocket</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="5.99" data-name="las 2 puertas">
+            <a href="https://books.apple.com/us/book/las-2-puertas/id908369743?uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/03/26/f1/0326f166-e4bf-d41c-e5cc-3aa799e0d9df/0000001630085.jpg/100x100bb.jpg" alt="Las 2 puertas" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Las 2 puertas</h3>
+                        <p class="app-dev">Manuel López Casquete</p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff6b6b">$5.99</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="4.99" data-name="stardew valley">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/df/12/0edf1230-3f6e-fbb3-7f72-f2aa844d100a/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Stardew Valley" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Stardew Valley</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="4.99" data-name="bloons td 6">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Bloons TD 6" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Bloons TD 6</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="4.99" data-name="monopoly: the board game">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fd/69/51fd6954-406c-3056-3d4e-bd8ec8307542/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="MONOPOLY: The Board Game" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">MONOPOLY: The Board Game</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="4.99" data-name="poppy playtime chapter 4">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/96/da/1596da58-cb6b-d99b-cea4-91dceadc79fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" alt="Poppy Playtime Chapter 4" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Poppy Playtime Chapter 4</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="4.99" data-name="mega man x">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/98/21/ab982133-ad57-4aaa-e29f-123afea18146/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg" alt="MEGA MAN X" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">MEGA MAN X</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="4.99" data-name="street fighter iv ce">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/2c/01/562c01be-8319-1855-4b3c-b7e79d2fda67/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.jpg" alt="Street Fighter IV CE" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Street Fighter IV CE</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="2.99" data-name="shadowrocket">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg" alt="Shadowrocket" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Shadowrocket</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="2.99" data-name="geometry dash">
+            <a href="https://apps.apple.com/us/app/geometry-dash/id625334537?uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg" alt="Geometry Dash" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Geometry Dash</h3>
+                        <p class="app-dev">RobTop Games AB</p>
+                        <p class="app-cat">Games <span class="rating" title="4.5">★★★★☆</span></p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">$2.99</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="2.99" data-name="poppy playtime chapter 1">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg" alt="Poppy Playtime Chapter 1" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Poppy Playtime Chapter 1</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="1.99" data-name="heads up!">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/53/8d/d5538de7-426c-cd37-9921-f9319bec227d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Heads Up!" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Heads Up!</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="1.99" data-name="pou">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/eb/41/97eb41c4-1f26-e25e-8940-574fa699b2b9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg" alt="Pou" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Pou</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="plague inc.">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg" alt="Plague Inc." class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Plague Inc.</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="papa's freezeria to go!">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.jpg" alt="Papa's Freezeria To Go!" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Papa's Freezeria To Go!</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="red's first flight">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b2/ca/16b2ca07-9218-4469-5e09-29addd3eff9e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg" alt="Red's First Flight" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Red's First Flight</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="ace attorney investigations">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/7e/5d/f37e5d2b-170e-9eff-e455-d7e96c8d1bd3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg" alt="Ace Attorney INVESTIGATIONS" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Ace Attorney INVESTIGATIONS</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="ace attorney spirit of justice">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/11/61/06/11610682-ee72-5108-2d79-8f3508b4d574/iOSAppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg" alt="Ace Attorney Spirit of Justice" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Ace Attorney Spirit of Justice</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="ace attorney: dual destinies">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/61/30/a4/6130a493-cdda-f5b2-7645-1b44f310710d/iOSAppIconEng-1x_U007emarketing-0-6-85-220.png/100x100bb.jpg" alt="Ace Attorney: Dual Destinies" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Ace Attorney: Dual Destinies</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.99" data-name="apollo justice ace attorney">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f2/73/f5f273bd-7158-fb53-d288-b148b9963fcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" alt="Apollo Justice Ace Attorney" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Apollo Justice Ace Attorney</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#ff9f0a">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="whatsapp messenger">
+            <a href="https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/94/ab/c094ab41-a44a-4da8-737f-7aad8d97b8b6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg" alt="WhatsApp Messenger" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">WhatsApp Messenger</h3>
+                        <p class="app-dev">WhatsApp Inc.</p>
+                        <p class="app-cat">Social Networking <span class="rating" title="4.7">★★★★☆</span></p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="youtube">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/68/4e/b7684ee2-68b5-0b77-b13d-38c858064514/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg" alt="YouTube" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">YouTube</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="spotify: music and podcasts">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg" alt="Spotify: Music and Podcasts" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Spotify: Music and Podcasts</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="vampire survivors+">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a4/28/42a42873-a99c-ce7f-0319-a8b2f6105694/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Vampire Survivors+" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Vampire Survivors+</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="dead cells: netflix edition">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/5e/8d/075e8d4b-40b9-2479-9c1a-9303b941ee94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" alt="Dead Cells: Netflix Edition" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Dead Cells: Netflix Edition</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="kakaotalk : messenger">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/71/ac/fd71aca5-9057-30f3-35fd-3ce04990c7c3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg" alt="KakaoTalk : Messenger" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">KakaoTalk : Messenger</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="sesa">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/87/26/a7/8726a7e0-e6e0-227d-c79d-8e95ad4015c2/879000147455.png/100x100bb.jpg" alt="Sesa" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Sesa</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="let's go retro">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/61/e0/cb61e0dd-18e1-d548-7cbc-36d8b68680a7/cover.jpg/100x100bb.jpg" alt="Let's Go Retro" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Let's Go Retro</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="resident evil 4">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/c9/24c8c984-811f-2806-f307-1535d0fe84c8/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.jpg" alt="Resident Evil 4" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Resident Evil 4</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="resident evil village">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/93/cf/cd93cf3d-bfd2-04c2-b190-8e635cbde094/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" alt="Resident Evil Village" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Resident Evil Village</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="resident evil 2">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f2/bb/1bf2bb23-29e4-24c7-f953-4c3e88fd6bc4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg" alt="RESIDENT EVIL 2" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">RESIDENT EVIL 2</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="resident evil 3">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/3b/ffdf3b1a-1d74-da1b-ccb1-e66633bce150/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.jpg" alt="RESIDENT EVIL 3" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">RESIDENT EVIL 3</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="resident evil 7 biohazard">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/7e/ef/be7eef57-7e97-baeb-5861-8afb59c31588/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg" alt="RESIDENT EVIL 7 biohazard" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">RESIDENT EVIL 7 biohazard</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="monster hunter puzzles">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/a1/b0/26a1b0bd-f688-1750-9c6d-abdf3475c815/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg" alt="Monster Hunter Puzzles" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Monster Hunter Puzzles</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="mhst the adventure begins">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/56/be/8856be08-b3e6-4963-13f1-99882589976e/iOSAppIcon-1x_U007emarketing-0-9-85-220.png/100x100bb.jpg" alt="MHST The Adventure Begins" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">MHST The Adventure Begins</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="ghost trick">
+            <a href="https://apps.apple.com/us/app/id" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/75/91/c8759100-5350-95d6-4425-87ee498b1763/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg" alt="GHOST TRICK" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">GHOST TRICK</h3>
+                        <p class="app-dev"></p>
+                        <p class="app-cat"> </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="microsoft word">
+            <a href="https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/72/5f/4d725ff4-8a7c-c73e-5b0e-b941f903dc2e/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/100x100bb.png" alt="Microsoft Word" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Microsoft Word</h3>
+                        <p class="app-dev">Microsoft Corporation</p>
+                        <p class="app-cat">Productivity </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="microsoft outlook">
+            <a href="https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/0c/56/4e0c5695-23f2-d23e-6a61-6897a489844e/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/100x100bb.png" alt="Microsoft Outlook" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">Microsoft Outlook</h3>
+                        <p class="app-dev">Microsoft Corporation</p>
+                        <p class="app-cat">Productivity </p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        <div class="app-card" data-price="0.0" data-name="github">
+            <a href="https://apps.apple.com/us/app/github/id1477376905?uo=4" target="_blank" class="card-link">
+                <div class="card-header">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1d/41/e31d41da-88c8-1ac7-0ce9-4936a37fa733/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg" alt="GitHub" class="app-icon" loading="lazy">
+                    <div class="card-info">
+                        <h3 class="app-name">GitHub</h3>
+                        <p class="app-dev">GitHub</p>
+                        <p class="app-cat">Developer Tools <span class="rating" title="4.8">★★★★☆</span></p>
+                    </div>
+                    <span class="price-badge" style="background:#30d158">Free</span>
+                </div>
+            </a>
+            
+        </div>
+        </div>
+    </main>
+    <footer>
+        <p>由 GitHub Actions 自动更新 · 数据来源：Apple iTunes API + App Store 网页</p>
+        <p style="margin-top:4px">⚠️ 价格仅供参考，以 App Store 实际显示为准</p>
+    </footer>
+    <script>
+        let currentFilter = 'all';
 
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>图标</th>
-          <th>App 名称</th>
-          <th>本体价格</th>
-          <th>状态</th>
-          <th>内购项目</th>
-        </tr>
-      </thead>
-      <tbody>
-        
-        <tr>
-          <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/94/ab/c094ab41-a44a-4da8-737f-7aad8d97b8b6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg" alt="WhatsApp Messenger" class="app-icon"></td>
-          <td><a href="https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=4" target="_blank" rel="noopener">WhatsApp Messenger</a><br>
-              <small class="genre">Social Networking, Utilities</small></td>
-          <td class="price free">免费</td>
-          <td><span class="badge badge-success">正常</span></td>
-          <td><span class="no-iap">无内购</span></td>
-        </tr>
+        function filterApps() {
+            const q = document.getElementById('search').value.toLowerCase();
+            const cards = document.querySelectorAll('.app-card');
+            cards.forEach(card => {
+                const name = card.dataset.name || '';
+                const price = parseFloat(card.dataset.price || '0');
+                const hasIap = card.querySelector('.iap-section') !== null;
+                let show = name.includes(q);
+                if (show && currentFilter === 'paid') show = price > 0;
+                if (show && currentFilter === 'free') show = price === 0;
+                if (show && currentFilter === 'iap')  show = hasIap;
+                card.classList.toggle('hidden', !show);
+            });
+        }
 
-        <tr>
-          <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/68/4e/b7684ee2-68b5-0b77-b13d-38c858064514/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg" alt="YouTube" class="app-icon"></td>
-          <td><a href="https://apps.apple.com/us/app/youtube/id544007664?uo=4" target="_blank" rel="noopener">YouTube</a><br>
-              <small class="genre">Photo & Video, Entertainment</small></td>
-          <td class="price free">免费</td>
-          <td><span class="badge badge-success">正常</span></td>
-          <td><span class="no-iap">无内购</span></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <footer>
-    <p>由 GitHub Actions 自动运行 · 数据来源：iTunes API & App Store</p>
-    <p style="margin-top:4px">⚠️ 价格仅供参考，请以 App Store 实际页面为准</p>
-  </footer>
+        function setFilter(type, btn) {
+            currentFilter = type;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            filterApps();
+        }
+    </script>
 </body>
 </html>

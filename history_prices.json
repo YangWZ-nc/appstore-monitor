@@ -1,19 +1,18 @@
 {
   "310633997": {
+    "app_id": "310633997",
     "name": "WhatsApp Messenger",
     "price": 0.0,
     "currency": "USD",
-    "bundle_id": "net.whatsapp.WhatsApp",
-    "seller": "WhatsApp Inc.",
+    "formatted_price": "Free",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/94/ab/c094ab41-a44a-4da8-737f-7aad8d97b8b6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-    "app_url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=4",
-    "genres": [
-      "Social Networking",
-      "Utilities"
-    ],
+    "developer": "WhatsApp Inc.",
+    "bundle_id": "net.whatsapp.WhatsApp",
+    "store_url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=4",
+    "category": "Social Networking",
+    "rating": 4.7,
     "iap": [],
-    "fetch_ok": true,
-    "last_checked": "2026-03-25T07:45:22.545917+00:00"
+    "last_updated": "2026-03-26T01:27:28.864888+00:00"
   },
   "544007664": {
     "name": "YouTube",
@@ -29,6 +28,775 @@
     ],
     "iap": [],
     "fetch_ok": true,
-    "last_checked": "2026-03-25T07:45:44.865643+00:00"
+    "last_checked": "2026-03-25T08:31:02.844907+00:00"
+  },
+  "932747118": {
+    "name": "Shadowrocket",
+    "price": 2.99,
+    "currency": "USD",
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "seller": "Shadow Launch Technology Limited",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
+    "genres": [
+      "Utilities"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:25:43.354074+00:00"
+  },
+  "324684580": {
+    "name": "Spotify: Music and Podcasts",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "com.spotify.client",
+    "seller": "Spotify",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?uo=4",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:25:49.090531+00:00"
+  },
+  "1491530147": {
+    "name": "Slay the Spire",
+    "price": 6.99,
+    "currency": "USD",
+    "bundle_id": "com.humblebundle.slaythespire",
+    "seller": "Humble Bundle, Inc.",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/slay-the-spire/id1491530147?uo=4",
+    "genres": [
+      "Games",
+      "Card",
+      "Roleplaying"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:26:03.519712+00:00"
+  },
+  "625334537": {
+    "app_id": "625334537",
+    "name": "Geometry Dash",
+    "price": 2.99,
+    "currency": "USD",
+    "formatted_price": "$2.99",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+    "developer": "RobTop Games AB",
+    "bundle_id": "com.robtop.geometryjump",
+    "store_url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=4",
+    "category": "Games",
+    "rating": 4.5,
+    "iap": [],
+    "last_updated": "2026-03-26T01:32:34.310694+00:00"
+  },
+  "479516143": {
+    "app_id": "479516143",
+    "name": "Minecraft: Dream it, Build it!",
+    "price": 6.99,
+    "currency": "USD",
+    "formatted_price": "$6.99",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/dc/26/8ddc26b0-d312-63f9-33a3-7f65dcb45cf0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+    "developer": "Mojang",
+    "bundle_id": "com.mojang.minecraftpe",
+    "store_url": "https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143?uo=4",
+    "category": "Games",
+    "rating": 4.5,
+    "iap": [
+      {
+        "name": "Minecraft Store Item 2",
+        "price": 1.99
+      },
+      {
+        "name": "Realms Plus:10 Friends w/trial",
+        "price": 7.99
+      },
+      {
+        "name": "Minecraft Store Item 6",
+        "price": 5.99
+      },
+      {
+        "name": "Realms Monthly Subscription: You + 2 Friends",
+        "price": 3.99
+      },
+      {
+        "name": "Minecraft Store Item 5",
+        "price": 4.99
+      },
+      {
+        "name": "Minecraft Store Item 10",
+        "price": 9.99
+      },
+      {
+        "name": "Minecraft Store Item 4",
+        "price": 3.99
+      },
+      {
+        "name": "Minecraft Store Item 3",
+        "price": 2.99
+      },
+      {
+        "name": "Realms Plus: You + 10 Friends",
+        "price": 7.99
+      },
+      {
+        "name": "Minecraft Store Item 8",
+        "price": 7.99
+      }
+    ],
+    "last_updated": "2026-03-26T01:32:34.310694+00:00"
+  },
+  "1406710800": {
+    "name": "Stardew Valley",
+    "price": 4.99,
+    "currency": "USD",
+    "bundle_id": "com.chucklefish.stardewvalley",
+    "seller": "ConcernedApe LLC",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/df/12/0edf1230-3f6e-fbb3-7f72-f2aa844d100a/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=4",
+    "genres": [
+      "Games",
+      "Entertainment",
+      "Roleplaying",
+      "Simulation"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:26:56.709036+00:00"
+  },
+  "525818839": {
+    "name": "Plague Inc.",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "com.ndemiccreations.plagueinc",
+    "seller": "Ndemic Creations LTD",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/plague-inc/id525818839?uo=4",
+    "genres": [
+      "Games",
+      "Strategy",
+      "Simulation"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:27:12.763059+00:00"
+  },
+  "1118115766": {
+    "name": "Bloons TD 6",
+    "price": 4.99,
+    "currency": "USD",
+    "bundle_id": "com.ninjakiwi.bloonstd6",
+    "seller": "Ninja Kiwi Limited",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=4",
+    "genres": [
+      "Games",
+      "Strategy",
+      "Action",
+      "Entertainment"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:27:31.402725+00:00"
+  },
+  "6502453075": {
+    "name": "Balatro",
+    "price": 6.99,
+    "currency": "USD",
+    "bundle_id": "com.playstack.balatropremium",
+    "seller": "Playstack Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/balatro/id6502453075?uo=4",
+    "genres": [
+      "Games",
+      "Strategy",
+      "Card"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:27:49.805177+00:00"
+  },
+  "824305459": {
+    "name": "Papa's Freezeria To Go!",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "com.flipline.papasfreezeriatogo",
+    "seller": "Flipline IDS LLC",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/papas-freezeria-to-go/id824305459?uo=4",
+    "genres": [
+      "Games",
+      "Strategy",
+      "Simulation"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:28:07.139700+00:00"
+  },
+  "623592465": {
+    "name": "Heads Up!",
+    "price": 1.99,
+    "currency": "USD",
+    "bundle_id": "com.wb.Ellen.HeadsUp",
+    "seller": "Warner Bros. Entertainment",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/53/8d/d5538de7-426c-cd37-9921-f9319bec227d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/heads-up/id623592465?uo=4",
+    "genres": [
+      "Games",
+      "Entertainment",
+      "Word",
+      "Card"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:28:24.490127+00:00"
+  },
+  "1477966166": {
+    "name": "MONOPOLY: The Board Game",
+    "price": 4.99,
+    "currency": "USD",
+    "bundle_id": "com.marmalade.monopoly",
+    "seller": "Marmalade Game Studio Limited",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fd/69/51fd6954-406c-3056-3d4e-bd8ec8307542/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=4",
+    "genres": [
+      "Games",
+      "Board",
+      "Family",
+      "Entertainment"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:28:39.673144+00:00"
+  },
+  "1596736236": {
+    "name": "Red's First Flight",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "com.rovio.abclassic22",
+    "seller": "Rovio Entertainment Oyj",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b2/ca/16b2ca07-9218-4469-5e09-29addd3eff9e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/reds-first-flight/id1596736236?uo=4",
+    "genres": [
+      "Games",
+      "Puzzle",
+      "Entertainment",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:28:58.254785+00:00"
+  },
+  "1610947489": {
+    "name": "Poppy Playtime Chapter 1",
+    "price": 2.99,
+    "currency": "USD",
+    "bundle_id": "com.MOBGames.PoppyMobileChapterOne",
+    "seller": "Mob Entertainment, Inc",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/poppy-playtime-chapter-1/id1610947489?uo=4",
+    "genres": [
+      "Games",
+      "Puzzle",
+      "Adventure"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:29:18.174467+00:00"
+  },
+  "6746137187": {
+    "name": "Poppy Playtime Chapter 4",
+    "price": 4.99,
+    "currency": "USD",
+    "bundle_id": "com.MobEntertainment.PoppyPlaytimeChapter4",
+    "seller": "Mob Entertainment, Inc",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/96/da/1596da58-cb6b-d99b-cea4-91dceadc79fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/poppy-playtime-chapter-4/id6746137187?uo=4",
+    "genres": [
+      "Games",
+      "Puzzle",
+      "Adventure"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:29:32.971863+00:00"
+  },
+  "575154654": {
+    "name": "Pou",
+    "price": 1.99,
+    "currency": "USD",
+    "bundle_id": "me.pou.app",
+    "seller": "Zakeh Limited",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/eb/41/97eb41c4-1f26-e25e-8940-574fa699b2b9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/pou/id575154654?uo=4",
+    "genres": [
+      "Games",
+      "Family",
+      "Simulation"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:29:47.584197+00:00"
+  },
+  "6478975337": {
+    "name": "Vampire Survivors+",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "com.poncle.VampireSurvivors.AppleArcade",
+    "seller": "Poncle Limited",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a4/28/42a42873-a99c-ce7f-0319-a8b2f6105694/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/vampire-survivors/id6478975337?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:29:53.252555+00:00"
+  },
+  "6450374417": {
+    "name": "Dead Cells: Netflix Edition",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "com.netflix.NGP.DeadCellsReturnToCastlevania",
+    "seller": "Netflix, Inc.",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/5e/8d/075e8d4b-40b9-2479-9c1a-9303b941ee94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/dead-cells-netflix-edition/id6450374417?uo=4",
+    "genres": [
+      "Games",
+      "Action",
+      "Roleplaying"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:29:59.716101+00:00"
+  },
+  "916366645": {
+    "name": "Procreate Pocket",
+    "price": 5.99,
+    "currency": "USD",
+    "bundle_id": "au.com.savageinteractive.procreate-pocket",
+    "seller": "Savage Interactive Pty Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/8e/82/cf8e82ce-2d9d-6a38-d42c-2852e7fe606c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/procreate-pocket/id916366645?uo=4",
+    "genres": [
+      "Graphics & Design",
+      "Productivity"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:30:14.777431+00:00"
+  },
+  "362057947": {
+    "name": "KakaoTalk : Messenger",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "com.iwilab.KakaoTalk",
+    "seller": "Kakao Corp.",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/71/ac/fd71aca5-9057-30f3-35fd-3ce04990c7c3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/kakaotalk-messenger/id362057947?uo=4",
+    "genres": [
+      "Social Networking",
+      "Productivity"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:30:19.253904+00:00"
+  },
+  "1130395705": {
+    "name": "Sesa",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "",
+    "seller": "",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/87/26/a7/8726a7e0-e6e0-227d-c79d-8e95ad4015c2/879000147455.png/100x100bb.jpg",
+    "app_url": "https://music.apple.com/us/album/sesa/1130394949?i=1130395705&uo=4",
+    "genres": [],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:30:22.254811+00:00"
+  },
+  "373493387": {
+    "name": "AnkiMobile Flashcards",
+    "price": 24.99,
+    "currency": "USD",
+    "bundle_id": "net.ichi2.anki",
+    "seller": "Ankitects Pty Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/6b/da/306bdac5-3088-c97f-c682-e4626bfc6b43/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/ankimobile-flashcards/id373493387?uo=4",
+    "genres": [
+      "Education",
+      "Productivity"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:30:39.092590+00:00"
+  },
+  "908369743": {
+    "app_id": "908369743",
+    "name": "Las 2 puertas",
+    "price": 5.99,
+    "currency": "USD",
+    "formatted_price": "$5.99",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/03/26/f1/0326f166-e4bf-d41c-e5cc-3aa799e0d9df/0000001630085.jpg/100x100bb.jpg",
+    "developer": "Manuel López Casquete",
+    "bundle_id": "",
+    "store_url": "https://books.apple.com/us/book/las-2-puertas/id908369743?uo=4",
+    "category": "",
+    "rating": 0.0,
+    "iap": [],
+    "last_updated": "2026-03-26T01:27:28.864888+00:00"
+  },
+  "1127655994": {
+    "name": "Let's Go Retro",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "",
+    "seller": "",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/61/e0/cb61e0dd-18e1-d548-7cbc-36d8b68680a7/cover.jpg/100x100bb.jpg",
+    "app_url": "https://music.apple.com/us/album/lets-go-retro/1127655972?i=1127655994&uo=4",
+    "genres": [],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:07.986462+00:00"
+  },
+  "6462360082": {
+    "name": "Resident Evil 4",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.RE4US",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/c9/24c8c984-811f-2806-f307-1535d0fe84c8/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/resident-evil-4/id6462360082?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:16.702687+00:00"
+  },
+  "6450980545": {
+    "name": "Resident Evil Village",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.VillageUSios",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/93/cf/cd93cf3d-bfd2-04c2-b190-8e635cbde094/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/resident-evil-village/id6450980545?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:21.808532+00:00"
+  },
+  "1640632432": {
+    "name": "RESIDENT EVIL 2",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.RE2US",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f2/bb/1bf2bb23-29e4-24c7-f953-4c3e88fd6bc4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/resident-evil-2/id1640632432?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:26.169791+00:00"
+  },
+  "1640630077": {
+    "name": "RESIDENT EVIL 3",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.RE3US",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/df/3b/ffdf3b1a-1d74-da1b-ccb1-e66633bce150/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/resident-evil-3/id1640630077?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:45.784204+00:00"
+  },
+  "1640629241": {
+    "name": "RESIDENT EVIL 7 biohazard",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.RE7US",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/7e/ef/be7eef57-7e97-baeb-5861-8afb59c31588/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/resident-evil-7-biohazard/id1640629241?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:49.887263+00:00"
+  },
+  "1591864714": {
+    "name": "Monster Hunter Puzzles",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.mhpuzzle",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/a1/b0/26a1b0bd-f688-1750-9c6d-abdf3475c815/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/monster-hunter-puzzles/id1591864714?uo=4",
+    "genres": [
+      "Games",
+      "Casual",
+      "Puzzle"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:31:55.043117+00:00"
+  },
+  "1339054344": {
+    "name": "Monster Hunter Stories",
+    "price": 19.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.mhsspen",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/41/c8/f841c803-0596-e2c5-cafb-dc0d3962b88b/iOSAppIcon-1x_U007emarketing-0-9-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/monster-hunter-stories/id1339054344?uo=4",
+    "genres": [
+      "Games",
+      "Roleplaying",
+      "Entertainment",
+      "Adventure"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:32:11.789633+00:00"
+  },
+  "1339054474": {
+    "name": "MHST The Adventure Begins",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.mhssfen",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/56/be/8856be08-b3e6-4963-13f1-99882589976e/iOSAppIcon-1x_U007emarketing-0-9-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/mhst-the-adventure-begins/id1339054474?uo=4",
+    "genres": [
+      "Games",
+      "Adventure",
+      "Roleplaying",
+      "Entertainment"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:32:15.510900+00:00"
+  },
+  "6446021269": {
+    "name": "MEGA MAN X DiVE Offline",
+    "price": 29.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.rxdoff",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/a8/cb/d1a8cb78-8bdd-04dc-4f2b-6573d1e52d33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/mega-man-x-dive-offline/id6446021269?uo=4",
+    "genres": [
+      "Games",
+      "Action",
+      "Entertainment",
+      "Roleplaying"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:32:32.218958+00:00"
+  },
+  "469343097": {
+    "name": "MEGA MAN X",
+    "price": 4.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.rockmanxus",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/98/21/ab982133-ad57-4aaa-e29f-123afea18146/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/mega-man-x/id469343097?uo=4",
+    "genres": [
+      "Games",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:32:47.708643+00:00"
+  },
+  "1621065119": {
+    "name": "Ace Attorney Trilogy",
+    "price": 24.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.gyakusai123",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/ace-attorney-trilogy/id1621065119?uo=4",
+    "genres": [
+      "Games",
+      "Simulation",
+      "Entertainment",
+      "Adventure"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:33:03.982190+00:00"
+  },
+  "1227608370": {
+    "name": "Ace Attorney INVESTIGATIONS",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.kenji1en",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/7e/5d/f37e5d2b-170e-9eff-e455-d7e96c8d1bd3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/ace-attorney-investigations/id1227608370?uo=4",
+    "genres": [
+      "Games",
+      "Entertainment",
+      "Adventure"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:33:19.699094+00:00"
+  },
+  "1248661960": {
+    "name": "Ace Attorney Spirit of Justice",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.gyakusai6en",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/11/61/06/11610682-ee72-5108-2d79-8f3508b4d574/iOSAppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/ace-attorney-spirit-of-justice/id1248661960?uo=4",
+    "genres": [
+      "Games",
+      "Entertainment",
+      "Roleplaying",
+      "Adventure"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:33:33.547422+00:00"
+  },
+  "882362024": {
+    "name": "Ace Attorney: Dual Destinies",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.gyakusai5en",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/61/30/a4/6130a493-cdda-f5b2-7645-1b44f310710d/iOSAppIconEng-1x_U007emarketing-0-6-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/ace-attorney-dual-destinies/id882362024?uo=4",
+    "genres": [
+      "Games",
+      "Adventure",
+      "Simulation"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:34:28.829804+00:00"
+  },
+  "1136993233": {
+    "name": "Apollo Justice Ace Attorney",
+    "price": 0.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.gyakusai4en",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f2/73/f5f273bd-7158-fb53-d288-b148b9963fcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/apollo-justice-ace-attorney/id1136993233?uo=4",
+    "genres": [
+      "Games",
+      "Action",
+      "Adventure",
+      "Entertainment"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:34:48.233423+00:00"
+  },
+  "6473715300": {
+    "name": "GHOST TRICK",
+    "price": 0.0,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.ghosttrick",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/75/91/c8759100-5350-95d6-4425-87ee498b1763/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/ghost-trick/id6473715300?uo=4",
+    "genres": [
+      "Games",
+      "Books",
+      "Adventure",
+      "Puzzle"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:34:52.623762+00:00"
+  },
+  "1239299402": {
+    "name": "Street Fighter IV CE",
+    "price": 4.99,
+    "currency": "USD",
+    "bundle_id": "jp.co.capcom.sf4cewd",
+    "seller": "CAPCOM Co., Ltd",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/2c/01/562c01be-8319-1855-4b3c-b7e79d2fda67/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.jpg",
+    "app_url": "https://apps.apple.com/us/app/street-fighter-iv-ce/id1239299402?uo=4",
+    "genres": [
+      "Games",
+      "Casual",
+      "Entertainment",
+      "Action"
+    ],
+    "iap": [],
+    "fetch_ok": true,
+    "last_checked": "2026-03-25T08:35:07.785317+00:00"
+  },
+  "462054704": {
+    "app_id": "462054704",
+    "name": "Microsoft Word",
+    "price": 0.0,
+    "currency": "USD",
+    "formatted_price": "Free",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/72/5f/4d725ff4-8a7c-c73e-5b0e-b941f903dc2e/Word_macOS-0-0-85-220-0-0-0-6-0-2x.png/100x100bb.png",
+    "developer": "Microsoft Corporation",
+    "bundle_id": "com.microsoft.Word",
+    "store_url": "https://apps.apple.com/us/app/microsoft-word/id462054704?mt=12&uo=4",
+    "category": "Productivity",
+    "rating": 0.0,
+    "iap": [],
+    "last_updated": "2026-03-26T01:27:28.864888+00:00"
+  },
+  "985367838": {
+    "app_id": "985367838",
+    "name": "Microsoft Outlook",
+    "price": 0.0,
+    "currency": "USD",
+    "formatted_price": "Free",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/0c/56/4e0c5695-23f2-d23e-6a61-6897a489844e/Outlook_macOS-0-0-85-220-0-0-0-6-0-2x.png/100x100bb.png",
+    "developer": "Microsoft Corporation",
+    "bundle_id": "com.microsoft.Outlook",
+    "store_url": "https://apps.apple.com/us/app/microsoft-outlook/id985367838?mt=12&uo=4",
+    "category": "Productivity",
+    "rating": 0.0,
+    "iap": [],
+    "last_updated": "2026-03-26T01:27:28.864888+00:00"
+  },
+  "1477376905": {
+    "app_id": "1477376905",
+    "name": "GitHub",
+    "price": 0.0,
+    "currency": "USD",
+    "formatted_price": "Free",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1d/41/e31d41da-88c8-1ac7-0ce9-4936a37fa733/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
+    "developer": "GitHub",
+    "bundle_id": "com.github.stormbreaker.prod",
+    "store_url": "https://apps.apple.com/us/app/github/id1477376905?uo=4",
+    "category": "Developer Tools",
+    "rating": 4.8,
+    "iap": [],
+    "last_updated": "2026-03-26T01:27:28.864888+00:00"
   }
 }

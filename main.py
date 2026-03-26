@@ -1,677 +1,831 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-App Store 美区价格监控系统
-支持：本体价格 + 内购价格监控
-推送：Bark (iOS) / Telegram Bot
+App Store 价格监控系统 v2.0
+- 本体价格：通过 iTunes Lookup API 获取
+- 内购价格：通过 App Store 网页（Chrome UA + allow_redirects）解析 Svelte 渲染的内购列表
+- 推送：Bark（iOS）/ Telegram Bot
+- 输出：history_prices.json + index.html（GitHub Pages）
 """
 
 import json
-import os
-import sys
-import time
-import random
 import logging
+import os
+import random
 import re
-import traceback
+import time
 from datetime import datetime, timezone
-from typing import Optional
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
 # ─────────────────────────────────────────────
-# 日志配置
+# 配置
+# ─────────────────────────────────────────────
+WATCHLIST_FILE    = "watchlist.json"
+HISTORY_FILE      = "history_prices.json"
+PROGRESS_FILE     = "monitor_progress.json"   # 记录分批进度
+HTML_OUTPUT_FILE  = "index.html"
+LOG_FILE          = "monitor.log"
+
+ITUNES_LOOKUP_URL = "https://itunes.apple.com/lookup"
+APP_PAGE_URL      = "https://apps.apple.com/{country}/app/id{app_id}"
+
+# 重试 & 速率控制
+MAX_RETRIES       = 3
+RETRY_DELAY       = 5
+REQUEST_DELAY     = (1.5, 3.5)   # 每次请求之间的随机延迟（秒）
+
+# 分批运行配置
+# GitHub Actions 单次运行限制 6 小时，但为了留出余量，设置为 200 个/次
+# 完整跑一轮 900+ 个 App 需要约 5 次运行（~5 天跑完一圈）
+BATCH_SIZE        = int(os.environ.get("MONITOR_BATCH_SIZE", "200"))
+
+# 推送渠道（从 GitHub Secrets / 环境变量读取）
+BARK_KEY          = os.environ.get("BARK_KEY", "")
+TELEGRAM_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID  = os.environ.get("TELEGRAM_CHAT_ID", "")
+
+# ─────────────────────────────────────────────
+# 日志
 # ─────────────────────────────────────────────
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S",
-    handlers=[logging.StreamHandler(sys.stdout)],
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+    ],
 )
 logger = logging.getLogger(__name__)
 
 # ─────────────────────────────────────────────
-# 常量 & 路径
+# HTTP 工具
 # ─────────────────────────────────────────────
-WATCHLIST_FILE   = "watchlist.json"
-HISTORY_FILE     = "history_prices.json"
-INDEX_HTML_FILE  = "index.html"
-
-ITUNES_API_URL   = "https://itunes.apple.com/lookup"
-APP_PAGE_URL     = "https://apps.apple.com/{country}/app/id{app_id}"
-
-# 随机 User-Agent 池（当 fake-useragent 不可用时的备用列表）
-FALLBACK_UA_LIST = [
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+DESKTOP_UAS = [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
 ]
 
-# 重试参数
-MAX_RETRIES    = 3
-RETRY_DELAY    = 3   # 秒
-REQUEST_DELAY  = (1, 3)  # 随机延迟范围（秒）——数量多时缩短
-
-# ─────────────────────────────────────────────
-# 推送配置（从环境变量读取）
-# ─────────────────────────────────────────────
-BARK_KEY         = os.environ.get("BARK_KEY", "")          # Bark 设备 Key
-BARK_SERVER      = os.environ.get("BARK_SERVER", "https://api.day.app")
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
-
-
-# ═══════════════════════════════════════════════════════════
-# 工具函数
-# ═══════════════════════════════════════════════════════════
-
-def get_random_ua() -> str:
-    """获取随机 User-Agent"""
-    try:
-        from fake_useragent import UserAgent
-        ua = UserAgent()
-        return ua.random
-    except Exception:
-        return random.choice(FALLBACK_UA_LIST)
-
-
-def make_headers() -> dict:
-    """生成防反爬请求头"""
+def make_browser_headers():
+    """生成模拟桌面浏览器的请求头（必须用这个才能绕过 App Store 的重定向检测）"""
     return {
-        "User-Agent": get_random_ua(),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "User-Agent": random.choice(DESKTOP_UAS),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive",
-        "Cache-Control": "no-cache",
+        "Accept-Encoding": "gzip, deflate",
+        "Cache-Control": "max-age=0",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
     }
 
+def make_api_headers():
+    """iTunes API 请求头"""
+    return {
+        "User-Agent": "iTunes/12.13.0 (Macintosh; OS X 14.5)",
+        "Accept": "application/json",
+    }
 
-def request_with_retry(
-    url: str,
-    params: dict = None,
-    headers: dict = None,
-    timeout: int = 20,
-) -> Optional[requests.Response]:
-    """带重试机制的 HTTP GET 请求"""
+def request_with_retry(url, params=None, headers=None, allow_redirects=True, timeout=15):
+    """带重试机制的 HTTP GET"""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.get(
                 url,
                 params=params,
-                headers=headers or make_headers(),
+                headers=headers or make_api_headers(),
                 timeout=timeout,
+                allow_redirects=allow_redirects,
             )
-            resp.raise_for_status()
-            return resp
+            if resp.status_code == 200:
+                return resp
+            elif resp.status_code in (301, 302) and not allow_redirects:
+                return resp
+            elif resp.status_code == 404:
+                logger.debug(f"404 Not Found: {url}")
+                return None
+            else:
+                logger.warning(f"  HTTP {resp.status_code} on attempt {attempt}: {url[:80]}")
         except requests.RequestException as e:
-            logger.warning(f"请求失败（第 {attempt}/{MAX_RETRIES} 次）: {url} → {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY * attempt)
+            logger.warning(f"  Request error attempt {attempt}: {e}")
+        if attempt < MAX_RETRIES:
+            time.sleep(RETRY_DELAY * attempt)
     return None
 
 
-def sleep_random():
-    """随机延迟，降低被封禁风险"""
-    delay = random.uniform(*REQUEST_DELAY)
-    logger.debug(f"等待 {delay:.1f}s …")
-    time.sleep(delay)
-
-
-def load_json_file(path: str) -> dict:
-    """加载 JSON 文件，文件不存在时返回空字典"""
-    if not os.path.exists(path):
-        logger.info(f"{path} 不存在，将创建新文件。")
-        return {}
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, IOError) as e:
-        logger.error(f"读取 {path} 失败: {e}")
-        return {}
-
-
-def save_json_file(path: str, data: dict):
-    """保存 JSON 文件"""
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    logger.info(f"已保存: {path}")
-
-
-# ═══════════════════════════════════════════════════════════
+# ─────────────────────────────────────────────
 # 数据获取
-# ═══════════════════════════════════════════════════════════
+# ─────────────────────────────────────────────
 
-def fetch_app_info_from_api(app_id: str, country: str = "us") -> Optional[dict]:
-    """
-    通过 iTunes Lookup API 获取 App 基本信息及本体价格。
-    返回示例：
-      {
-        "name": "Shadowrocket",
-        "price": 2.99,
-        "currency": "USD",
-        "bundle_id": "...",
-        "seller": "...",
-        "icon_url": "...",
-        "app_url": "..."
-      }
-    """
+def fetch_app_info(app_id: str, country: str = "us") -> dict | None:
+    """通过 iTunes Lookup API 获取 App 本体信息（名称、价格、图标等）"""
     resp = request_with_retry(
-        ITUNES_API_URL,
-        params={"id": app_id, "country": country, "entity": "software"},
+        ITUNES_LOOKUP_URL,
+        params={"id": app_id, "country": country, "lang": "en-us"},
     )
     if not resp:
         return None
     try:
-        data = resp.json()
-        results = data.get("results", [])
+        results = resp.json().get("results", [])
         if not results:
-            logger.warning(f"iTunes API 未找到 App ID={app_id}")
             return None
         r = results[0]
         return {
-            "name":      r.get("trackName", f"App {app_id}"),
-            "price":     float(r.get("price", 0.0)),
-            "currency":  r.get("currency", "USD"),
-            "bundle_id": r.get("bundleId", ""),
-            "seller":    r.get("sellerName", ""),
-            "icon_url":  r.get("artworkUrl100", ""),
-            "app_url":   r.get("trackViewUrl", ""),
-            "genres":    r.get("genres", []),
+            "app_id":       app_id,
+            "name":         r.get("trackName", "Unknown"),
+            "price":        float(r.get("price", 0.0)),
+            "currency":     r.get("currency", "USD"),
+            "formatted_price": r.get("formattedPrice", "Free"),
+            "icon_url":     r.get("artworkUrl100", ""),
+            "developer":    r.get("artistName", ""),
+            "bundle_id":    r.get("bundleId", ""),
+            "store_url":    r.get("trackViewUrl", f"https://apps.apple.com/us/app/id{app_id}"),
+            "category":     r.get("primaryGenreName", ""),
+            "rating":       round(float(r.get("averageUserRating", 0)), 1),
         }
-    except (KeyError, ValueError, json.JSONDecodeError) as e:
-        logger.error(f"解析 iTunes API 响应失败 App ID={app_id}: {e}")
+    except Exception as e:
+        logger.warning(f"  解析 App 信息失败 [{app_id}]: {e}")
         return None
 
 
-def fetch_iap_from_api(app_id: str, country: str = "us") -> list[dict]:
+def fetch_iap_from_webpage(app_id: str, country: str = "us") -> list[dict]:
     """
-    通过 iTunes API 获取内购信息（比爬网页更可靠）。
-    使用 lookup endpoint 搜索该 App 的 inAppPurchase 类型产品。
+    通过 App Store 网页获取内购列表。
+    
+    关键技术：
+    - 必须使用桌面端 Chrome UA（iPhone UA 会被 301→itms-appss:// 拒绝）
+    - allow_redirects=True 跟随 301 到带 slug 的 URL
+    - App Store 使用 Svelte 渲染，内购在 <details class="svelte-*"> 的 <li> 里
     """
-    try:
-        resp = request_with_retry(
-            ITUNES_API_URL,
-            params={"id": app_id, "country": country, "entity": "software,iap"},
-        )
-        if not resp:
-            return []
+    url = APP_PAGE_URL.format(country=country, app_id=app_id)
+    resp = request_with_retry(url, headers=make_browser_headers(), allow_redirects=True)
+    if not resp:
+        return []
 
-        data = resp.json()
-        results = data.get("results", [])
+    # 检查是否被重定向到 App Store 客户端协议
+    if "itms-appss://" in resp.url or "itms-apps://" in resp.url:
+        logger.debug(f"  内购页面被重定向到App客户端，跳过")
+        return []
+
+    try:
+        html = resp.content.decode("utf-8", errors="ignore")
+        soup = BeautifulSoup(html, "lxml")
         iap_list = []
 
-        # API 返回的第一个 result 是 App 本体，后面的是内购项目
-        for item in results:
-            if item.get("kind") == "software" or item.get("wrapperType") == "software":
-                continue  # 跳过 App 本体
-            name  = item.get("trackName", "")
-            price = item.get("price")
-            if name and price is not None:
-                try:
-                    iap_list.append({"name": name, "price": float(price)})
-                except (ValueError, TypeError):
-                    pass
+        # ── 方式1：找包含 "In-App Purchases" 的 dt，然后找相邻 details 里的 li ──
+        for dt in soup.find_all("dt"):
+            if "purchase" in dt.text.lower():
+                parent = dt.parent
+                details = parent.find("details") if parent else None
+                if details:
+                    for li in details.find_all("li"):
+                        text = li.get_text(" ", strip=True)
+                        # 跳过 "Learn More" 等非价格项
+                        if not re.search(r'\$\d', text):
+                            continue
+                        price_m = re.search(r'\$([\d]+\.?\d*)', text)
+                        if price_m:
+                            price = float(price_m.group(1))
+                            name = re.sub(r'\s*\$[\d.]+.*$', '', text).strip()
+                            if name and price > 0:
+                                iap_list.append({"name": name, "price": price})
+                if iap_list:
+                    logger.info(f"  [网页] 找到 {len(iap_list)} 个内购项目")
+                    return iap_list
+                break
 
-        if iap_list:
-            logger.info(f"  [API] 找到 {len(iap_list)} 个内购项目")
-        return iap_list
+        # ── 方式2：JSON-LD 兜底（部分App可能用此格式）──
+        for script in soup.find_all("script", type="application/ld+json"):
+            try:
+                obj = json.loads(script.string or "")
+                offers = obj.get("offers", [])
+                if isinstance(offers, list):
+                    for offer in offers:
+                        name  = offer.get("name", "")
+                        price_str = str(offer.get("price", ""))
+                        if name and price_str:
+                            try:
+                                price = float(price_str)
+                                if price > 0:
+                                    iap_list.append({"name": name, "price": price})
+                            except ValueError:
+                                pass
+                if iap_list:
+                    logger.info(f"  [JSON-LD] 找到 {len(iap_list)} 个内购项目")
+                    return iap_list
+            except Exception:
+                pass
+
+        return []
 
     except Exception as e:
-        logger.debug(f"  内购API查询失败: {e}")
+        logger.warning(f"  解析内购页面失败 [{app_id}]: {e}")
         return []
 
 
-# ═══════════════════════════════════════════════════════════
-# 比对逻辑
-# ═══════════════════════════════════════════════════════════
+# ─────────────────────────────────────────────
+# 价格比对
+# ─────────────────────────────────────────────
 
-def compare_prices(app_id: str, current: dict, history: dict) -> list[dict]:
+def compare_prices(current: dict, previous: dict) -> list[dict]:
     """
-    比对当前价格与历史价格，返回降价事件列表。
-    每个事件格式：
-      {
-        "app_id": ...,
-        "app_name": ...,
+    比对当前和历史价格，返回降价列表。
+    每个降价项格式：
+    {
         "type": "app" | "iap",
-        "item_name": ...,
-        "old_price": ...,
-        "new_price": ...,
-        "currency": "USD"
-      }
+        "name": str,
+        "old_price": float,
+        "new_price": float,
+        "drop": float,
+    }
     """
-    alerts = []
-    app_name = current.get("name", f"App {app_id}")
-    currency = current.get("currency", "USD")
+    drops = []
 
-    # ── 本体价格比对 ──
-    old_price = history.get("price")
-    new_price = current.get("price")
+    # 本体价格
+    old_price = previous.get("price", None)
+    new_price = current.get("price", None)
     if old_price is not None and new_price is not None:
-        if new_price < old_price:
-            alerts.append({
-                "app_id":    app_id,
-                "app_name":  app_name,
+        if new_price < old_price and old_price > 0:
+            drops.append({
                 "type":      "app",
-                "item_name": "App 本体",
+                "name":      current.get("name", "Unknown"),
                 "old_price": old_price,
                 "new_price": new_price,
-                "currency":  currency,
+                "drop":      round(old_price - new_price, 2),
             })
-            logger.info(f"  ✅ 本体降价: ${old_price} → ${new_price}")
-        elif new_price == 0.0 and old_price > 0:
-            alerts.append({
-                "app_id":    app_id,
-                "app_name":  app_name,
-                "type":      "app",
-                "item_name": "App 本体（限免）",
-                "old_price": old_price,
-                "new_price": 0.0,
-                "currency":  currency,
-            })
-            logger.info(f"  🎉 限时免费！")
 
-    # ── 内购价格比对 ──
-    old_iap: dict = {item["name"]: item["price"] for item in history.get("iap", [])}
-    new_iap: dict = {item["name"]: item["price"] for item in current.get("iap", [])}
+    # 内购价格
+    old_iap_map = {item["name"]: item["price"] for item in previous.get("iap", [])}
+    for item in current.get("iap", []):
+        iap_name  = item["name"]
+        iap_price = item["price"]
+        if iap_name in old_iap_map:
+            old_iap_price = old_iap_map[iap_name]
+            if iap_price < old_iap_price and old_iap_price > 0:
+                drops.append({
+                    "type":      "iap",
+                    "name":      iap_name,
+                    "old_price": old_iap_price,
+                    "new_price": iap_price,
+                    "drop":      round(old_iap_price - iap_price, 2),
+                })
 
-    for name, new_p in new_iap.items():
-        old_p = old_iap.get(name)
-        if old_p is not None and new_p < old_p:
-            alerts.append({
-                "app_id":    app_id,
-                "app_name":  app_name,
-                "type":      "iap",
-                "item_name": name,
-                "old_price": old_p,
-                "new_price": new_p,
-                "currency":  currency,
-            })
-            logger.info(f"  ✅ 内购降价: [{name}] ${old_p} → ${new_p}")
-
-    return alerts
+    return drops
 
 
-# ═══════════════════════════════════════════════════════════
-# 消息推送
-# ═══════════════════════════════════════════════════════════
+# ─────────────────────────────────────────────
+# 推送通知
+# ─────────────────────────────────────────────
 
-def format_alert_message(alert: dict) -> tuple[str, str]:
-    """格式化推送消息，返回 (title, body)"""
-    name   = alert["app_name"]
-    item   = alert["item_name"]
-    old_p  = alert["old_price"]
-    new_p  = alert["new_price"]
-    cur    = alert["currency"]
-
-    if new_p == 0.0:
-        title = f"🎉 限免！{name}"
-        body  = f"{item} 现在免费！\n原价：{cur} ${old_p:.2f}\n快去下载 👉 https://apps.apple.com/us/app/id{alert['app_id']}"
-    else:
-        pct   = int((1 - new_p / old_p) * 100) if old_p > 0 else 0
-        title = f"💸 降价 {pct}%！{name}"
-        body  = (
-            f"{'App 本体' if alert['type'] == 'app' else '内购'}: {item}\n"
-            f"原价：{cur} ${old_p:.2f}  →  现价：${new_p:.2f}（↓{pct}%）\n"
-            f"🔗 https://apps.apple.com/us/app/id{alert['app_id']}"
-        )
-    return title, body
-
-
-def send_bark(title: str, body: str):
-    """发送 Bark 推送（iOS）"""
+def push_bark(title: str, body: str, url: str = ""):
+    """通过 Bark 推送到 iPhone"""
     if not BARK_KEY:
-        logger.debug("BARK_KEY 未配置，跳过 Bark 推送。")
         return
     try:
-        url = f"{BARK_SERVER}/{BARK_KEY}"
-        payload = {
-            "title":  title,
-            "body":   body,
-            "sound":  "minuet",
-            "icon":   "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/a5/3e/65a53e8b-dbb1-4a32-8c1d-6b0c56a00b10/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-            "group":  "AppStore监控",
-        }
-        resp = requests.post(url, json=payload, timeout=15)
-        if resp.status_code == 200:
-            logger.info(f"  [Bark] 推送成功: {title}")
-        else:
-            logger.warning(f"  [Bark] 推送失败: HTTP {resp.status_code} {resp.text[:100]}")
+        api = f"https://api.day.app/{BARK_KEY}"
+        payload = {"title": title, "body": body}
+        if url:
+            payload["url"] = url
+        requests.post(api, json=payload, timeout=10)
+        logger.info(f"  [Bark] 推送成功: {title}")
     except Exception as e:
-        logger.error(f"  [Bark] 推送异常: {e}")
+        logger.warning(f"  [Bark] 推送失败: {e}")
 
 
-def send_telegram(title: str, body: str):
-    """发送 Telegram Bot 推送"""
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        logger.debug("Telegram 配置不完整，跳过推送。")
+def push_telegram(title: str, body: str):
+    """通过 Telegram Bot 推送"""
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         return
     try:
-        text = f"*{title}*\n\n{body}"
-        url  = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-        payload = {
-            "chat_id":    TELEGRAM_CHAT_ID,
-            "text":       text,
-            "parse_mode": "Markdown",
-        }
-        resp = requests.post(url, json=payload, timeout=15)
-        data = resp.json()
-        if data.get("ok"):
-            logger.info(f"  [Telegram] 推送成功: {title}")
-        else:
-            logger.warning(f"  [Telegram] 推送失败: {data.get('description', '')}")
-    except Exception as e:
-        logger.error(f"  [Telegram] 推送异常: {e}")
-
-
-def send_notifications(alerts: list[dict]):
-    """发送所有降价通知"""
-    for alert in alerts:
-        title, body = format_alert_message(alert)
-        logger.info(f"发送通知: {title}")
-        send_bark(title, body)
-        send_telegram(title, body)
-        time.sleep(1)  # 避免推送频率过高
-
-
-# ═══════════════════════════════════════════════════════════
-# 静态页面生成
-# ═══════════════════════════════════════════════════════════
-
-def generate_html(apps_data: dict, last_updated: str):
-    """生成监控状态的 HTML 静态页面"""
-
-    # 构建 App 行
-    rows = []
-    for app_id, info in apps_data.items():
-        name      = info.get("name", app_id)
-        price     = info.get("price", "N/A")
-        currency  = info.get("currency", "USD")
-        icon_url  = info.get("icon_url", "")
-        app_url   = info.get("app_url", f"https://apps.apple.com/us/app/id{app_id}")
-        iap_list  = info.get("iap", [])
-        genres    = ", ".join(info.get("genres", [])[:2])
-        fetch_ok  = info.get("fetch_ok", True)
-
-        price_str = "免费" if price == 0.0 else (f"${price:.2f}" if isinstance(price, float) else str(price))
-        status_badge = (
-            '<span class="badge badge-error">获取失败</span>'
-            if not fetch_ok
-            else '<span class="badge badge-success">正常</span>'
+        text = f"*{title}*\n{body}"
+        requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
+            json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "Markdown"},
+            timeout=10,
         )
+        logger.info(f"  [Telegram] 推送成功: {title}")
+    except Exception as e:
+        logger.warning(f"  [Telegram] 推送失败: {e}")
+
+
+def send_notification(app_name: str, drops: list[dict], store_url: str):
+    """为一个 App 的所有降价项发送通知"""
+    if not drops:
+        return
+
+    lines = [f"🎉 {app_name} 降价了！"]
+    for d in drops:
+        if d["type"] == "app":
+            lines.append(f"📦 本体: ${d['old_price']:.2f} → ${d['new_price']:.2f} (省 ${d['drop']:.2f})")
+        else:
+            lines.append(f"🎁 内购「{d['name']}」: ${d['old_price']:.2f} → ${d['new_price']:.2f}")
+
+    title = f"💰 {app_name} 降价提醒"
+    body  = "\n".join(lines[1:])
+
+    push_bark(title, body, store_url)
+    push_telegram(title, "\n".join(lines))
+
+
+# ─────────────────────────────────────────────
+# HTML 生成
+# ─────────────────────────────────────────────
+
+def generate_html(all_data: dict):
+    """生成美观的 index.html 展示所有监控 App 的价格"""
+
+    # 对 App 排序：有内购的排前面，然后按价格降序
+    apps = list(all_data.values())
+    apps.sort(key=lambda x: (-len(x.get("iap", [])), -x.get("price", 0)))
+
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    total = len(apps)
+    paid_count = sum(1 for a in apps if a.get("price", 0) > 0)
+    iap_count  = sum(1 for a in apps if a.get("iap"))
+
+    cards_html = ""
+    for app in apps:
+        app_id    = app.get("app_id", "")
+        name      = app.get("name", "Unknown")
+        price     = app.get("price", 0)
+        fmt_price = app.get("formatted_price", "Free")
+        icon      = app.get("icon_url", "")
+        dev       = app.get("developer", "")
+        cat       = app.get("category", "")
+        rating    = app.get("rating", 0)
+        url       = app.get("store_url", f"https://apps.apple.com/us/app/id{app_id}")
+        iap_list  = app.get("iap", [])
+
+        price_color = "#30d158" if price == 0 else "#ff9f0a" if price < 5 else "#ff6b6b"
+        price_badge = f'<span class="price-badge" style="background:{price_color}">{fmt_price}</span>'
+
+        stars = "★" * int(rating) + "☆" * (5 - int(rating)) if rating else ""
+        rating_html = f'<span class="rating" title="{rating}">{stars}</span>' if stars else ""
 
         iap_html = ""
         if iap_list:
-            iap_rows = "".join(
-                f'<tr><td>{item["name"]}</td><td>${item["price"]:.2f}</td></tr>'
-                for item in iap_list[:8]
+            iap_items = "".join(
+                f'<li><span class="iap-name">{item["name"]}</span>'
+                f'<span class="iap-price">${item["price"]:.2f}</span></li>'
+                for item in iap_list[:10]
             )
-            iap_html = f"""
-            <details>
-              <summary>内购项目（{len(iap_list)}）</summary>
-              <table class="iap-table">
-                <thead><tr><th>名称</th><th>价格</th></tr></thead>
-                <tbody>{iap_rows}</tbody>
-              </table>
-            </details>"""
+            iap_html = f'''
+            <details class="iap-section">
+                <summary>🎁 内购 {len(iap_list)} 项</summary>
+                <ul class="iap-list">{iap_items}</ul>
+            </details>'''
 
-        icon_html = (
-            f'<img src="{icon_url}" alt="{name}" class="app-icon">'
-            if icon_url
-            else '<div class="app-icon-placeholder">APP</div>'
-        )
+        icon_html = f'<img src="{icon}" alt="{name}" class="app-icon" loading="lazy">' if icon else '<div class="app-icon-placeholder">📱</div>'
 
-        rows.append(f"""
-        <tr>
-          <td>{icon_html}</td>
-          <td><a href="{app_url}" target="_blank" rel="noopener">{name}</a><br>
-              <small class="genre">{genres}</small></td>
-          <td class="price {'free' if price == 0.0 else ''}">{price_str}</td>
-          <td>{status_badge}</td>
-          <td>{iap_html if iap_html else '<span class="no-iap">无内购</span>'}</td>
-        </tr>""")
-
-    rows_html = "\n".join(rows)
-    total = len(apps_data)
+        cards_html += f'''
+        <div class="app-card" data-price="{price}" data-name="{name.lower()}">
+            <a href="{url}" target="_blank" class="card-link">
+                <div class="card-header">
+                    {icon_html}
+                    <div class="card-info">
+                        <h3 class="app-name">{name}</h3>
+                        <p class="app-dev">{dev}</p>
+                        <p class="app-cat">{cat} {rating_html}</p>
+                    </div>
+                    {price_badge}
+                </div>
+            </a>
+            {iap_html}
+        </div>'''
 
     html = f"""<!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>App Store 价格监控</title>
-  <style>
-    :root {{
-      --bg: #0d1117;
-      --card: #161b22;
-      --border: #30363d;
-      --text: #e6edf3;
-      --muted: #8b949e;
-      --accent: #58a6ff;
-      --green: #3fb950;
-      --red: #f85149;
-      --gold: #f0c40a;
-    }}
-    * {{ box-sizing: border-box; margin: 0; padding: 0; }}
-    body {{
-      background: var(--bg); color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      min-height: 100vh; padding: 24px 16px;
-    }}
-    header {{
-      text-align: center; margin-bottom: 32px;
-    }}
-    header h1 {{
-      font-size: 1.8rem; color: var(--accent);
-      display: flex; align-items: center; justify-content: center; gap: 10px;
-    }}
-    .meta {{ color: var(--muted); font-size: 0.85rem; margin-top: 8px; }}
-    .stats {{
-      display: flex; justify-content: center; gap: 24px; margin-bottom: 28px;
-      flex-wrap: wrap;
-    }}
-    .stat-card {{
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 10px; padding: 14px 28px; text-align: center;
-    }}
-    .stat-card .num {{ font-size: 2rem; font-weight: 700; color: var(--accent); }}
-    .stat-card .label {{ font-size: 0.8rem; color: var(--muted); }}
-    .table-wrap {{
-      overflow-x: auto;
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 12px;
-    }}
-    table {{
-      width: 100%; border-collapse: collapse;
-    }}
-    thead tr {{ background: #1c2128; }}
-    th, td {{
-      padding: 12px 16px; text-align: left;
-      border-bottom: 1px solid var(--border);
-      vertical-align: middle;
-    }}
-    th {{ color: var(--muted); font-size: 0.82rem; text-transform: uppercase; font-weight: 600; }}
-    tbody tr:hover {{ background: #1c2128; }}
-    tbody tr:last-child td {{ border-bottom: none; }}
-    .app-icon {{ width: 52px; height: 52px; border-radius: 12px; object-fit: cover; }}
-    .app-icon-placeholder {{
-      width: 52px; height: 52px; border-radius: 12px;
-      background: var(--border); display: flex; align-items: center;
-      justify-content: center; font-size: 0.7rem; color: var(--muted);
-    }}
-    a {{ color: var(--accent); text-decoration: none; }}
-    a:hover {{ text-decoration: underline; }}
-    .genre {{ color: var(--muted); font-size: 0.78rem; }}
-    .price {{ font-weight: 700; font-size: 1.05rem; }}
-    .price.free {{ color: var(--green); }}
-    .badge {{
-      display: inline-block; padding: 2px 8px; border-radius: 20px;
-      font-size: 0.75rem; font-weight: 600;
-    }}
-    .badge-success {{ background: rgba(63,185,80,.2); color: var(--green); }}
-    .badge-error   {{ background: rgba(248,81,73,.2); color: var(--red); }}
-    details summary {{
-      cursor: pointer; color: var(--accent); font-size: 0.85rem;
-      padding: 4px 0; user-select: none;
-    }}
-    .iap-table {{ width: 100%; margin-top: 8px; font-size: 0.82rem; }}
-    .iap-table th, .iap-table td {{
-      padding: 4px 8px; border-bottom: 1px solid var(--border);
-    }}
-    .iap-table th {{ font-size: 0.75rem; }}
-    .no-iap {{ color: var(--muted); font-size: 0.82rem; }}
-    footer {{ text-align: center; color: var(--muted); font-size: 0.78rem; margin-top: 32px; }}
-    @media(max-width: 600px) {{
-      th:nth-child(4), td:nth-child(4) {{ display: none; }}
-    }}
-  </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🎯 App Store 价格监控</title>
+    <style>
+        :root {{
+            --bg: #0a0a0f;
+            --surface: #14141e;
+            --surface2: #1e1e2e;
+            --border: #2a2a3d;
+            --text: #e2e2ee;
+            --muted: #7f7f99;
+            --accent: #5c6bc0;
+            --green: #30d158;
+            --orange: #ff9f0a;
+            --red: #ff453a;
+        }}
+        * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+        body {{
+            background: var(--bg);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif;
+            min-height: 100vh;
+        }}
+        header {{
+            background: linear-gradient(135deg, var(--surface) 0%, #1a1a2e 100%);
+            border-bottom: 1px solid var(--border);
+            padding: 24px 32px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+        }}
+        .header-top {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }}
+        h1 {{ font-size: 1.5rem; font-weight: 700; letter-spacing: -0.5px; }}
+        h1 span {{ color: var(--accent); }}
+        .stats {{
+            display: flex;
+            gap: 16px;
+            font-size: 0.85rem;
+            color: var(--muted);
+        }}
+        .stats b {{ color: var(--text); }}
+        .search-bar {{
+            margin-top: 16px;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }}
+        .search-bar input {{
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            font-size: 0.9rem;
+            padding: 8px 16px;
+            outline: none;
+            width: 240px;
+        }}
+        .search-bar input:focus {{ border-color: var(--accent); }}
+        .filter-btn {{
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            cursor: pointer;
+            font-size: 0.85rem;
+            padding: 8px 14px;
+            transition: all 0.2s;
+        }}
+        .filter-btn:hover, .filter-btn.active {{
+            background: var(--accent);
+            border-color: var(--accent);
+        }}
+        main {{
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 24px 16px;
+        }}
+        .grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 16px;
+        }}
+        .app-card {{
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.2s, border-color 0.2s;
+        }}
+        .app-card:hover {{
+            transform: translateY(-2px);
+            border-color: var(--accent);
+        }}
+        .card-link {{
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            padding: 16px;
+        }}
+        .card-header {{
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }}
+        .app-icon {{
+            width: 60px;
+            height: 60px;
+            border-radius: 14px;
+            flex-shrink: 0;
+            object-fit: cover;
+        }}
+        .app-icon-placeholder {{
+            width: 60px;
+            height: 60px;
+            border-radius: 14px;
+            background: var(--surface2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+        }}
+        .card-info {{ flex: 1; min-width: 0; }}
+        .app-name {{
+            font-size: 0.95rem;
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }}
+        .app-dev, .app-cat {{
+            font-size: 0.78rem;
+            color: var(--muted);
+            margin-top: 2px;
+        }}
+        .rating {{ color: var(--orange); letter-spacing: -1px; }}
+        .price-badge {{
+            font-size: 0.85rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 20px;
+            white-space: nowrap;
+            color: #000;
+            flex-shrink: 0;
+        }}
+        .iap-section {{
+            border-top: 1px solid var(--border);
+            padding: 0 16px;
+        }}
+        .iap-section summary {{
+            padding: 10px 0;
+            cursor: pointer;
+            font-size: 0.82rem;
+            color: var(--muted);
+            user-select: none;
+            list-style: none;
+        }}
+        .iap-section summary:hover {{ color: var(--text); }}
+        .iap-list {{
+            list-style: none;
+            padding-bottom: 12px;
+        }}
+        .iap-list li {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 4px 0;
+            font-size: 0.82rem;
+            border-bottom: 1px solid var(--border);
+        }}
+        .iap-list li:last-child {{ border-bottom: none; }}
+        .iap-name {{
+            color: var(--text);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            max-width: 200px;
+        }}
+        .iap-price {{
+            color: var(--green);
+            font-weight: 600;
+            flex-shrink: 0;
+            margin-left: 8px;
+        }}
+        footer {{
+            text-align: center;
+            padding: 24px;
+            color: var(--muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border);
+            margin-top: 32px;
+        }}
+        .hidden {{ display: none !important; }}
+    </style>
 </head>
 <body>
-  <header>
-    <h1>🍎 App Store 价格监控</h1>
-    <p class="meta">美区（US） · 最近更新：{last_updated}</p>
-  </header>
+    <header>
+        <div class="header-top">
+            <h1>🎯 App Store <span>价格监控</span></h1>
+            <div class="stats">
+                <span>共监控 <b>{total}</b> 个 App</span>
+                <span>付费 <b>{paid_count}</b> 个</span>
+                <span>含内购 <b>{iap_count}</b> 个</span>
+                <span>更新于 {now}</span>
+            </div>
+        </div>
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="🔍 搜索 App 名称..." oninput="filterApps()" />
+            <button class="filter-btn active" onclick="setFilter('all', this)">全部</button>
+            <button class="filter-btn" onclick="setFilter('paid', this)">付费</button>
+            <button class="filter-btn" onclick="setFilter('iap', this)">含内购</button>
+            <button class="filter-btn" onclick="setFilter('free', this)">免费</button>
+        </div>
+    </header>
+    <main>
+        <div class="grid" id="app-grid">
+{cards_html}
+        </div>
+    </main>
+    <footer>
+        <p>由 GitHub Actions 自动更新 · 数据来源：Apple iTunes API + App Store 网页</p>
+        <p style="margin-top:4px">⚠️ 价格仅供参考，以 App Store 实际显示为准</p>
+    </footer>
+    <script>
+        let currentFilter = 'all';
 
-  <div class="stats">
-    <div class="stat-card">
-      <div class="num">{total}</div>
-      <div class="label">监控 App 数量</div>
-    </div>
-    <div class="stat-card">
-      <div class="num" style="color:var(--green)">
-        {sum(1 for v in apps_data.values() if v.get('price', 1) == 0.0)}
-      </div>
-      <div class="label">当前免费</div>
-    </div>
-    <div class="stat-card">
-      <div class="num" style="color:var(--gold)">
-        {sum(len(v.get('iap', [])) for v in apps_data.values())}
-      </div>
-      <div class="label">内购项目总数</div>
-    </div>
-  </div>
+        function filterApps() {{
+            const q = document.getElementById('search').value.toLowerCase();
+            const cards = document.querySelectorAll('.app-card');
+            cards.forEach(card => {{
+                const name = card.dataset.name || '';
+                const price = parseFloat(card.dataset.price || '0');
+                const hasIap = card.querySelector('.iap-section') !== null;
+                let show = name.includes(q);
+                if (show && currentFilter === 'paid') show = price > 0;
+                if (show && currentFilter === 'free') show = price === 0;
+                if (show && currentFilter === 'iap')  show = hasIap;
+                card.classList.toggle('hidden', !show);
+            }});
+        }}
 
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>图标</th>
-          <th>App 名称</th>
-          <th>本体价格</th>
-          <th>状态</th>
-          <th>内购项目</th>
-        </tr>
-      </thead>
-      <tbody>
-        {rows_html}
-      </tbody>
-    </table>
-  </div>
-
-  <footer>
-    <p>由 GitHub Actions 自动运行 · 数据来源：iTunes API & App Store</p>
-    <p style="margin-top:4px">⚠️ 价格仅供参考，请以 App Store 实际页面为准</p>
-  </footer>
+        function setFilter(type, btn) {{
+            currentFilter = type;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            filterApps();
+        }}
+    </script>
 </body>
-</html>
-"""
-    with open(INDEX_HTML_FILE, "w", encoding="utf-8") as f:
-        f.write(html)
-    logger.info(f"已生成静态页面: {INDEX_HTML_FILE}")
+</html>"""
+
+    Path(HTML_OUTPUT_FILE).write_text(html, encoding="utf-8")
+    logger.info(f"HTML 已生成: {HTML_OUTPUT_FILE} ({len(apps)} 个 App)")
 
 
-# ═══════════════════════════════════════════════════════════
+# ─────────────────────────────────────────────
 # 主流程
-# ═══════════════════════════════════════════════════════════
+# ─────────────────────────────────────────────
 
 def main():
     logger.info("=" * 60)
-    logger.info("App Store 价格监控 启动")
-    logger.info(f"运行时间: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    logger.info(f"App Store 价格监控 启动 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     logger.info("=" * 60)
 
     # 1. 读取 watchlist
-    wl_data  = load_json_file(WATCHLIST_FILE)
-    apps     = wl_data.get("apps", [])
-    settings = wl_data.get("settings", {})
-    country  = settings.get("country", "us")
+    watchlist_path = Path(WATCHLIST_FILE)
+    if not watchlist_path.exists():
+        logger.error(f"找不到 {WATCHLIST_FILE}，请先创建该文件。")
+        return
+    with watchlist_path.open(encoding="utf-8") as f:
+        watchlist = json.load(f)
+    apps_to_watch = watchlist.get("apps", [])
+    settings      = watchlist.get("settings", {})
+    country       = settings.get("country", "us")
+    fetch_iap     = settings.get("fetch_iap", True)
 
-    if not apps:
-        logger.error(f"watchlist 为空，请检查 {WATCHLIST_FILE}")
-        sys.exit(1)
+    # 过滤掉 skip=true 的条目
+    apps_to_watch = [a for a in apps_to_watch if not a.get("skip", False)]
+    total_apps = len(apps_to_watch)
 
-    logger.info(f"共监控 {len(apps)} 个 App，地区：{country.upper()}")
+    # ── 分批处理逻辑 ──
+    # 每次 GitHub Actions 运行处理 BATCH_SIZE 个 App
+    # progress 文件记录下次从哪个 index 开始
+    progress_path = Path(PROGRESS_FILE)
+    batch_offset = 0
+    if progress_path.exists():
+        try:
+            batch_offset = json.loads(progress_path.read_text())
+            batch_offset = int(batch_offset)
+        except Exception:
+            batch_offset = 0
+
+    # 如果 offset 超过了总数，从头开始（完成一轮循环）
+    if batch_offset >= total_apps:
+        batch_offset = 0
+        logger.info("✅ 已完成一轮完整扫描，从头开始新一轮")
+
+    batch_end    = min(batch_offset + BATCH_SIZE, total_apps)
+    current_batch = apps_to_watch[batch_offset:batch_end]
+    next_offset  = batch_end if batch_end < total_apps else 0
+
+    logger.info(f"监控列表: 共 {total_apps} 个 App，本次处理 [{batch_offset+1}~{batch_end}]，批大小: {BATCH_SIZE}")
+    logger.info(f"国家: {country}，内购抓取: {fetch_iap}")
 
     # 2. 读取历史价格
-    history: dict = load_json_file(HISTORY_FILE)
+    history_path = Path(HISTORY_FILE)
+    history: dict = {}
+    if history_path.exists():
+        try:
+            history = json.loads(history_path.read_text(encoding="utf-8"))
+        except Exception as e:
+            logger.warning(f"读取历史价格文件失败: {e}，将从头开始记录")
 
-    # 3. 遍历抓取
-    current_data: dict = {}
-    all_alerts:   list = []
+    # 3. 遍历本批次监控列表
+    all_drops: list[dict] = []
+    current_data: dict    = {}
+    success_count = 0
+    fail_count    = 0
 
-    for idx, app_entry in enumerate(apps, 1):
-        app_id = str(app_entry["id"]) if isinstance(app_entry, dict) else str(app_entry)
-        logger.info(f"\n[{idx}/{len(apps)}] 正在处理 App ID: {app_id}")
+    for i, app_entry in enumerate(current_batch, batch_offset + 1):
+        app_id = str(app_entry.get("id", "")).strip()
+        hint   = app_entry.get("name", app_id)
+
+        # 去重（watchlist 里可能有重复 ID）
+        if app_id in current_data:
+            continue
+
+        logger.info(f"[{i:>4}/{total_apps}] 处理: {hint} (id={app_id})")
 
         try:
-            # 3.1 获取本体信息（API）
-            info = fetch_app_info_from_api(app_id, country)
+            # 3.1 获取本体信息
+            info = fetch_app_info(app_id, country)
             if not info:
-                logger.warning(f"  无法获取 App ID={app_id} 的 API 数据，跳过。")
-                if app_id in history:
-                    current_data[app_id] = {**history[app_id], "fetch_ok": False}
+                logger.warning(f"  ⚠ 获取失败，跳过")
+                fail_count += 1
+                time.sleep(random.uniform(*REQUEST_DELAY))
                 continue
 
-            logger.info(f"  App: {info['name']}  价格: ${info['price']:.2f}")
-            sleep_random()
+            logger.info(f"  ✓ {info['name']} | 价格: {info['formatted_price']} | 类别: {info['category']}")
 
-            # 3.2 获取内购信息
-            # 注意：iTunes API 不支持内购查询，App Store 网页会重定向非浏览器请求。
-            # 因此内购监控暂时不可用，仅监控本体价格。
-            # 如需内购数据，可考虑使用 App Store Connect API（需开发者账号）。
-            iap = info.get("iap", history.get(app_id, {}).get("iap", []))
+            # 3.2 获取内购（仅付费 App 或免费但有内购的 App）
+            iap = []
+            if fetch_iap:
+                prev_iap = history.get(app_id, {}).get("iap", [])
+                # 付费 App 一定爬，免费 App 如果历史上有内购记录也爬
+                should_fetch = info["price"] > 0 or len(prev_iap) > 0
+                if should_fetch:
+                    time.sleep(random.uniform(*REQUEST_DELAY))
+                    iap = fetch_iap_from_webpage(app_id, country)
+                    if iap:
+                        logger.info(f"  ✓ 内购: {len(iap)} 项")
+                    else:
+                        # 保留上次的内购数据（防止暂时爬不到就清空）
+                        iap = prev_iap
+                        if prev_iap:
+                            logger.info(f"  ⟳ 内购暂时获取失败，保留上次数据 ({len(prev_iap)} 项)")
+                else:
+                    iap = prev_iap
 
-            info["iap"]      = iap
-            info["fetch_ok"] = True
-            info["last_checked"] = datetime.now(timezone.utc).isoformat()
+            info["iap"] = iap
+
+            # 3.3 比对价格
+            prev = history.get(app_id, {})
+            if prev:
+                drops = compare_prices(info, prev)
+                if drops:
+                    for d in drops:
+                        d["app_id"]   = app_id
+                        d["app_name"] = info["name"]
+                        d["store_url"] = info["store_url"]
+                    all_drops.extend(drops)
+                    logger.info(f"  🔥 降价！共 {len(drops)} 项变动")
+                    for d in drops:
+                        logger.info(f"     [{d['type']}] {d['name']}: ${d['old_price']} → ${d['new_price']}")
+                    # 发送通知
+                    send_notification(info["name"], drops, info["store_url"])
+            else:
+                logger.info(f"  ℹ 首次记录，无历史价格可比对")
 
             current_data[app_id] = info
-
-            # 3.3 比对
-            if app_id in history:
-                alerts = compare_prices(app_id, info, history[app_id])
-                all_alerts.extend(alerts)
-            else:
-                logger.info(f"  首次记录 App ID={app_id}，写入基线。")
+            success_count += 1
 
         except Exception as e:
-            logger.error(f"  处理 App ID={app_id} 时发生未知错误: {e}")
-            logger.debug(traceback.format_exc())
-            # 出错则保留历史数据，标记 fetch_ok=False
+            logger.error(f"  ✗ 处理 App {app_id} 时发生意外错误: {e}")
+            fail_count += 1
+            # 保留历史数据
             if app_id in history:
-                current_data[app_id] = {**history[app_id], "fetch_ok": False}
+                current_data[app_id] = history[app_id]
 
-        sleep_random()
+        time.sleep(random.uniform(*REQUEST_DELAY))
 
-    # 4. 发送通知
-    if all_alerts:
-        logger.info(f"\n检测到 {len(all_alerts)} 条降价信息，准备推送…")
-        send_notifications(all_alerts)
+    # 4. 保存历史价格和进度
+    # 更新当前数据中的时间戳
+    timestamp = datetime.now(timezone.utc).isoformat()
+    for app_id, data in current_data.items():
+        data["last_updated"] = timestamp
+
+    # 合并：保留 watchlist 中已有但本次未成功获取的 App 的历史数据
+    merged = dict(history)
+    merged.update(current_data)
+
+    history_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
+    logger.info(f"历史价格已保存: {len(merged)} 条记录（本次新增/更新: {len(current_data)}）")
+
+    # 保存分批进度（下次从哪里开始）
+    progress_path.write_text(json.dumps(next_offset), encoding="utf-8")
+    if next_offset == 0:
+        logger.info("✅ 完成一轮完整扫描，下次从头开始")
     else:
-        logger.info("\n未检测到降价，无需推送。")
+        logger.info(f"📌 进度已保存：下次从第 {next_offset + 1} 个 App 开始（共 {total_apps} 个）")
 
-    # 5. 合并 & 保存历史
-    merged = {**history, **current_data}
-    save_json_file(HISTORY_FILE, merged)
+    # 5. 生成 HTML
+    generate_html(merged)
 
-    # 6. 生成静态 HTML
-    last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    generate_html(merged, last_updated)
-
-    logger.info("\n" + "=" * 60)
-    logger.info(f"监控完成！处理 {len(current_data)} 个 App，触发 {len(all_alerts)} 条通知。")
+    # 6. 汇总日志
+    logger.info("=" * 60)
+    logger.info(f"运行完成 | 成功: {success_count} | 失败: {fail_count} | 降价: {len(all_drops)} 项")
+    if all_drops:
+        logger.info("本次降价汇总:")
+        for d in all_drops:
+            logger.info(f"  [{d['type']}] {d.get('app_name', '')} - {d['name']}: ${d['old_price']} → ${d['new_price']}")
     logger.info("=" * 60)
 
 
