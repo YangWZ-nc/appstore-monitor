@@ -646,3 +646,1602 @@
 2026-03-26 02:51:00,491 [INFO] ============================================================
 2026-03-26 02:51:00,491 [INFO] 运行完成 | 成功: 164 | 失败: 36 | 降价: 0 项
 2026-03-26 02:51:00,492 [INFO] ============================================================
+2026-03-26 07:13:40,005 [INFO] ============================================================
+2026-03-26 07:13:40,005 [INFO] App Store 价格监控 启动 - 2026-03-26 07:13:40
+2026-03-26 07:13:40,005 [INFO] ============================================================
+2026-03-26 07:13:40,015 [INFO] 监控列表: 共 4864 个 App，本次处理 [501~1000]，批大小: 500
+2026-03-26 07:13:40,015 [INFO] 国家: us，内购抓取: True
+2026-03-26 07:13:40,019 [INFO] [ 501/4864] 处理: Groic : Listen music togther (id=6449265626)
+2026-03-26 07:13:40,215 [INFO]   ✓ Groic : Listen music togther | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:13:42,667 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:13:42,668 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:13:42,668 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:13:44,796 [INFO] [ 502/4864] 处理: Akinator VIP (id=484090401)
+2026-03-26 07:13:44,953 [INFO]   ✓ Akinator VIP | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:13:47,297 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 07:13:47,298 [INFO]   ✓ 内购: 10 项
+2026-03-26 07:13:47,298 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:13:50,397 [INFO] [ 503/4864] 处理: YACReader - Comic Reader (id=635717885)
+2026-03-26 07:13:50,495 [INFO]   ✓ YACReader - Comic Reader | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:13:53,504 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:13:55,394 [INFO] [ 504/4864] 处理: MangaNelo - Rock Manga Pro (id=1540527984)
+2026-03-26 07:13:55,498 [INFO]   ✓ MangaNelo - Rock Manga Pro | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:13:58,778 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:13:58,779 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:13:58,779 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:02,159 [INFO] [ 505/4864] 处理: Play: Save Videos Watch Later (id=1596506190)
+2026-03-26 07:14:02,284 [INFO]   ✓ Play: Save Videos Watch Later | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:14:05,162 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:14:05,163 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:14:05,163 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:07,910 [INFO] [ 506/4864] 处理: GifJif - Custom Gif Creator (id=1078038667)
+2026-03-26 07:14:08,015 [INFO]   ✓ GifJif - Custom Gif Creator | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:14:10,348 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 07:14:10,349 [INFO]   ✓ 内购: 10 项
+2026-03-26 07:14:10,349 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:12,884 [INFO] [ 507/4864] 处理: Himnario LLDM (id=1262582984)
+2026-03-26 07:14:12,972 [INFO]   ✓ Himnario LLDM | 价格: $8.99 | 类别: Entertainment
+2026-03-26 07:14:16,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:19,015 [INFO] [ 508/4864] 处理: nPlayer (id=1116905928)
+2026-03-26 07:14:19,116 [INFO]   ✓ nPlayer | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:14:22,347 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:24,420 [INFO] [ 509/4864] 处理: Sticker Babai: Telugu Stickers (id=1483376397)
+2026-03-26 07:14:24,638 [INFO]   ✓ Sticker Babai: Telugu Stickers | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:14:27,002 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:28,807 [INFO] [ 510/4864] 处理: VRPlayer Pro : 2D 3D 360°Video (id=1065311870)
+2026-03-26 07:14:28,948 [INFO]   ✓ VRPlayer Pro : 2D 3D 360°Video | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:14:32,452 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:35,404 [INFO] [ 511/4864] 处理: EmergeNYC Sirens & Horns Pro (id=1570996001)
+2026-03-26 07:14:35,492 [INFO]   ✓ EmergeNYC Sirens & Horns Pro | 价格: $6.99 | 类别: Entertainment
+2026-03-26 07:14:38,835 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:40,702 [INFO] [ 512/4864] 处理: My PlayHome (id=439628153)
+2026-03-26 07:14:40,802 [INFO]   ✓ My PlayHome | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:14:43,143 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:45,862 [INFO] [ 513/4864] 处理: Spirit Box Radio (id=6496864469)
+2026-03-26 07:14:45,984 [INFO]   ✓ Spirit Box Radio | 价格: $7.99 | 类别: Entertainment
+2026-03-26 07:14:49,424 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:51,689 [INFO] [ 514/4864] 处理: Channels for HDHomeRun! (id=1117689474)
+2026-03-26 07:14:51,790 [INFO]   ✓ Channels for HDHomeRun! | 价格: $9.99 | 类别: Entertainment
+2026-03-26 07:14:53,851 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:14:56,283 [INFO] [ 515/4864] 处理: Vidi · Media Center (id=6648776878)
+2026-03-26 07:14:56,431 [INFO]   ✓ Vidi · Media Center | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:14:58,651 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:00,234 [INFO] [ 516/4864] 处理: Dice Dice Pro (id=6444409103)
+2026-03-26 07:15:00,358 [INFO]   ✓ Dice Dice Pro | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:15:02,909 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:05,190 [INFO] [ 517/4864] 处理: iPAGER - emergency fire pager (id=425688070)
+2026-03-26 07:15:05,275 [INFO]   ✓ iPAGER - emergency fire pager | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:15:07,448 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:15:07,449 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:15:07,449 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:09,154 [INFO] [ 518/4864] 处理: PK-INK PRO (id=6717616357)
+2026-03-26 07:15:09,279 [INFO]   ✓ PK-INK PRO | 价格: $99.99 | 类别: Entertainment
+2026-03-26 07:15:12,595 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:14,850 [INFO] [ 519/4864] 处理: PureCinema (id=6757587184)
+2026-03-26 07:15:14,981 [INFO]   ✓ PureCinema | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:15:17,277 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:20,211 [INFO] [ 520/4864] 处理: Console Remote (id=6738534883)
+2026-03-26 07:15:20,300 [INFO]   ✓ Console Remote | 价格: $7.99 | 类别: Entertainment
+2026-03-26 07:15:22,527 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:24,722 [INFO] [ 521/4864] 处理: Magic Fluids: visual art & fun (id=1437510558)
+2026-03-26 07:15:24,823 [INFO]   ✓ Magic Fluids: visual art & fun | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:15:27,573 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:30,868 [INFO] [ 522/4864] 处理: Scourby YouBible (id=524402839)
+2026-03-26 07:15:31,082 [INFO]   ✓ Scourby YouBible | 价格: $19.99 | 类别: Entertainment
+2026-03-26 07:15:33,405 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 07:15:33,406 [INFO]   ✓ 内购: 10 项
+2026-03-26 07:15:33,406 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:35,273 [INFO] [ 523/4864] 处理: Sexy Maria (id=415007304)
+2026-03-26 07:15:35,379 [INFO]   ✓ Sexy Maria | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:15:37,550 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:39,792 [INFO] [ 524/4864] 处理: Simple Sirens LMT (id=432435135)
+2026-03-26 07:15:39,899 [INFO]   ✓ Simple Sirens LMT | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:15:43,502 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:46,451 [INFO] [ 525/4864] 处理: Hue Thunder for Philips Hue (id=1191462987)
+2026-03-26 07:15:46,639 [INFO]   ✓ Hue Thunder for Philips Hue | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:15:50,411 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:53,599 [INFO] [ 526/4864] 处理: Baby Ultrasound spoof (id=1110587977)
+2026-03-26 07:15:53,705 [INFO]   ✓ Baby Ultrasound spoof | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:15:57,013 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:15:57,015 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:15:57,015 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:15:59,370 [INFO] [ 527/4864] 处理: Nighty Night! (id=434756152)
+2026-03-26 07:15:59,476 [INFO]   ✓ Nighty Night! | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:16:02,656 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:16:02,658 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:16:02,658 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:04,765 [INFO] [ 528/4864] 处理: Toca Hair Salon Me (id=730873197)
+2026-03-26 07:16:04,880 [INFO]   ✓ Toca Hair Salon Me | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:16:07,795 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:09,314 [INFO] [ 529/4864] 处理: ARGun2018 (id=1372408358)
+2026-03-26 07:16:09,462 [INFO]   ✓ ARGun2018 | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:16:11,613 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:14,792 [INFO] [ 530/4864] 处理: stashy (id=6754876029)
+2026-03-26 07:16:14,915 [INFO]   ✓ stashy | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:16:16,954 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:16:16,955 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:16:16,955 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:19,959 [INFO] [ 531/4864] 处理: SPI (id=6736894471)
+2026-03-26 07:16:20,070 [INFO]   ✓ SPI | 价格: $14.99 | 类别: Entertainment
+2026-03-26 07:16:22,994 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:25,243 [INFO] [ 532/4864] 处理: Little Kitten: Virtual Pet Cat (id=1171095810)
+2026-03-26 07:16:25,368 [INFO]   ✓ Little Kitten: Virtual Pet Cat | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:16:27,566 [INFO]   [网页] 找到 4 个内购项目
+2026-03-26 07:16:27,568 [INFO]   ✓ 内购: 4 项
+2026-03-26 07:16:27,568 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:30,303 [INFO] [ 533/4864] 处理: Mihon Manga (id=6754461039)
+2026-03-26 07:16:30,447 [INFO]   ✓ Mihon Manga | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:16:33,511 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:36,796 [INFO] [ 534/4864] 处理: Layla (id=6456886656)
+2026-03-26 07:16:36,931 [INFO]   ✓ Layla | 价格: $19.99 | 类别: Entertainment
+2026-03-26 07:16:40,702 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:16:40,703 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:16:40,703 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:42,836 [INFO] [ 535/4864] 处理: TouchSiren Delta (id=942198879)
+2026-03-26 07:16:42,971 [INFO]   ✓ TouchSiren Delta | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:16:45,944 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:48,223 [INFO] [ 536/4864] 处理: Wreck This App (id=447588825)
+2026-03-26 07:16:48,330 [INFO]   ✓ Wreck This App | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:16:51,042 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:53,195 [INFO] [ 537/4864] 处理: H*nest Meditation (id=1059195733)
+2026-03-26 07:16:53,297 [INFO]   ✓ H*nest Meditation | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:16:56,211 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:16:58,309 [INFO] [ 538/4864] 处理: Scar Booth (id=394760437)
+2026-03-26 07:16:58,586 [INFO]   ✓ Scar Booth | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:17:01,837 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:03,422 [INFO] [ 539/4864] 处理: FlashFace Full (id=553145544)
+2026-03-26 07:17:03,526 [INFO]   ✓ FlashFace Full | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:17:05,734 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:07,627 [INFO] [ 540/4864] 处理: Number Puzzle Games 4 Watch (id=1602119871)
+2026-03-26 07:17:07,782 [INFO]   ✓ Number Puzzle Games 4 Watch | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:17:11,313 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:13,331 [INFO] [ 541/4864] 处理: The Lorax by Dr. Seuss (id=1067146012)
+2026-03-26 07:17:13,504 [INFO]   ✓ The Lorax by Dr. Seuss | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:17:16,543 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:19,725 [INFO] [ 542/4864] 处理: The Ultimate Buzzer Pro (id=473628024)
+2026-03-26 07:17:19,926 [INFO]   ✓ The Ultimate Buzzer Pro | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:17:23,052 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:25,819 [INFO] [ 543/4864] 处理: ER70 EVP Recorder (id=6446457897)
+2026-03-26 07:17:25,915 [INFO]   ✓ ER70 EVP Recorder | 价格: $6.99 | 类别: Entertainment
+2026-03-26 07:17:29,956 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:31,746 [INFO] [ 544/4864] 处理: Tivimax IPTV Player (Premium) (id=1632953327)
+2026-03-26 07:17:31,862 [INFO]   ✓ Tivimax IPTV Player (Premium) | 价格: $19.99 | 类别: Entertainment
+2026-03-26 07:17:35,401 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:37,131 [INFO] [ 545/4864] 处理: Galaxia (id=383453608)
+2026-03-26 07:17:37,233 [INFO]   ✓ Galaxia | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:17:40,500 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:43,268 [INFO] [ 546/4864] 处理: Infuse: Enterprise (id=6755395866)
+2026-03-26 07:17:43,412 [INFO]   ✓ Infuse: Enterprise | 价格: $99.99 | 类别: Entertainment
+2026-03-26 07:17:46,201 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:48,079 [INFO] [ 547/4864] 处理: Aliens Motion Tracker (id=832823029)
+2026-03-26 07:17:48,198 [INFO]   ✓ Aliens Motion Tracker | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:17:51,113 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:54,184 [INFO] [ 548/4864] 处理: Yaba Sanshiro 2 (id=1549144351)
+2026-03-26 07:17:54,315 [INFO]   ✓ Yaba Sanshiro 2 | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:17:57,202 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:17:58,923 [INFO] [ 549/4864] 处理: Bingo Generator & Caller (id=6737136334)
+2026-03-26 07:17:59,042 [INFO]   ✓ Bingo Generator & Caller | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:18:01,487 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:03,782 [INFO] [ 550/4864] 处理: Gravity Zen (id=1602081846)
+2026-03-26 07:18:03,946 [INFO]   ✓ Gravity Zen | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:18:06,740 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:18:06,741 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:18:06,741 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:09,368 [INFO] [ 551/4864] 处理: Bella Sara Cards (id=1495590040)
+2026-03-26 07:18:09,476 [INFO]   ✓ Bella Sara Cards | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:18:11,657 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:13,194 [INFO] [ 552/4864] 处理: Pip-Toy (id=1469733040)
+2026-03-26 07:18:13,314 [INFO]   ✓ Pip-Toy | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:18:15,764 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:18,975 [INFO] [ 553/4864] 处理: iPregnancyTest (id=309728603)
+2026-03-26 07:18:19,075 [INFO]   ✓ iPregnancyTest | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:18:21,504 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:24,929 [INFO] [ 554/4864] 处理: Digital Force Bag (id=1318230573)
+2026-03-26 07:18:25,081 [INFO]   ✓ Digital Force Bag | 价格: $44.99 | 类别: Entertainment
+2026-03-26 07:18:28,219 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:18:28,220 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:18:28,220 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:31,269 [INFO] [ 555/4864] 处理: My PlayHome Stores (id=683942610)
+2026-03-26 07:18:31,372 [INFO]   ✓ My PlayHome Stores | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:18:33,730 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:35,306 [INFO] [ 556/4864] 处理: Tarot Meanings (id=384886945)
+2026-03-26 07:18:35,400 [INFO]   ✓ Tarot Meanings | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:18:38,204 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:41,661 [INFO] [ 557/4864] 处理: FyTube - YouTube Without Ads (id=1610668825)
+2026-03-26 07:18:41,772 [INFO]   ✓ FyTube - YouTube Without Ads | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:18:44,057 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:46,312 [INFO] [ 558/4864] 处理: SmartRace for Carrera Digital (id=978458576)
+2026-03-26 07:18:46,447 [INFO]   ✓ SmartRace for Carrera Digital | 价格: $10.99 | 类别: Entertainment
+2026-03-26 07:18:48,504 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 07:18:48,505 [INFO]   ✓ 内购: 10 项
+2026-03-26 07:18:48,505 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:50,372 [INFO] [ 559/4864] 处理: iSpy Cameras (id=329506639)
+2026-03-26 07:18:50,474 [INFO]   ✓ iSpy Cameras | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:18:54,221 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:18:57,168 [INFO] [ 560/4864] 处理: iForce (id=331480970)
+2026-03-26 07:18:57,272 [INFO]   ✓ iForce | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:19:00,299 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:02,168 [INFO] [ 561/4864] 处理: FAA A&P Airframe Test Prep (id=381238408)
+2026-03-26 07:19:02,281 [INFO]   ✓ FAA A&P Airframe Test Prep | 价格: $99.99 | 类别: Entertainment
+2026-03-26 07:19:04,457 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:19:04,459 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:19:04,459 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:07,420 [INFO] [ 562/4864] 处理: Ombi (id=1335260043)
+2026-03-26 07:19:07,534 [INFO]   ✓ Ombi | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:19:11,512 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:14,031 [INFO] [ 563/4864] 处理: Pocket Visions Tarot (id=1620255013)
+2026-03-26 07:19:14,135 [INFO]   ✓ Pocket Visions Tarot | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:19:16,566 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:18,270 [INFO] [ 564/4864] 处理: Ghost Hunter M2 (id=398120588)
+2026-03-26 07:19:18,356 [INFO]   ✓ Ghost Hunter M2 | 价格: $7.99 | 类别: Entertainment
+2026-03-26 07:19:22,099 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:24,590 [INFO] [ 565/4864] 处理: Black Light Vision (id=466286828)
+2026-03-26 07:19:24,705 [INFO]   ✓ Black Light Vision | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:19:27,366 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:29,192 [INFO] [ 566/4864] 处理: iComics (id=493845493)
+2026-03-26 07:19:29,315 [INFO]   ✓ iComics | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:19:32,404 [INFO]   [网页] 找到 4 个内购项目
+2026-03-26 07:19:32,405 [INFO]   ✓ 内购: 4 项
+2026-03-26 07:19:32,405 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:35,850 [INFO] [ 567/4864] 处理: WristTetris (id=6747306511)
+2026-03-26 07:19:35,946 [INFO]   ✓ WristTetris | 价格: $1.99 | 类别: Entertainment
+2026-03-26 07:19:39,139 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:41,922 [INFO] [ 568/4864] 处理: ARSpiders.com Spider on Face (id=1534413888)
+2026-03-26 07:19:42,023 [INFO]   ✓ ARSpiders.com Spider on Face | 价格: $2.99 | 类别: Entertainment
+2026-03-26 07:19:44,604 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:47,936 [INFO] [ 569/4864] 处理: MultiDraw - Predict Anything (id=6760909640)
+2026-03-26 07:19:48,134 [INFO]   ✓ MultiDraw - Predict Anything | 价格: $19.99 | 类别: Entertainment
+2026-03-26 07:19:51,899 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:54,030 [INFO] [ 570/4864] 处理: Little Kitten: Cat Adventures (id=1294341144)
+2026-03-26 07:19:54,246 [INFO]   ✓ Little Kitten: Cat Adventures | 价格: $4.99 | 类别: Entertainment
+2026-03-26 07:19:57,107 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:19:58,646 [INFO] [ 571/4864] 处理: SimpleSirens WLN (id=887344080)
+2026-03-26 07:19:58,750 [INFO]   ✓ SimpleSirens WLN | 价格: $0.99 | 类别: Entertainment
+2026-03-26 07:20:02,317 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:05,619 [INFO] [ 572/4864] 处理: Radio - Receiver (id=311658127)
+2026-03-26 07:20:05,722 [INFO]   ✓ Radio - Receiver | 价格: $3.99 | 类别: Entertainment
+2026-03-26 07:20:09,585 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:11,908 [INFO] [ 573/4864] 处理: VIZIO | WatchFree+ (id=1054033219)
+2026-03-26 07:20:12,003 [INFO]   ✓ VIZIO | WatchFree+ | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:12,003 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:14,061 [INFO] [ 574/4864] 处理: AXS Tickets (id=679805463)
+2026-03-26 07:20:14,167 [INFO]   ✓ AXS Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:14,168 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:16,433 [INFO] [ 575/4864] 处理: Steam Mobile (id=495369748)
+2026-03-26 07:20:16,638 [INFO]   ✓ Steam Mobile | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:16,639 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:19,862 [INFO] [ 576/4864] 处理: PlayStation App (id=410896080)
+2026-03-26 07:20:19,963 [INFO]   ✓ PlayStation App | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:19,963 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:23,426 [INFO] [ 577/4864] 处理: PlutoTV: Stream Free Movies/TV (id=751712884)
+2026-03-26 07:20:23,524 [INFO]   ✓ PlutoTV: Stream Free Movies/TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:23,525 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:25,479 [INFO] [ 578/4864] 处理: SeatGeek - Buy Event Tickets (id=582790430)
+2026-03-26 07:20:25,586 [INFO]   ✓ SeatGeek - Buy Event Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:25,586 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:28,135 [INFO] [ 579/4864] 处理: DramaWave - Dramas & Reels (id=6670430706)
+2026-03-26 07:20:28,228 [INFO]   ✓ DramaWave - Dramas & Reels | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:28,228 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:31,465 [INFO] [ 580/4864] 处理: Eventbrite (id=487922291)
+2026-03-26 07:20:31,572 [INFO]   ✓ Eventbrite | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:31,572 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:34,764 [INFO] [ 581/4864] 处理: JustPlay: Earn Loyalty Rewards (id=6444946155)
+2026-03-26 07:20:34,950 [INFO]   ✓ JustPlay: Earn Loyalty Rewards | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:34,950 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:36,920 [INFO] [ 582/4864] 处理: Scoopz: Your People Your Video (id=6449206831)
+2026-03-26 07:20:37,133 [INFO]   ✓ Scoopz: Your People Your Video | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:37,134 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:40,017 [INFO] [ 583/4864] 处理: YouTube Kids (id=936971630)
+2026-03-26 07:20:40,118 [INFO]   ✓ YouTube Kids | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:40,118 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:43,180 [INFO] [ 584/4864] 处理: StubHub: Event Tickets (id=366562751)
+2026-03-26 07:20:43,269 [INFO]   ✓ StubHub: Event Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:43,269 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:45,676 [INFO] [ 585/4864] 处理: AMC Theatres: Movies & More (id=509199715)
+2026-03-26 07:20:45,761 [INFO]   ✓ AMC Theatres: Movies & More | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:45,761 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:47,976 [INFO] [ 586/4864] 处理: TickPick: No Fee Tickets (id=789844385)
+2026-03-26 07:20:48,093 [INFO]   ✓ TickPick: No Fee Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:48,093 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:50,508 [INFO] [ 587/4864] 处理: Patreon (id=1044456188)
+2026-03-26 07:20:50,624 [INFO]   ✓ Patreon | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:50,624 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:53,733 [INFO] [ 588/4864] 处理: Gametime - Last Minute Tickets (id=630687854)
+2026-03-26 07:20:53,832 [INFO]   ✓ Gametime - Last Minute Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:53,833 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:56,598 [INFO] [ 589/4864] 处理: PolyBuzz: Chat with Characters (id=6449190344)
+2026-03-26 07:20:56,713 [INFO]   ✓ PolyBuzz: Chat with Characters | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:56,713 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:20:59,437 [INFO] [ 590/4864] 处理: Musivibe - Enjoy Offline Music (id=6738373534)
+2026-03-26 07:20:59,682 [INFO]   ✓ Musivibe - Enjoy Offline Music | 价格: Free | 类别: Entertainment
+2026-03-26 07:20:59,682 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:02,749 [INFO] [ 591/4864] 处理: Xbox (id=736179781)
+2026-03-26 07:21:02,851 [INFO]   ✓ Xbox | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:02,852 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:05,013 [INFO] [ 592/4864] 处理: Color by Number：Coloring Games (id=1317978215)
+2026-03-26 07:21:05,117 [INFO]   ✓ Color by Number：Coloring Games | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:05,117 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:07,885 [INFO] [ 593/4864] 处理: status - sims but social media (id=6596771144)
+2026-03-26 07:21:07,977 [INFO]   ✓ status - sims but social media | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:07,977 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:10,109 [INFO] [ 594/4864] 处理: NetShort - Popular Dramas & TV (id=6504849169)
+2026-03-26 07:21:10,217 [INFO]   ✓ NetShort - Popular Dramas & TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:10,217 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:13,035 [INFO] [ 595/4864] 处理: Mistplay: Play Games Earn Cash (id=6739352969)
+2026-03-26 07:21:13,139 [INFO]   ✓ Mistplay: Play Games Earn Cash | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:13,139 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:16,260 [INFO] [ 596/4864] 处理: YouTube TV (id=1193350206)
+2026-03-26 07:21:16,390 [INFO]   ✓ YouTube TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:16,390 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:18,676 [INFO] [ 597/4864] 处理: Vivid Seats | Buy Tickets (id=963355757)
+2026-03-26 07:21:18,783 [INFO]   ✓ Vivid Seats | Buy Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:18,783 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:21,637 [INFO] [ 598/4864] 处理: PLAYFUL REWARDS: Earn Rewards (id=1631584032)
+2026-03-26 07:21:21,844 [INFO]   ✓ PLAYFUL REWARDS: Earn Rewards | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:21,844 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:24,511 [INFO] [ 599/4864] 处理: Pocket FM: Audio Series (id=1538433480)
+2026-03-26 07:21:24,602 [INFO]   ✓ Pocket FM: Audio Series | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:24,603 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:27,630 [INFO] [ 600/4864] 处理: Posh – Create & Find Events (id=1556928106)
+2026-03-26 07:21:27,721 [INFO]   ✓ Posh – Create & Find Events | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:27,721 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:30,522 [INFO] [ 601/4864] 处理: WEBTOON: Manga, Comics, Manhwa (id=894546091)
+2026-03-26 07:21:30,629 [INFO]   ✓ WEBTOON: Manga, Comics, Manhwa | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:30,629 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:32,540 [INFO] [ 602/4864] 处理: MonkeyCool - Make New Friends (id=1636638847)
+2026-03-26 07:21:32,647 [INFO]   ✓ MonkeyCool - Make New Friends | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:32,647 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:35,367 [INFO] [ 603/4864] 处理: Delta - Game Emulator (id=1048524688)
+2026-03-26 07:21:35,454 [INFO]   ✓ Delta - Game Emulator | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:35,454 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:38,039 [INFO] [ 604/4864] 处理: Loopit - Make playables (id=6755859360)
+2026-03-26 07:21:38,137 [INFO]   ✓ Loopit - Make playables | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:38,138 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:41,460 [INFO] [ 605/4864] 处理: Fahlo Animal Tracker (id=1583952894)
+2026-03-26 07:21:41,597 [INFO]   ✓ Fahlo Animal Tracker | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:41,597 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:44,304 [INFO] [ 606/4864] 处理: IMDb: Movies & TV Shows (id=342792525)
+2026-03-26 07:21:44,406 [INFO]   ✓ IMDb: Movies & TV Shows | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:44,407 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:46,717 [INFO] [ 607/4864] 处理: Fubo: Watch Live TV & Sports (id=905401434)
+2026-03-26 07:21:46,887 [INFO]   ✓ Fubo: Watch Live TV & Sports | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:46,887 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:49,480 [INFO] [ 608/4864] 处理: ZEDGE™ Ringtones & Wallpapers (id=1086101495)
+2026-03-26 07:21:49,597 [INFO]   ✓ ZEDGE™ Ringtones & Wallpapers | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:49,598 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:51,611 [INFO] [ 609/4864] 处理: Akinator (id=933135994)
+2026-03-26 07:21:51,730 [INFO]   ✓ Akinator | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:51,730 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:54,361 [INFO] [ 610/4864] 处理: Regal: Movie Tickets Made Easy (id=502912815)
+2026-03-26 07:21:54,506 [INFO]   ✓ Regal: Movie Tickets Made Easy | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:54,506 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:21:56,889 [INFO] [ 611/4864] 处理: Fever: Events & Tickets (id=497702817)
+2026-03-26 07:21:57,026 [INFO]   ✓ Fever: Events & Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:21:57,026 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:00,397 [INFO] [ 612/4864] 处理: Character AI: Chat, Talk, Text (id=1671705818)
+2026-03-26 07:22:00,501 [INFO]   ✓ Character AI: Chat, Talk, Text | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:00,501 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:03,545 [INFO] [ 613/4864] 处理: CandyJarTV - Drama & Shorts (id=6466786430)
+2026-03-26 07:22:03,746 [INFO]   ✓ CandyJarTV - Drama & Shorts | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:03,746 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:05,757 [INFO] [ 614/4864] 处理: PS Remote Play (id=1436192460)
+2026-03-26 07:22:05,878 [INFO]   ✓ PS Remote Play | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:05,878 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:07,636 [INFO] [ 615/4864] 处理: Enjoy - AI Town (id=6468901311)
+2026-03-26 07:22:07,763 [INFO]   ✓ Enjoy - AI Town | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:07,763 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:09,394 [INFO] [ 616/4864] 处理: WePlay - Game and Party (id=1580330718)
+2026-03-26 07:22:09,495 [INFO]   ✓ WePlay - Game and Party | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:09,495 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:12,730 [INFO] [ 617/4864] 处理: Plex: Stream Live TV Channels (id=383457673)
+2026-03-26 07:22:12,892 [INFO]   ✓ Plex: Stream Live TV Channels | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:12,892 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:14,402 [INFO] [ 618/4864] 处理: LEGO® Builder: 3D Instructions (id=1486159728)
+2026-03-26 07:22:14,510 [INFO]   ✓ LEGO® Builder: 3D Instructions | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:14,511 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:17,351 [INFO] [ 619/4864] 处理: DreameShort - Drama TV (id=6462846884)
+2026-03-26 07:22:17,456 [INFO]   ✓ DreameShort - Drama TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:17,456 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:20,487 [INFO] [ 620/4864] 处理: CHAI: Social AI Platform- Chat (id=1544750895)
+2026-03-26 07:22:20,592 [INFO]   ✓ CHAI: Social AI Platform- Chat | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:20,593 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:24,039 [INFO] [ 621/4864] 处理: Google TV: Watch Movies & TV (id=746894884)
+2026-03-26 07:22:24,261 [INFO]   ✓ Google TV: Watch Movies & TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:24,261 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:25,820 [INFO] [ 622/4864] 处理: SeaWorld (id=393159815)
+2026-03-26 07:22:26,019 [INFO]   ✓ SeaWorld | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:26,019 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:28,073 [INFO] [ 623/4864] 处理: Cinemark Theatres (id=435965836)
+2026-03-26 07:22:28,200 [INFO]   ✓ Cinemark Theatres | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:28,200 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:30,346 [INFO] [ 624/4864] 处理: Bluey: Let's Play! (id=1669091583)
+2026-03-26 07:22:30,451 [INFO]   ✓ Bluey: Let's Play! | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:30,451 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:32,558 [INFO] [ 625/4864] 处理: Music Quick - Mp3 Video Player (id=1623990160)
+2026-03-26 07:22:32,699 [INFO]   ✓ Music Quick - Mp3 Video Player | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:32,700 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:34,690 [INFO] [ 626/4864] 处理: My Drama - Stream Short Dramas (id=6498713494)
+2026-03-26 07:22:34,794 [INFO]   ✓ My Drama - Stream Short Dramas | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:34,794 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:38,137 [INFO] [ 627/4864] 处理: Visya AI (id=6748429954)
+2026-03-26 07:22:38,224 [INFO]   ✓ Visya AI | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:38,224 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:40,031 [INFO] [ 628/4864] 处理: Nintendo Switch App (id=1234806557)
+2026-03-26 07:22:40,153 [INFO]   ✓ Nintendo Switch App | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:40,153 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:42,242 [INFO] [ 629/4864] 处理: Movies Hub - Swipe and Like (id=6751544669)
+2026-03-26 07:22:42,339 [INFO]   ✓ Movies Hub - Swipe and Like | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:42,340 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:44,081 [INFO] [ 630/4864] 处理: Fandango at Home: Movies & TV (id=487285735)
+2026-03-26 07:22:44,282 [INFO]   ✓ Fandango at Home: Movies & TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:44,282 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:46,875 [INFO] [ 631/4864] 处理: Dootchi: Emochi Alternative (id=6757463780)
+2026-03-26 07:22:47,086 [INFO]   ✓ Dootchi: Emochi Alternative | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:47,087 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:49,780 [INFO] [ 632/4864] 处理: Angel: Stream TV & Movies (id=1473663873)
+2026-03-26 07:22:49,887 [INFO]   ✓ Angel: Stream TV & Movies | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:49,887 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:53,044 [INFO] [ 633/4864] 处理: Talking Ben the Dog (id=416345319)
+2026-03-26 07:22:53,174 [INFO]   ✓ Talking Ben the Dog | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:53,175 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:56,577 [INFO] [ 634/4864] 处理: Amazon Kids Parent Dashboard (id=6471528064)
+2026-03-26 07:22:56,662 [INFO]   ✓ Amazon Kids Parent Dashboard | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:56,662 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:22:58,409 [INFO] [ 635/4864] 处理: Fandango - Get Movie Tickets (id=307906541)
+2026-03-26 07:22:58,491 [INFO]   ✓ Fandango - Get Movie Tickets | 价格: Free | 类别: Entertainment
+2026-03-26 07:22:58,491 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:00,225 [INFO] [ 636/4864] 处理: The NBC App – Stream TV Shows (id=442839435)
+2026-03-26 07:23:00,311 [INFO]   ✓ The NBC App – Stream TV Shows | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:00,311 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:02,755 [INFO] [ 637/4864] 处理: Imposter Who? - Word Game (id=6746781192)
+2026-03-26 07:23:02,907 [INFO]   ✓ Imposter Who? - Word Game | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:02,907 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:05,243 [INFO] [ 638/4864] 处理: Universal TV Remote™ Control (id=6553976921)
+2026-03-26 07:23:05,337 [INFO]   ✓ Universal TV Remote™ Control | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:05,337 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:08,624 [INFO] [ 639/4864] 处理: Xfinity Stream (id=731629156)
+2026-03-26 07:23:08,834 [INFO]   ✓ Xfinity Stream | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:08,834 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:11,319 [INFO] [ 640/4864] 处理: Viggle AI: Meme Maker (id=6503272013)
+2026-03-26 07:23:11,407 [INFO]   ✓ Viggle AI: Meme Maker | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:11,407 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:14,108 [INFO] [ 641/4864] 处理: iDrama – Short Dramas & Reels (id=6741501595)
+2026-03-26 07:23:14,198 [INFO]   ✓ iDrama – Short Dramas & Reels | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:14,198 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:15,926 [INFO] [ 642/4864] 处理: iQIYI - Dramas, Anime, Shows (id=1461999674)
+2026-03-26 07:23:16,038 [INFO]   ✓ iQIYI - Dramas, Anime, Shows | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:16,038 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:17,740 [INFO] [ 643/4864] 处理: Cinema Box - سينما بوكس (id=1530506555)
+2026-03-26 07:23:17,843 [INFO]   ✓ Cinema Box - سينما بوكس | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:17,843 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:19,407 [INFO] [ 644/4864] 处理: Meme Soundboard 2026 Ultimate (id=1541448769)
+2026-03-26 07:23:19,592 [INFO]   ✓ Meme Soundboard 2026 Ultimate | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:19,593 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:22,354 [INFO] [ 645/4864] 处理: Topgolf (id=646322524)
+2026-03-26 07:23:22,455 [INFO]   ✓ Topgolf | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:22,455 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:24,876 [INFO] [ 646/4864] 处理: Telemundo: Series y TV en vivo (id=680595680)
+2026-03-26 07:23:24,985 [INFO]   ✓ Telemundo: Series y TV en vivo | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:24,986 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:27,296 [INFO] [ 647/4864] 处理: Chick-fil-A Play (id=6449374451)
+2026-03-26 07:23:27,379 [INFO]   ✓ Chick-fil-A Play | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:27,379 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:30,830 [INFO] [ 648/4864] 处理: Spin The Wheel - Random Picker (id=1467343690)
+2026-03-26 07:23:30,932 [INFO]   ✓ Spin The Wheel - Random Picker | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:30,932 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:33,742 [INFO] [ 649/4864] 处理: TinySong (id=6756135211)
+2026-03-26 07:23:33,831 [INFO]   ✓ TinySong | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:33,831 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:36,059 [INFO] [ 650/4864] 处理: PBS: Watch TV & Documentaries (id=398349296)
+2026-03-26 07:23:36,174 [INFO]   ✓ PBS: Watch TV & Documentaries | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:36,175 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:39,622 [INFO] [ 651/4864] 处理: MoboReels: Short Drama Series (id=6450243852)
+2026-03-26 07:23:39,712 [INFO]   ✓ MoboReels: Short Drama Series | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:39,712 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:42,848 [INFO] [ 652/4864] 处理: DIRECTV: TV & Movie Streaming (id=1136238277)
+2026-03-26 07:23:42,941 [INFO]   ✓ DIRECTV: TV & Movie Streaming | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:42,941 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:46,173 [INFO] [ 653/4864] 处理: Spectrum TV (id=420455839)
+2026-03-26 07:23:46,267 [INFO]   ✓ Spectrum TV | 价格: Free | 类别: Entertainment
+2026-03-26 07:23:46,268 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:48,660 [INFO] [ 654/4864] 处理: Stack the States® (id=381342267)
+2026-03-26 07:23:48,750 [INFO]   ✓ Stack the States® | 价格: $2.99 | 类别: Education
+2026-03-26 07:23:51,688 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:53,517 [INFO] [ 655/4864] 处理: EPA 608 Practice (id=1422450628)
+2026-03-26 07:23:53,628 [INFO]   ✓ EPA 608 Practice | 价格: $9.99 | 类别: Education
+2026-03-26 07:23:56,835 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:23:58,698 [INFO] [ 656/4864] 处理: HamStudy.org (id=1371288324)
+2026-03-26 07:23:58,840 [INFO]   ✓ HamStudy.org | 价格: $3.99 | 类别: Education
+2026-03-26 07:24:02,228 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:04,054 [INFO] [ 657/4864] 处理: iScore5 AP Human Geography (id=6755342612)
+2026-03-26 07:24:04,164 [INFO]   ✓ iScore5 AP Human Geography | 价格: $4.99 | 类别: Education
+2026-03-26 07:24:06,406 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:09,543 [INFO] [ 658/4864] 处理: Teach Your Monster to Read (id=828392046)
+2026-03-26 07:24:09,631 [INFO]   ✓ Teach Your Monster to Read | 价格: $8.99 | 类别: Education
+2026-03-26 07:24:13,339 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:15,910 [INFO] [ 659/4864] 处理: Wagotabi: Learn Japanese (id=6474207287)
+2026-03-26 07:24:16,021 [INFO]   ✓ Wagotabi: Learn Japanese | 价格: $4.99 | 类别: Education
+2026-03-26 07:24:19,943 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:22,683 [INFO] [ 660/4864] 处理: Prepware Remote Pilot (id=1135991142)
+2026-03-26 07:24:22,820 [INFO]   ✓ Prepware Remote Pilot | 价格: $4.99 | 类别: Education
+2026-03-26 07:24:26,176 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:28,373 [INFO] [ 661/4864] 处理: PROmote - Army Study Guide (id=435352951)
+2026-03-26 07:24:28,462 [INFO]   ✓ PROmote - Army Study Guide | 价格: $5.99 | 类别: Education
+2026-03-26 07:24:32,287 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:35,394 [INFO] [ 662/4864] 处理: ABA Wizard (id=1326943979)
+2026-03-26 07:24:35,497 [INFO]   ✓ ABA Wizard | 价格: $14.99 | 类别: Education
+2026-03-26 07:24:37,681 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:41,154 [INFO] [ 663/4864] 处理: Lineman's Reference - XFMR LAB (id=1583878194)
+2026-03-26 07:24:41,409 [INFO]   ✓ Lineman's Reference - XFMR LAB | 价格: $12.99 | 类别: Education
+2026-03-26 07:24:44,748 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:46,671 [INFO] [ 664/4864] 处理: Prepware Private Pilot (id=334278376)
+2026-03-26 07:24:46,837 [INFO]   ✓ Prepware Private Pilot | 价格: $9.99 | 类别: Education
+2026-03-26 07:24:49,923 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:52,838 [INFO] [ 665/4864] 处理: CE5 Contact (id=1499236474)
+2026-03-26 07:24:52,934 [INFO]   ✓ CE5 Contact | 价格: $9.99 | 类别: Education
+2026-03-26 07:24:56,319 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:24:59,019 [INFO] [ 666/4864] 处理: Stack the Countries® (id=407838198)
+2026-03-26 07:24:59,268 [INFO]   ✓ Stack the Countries® | 价格: $2.99 | 类别: Education
+2026-03-26 07:25:01,762 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:04,525 [INFO] [ 667/4864] 处理: StaffWars (id=810405576)
+2026-03-26 07:25:04,647 [INFO]   ✓ StaffWars | 价格: $1.99 | 类别: Education
+2026-03-26 07:25:08,548 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:10,622 [INFO] [ 668/4864] 处理: GENKI Vocab for 3rd Ed. (id=1531679862)
+2026-03-26 07:25:10,774 [INFO]   ✓ GENKI Vocab for 3rd Ed. | 价格: $5.99 | 类别: Education
+2026-03-26 07:25:13,443 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:15,809 [INFO] [ 669/4864] 处理: TLC Practice exam 2.0 (id=6447449111)
+2026-03-26 07:25:15,914 [INFO]   ✓ TLC Practice exam 2.0 | 价格: $24.99 | 类别: Education
+2026-03-26 07:25:19,745 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:21,283 [INFO] [ 670/4864] 处理: Expedition White Shark (id=488682903)
+2026-03-26 07:25:21,389 [INFO]   ✓ Expedition White Shark | 价格: $3.99 | 类别: Education
+2026-03-26 07:25:23,782 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:25,624 [INFO] [ 671/4864] 处理: Endless Alphabet (id=591626572)
+2026-03-26 07:25:25,741 [INFO]   ✓ Endless Alphabet | 价格: $8.99 | 类别: Education
+2026-03-26 07:25:27,964 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:30,808 [INFO] [ 672/4864] 处理: AndyRDH Board Review for NBDHE (id=432288363)
+2026-03-26 07:25:30,905 [INFO]   ✓ AndyRDH Board Review for NBDHE | 价格: $17.99 | 类别: Education
+2026-03-26 07:25:34,543 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:25:34,544 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:25:34,544 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:37,473 [INFO] [ 673/4864] 处理: TX Real Estate Exam Flashcards (id=539418490)
+2026-03-26 07:25:37,572 [INFO]   ✓ TX Real Estate Exam Flashcards | 价格: $2.99 | 类别: Education
+2026-03-26 07:25:41,312 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:43,810 [INFO] [ 674/4864] 处理: Wild Kratts Rescue Run (id=1315748103)
+2026-03-26 07:25:43,921 [INFO]   ✓ Wild Kratts Rescue Run | 价格: $2.99 | 类别: Education
+2026-03-26 07:25:46,741 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:49,973 [INFO] [ 675/4864] 处理: Private Pilot Test Prep (id=414141811)
+2026-03-26 07:25:50,125 [INFO]   ✓ Private Pilot Test Prep | 价格: $14.99 | 类别: Education
+2026-03-26 07:25:53,560 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:25:55,863 [INFO] [ 676/4864] 处理: Toca Hair Salon 2 (id=569632660)
+2026-03-26 07:25:56,006 [INFO]   ✓ Toca Hair Salon 2 | 价格: $3.99 | 类别: Education
+2026-03-26 07:25:59,623 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:02,701 [INFO] [ 677/4864] 处理: Search With Google (id=1672840409)
+2026-03-26 07:26:02,824 [INFO]   ✓ Search With Google | 价格: $1.99 | 类别: Education
+2026-03-26 07:26:06,655 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:26:06,656 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:26:06,657 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:09,286 [INFO] [ 678/4864] 处理: CCM Quiz App (id=1552945142)
+2026-03-26 07:26:09,430 [INFO]   ✓ CCM Quiz App | 价格: $19.99 | 类别: Education
+2026-03-26 07:26:11,632 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:14,464 [INFO] [ 679/4864] 处理: iScore5 AP Psychology (id=6739144070)
+2026-03-26 07:26:14,583 [INFO]   ✓ iScore5 AP Psychology | 价格: $4.99 | 类别: Education
+2026-03-26 07:26:17,460 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:19,054 [INFO] [ 680/4864] 处理: PANTHEON - Official (id=1523025509)
+2026-03-26 07:26:19,159 [INFO]   ✓ PANTHEON - Official | 价格: $1.99 | 类别: Education
+2026-03-26 07:26:21,484 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:24,499 [INFO] [ 681/4864] 处理: Peekaboo Barn (id=300590611)
+2026-03-26 07:26:24,623 [INFO]   ✓ Peekaboo Barn | 价格: $3.99 | 类别: Education
+2026-03-26 07:26:28,651 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:30,609 [INFO] [ 682/4864] 处理: Daniel Tiger’s Play at Home (id=553211336)
+2026-03-26 07:26:30,711 [INFO]   ✓ Daniel Tiger’s Play at Home | 价格: $2.99 | 类别: Education
+2026-03-26 07:26:35,015 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:38,372 [INFO] [ 683/4864] 处理: Jumpmaster PRO Study Guide (id=476837843)
+2026-03-26 07:26:38,493 [INFO]   ✓ Jumpmaster PRO Study Guide | 价格: $4.99 | 类别: Education
+2026-03-26 07:26:42,313 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:44,894 [INFO] [ 684/4864] 处理: EIB & ESB Digital Handbook (id=6449977458)
+2026-03-26 07:26:45,000 [INFO]   ✓ EIB & ESB Digital Handbook | 价格: $3.99 | 类别: Education
+2026-03-26 07:26:47,929 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:49,535 [INFO] [ 685/4864] 处理: Learning To Deal Blackjack (id=927192729)
+2026-03-26 07:26:49,727 [INFO]   ✓ Learning To Deal Blackjack | 价格: $2.99 | 类别: Education
+2026-03-26 07:26:52,758 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:26:54,947 [INFO] [ 686/4864] 处理: Flashnote Derby (id=453126527)
+2026-03-26 07:26:55,061 [INFO]   ✓ Flashnote Derby | 价格: $4.99 | 类别: Education
+2026-03-26 07:26:58,904 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:01,491 [INFO] [ 687/4864] 处理: California Firearms Test (id=1048775759)
+2026-03-26 07:27:01,587 [INFO]   ✓ California Firearms Test | 价格: $1.99 | 类别: Education
+2026-03-26 07:27:04,339 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:07,223 [INFO] [ 688/4864] 处理: Dont Miss A Beat Cath Lab (id=6759580185)
+2026-03-26 07:27:07,323 [INFO]   ✓ Dont Miss A Beat Cath Lab | 价格: $8.99 | 类别: Education
+2026-03-26 07:27:10,140 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:12,839 [INFO] [ 689/4864] 处理: EIB Expert Infantry Badge (id=1090776811)
+2026-03-26 07:27:12,937 [INFO]   ✓ EIB Expert Infantry Badge | 价格: $0.99 | 类别: Education
+2026-03-26 07:27:15,038 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:18,072 [INFO] [ 690/4864] 处理: Sesame Street Alphabet Kitchen (id=1039971485)
+2026-03-26 07:27:18,175 [INFO]   ✓ Sesame Street Alphabet Kitchen | 价格: $3.49 | 类别: Education
+2026-03-26 07:27:20,549 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:23,238 [INFO] [ 691/4864] 处理: LEGO® DUPLO® DOCTOR (id=6477299620)
+2026-03-26 07:27:23,341 [INFO]   ✓ LEGO® DUPLO® DOCTOR | 价格: $4.99 | 类别: Education
+2026-03-26 07:27:27,555 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:30,549 [INFO] [ 692/4864] 处理: GENKI Conjugation Cards (id=975482646)
+2026-03-26 07:27:30,632 [INFO]   ✓ GENKI Conjugation Cards | 价格: $5.99 | 类别: Education
+2026-03-26 07:27:34,414 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:37,664 [INFO] [ 693/4864] 处理: Star Walk 2 Pro: Sky Map Live (id=892279069)
+2026-03-26 07:27:37,789 [INFO]   ✓ Star Walk 2 Pro: Sky Map Live | 价格: $2.99 | 类别: Education
+2026-03-26 07:27:41,342 [INFO]   [网页] 找到 7 个内购项目
+2026-03-26 07:27:41,343 [INFO]   ✓ 内购: 7 项
+2026-03-26 07:27:41,343 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:44,095 [INFO] [ 694/4864] 处理: Monkey Preschool Lunchbox (id=328205875)
+2026-03-26 07:27:44,300 [INFO]   ✓ Monkey Preschool Lunchbox | 价格: $1.99 | 类别: Education
+2026-03-26 07:27:47,260 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:49,788 [INFO] [ 695/4864] 处理: Flora of Virginia (id=1150081157)
+2026-03-26 07:27:49,897 [INFO]   ✓ Flora of Virginia | 价格: $19.99 | 类别: Education
+2026-03-26 07:27:53,513 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:27:55,906 [INFO] [ 696/4864] 处理: Phonograms by SEI (id=934525008)
+2026-03-26 07:27:56,013 [INFO]   ✓ Phonograms by SEI | 价格: $3.99 | 类别: Education
+2026-03-26 07:27:59,054 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:02,190 [INFO] [ 697/4864] 处理: Common Core Pocket (id=967658524)
+2026-03-26 07:28:02,318 [INFO]   ✓ Common Core Pocket | 价格: $1.99 | 类别: Education
+2026-03-26 07:28:05,848 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:09,021 [INFO] [ 698/4864] 处理: Elmo Calls (id=467703220)
+2026-03-26 07:28:09,120 [INFO]   ✓ Elmo Calls | 价格: $1.99 | 类别: Education
+2026-03-26 07:28:13,125 [INFO]   [网页] 找到 9 个内购项目
+2026-03-26 07:28:13,127 [INFO]   ✓ 内购: 9 项
+2026-03-26 07:28:13,127 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:15,712 [INFO] [ 699/4864] 处理: GENKI Kanji for 3rd Ed. (id=1551595310)
+2026-03-26 07:28:15,836 [INFO]   ✓ GENKI Kanji for 3rd Ed. | 价格: $5.99 | 类别: Education
+2026-03-26 07:28:19,156 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:21,173 [INFO] [ 700/4864] 处理: Driving Theory Test 4 in 1 Kit (id=829581836)
+2026-03-26 07:28:21,283 [INFO]   ✓ Driving Theory Test 4 in 1 Kit | 价格: $5.99 | 类别: Education
+2026-03-26 07:28:23,558 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 07:28:23,559 [INFO]   ✓ 内购: 10 项
+2026-03-26 07:28:23,560 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:25,291 [INFO] [ 701/4864] 处理: ASA's Sailing Challenge (id=1109489005)
+2026-03-26 07:28:25,396 [INFO]   ✓ ASA's Sailing Challenge | 价格: $3.99 | 类别: Education
+2026-03-26 07:28:29,155 [INFO]   [网页] 找到 6 个内购项目
+2026-03-26 07:28:29,156 [INFO]   ✓ 内购: 6 项
+2026-03-26 07:28:29,156 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:32,528 [INFO] [ 702/4864] 处理: Graphing Calculator Plus AI (id=1279565050)
+2026-03-26 07:28:32,669 [INFO]   ✓ Graphing Calculator Plus AI | 价格: $5.99 | 类别: Education
+2026-03-26 07:28:36,291 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:28:36,292 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:28:36,292 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:39,602 [INFO] [ 703/4864] 处理: Sight Words Made Easy by EBLI (id=963595364)
+2026-03-26 07:28:39,695 [INFO]   ✓ Sight Words Made Easy by EBLI | 价格: $4.99 | 类别: Education
+2026-03-26 07:28:42,632 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:44,734 [INFO] [ 704/4864] 处理: Stack the States® 2 (id=1080767538)
+2026-03-26 07:28:44,839 [INFO]   ✓ Stack the States® 2 | 价格: $2.99 | 类别: Education
+2026-03-26 07:28:46,991 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:48,873 [INFO] [ 705/4864] 处理: AFOQT & TBAS Prep (id=6463172603)
+2026-03-26 07:28:48,959 [INFO]   ✓ AFOQT & TBAS Prep | 价格: $29.99 | 类别: Education
+2026-03-26 07:28:51,639 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:28:54,621 [INFO] [ 706/4864] 处理: Clef Trainer Grid (id=6749281721)
+2026-03-26 07:28:54,752 [INFO]   ✓ Clef Trainer Grid | 价格: $2.99 | 类别: Education
+2026-03-26 07:28:57,122 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:00,600 [INFO] [ 707/4864] 处理: Cahokia AR Tour (id=1569837431)
+2026-03-26 07:29:00,797 [INFO]   ✓ Cahokia AR Tour | 价格: $4.99 | 类别: Education
+2026-03-26 07:29:03,730 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:05,762 [INFO] [ 708/4864] 处理: iScore5 AP World History (id=1227107735)
+2026-03-26 07:29:05,867 [INFO]   ✓ iScore5 AP World History | 价格: $4.99 | 类别: Education
+2026-03-26 07:29:09,154 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:12,262 [INFO] [ 709/4864] 处理: Spider League: Arena (id=6758119717)
+2026-03-26 07:29:12,434 [INFO]   ✓ Spider League: Arena | 价格: $1.99 | 类别: Education
+2026-03-26 07:29:14,792 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:16,702 [INFO] [ 710/4864] 处理: IEW Writing Toolbox (id=6753764743)
+2026-03-26 07:29:16,836 [INFO]   ✓ IEW Writing Toolbox | 价格: $1.99 | 类别: Education
+2026-03-26 07:29:20,213 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:21,833 [INFO] [ 711/4864] 处理: American Mensa Brain Test (id=387692731)
+2026-03-26 07:29:21,956 [INFO]   ✓ American Mensa Brain Test | 价格: $1.99 | 类别: Education
+2026-03-26 07:29:24,768 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:26,872 [INFO] [ 712/4864] 处理: StarMap 3D+ Plus (id=351986992)
+2026-03-26 07:29:26,982 [INFO]   ✓ StarMap 3D+ Plus | 价格: $2.99 | 类别: Education
+2026-03-26 07:29:29,324 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:29:29,325 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:29:29,325 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:32,697 [INFO] [ 713/4864] 处理: BoardMe Lite (id=6757010733)
+2026-03-26 07:29:32,850 [INFO]   ✓ BoardMe Lite | 价格: $2.99 | 类别: Education
+2026-03-26 07:29:35,419 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:37,117 [INFO] [ 714/4864] 处理: Flashcards Deluxe (id=307840670)
+2026-03-26 07:29:37,235 [INFO]   ✓ Flashcards Deluxe | 价格: $3.99 | 类别: Education
+2026-03-26 07:29:40,561 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:29:40,562 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:29:40,562 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:43,093 [INFO] [ 715/4864] 处理: Spelling Shed (id=1264568098)
+2026-03-26 07:29:43,208 [INFO]   ✓ Spelling Shed | 价格: $2.99 | 类别: Education
+2026-03-26 07:29:45,549 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:47,137 [INFO] [ 716/4864] 处理: Prepware Commercial Pilot (id=338889475)
+2026-03-26 07:29:47,231 [INFO]   ✓ Prepware Commercial Pilot | 价格: $9.99 | 类别: Education
+2026-03-26 07:29:50,589 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:52,993 [INFO] [ 717/4864] 处理: Master-Nav (id=1602390396)
+2026-03-26 07:29:53,177 [INFO]   ✓ Master-Nav | 价格: $1.99 | 类别: Education
+2026-03-26 07:29:55,429 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:29:58,726 [INFO] [ 718/4864] 处理: Infant Zoo: Sounds For Baby (id=676487207)
+2026-03-26 07:29:58,959 [INFO]   ✓ Infant Zoo: Sounds For Baby | 价格: $3.99 | 类别: Education
+2026-03-26 07:30:02,609 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:04,455 [INFO] [ 719/4864] 处理: Daily Nanny (id=1180728044)
+2026-03-26 07:30:04,560 [INFO]   ✓ Daily Nanny | 价格: $6.99 | 类别: Education
+2026-03-26 07:30:08,206 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:30:08,207 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:30:08,208 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:10,571 [INFO] [ 720/4864] 处理: Letter Tiles for Learning (id=1314838376)
+2026-03-26 07:30:10,724 [INFO]   ✓ Letter Tiles for Learning | 价格: $19.99 | 类别: Education
+2026-03-26 07:30:12,897 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:15,168 [INFO] [ 721/4864] 处理: GRE Vocabulary Cartoons (id=1527155688)
+2026-03-26 07:30:15,335 [INFO]   ✓ GRE Vocabulary Cartoons | 价格: $2.99 | 类别: Education
+2026-03-26 07:30:18,253 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:21,536 [INFO] [ 722/4864] 处理: Learning To Deal Craps (id=1518870971)
+2026-03-26 07:30:21,653 [INFO]   ✓ Learning To Deal Craps | 价格: $4.99 | 类别: Education
+2026-03-26 07:30:24,393 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:26,907 [INFO] [ 723/4864] 处理: PhET Simulations (id=1134126831)
+2026-03-26 07:30:27,012 [INFO]   ✓ PhET Simulations | 价格: $0.99 | 类别: Education
+2026-03-26 07:30:30,072 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:32,971 [INFO] [ 724/4864] 处理: Lineman's Reference - URD (id=6478995455)
+2026-03-26 07:30:33,077 [INFO]   ✓ Lineman's Reference - URD | 价格: $9.99 | 类别: Education
+2026-03-26 07:30:36,865 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:38,666 [INFO] [ 725/4864] 处理: Alcyone: Chemistry Puzzle (id=6749684876)
+2026-03-26 07:30:38,776 [INFO]   ✓ Alcyone: Chemistry Puzzle | 价格: $6.99 | 类别: Education
+2026-03-26 07:30:42,505 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:44,980 [INFO] [ 726/4864] 处理: FloraQuest: Carolinas, Georgia (id=1552447057)
+2026-03-26 07:30:45,209 [INFO]   ✓ FloraQuest: Carolinas, Georgia | 价格: $19.99 | 类别: Education
+2026-03-26 07:30:47,729 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:49,844 [INFO] [ 727/4864] 处理: Numberblocks: Hide and Seek (id=1328950963)
+2026-03-26 07:30:49,958 [INFO]   ✓ Numberblocks: Hide and Seek | 价格: $2.99 | 类别: Education
+2026-03-26 07:30:52,493 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:30:54,833 [INFO] [ 728/4864] 处理: FAA A&P Powerplant Test Prep (id=381247259)
+2026-03-26 07:30:54,952 [INFO]   ✓ FAA A&P Powerplant Test Prep | 价格: $79.99 | 类别: Education
+2026-03-26 07:30:58,683 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:30:58,684 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:30:58,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:02,041 [INFO] [ 729/4864] 处理: Hoopa City 2 (id=1116026071)
+2026-03-26 07:31:02,151 [INFO]   ✓ Hoopa City 2 | 价格: $3.99 | 类别: Education
+2026-03-26 07:31:04,783 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:07,786 [INFO] [ 730/4864] 处理: E6BX E6B Flight Computer (id=1462588103)
+2026-03-26 07:31:08,005 [INFO]   ✓ E6BX E6B Flight Computer | 价格: $8.99 | 类别: Education
+2026-03-26 07:31:11,773 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:14,306 [INFO] [ 731/4864] 处理: AEMT Study Guide (id=6759938971)
+2026-03-26 07:31:14,394 [INFO]   ✓ AEMT Study Guide | 价格: $4.99 | 类别: Education
+2026-03-26 07:31:18,136 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:20,523 [INFO] [ 732/4864] 处理: Oolimo Guitar Chords (id=1463331841)
+2026-03-26 07:31:20,624 [INFO]   ✓ Oolimo Guitar Chords | 价格: $5.99 | 类别: Education
+2026-03-26 07:31:24,143 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:27,106 [INFO] [ 733/4864] 处理: TLC QuizMaster (id=6730113762)
+2026-03-26 07:31:27,251 [INFO]   ✓ TLC QuizMaster | 价格: $12.99 | 类别: Education
+2026-03-26 07:31:31,062 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:33,926 [INFO] [ 734/4864] 处理: Official Car/Bike DTT-Ireland (id=6503046688)
+2026-03-26 07:31:34,049 [INFO]   ✓ Official Car/Bike DTT-Ireland | 价格: $14.99 | 类别: Education
+2026-03-26 07:31:38,018 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:41,334 [INFO] [ 735/4864] 处理: BabySitMe (id=1475406264)
+2026-03-26 07:31:41,450 [INFO]   ✓ BabySitMe | 价格: $3.99 | 类别: Education
+2026-03-26 07:31:44,260 [INFO]   [网页] 找到 5 个内购项目
+2026-03-26 07:31:44,261 [INFO]   ✓ 内购: 5 项
+2026-03-26 07:31:44,261 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:46,953 [INFO] [ 736/4864] 处理: Talking ABC... (id=640478677)
+2026-03-26 07:31:47,056 [INFO]   ✓ Talking ABC... | 价格: $2.99 | 类别: Education
+2026-03-26 07:31:50,106 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:52,535 [INFO] [ 737/4864] 处理: BoatSchool (id=1567807599)
+2026-03-26 07:31:52,645 [INFO]   ✓ BoatSchool | 价格: $19.99 | 类别: Education
+2026-03-26 07:31:55,801 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:31:55,802 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:31:55,802 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:31:58,390 [INFO] [ 738/4864] 处理: Universe in a Nutshell (id=1526364758)
+2026-03-26 07:31:58,637 [INFO]   ✓ Universe in a Nutshell | 价格: $2.99 | 类别: Education
+2026-03-26 07:32:02,313 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:04,561 [INFO] [ 739/4864] 处理: Foundations Memory Work C2 (id=714463714)
+2026-03-26 07:32:04,684 [INFO]   ✓ Foundations Memory Work C2 | 价格: $9.99 | 类别: Education
+2026-03-26 07:32:07,294 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:09,041 [INFO] [ 740/4864] 处理: Alphablocks: Letter Fun (id=1037826540)
+2026-03-26 07:32:09,134 [INFO]   ✓ Alphablocks: Letter Fun | 价格: $2.99 | 类别: Education
+2026-03-26 07:32:11,495 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:13,477 [INFO] [ 741/4864] 处理: Foundations Memory Work C3 (id=501527692)
+2026-03-26 07:32:13,594 [INFO]   ✓ Foundations Memory Work C3 | 价格: $9.99 | 类别: Education
+2026-03-26 07:32:16,349 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:18,723 [INFO] [ 742/4864] 处理: Taichi Temple (id=965907172)
+2026-03-26 07:32:18,832 [INFO]   ✓ Taichi Temple | 价格: $5.99 | 类别: Education
+2026-03-26 07:32:21,511 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:24,296 [INFO] [ 743/4864] 处理: ASL Dictionary Sign Language (id=682472857)
+2026-03-26 07:32:24,411 [INFO]   ✓ ASL Dictionary Sign Language | 价格: $7.99 | 类别: Education
+2026-03-26 07:32:26,929 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:28,677 [INFO] [ 744/4864] 处理: Aptitude Test Trainer (id=554676520)
+2026-03-26 07:32:28,822 [INFO]   ✓ Aptitude Test Trainer | 价格: $5.99 | 类别: Education
+2026-03-26 07:32:31,694 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:33,498 [INFO] [ 745/4864] 处理: Anaphy (id=6446933924)
+2026-03-26 07:32:33,700 [INFO]   ✓ Anaphy | 价格: $5.99 | 类别: Education
+2026-03-26 07:32:36,669 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:38,342 [INFO] [ 746/4864] 处理: Stargate ESP Trainer (id=1565036180)
+2026-03-26 07:32:38,444 [INFO]   ✓ Stargate ESP Trainer | 价格: $0.99 | 类别: Education
+2026-03-26 07:32:41,357 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:43,672 [INFO] [ 747/4864] 处理: Speak & Learn English: Learna (id=6478287397)
+2026-03-26 07:32:43,784 [INFO]   ✓ Speak & Learn English: Learna | 价格: Free | 类别: Education
+2026-03-26 07:32:43,785 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:45,755 [INFO] [ 748/4864] 处理: Gauth: AI Study Companion (id=1542571008)
+2026-03-26 07:32:45,866 [INFO]   ✓ Gauth: AI Study Companion | 价格: Free | 类别: Education
+2026-03-26 07:32:45,866 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:48,030 [INFO] [ 749/4864] 处理: iNaturalist (id=6475737561)
+2026-03-26 07:32:48,168 [INFO]   ✓ iNaturalist | 价格: Free | 类别: Education
+2026-03-26 07:32:48,168 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:50,571 [INFO] [ 750/4864] 处理: Finelo: Master Trading (id=6670422243)
+2026-03-26 07:32:50,715 [INFO]   ✓ Finelo: Master Trading | 价格: Free | 类别: Education
+2026-03-26 07:32:50,715 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:52,438 [INFO] [ 751/4864] 处理: Vocabulary - Learn words daily (id=1084540807)
+2026-03-26 07:32:52,544 [INFO]   ✓ Vocabulary - Learn words daily | 价格: Free | 类别: Education
+2026-03-26 07:32:52,544 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:54,942 [INFO] [ 752/4864] 处理: Google Classroom (id=924620788)
+2026-03-26 07:32:55,070 [INFO]   ✓ Google Classroom | 价格: Free | 类别: Education
+2026-03-26 07:32:55,070 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:32:57,847 [INFO] [ 753/4864] 处理: Quizlet: More than Flashcards (id=546473125)
+2026-03-26 07:32:57,968 [INFO]   ✓ Quizlet: More than Flashcards | 价格: Free | 类别: Education
+2026-03-26 07:32:57,969 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:01,064 [INFO] [ 754/4864] 处理: Canvas by Instructure (id=480883488)
+2026-03-26 07:33:01,199 [INFO]   ✓ Canvas by Instructure | 价格: Free | 类别: Education
+2026-03-26 07:33:01,199 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:03,828 [INFO] [ 755/4864] 处理: Remind: School Communication (id=522826277)
+2026-03-26 07:33:04,043 [INFO]   ✓ Remind: School Communication | 价格: Free | 类别: Education
+2026-03-26 07:33:04,043 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:06,086 [INFO] [ 756/4864] 处理: Deepstash: Smarter Every Day! (id=1445023295)
+2026-03-26 07:33:06,192 [INFO]   ✓ Deepstash: Smarter Every Day! | 价格: Free | 类别: Education
+2026-03-26 07:33:06,193 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:09,012 [INFO] [ 757/4864] 处理: ParentSquare (id=908126679)
+2026-03-26 07:33:09,123 [INFO]   ✓ ParentSquare | 价格: Free | 类别: Education
+2026-03-26 07:33:09,124 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:11,211 [INFO] [ 758/4864] 处理: Toca Boca World (id=1208138685)
+2026-03-26 07:33:11,319 [INFO]   ✓ Toca Boca World | 价格: Free | 类别: Education
+2026-03-26 07:33:11,320 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:13,352 [INFO] [ 759/4864] 处理: Zutobi: Permit & Driving Prep (id=1394069110)
+2026-03-26 07:33:13,461 [INFO]   ✓ Zutobi: Permit & Driving Prep | 价格: Free | 类别: Education
+2026-03-26 07:33:13,461 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:16,792 [INFO] [ 760/4864] 处理: ClassDojo (id=552602056)
+2026-03-26 07:33:16,953 [INFO]   ✓ ClassDojo | 价格: Free | 类别: Education
+2026-03-26 07:33:16,954 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:19,844 [INFO] [ 761/4864] 处理: DMV Practice Test 2026 myDMV (id=1625234008)
+2026-03-26 07:33:19,951 [INFO]   ✓ DMV Practice Test 2026 myDMV | 价格: Free | 类别: Education
+2026-03-26 07:33:19,951 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:22,458 [INFO] [ 762/4864] 处理: Elevate - Brain Training Games (id=875063456)
+2026-03-26 07:33:22,563 [INFO]   ✓ Elevate - Brain Training Games | 价格: Free | 类别: Education
+2026-03-26 07:33:22,564 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:25,544 [INFO] [ 763/4864] 处理: BigFuture School (id=6462904878)
+2026-03-26 07:33:25,778 [INFO]   ✓ BigFuture School | 价格: Free | 类别: Education
+2026-03-26 07:33:25,779 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:27,300 [INFO] [ 764/4864] 处理: Kahoot! Play & Create Quizzes (id=1131203560)
+2026-03-26 07:33:27,439 [INFO]   ✓ Kahoot! Play & Create Quizzes | 价格: Free | 类别: Education
+2026-03-26 07:33:27,440 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:29,294 [INFO] [ 765/4864] 处理: Nibble: Your Bite of Knowledge (id=6444046612)
+2026-03-26 07:33:29,414 [INFO]   ✓ Nibble: Your Bite of Knowledge | 价格: Free | 类别: Education
+2026-03-26 07:33:29,415 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:32,802 [INFO] [ 766/4864] 处理: brightwheel: Child Care App (id=902823296)
+2026-03-26 07:33:32,968 [INFO]   ✓ brightwheel: Child Care App | 价格: Free | 类别: Education
+2026-03-26 07:33:32,968 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:36,075 [INFO] [ 767/4864] 处理: PowerSchool Mobile (id=973741088)
+2026-03-26 07:33:36,171 [INFO]   ✓ PowerSchool Mobile | 价格: Free | 类别: Education
+2026-03-26 07:33:36,171 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:39,533 [INFO] [ 768/4864] 处理: Lingokids - Play and Learn (id=1002043426)
+2026-03-26 07:33:39,676 [INFO]   ✓ Lingokids - Play and Learn | 价格: Free | 类别: Education
+2026-03-26 07:33:39,677 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:42,284 [INFO] [ 769/4864] 处理: Praktika – AI Language Tutor (id=1624701477)
+2026-03-26 07:33:42,396 [INFO]   ✓ Praktika – AI Language Tutor | 价格: Free | 类别: Education
+2026-03-26 07:33:42,397 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:44,943 [INFO] [ 770/4864] 处理: Speak: Language Learning (id=1286609883)
+2026-03-26 07:33:45,045 [INFO]   ✓ Speak: Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:33:45,046 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:48,207 [INFO] [ 771/4864] 处理: Toca Boca Jr (id=943869618)
+2026-03-26 07:33:48,306 [INFO]   ✓ Toca Boca Jr | 价格: Free | 类别: Education
+2026-03-26 07:33:48,306 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:51,112 [INFO] [ 772/4864] 处理: Question.AI-Math Calculator (id=6449486871)
+2026-03-26 07:33:51,227 [INFO]   ✓ Question.AI-Math Calculator | 价格: Free | 类别: Education
+2026-03-26 07:33:51,228 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:54,163 [INFO] [ 773/4864] 处理: Babbel - Language Learning (id=829587759)
+2026-03-26 07:33:54,292 [INFO]   ✓ Babbel - Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:33:54,292 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:55,860 [INFO] [ 774/4864] 处理: Imprint: Visual Micro Learning (id=1482780647)
+2026-03-26 07:33:56,001 [INFO]   ✓ Imprint: Visual Micro Learning | 价格: Free | 类别: Education
+2026-03-26 07:33:56,001 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:33:59,452 [INFO] [ 775/4864] 处理: Solvely - AI Study Companion (id=6446930976)
+2026-03-26 07:33:59,563 [INFO]   ✓ Solvely - AI Study Companion | 价格: Free | 类别: Education
+2026-03-26 07:33:59,563 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:02,067 [INFO] [ 776/4864] 处理: Solid Starts: Baby First Foods (id=1564189151)
+2026-03-26 07:34:02,179 [INFO]   ✓ Solid Starts: Baby First Foods | 价格: Free | 类别: Education
+2026-03-26 07:34:02,179 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:04,107 [INFO] [ 777/4864] 处理: DMV WRITTEN TEST (id=1497421016)
+2026-03-26 07:34:04,196 [INFO]   ✓ DMV WRITTEN TEST | 价格: Free | 类别: Education
+2026-03-26 07:34:04,197 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:06,398 [INFO] [ 778/4864] 处理: Photomath (id=919087726)
+2026-03-26 07:34:06,512 [INFO]   ✓ Photomath | 价格: Free | 类别: Education
+2026-03-26 07:34:06,512 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:08,274 [INFO] [ 779/4864] 处理: HelloTalk - Language Learning (id=557130558)
+2026-03-26 07:34:08,374 [INFO]   ✓ HelloTalk - Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:34:08,374 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:10,446 [INFO] [ 780/4864] 处理: Procare: Childcare App (id=1309822135)
+2026-03-26 07:34:10,536 [INFO]   ✓ Procare: Childcare App | 价格: Free | 类别: Education
+2026-03-26 07:34:10,536 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:13,714 [INFO] [ 781/4864] 处理: Simply Draw: Learn to Draw (id=1639875485)
+2026-03-26 07:34:13,809 [INFO]   ✓ Simply Draw: Learn to Draw | 价格: Free | 类别: Education
+2026-03-26 07:34:13,809 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:17,216 [INFO] [ 782/4864] 处理: Seek by iNaturalist (id=1353224144)
+2026-03-26 07:34:17,350 [INFO]   ✓ Seek by iNaturalist | 价格: Free | 类别: Education
+2026-03-26 07:34:17,351 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:19,004 [INFO] [ 783/4864] 处理: MapTap.gg (id=6755205355)
+2026-03-26 07:34:19,123 [INFO]   ✓ MapTap.gg | 价格: Free | 类别: Education
+2026-03-26 07:34:19,124 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:21,110 [INFO] [ 784/4864] 处理: Bold.org: Scholarships (id=6477827030)
+2026-03-26 07:34:21,223 [INFO]   ✓ Bold.org: Scholarships | 价格: Free | 类别: Education
+2026-03-26 07:34:21,223 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:24,374 [INFO] [ 785/4864] 处理: Micro Learning - SmartyMe (id=6736654449)
+2026-03-26 07:34:24,501 [INFO]   ✓ Micro Learning - SmartyMe | 价格: Free | 类别: Education
+2026-03-26 07:34:24,502 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:27,848 [INFO] [ 786/4864] 处理: Knowunity: AI Study & Homework (id=1484296272)
+2026-03-26 07:34:27,943 [INFO]   ✓ Knowunity: AI Study & Homework | 价格: Free | 类别: Education
+2026-03-26 07:34:27,943 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:31,306 [INFO] [ 787/4864] 处理: Campus Student (id=1384542200)
+2026-03-26 07:34:31,433 [INFO]   ✓ Campus Student | 价格: Free | 类别: Education
+2026-03-26 07:34:31,433 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:34,254 [INFO] [ 788/4864] 处理: Simply Piano: Learn Piano Fast (id=1019442026)
+2026-03-26 07:34:34,366 [INFO]   ✓ Simply Piano: Learn Piano Fast | 价格: Free | 类别: Education
+2026-03-26 07:34:34,366 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:36,414 [INFO] [ 789/4864] 处理: LangLearn: AI English Tutor (id=6744358897)
+2026-03-26 07:34:36,522 [INFO]   ✓ LangLearn: AI English Tutor | 价格: Free | 类别: Education
+2026-03-26 07:34:36,522 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:39,531 [INFO] [ 790/4864] 处理: PlantIn: Plant Identifier・Care (id=1527399597)
+2026-03-26 07:34:39,659 [INFO]   ✓ PlantIn: Plant Identifier・Care | 价格: Free | 类别: Education
+2026-03-26 07:34:39,659 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:42,377 [INFO] [ 791/4864] 处理: ABCmouse: Kids Learning Games (id=6460300848)
+2026-03-26 07:34:42,478 [INFO]   ✓ ABCmouse: Kids Learning Games | 价格: Free | 类别: Education
+2026-03-26 07:34:42,478 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:45,854 [INFO] [ 792/4864] 处理: Keiki Learning games for Kids (id=1508098273)
+2026-03-26 07:34:46,046 [INFO]   ✓ Keiki Learning games for Kids | 价格: Free | 类别: Education
+2026-03-26 07:34:46,047 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:48,590 [INFO] [ 793/4864] 处理: Lingvano - Learn Sign Language (id=1547252782)
+2026-03-26 07:34:48,694 [INFO]   ✓ Lingvano - Learn Sign Language | 价格: Free | 类别: Education
+2026-03-26 07:34:48,694 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:50,498 [INFO] [ 794/4864] 处理: RiseGuide: Top Expert Insights (id=6737224695)
+2026-03-26 07:34:50,594 [INFO]   ✓ RiseGuide: Top Expert Insights | 价格: Free | 类别: Education
+2026-03-26 07:34:50,594 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:53,334 [INFO] [ 795/4864] 处理: Pimsleur | Language Learning (id=1405735469)
+2026-03-26 07:34:53,443 [INFO]   ✓ Pimsleur | Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:34:53,444 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:56,782 [INFO] [ 796/4864] 处理: Clever (id=1134186971)
+2026-03-26 07:34:56,887 [INFO]   ✓ Clever | 价格: Free | 类别: Education
+2026-03-26 07:34:56,888 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:34:59,059 [INFO] [ 797/4864] 处理: PBS KIDS Games (id=1050773989)
+2026-03-26 07:34:59,146 [INFO]   ✓ PBS KIDS Games | 价格: Free | 类别: Education
+2026-03-26 07:34:59,146 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:01,017 [INFO] [ 798/4864] 处理: Navigate360 Student (id=950433229)
+2026-03-26 07:35:01,267 [INFO]   ✓ Navigate360 Student | 价格: Free | 类别: Education
+2026-03-26 07:35:01,268 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:03,771 [INFO] [ 799/4864] 处理: Kiddopia: Kids Learning Games (id=1223397201)
+2026-03-26 07:35:03,907 [INFO]   ✓ Kiddopia: Kids Learning Games | 价格: Free | 类别: Education
+2026-03-26 07:35:03,907 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:06,106 [INFO] [ 800/4864] 处理: Airlearn - Language Learning (id=6479639235)
+2026-03-26 07:35:06,217 [INFO]   ✓ Airlearn - Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:35:06,217 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:08,214 [INFO] [ 801/4864] 处理: DMV Practice Test - 2026 (id=1563340662)
+2026-03-26 07:35:08,318 [INFO]   ✓ DMV Practice Test - 2026 | 价格: Free | 类别: Education
+2026-03-26 07:35:08,318 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:10,610 [INFO] [ 802/4864] 处理: Calculate84 (id=1459712793)
+2026-03-26 07:35:10,724 [INFO]   ✓ Calculate84 | 价格: Free | 类别: Education
+2026-03-26 07:35:10,724 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:13,858 [INFO] [ 803/4864] 处理: Khan Academy (id=469863705)
+2026-03-26 07:35:13,972 [INFO]   ✓ Khan Academy | 价格: Free | 类别: Education
+2026-03-26 07:35:13,972 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:16,744 [INFO] [ 804/4864] 处理: CDL Prep (id=1101536521)
+2026-03-26 07:35:16,862 [INFO]   ✓ CDL Prep | 价格: Free | 类别: Education
+2026-03-26 07:35:16,863 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:18,990 [INFO] [ 805/4864] 处理: Turbo AI - Notetaker (id=6502794561)
+2026-03-26 07:35:19,101 [INFO]   ✓ Turbo AI - Notetaker | 价格: Free | 类别: Education
+2026-03-26 07:35:19,102 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:21,364 [INFO] [ 806/4864] 处理: IXL - Math, English, & More (id=693689912)
+2026-03-26 07:35:21,499 [INFO]   ✓ IXL - Math, English, & More | 价格: Free | 类别: Education
+2026-03-26 07:35:21,499 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:24,476 [INFO] [ 807/4864] 处理: RoadReady (id=699534935)
+2026-03-26 07:35:24,566 [INFO]   ✓ RoadReady | 价格: Free | 类别: Education
+2026-03-26 07:35:24,566 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:27,835 [INFO] [ 808/4864] 处理: Minecraft Education (id=1196524622)
+2026-03-26 07:35:27,943 [INFO]   ✓ Minecraft Education | 价格: Free | 类别: Education
+2026-03-26 07:35:27,943 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:31,195 [INFO] [ 809/4864] 处理: Bebi: Baby Games for Preschool (id=1474248135)
+2026-03-26 07:35:31,312 [INFO]   ✓ Bebi: Baby Games for Preschool | 价格: Free | 类别: Education
+2026-03-26 07:35:31,312 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:33,715 [INFO] [ 810/4864] 处理: Skyward Mobile Access (id=502635374)
+2026-03-26 07:35:33,959 [INFO]   ✓ Skyward Mobile Access | 价格: Free | 类别: Education
+2026-03-26 07:35:33,959 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:36,738 [INFO] [ 811/4864] 处理: Preply - Language Learning App (id=1352790442)
+2026-03-26 07:35:36,894 [INFO]   ✓ Preply - Language Learning App | 价格: Free | 类别: Education
+2026-03-26 07:35:36,895 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:38,884 [INFO] [ 812/4864] 处理: iNaturalist Classic (id=421397028)
+2026-03-26 07:35:39,014 [INFO]   ✓ iNaturalist Classic | 价格: Free | 类别: Education
+2026-03-26 07:35:39,014 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:41,803 [INFO] [ 813/4864] 处理: Rock Identifier: Stone ID (id=1546796934)
+2026-03-26 07:35:41,914 [INFO]   ✓ Rock Identifier: Stone ID | 价格: Free | 类别: Education
+2026-03-26 07:35:41,914 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:44,573 [INFO] [ 814/4864] 处理: Plant Identifier & Care App (id=1557446434)
+2026-03-26 07:35:44,736 [INFO]   ✓ Plant Identifier & Care App | 价格: Free | 类别: Education
+2026-03-26 07:35:44,737 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:48,231 [INFO] [ 815/4864] 处理: SkyView® Lite (id=413936865)
+2026-03-26 07:35:48,344 [INFO]   ✓ SkyView® Lite | 价格: Free | 类别: Education
+2026-03-26 07:35:48,344 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:50,284 [INFO] [ 816/4864] 处理: ArtWorkout: Learn How to Draw (id=1564657118)
+2026-03-26 07:35:50,523 [INFO]   ✓ ArtWorkout: Learn How to Draw | 价格: Free | 类别: Education
+2026-03-26 07:35:50,524 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:53,679 [INFO] [ 817/4864] 处理: Coursera: Grow your career (id=736535961)
+2026-03-26 07:35:53,793 [INFO]   ✓ Coursera: Grow your career | 价格: Free | 类别: Education
+2026-03-26 07:35:53,794 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:55,520 [INFO] [ 818/4864] 处理: PBS KIDS Video (id=435138734)
+2026-03-26 07:35:55,649 [INFO]   ✓ PBS KIDS Video | 价格: Free | 类别: Education
+2026-03-26 07:35:55,649 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:35:57,999 [INFO] [ 819/4864] 处理: Plant Identifier: Plantiary (id=1596971856)
+2026-03-26 07:35:58,151 [INFO]   ✓ Plant Identifier: Plantiary | 价格: Free | 类别: Education
+2026-03-26 07:35:58,151 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:01,525 [INFO] [ 820/4864] 处理: DMV Genie: Permit Test 2026 (id=513850893)
+2026-03-26 07:36:01,611 [INFO]   ✓ DMV Genie: Permit Test 2026 | 价格: Free | 类别: Education
+2026-03-26 07:36:01,612 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:03,449 [INFO] [ 821/4864] 处理: Simply Guitar - Learn Guitar (id=1476695335)
+2026-03-26 07:36:03,568 [INFO]   ✓ Simply Guitar - Learn Guitar | 价格: Free | 类别: Education
+2026-03-26 07:36:03,568 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:05,950 [INFO] [ 822/4864] 处理: Coloring Games for Kids 2-6! (id=451719402)
+2026-03-26 07:36:06,061 [INFO]   ✓ Coloring Games for Kids 2-6! | 价格: Free | 类别: Education
+2026-03-26 07:36:06,061 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:08,450 [INFO] [ 823/4864] 处理: PlantLush: Plant ID & Care Pro (id=6505012222)
+2026-03-26 07:36:08,570 [INFO]   ✓ PlantLush: Plant ID & Care Pro | 价格: Free | 类别: Education
+2026-03-26 07:36:08,571 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:10,328 [INFO] [ 824/4864] 处理: Epic - Kids' Books & Reading (id=719219382)
+2026-03-26 07:36:10,423 [INFO]   ✓ Epic - Kids' Books & Reading | 价格: Free | 类别: Education
+2026-03-26 07:36:10,423 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:13,304 [INFO] [ 825/4864] 处理: Language Learning: Pingo AI (id=6738882620)
+2026-03-26 07:36:13,407 [INFO]   ✓ Language Learning: Pingo AI | 价格: Free | 类别: Education
+2026-03-26 07:36:13,407 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:15,642 [INFO] [ 826/4864] 处理: RAISE365 (id=1576005531)
+2026-03-26 07:36:15,731 [INFO]   ✓ RAISE365 | 价格: Free | 类别: Education
+2026-03-26 07:36:15,731 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:18,484 [INFO] [ 827/4864] 处理: Paladin: Learn History (id=6511242367)
+2026-03-26 07:36:18,690 [INFO]   ✓ Paladin: Learn History | 价格: Free | 类别: Education
+2026-03-26 07:36:18,690 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:20,797 [INFO] [ 828/4864] 处理: Moodle (id=633359593)
+2026-03-26 07:36:20,953 [INFO]   ✓ Moodle | 价格: Free | 类别: Education
+2026-03-26 07:36:20,953 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:24,144 [INFO] [ 829/4864] 处理: Gizmo: AI Tutor (id=1610516671)
+2026-03-26 07:36:24,244 [INFO]   ✓ Gizmo: AI Tutor | 价格: Free | 类别: Education
+2026-03-26 07:36:24,244 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:27,331 [INFO] [ 830/4864] 处理: Busuu: Language Learning (id=379968583)
+2026-03-26 07:36:27,431 [INFO]   ✓ Busuu: Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:36:27,432 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:29,920 [INFO] [ 831/4864] 处理: Campus Parent (id=1384542785)
+2026-03-26 07:36:30,027 [INFO]   ✓ Campus Parent | 价格: Free | 类别: Education
+2026-03-26 07:36:30,028 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:31,735 [INFO] [ 832/4864] 处理: Brightspace Pulse (id=1001688546)
+2026-03-26 07:36:31,865 [INFO]   ✓ Brightspace Pulse | 价格: Free | 类别: Education
+2026-03-26 07:36:31,866 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:34,075 [INFO] [ 833/4864] 处理: LingoTok - AI Language Tutor (id=6739009137)
+2026-03-26 07:36:34,210 [INFO]   ✓ LingoTok - AI Language Tutor | 价格: Free | 类别: Education
+2026-03-26 07:36:34,211 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:36,576 [INFO] [ 834/4864] 处理: Learn to Read - Reading.com (id=1534938305)
+2026-03-26 07:36:36,668 [INFO]   ✓ Learn to Read - Reading.com | 价格: Free | 类别: Education
+2026-03-26 07:36:36,669 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:38,471 [INFO] [ 835/4864] 处理: Frontline Education (id=1160398526)
+2026-03-26 07:36:38,690 [INFO]   ✓ Frontline Education | 价格: Free | 类别: Education
+2026-03-26 07:36:38,691 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:41,934 [INFO] [ 836/4864] 处理: Headway - Daily Micro Learning (id=1457185832)
+2026-03-26 07:36:42,062 [INFO]   ✓ Headway - Daily Micro Learning | 价格: Free | 类别: Education
+2026-03-26 07:36:42,063 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:43,594 [INFO] [ 837/4864] 处理: Schoology (id=411766326)
+2026-03-26 07:36:43,684 [INFO]   ✓ Schoology | 价格: Free | 类别: Education
+2026-03-26 07:36:43,684 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:47,181 [INFO] [ 838/4864] 处理: IQ Masters: Brain Games, Tests (id=6475717895)
+2026-03-26 07:36:47,313 [INFO]   ✓ IQ Masters: Brain Games, Tests | 价格: Free | 类别: Education
+2026-03-26 07:36:47,313 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:49,202 [INFO] [ 839/4864] 处理: Khan Academy Kids (id=1378467217)
+2026-03-26 07:36:49,306 [INFO]   ✓ Khan Academy Kids | 价格: Free | 类别: Education
+2026-03-26 07:36:49,306 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:51,084 [INFO] [ 840/4864] 处理: Memrise Easy Language Learning (id=635966718)
+2026-03-26 07:36:51,279 [INFO]   ✓ Memrise Easy Language Learning | 价格: Free | 类别: Education
+2026-03-26 07:36:51,279 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:53,334 [INFO] [ 841/4864] 处理: Aceable Drivers Ed & Test Prep (id=766014676)
+2026-03-26 07:36:53,456 [INFO]   ✓ Aceable Drivers Ed & Test Prep | 价格: Free | 类别: Education
+2026-03-26 07:36:53,457 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:56,149 [INFO] [ 842/4864] 处理: Bookshelf (id=389359495)
+2026-03-26 07:36:56,258 [INFO]   ✓ Bookshelf | 价格: Free | 类别: Education
+2026-03-26 07:36:56,258 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:36:57,856 [INFO] [ 843/4864] 处理: Quiz AI: AI Homework Helper (id=6444201819)
+2026-03-26 07:36:57,949 [INFO]   ✓ Quiz AI: AI Homework Helper | 价格: Free | 类别: Education
+2026-03-26 07:36:57,949 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:00,736 [INFO] [ 844/4864] 处理: ClassLink LaunchPad (id=524297631)
+2026-03-26 07:37:00,849 [INFO]   ✓ ClassLink LaunchPad | 价格: Free | 类别: Education
+2026-03-26 07:37:00,850 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:03,891 [INFO] [ 845/4864] 处理: Bound - Audiobook Player (id=1041727137)
+2026-03-26 07:37:03,989 [INFO]   ✓ Bound - Audiobook Player | 价格: $4.99 | 类别: Book
+2026-03-26 07:37:06,253 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:09,475 [INFO] [ 846/4864] 处理: Twenty-Four Hours a Day (id=389029534)
+2026-03-26 07:37:09,584 [INFO]   ✓ Twenty-Four Hours a Day | 价格: $7.99 | 类别: Book
+2026-03-26 07:37:13,134 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:15,592 [INFO] [ 847/4864] 处理: Cepher (id=1111754263)
+2026-03-26 07:37:15,686 [INFO]   ✓ Cepher | 价格: $21.99 | 类别: Book
+2026-03-26 07:37:17,780 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:20,700 [INFO] [ 848/4864] 处理: More Language of Letting Go (id=662254410)
+2026-03-26 07:37:20,805 [INFO]   ✓ More Language of Letting Go | 价格: $8.99 | 类别: Book
+2026-03-26 07:37:23,836 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:25,478 [INFO] [ 849/4864] 处理: ShelfPlayer (id=6475221163)
+2026-03-26 07:37:25,698 [INFO]   ✓ ShelfPlayer | 价格: $5.99 | 类别: Book
+2026-03-26 07:37:28,939 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:32,356 [INFO] [ 850/4864] 处理: Mirror Study Bible (id=1447612543)
+2026-03-26 07:37:32,449 [INFO]   ✓ Mirror Study Bible | 价格: $19.99 | 类别: Book
+2026-03-26 07:37:35,171 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:37:35,173 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:37:35,173 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:38,371 [INFO] [ 851/4864] 处理: BookBuddy Pro: Book Tracker (id=395149950)
+2026-03-26 07:37:38,686 [INFO]   ✓ BookBuddy Pro: Book Tracker | 价格: $9.99 | 类别: Book
+2026-03-26 07:37:42,440 [INFO]   [网页] 找到 4 个内购项目
+2026-03-26 07:37:42,442 [INFO]   ✓ 内购: 4 项
+2026-03-26 07:37:42,442 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:44,856 [INFO] [ 852/4864] 处理: MotoJitsu (id=1549608440)
+2026-03-26 07:37:45,019 [INFO]   ✓ MotoJitsu | 价格: $9.99 | 类别: Book
+2026-03-26 07:37:48,878 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:51,144 [INFO] [ 853/4864] 处理: The Cantina Archive (id=6745520515)
+2026-03-26 07:37:51,242 [INFO]   ✓ The Cantina Archive | 价格: $3.99 | 类别: Book
+2026-03-26 07:37:53,432 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:54,994 [INFO] [ 854/4864] 处理: Jubilees, Jasher & Enoch PRO (id=1601196449)
+2026-03-26 07:37:55,104 [INFO]   ✓ Jubilees, Jasher & Enoch PRO | 价格: $9.99 | 类别: Book
+2026-03-26 07:37:57,564 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:37:59,091 [INFO] [ 855/4864] 处理: Littlest Pet Shop: Pet Style (id=1017354785)
+2026-03-26 07:37:59,184 [INFO]   ✓ Littlest Pet Shop: Pet Style | 价格: $2.99 | 类别: Book
+2026-03-26 07:38:02,948 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:04,678 [INFO] [ 856/4864] 处理: AA Big Book App  -  Unofficial (id=1067750892)
+2026-03-26 07:38:04,798 [INFO]   ✓ AA Big Book App  -  Unofficial | 价格: $0.99 | 类别: Book
+2026-03-26 07:38:06,971 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:09,395 [INFO] [ 857/4864] 处理: Dialing God (id=327389387)
+2026-03-26 07:38:09,502 [INFO]   ✓ Dialing God | 价格: $9.99 | 类别: Book
+2026-03-26 07:38:11,613 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:13,919 [INFO] [ 858/4864] 处理: القاعدة النورانية (id=841875549)
+2026-03-26 07:38:14,020 [INFO]   ✓ القاعدة النورانية | 价格: $5.99 | 类别: Book
+2026-03-26 07:38:17,550 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:20,918 [INFO] [ 859/4864] 处理: LibriVox Audiobooks – Ad-Free (id=662558935)
+2026-03-26 07:38:21,041 [INFO]   ✓ LibriVox Audiobooks – Ad-Free | 价格: $4.99 | 类别: Book
+2026-03-26 07:38:23,681 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:26,532 [INFO] [ 860/4864] 处理: The Monster at the End... (id=409467802)
+2026-03-26 07:38:26,696 [INFO]   ✓ The Monster at the End... | 价格: $4.99 | 类别: Book
+2026-03-26 07:38:30,173 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:31,999 [INFO] [ 861/4864] 处理: Bluefire Reader (id=394275498)
+2026-03-26 07:38:32,096 [INFO]   ✓ Bluefire Reader | 价格: $4.99 | 类别: Book
+2026-03-26 07:38:34,341 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:37,827 [INFO] [ 862/4864] 处理: Touchstones (id=397846608)
+2026-03-26 07:38:37,950 [INFO]   ✓ Touchstones | 价格: $7.99 | 类别: Book
+2026-03-26 07:38:40,875 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:43,992 [INFO] [ 863/4864] 处理: Catholic Hymn (id=1397002811)
+2026-03-26 07:38:44,101 [INFO]   ✓ Catholic Hymn | 价格: $0.99 | 类别: Book
+2026-03-26 07:38:46,422 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:49,530 [INFO] [ 864/4864] 处理: StotraNidhi (id=981063067)
+2026-03-26 07:38:49,687 [INFO]   ✓ StotraNidhi | 价格: $5.99 | 类别: Book
+2026-03-26 07:38:53,394 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:38:56,221 [INFO] [ 865/4864] 处理: Teach Monster: Reading for Fun (id=1512939054)
+2026-03-26 07:38:56,334 [INFO]   ✓ Teach Monster: Reading for Fun | 价格: $7.99 | 类别: Book
+2026-03-26 07:38:59,311 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:01,611 [INFO] [ 866/4864] 处理: Free Books - 23,469 Classics For Less Than A Cup Of Coffee. An Extensive Ebooks And Audiobooks Library (id=317776727)
+2026-03-26 07:39:01,820 [INFO]   ✓ Free Books - 23,469 Classics For Less Than A Cup Of Coffee. An Extensive Ebooks And Audiobooks Library | 价格: $0.99 | 类别: Book
+2026-03-26 07:39:04,122 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:39:04,123 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:39:04,123 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:07,031 [INFO] [ 867/4864] 处理: Nighty Night Forest (id=1300717402)
+2026-03-26 07:39:07,136 [INFO]   ✓ Nighty Night Forest | 价格: $3.99 | 类别: Book
+2026-03-26 07:39:09,403 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:11,141 [INFO] [ 868/4864] 处理: Comic Geek Speak Podcast (id=6759677443)
+2026-03-26 07:39:11,276 [INFO]   ✓ Comic Geek Speak Podcast | 价格: $3.99 | 类别: Book
+2026-03-26 07:39:14,702 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:17,674 [INFO] [ 869/4864] 处理: Pango Comics (id=1099753733)
+2026-03-26 07:39:17,849 [INFO]   ✓ Pango Comics | 价格: $4.99 | 类别: Book
+2026-03-26 07:39:20,714 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:24,165 [INFO] [ 870/4864] 处理: Feelings Buried Alive (id=1075875617)
+2026-03-26 07:39:24,268 [INFO]   ✓ Feelings Buried Alive | 价格: $4.99 | 类别: Book
+2026-03-26 07:39:26,513 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:29,582 [INFO] [ 871/4864] 处理: Berenstain Bears Collection #1 (id=690910495)
+2026-03-26 07:39:29,725 [INFO]   ✓ Berenstain Bears Collection #1 | 价格: $14.99 | 类别: Book
+2026-03-26 07:39:32,425 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:35,217 [INFO] [ 872/4864] 处理: Audiobooks HQ + (id=573235547)
+2026-03-26 07:39:35,315 [INFO]   ✓ Audiobooks HQ + | 价格: $1.99 | 类别: Book
+2026-03-26 07:39:38,305 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:41,544 [INFO] [ 873/4864] 处理: Wicca Spellbook (id=526758956)
+2026-03-26 07:39:41,640 [INFO]   ✓ Wicca Spellbook | 价格: $0.99 | 类别: Book
+2026-03-26 07:39:44,840 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:39:44,841 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:39:44,841 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:48,310 [INFO] [ 874/4864] 处理: Book of Enoch. (id=6756316405)
+2026-03-26 07:39:48,515 [INFO]   ✓ Book of Enoch. | 价格: $2.99 | 类别: Book
+2026-03-26 07:39:52,717 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:39:55,383 [INFO] [ 875/4864] 处理: Little Critter Collection #1 (id=509576822)
+2026-03-26 07:39:55,486 [INFO]   ✓ Little Critter Collection #1 | 价格: $13.99 | 类别: Book
+2026-03-26 07:39:57,870 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:01,361 [INFO] [ 876/4864] 处理: Equine Anatomy Learning Aid (id=1489633019)
+2026-03-26 07:40:01,469 [INFO]   ✓ Equine Anatomy Learning Aid | 价格: $15.99 | 类别: Book
+2026-03-26 07:40:03,574 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:06,437 [INFO] [ 877/4864] 处理: A Day at a Time Meditations (id=397833792)
+2026-03-26 07:40:06,527 [INFO]   ✓ A Day at a Time Meditations | 价格: $7.99 | 类别: Book
+2026-03-26 07:40:09,991 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:12,077 [INFO] [ 878/4864] 处理: MP3 Audiobook Player Pro (id=889580711)
+2026-03-26 07:40:12,173 [INFO]   ✓ MP3 Audiobook Player Pro | 价格: $5.99 | 类别: Book
+2026-03-26 07:40:14,943 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:17,843 [INFO] [ 879/4864] 处理: Mezgebe Haymanot (id=1490688435)
+2026-03-26 07:40:17,963 [INFO]   ✓ Mezgebe Haymanot | 价格: $17.99 | 类别: Book
+2026-03-26 07:40:20,235 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:22,412 [INFO] [ 880/4864] 处理: Dr. Seuss's ABC - Read & Learn (id=1011479119)
+2026-03-26 07:40:22,500 [INFO]   ✓ Dr. Seuss's ABC - Read & Learn | 价格: $3.99 | 类别: Book
+2026-03-26 07:40:25,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:27,634 [INFO] [ 881/4864] 处理: Tongan-English Dictionary (id=1328558547)
+2026-03-26 07:40:27,731 [INFO]   ✓ Tongan-English Dictionary | 价格: $7.99 | 类别: Book
+2026-03-26 07:40:31,634 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:34,692 [INFO] [ 882/4864] 处理: Interlinear Bible (id=1386148836)
+2026-03-26 07:40:34,890 [INFO]   ✓ Interlinear Bible | 价格: $6.99 | 类别: Book
+2026-03-26 07:40:38,549 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:40,056 [INFO] [ 883/4864] 处理: Tanakh Pro (id=6736739283)
+2026-03-26 07:40:40,144 [INFO]   ✓ Tanakh Pro | 价格: $2.99 | 类别: Book
+2026-03-26 07:40:43,501 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:46,474 [INFO] [ 884/4864] 处理: My Little Pony: Power Ponies (id=893619699)
+2026-03-26 07:40:46,562 [INFO]   ✓ My Little Pony: Power Ponies | 价格: $2.99 | 类别: Book
+2026-03-26 07:40:50,226 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:52,078 [INFO] [ 885/4864] 处理: Myanmar Bible Pro (Burmese) (id=1561101801)
+2026-03-26 07:40:52,178 [INFO]   ✓ Myanmar Bible Pro (Burmese) | 价格: $5.99 | 类别: Book
+2026-03-26 07:40:55,377 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:40:57,051 [INFO] [ 886/4864] 处理: My Little Pony Party of One (id=701084505)
+2026-03-26 07:40:57,259 [INFO]   ✓ My Little Pony Party of One | 价格: $2.99 | 类别: Book
+2026-03-26 07:41:00,260 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:41:00,261 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:41:00,261 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:03,213 [INFO] [ 887/4864] 处理: My Little Pony: Trick or Treat (id=924058967)
+2026-03-26 07:41:03,305 [INFO]   ✓ My Little Pony: Trick or Treat | 价格: $2.99 | 类别: Book
+2026-03-26 07:41:06,171 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:08,261 [INFO] [ 888/4864] 处理: planetarian - Dream of Little Star - (id=474121500)
+2026-03-26 07:41:08,359 [INFO]   ✓ planetarian - Dream of Little Star - | 价格: $2.99 | 类别: Book
+2026-03-26 07:41:10,439 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:13,433 [INFO] [ 889/4864] 处理: Angels Of Atlantis Oracle Cards (id=523366295)
+2026-03-26 07:41:13,536 [INFO]   ✓ Angels Of Atlantis Oracle Cards | 价格: $7.99 | 类别: Book
+2026-03-26 07:41:15,849 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:17,476 [INFO] [ 890/4864] 处理: Harry and the Haunted House (id=565239081)
+2026-03-26 07:41:17,570 [INFO]   ✓ Harry and the Haunted House | 价格: $4.99 | 类别: Book
+2026-03-26 07:41:20,121 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:41:20,122 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:41:20,122 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:23,016 [INFO] [ 891/4864] 处理: Little Critter Collection #2 (id=643020940)
+2026-03-26 07:41:23,102 [INFO]   ✓ Little Critter Collection #2 | 价格: $14.99 | 类别: Book
+2026-03-26 07:41:26,569 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:28,436 [INFO] [ 892/4864] 处理: Living Lights Collection #2 (id=891786010)
+2026-03-26 07:41:28,523 [INFO]   ✓ Living Lights Collection #2 | 价格: $19.99 | 类别: Book
+2026-03-26 07:41:32,319 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:33,930 [INFO] [ 893/4864] 处理: Dickens Books (id=1094664732)
+2026-03-26 07:41:34,033 [INFO]   ✓ Dickens Books | 价格: $1.99 | 类别: Book
+2026-03-26 07:41:37,858 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:40,702 [INFO] [ 894/4864] 处理: Mr. Potato Head: School Rush (id=1065623382)
+2026-03-26 07:41:40,911 [INFO]   ✓ Mr. Potato Head: School Rush | 价格: $3.99 | 类别: Book
+2026-03-26 07:41:44,441 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:41:44,442 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:41:44,442 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:47,134 [INFO] [ 895/4864] 处理: Siddur – Classic Edition (id=731295415)
+2026-03-26 07:41:47,241 [INFO]   ✓ Siddur – Classic Edition | 价格: $5.99 | 类别: Book
+2026-03-26 07:41:50,527 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:52,174 [INFO] [ 896/4864] 处理: Siddur – Annotated Edition (id=731295538)
+2026-03-26 07:41:52,279 [INFO]   ✓ Siddur – Annotated Edition | 价格: $5.99 | 类别: Book
+2026-03-26 07:41:55,525 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:41:57,437 [INFO] [ 897/4864] 处理: Amharic Bible 81 Books (id=6755670596)
+2026-03-26 07:41:57,538 [INFO]   ✓ Amharic Bible 81 Books | 价格: $2.99 | 类别: Book
+2026-03-26 07:42:01,188 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:03,443 [INFO] [ 898/4864] 处理: QuickReader - Speed Reading (id=333441801)
+2026-03-26 07:42:03,559 [INFO]   ✓ QuickReader - Speed Reading | 价格: $4.99 | 类别: Book
+2026-03-26 07:42:06,765 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:10,168 [INFO] [ 899/4864] 处理: 두란노 성경&사전 (id=418750972)
+2026-03-26 07:42:10,255 [INFO]   ✓ 두란노 성경&사전 | 价格: $5.99 | 类别: Book
+2026-03-26 07:42:12,868 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:14,791 [INFO] [ 900/4864] 处理: In A Fight, Berenstain Bears (id=573110311)
+2026-03-26 07:42:14,873 [INFO]   ✓ In A Fight, Berenstain Bears | 价格: $4.99 | 类别: Book
+2026-03-26 07:42:18,055 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:42:18,057 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:42:18,057 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:20,903 [INFO] [ 901/4864] 处理: Plain English Book of Mormon (id=6757943123)
+2026-03-26 07:42:21,000 [INFO]   ✓ Plain English Book of Mormon | 价格: $0.99 | 类别: Book
+2026-03-26 07:42:23,377 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:25,613 [INFO] [ 902/4864] 处理: Smart Comic Reader (id=1511175212)
+2026-03-26 07:42:25,709 [INFO]   ✓ Smart Comic Reader | 价格: $2.99 | 类别: Book
+2026-03-26 07:42:29,006 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:30,772 [INFO] [ 903/4864] 处理: MapleRead SE (id=860169741)
+2026-03-26 07:42:30,870 [INFO]   ✓ MapleRead SE | 价格: $8.99 | 类别: Book
+2026-03-26 07:42:34,467 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 07:42:34,468 [INFO]   ✓ 内购: 3 项
+2026-03-26 07:42:34,469 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:37,954 [INFO] [ 904/4864] 处理: Transformers Rescue Bots: Dino (id=961648591)
+2026-03-26 07:42:38,045 [INFO]   ✓ Transformers Rescue Bots: Dino | 价格: $2.99 | 类别: Book
+2026-03-26 07:42:40,900 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:43,268 [INFO] [ 905/4864] 处理: In The Dark, Berenstain Bears (id=587633813)
+2026-03-26 07:42:43,355 [INFO]   ✓ In The Dark, Berenstain Bears | 价格: $4.99 | 类别: Book
+2026-03-26 07:42:45,462 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:42:45,463 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:42:45,463 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:48,469 [INFO] [ 906/4864] 处理: iLovecraft 2 Immersive Reading (id=1261952293)
+2026-03-26 07:42:48,668 [INFO]   ✓ iLovecraft 2 Immersive Reading | 价格: $3.99 | 类别: Book
+2026-03-26 07:42:51,400 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:53,617 [INFO] [ 907/4864] 处理: cMate-IMDG Code (id=1496909206)
+2026-03-26 07:42:53,705 [INFO]   ✓ cMate-IMDG Code | 价格: $3.99 | 类别: Book
+2026-03-26 07:42:56,284 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:42:58,768 [INFO] [ 908/4864] 处理: Biblia Reina Valera PRO-no ads (id=1623422868)
+2026-03-26 07:42:58,857 [INFO]   ✓ Biblia Reina Valera PRO-no ads | 价格: $6.99 | 类别: Book
+2026-03-26 07:43:02,690 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:05,858 [INFO] [ 909/4864] 处理: AR Book Scanner (id=1631434309)
+2026-03-26 07:43:05,991 [INFO]   ✓ AR Book Scanner | 价格: $0.99 | 类别: Book
+2026-03-26 07:43:09,441 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:12,091 [INFO] [ 910/4864] 处理: Arthur's Birthday (id=577614199)
+2026-03-26 07:43:12,286 [INFO]   ✓ Arthur's Birthday | 价格: $4.99 | 类别: Book
+2026-03-26 07:43:15,111 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:43:15,112 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:43:15,112 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:18,178 [INFO] [ 911/4864] 处理: The Cat in the Hat Comes Back (id=1334269103)
+2026-03-26 07:43:18,282 [INFO]   ✓ The Cat in the Hat Comes Back | 价格: $3.99 | 类别: Book
+2026-03-26 07:43:21,967 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:23,796 [INFO] [ 912/4864] 处理: Gita Amrit (id=6759930999)
+2026-03-26 07:43:23,913 [INFO]   ✓ Gita Amrit | 价格: $0.99 | 类别: Book
+2026-03-26 07:43:25,973 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:28,178 [INFO] [ 913/4864] 处理: Watch Reader - txt file (id=6447301850)
+2026-03-26 07:43:28,314 [INFO]   ✓ Watch Reader - txt file | 价格: $3.99 | 类别: Book
+2026-03-26 07:43:32,004 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:33,545 [INFO] [ 914/4864] 处理: The Berenstain Bears Sick Days (id=797147934)
+2026-03-26 07:43:33,664 [INFO]   ✓ The Berenstain Bears Sick Days | 价格: $3.99 | 类别: Book
+2026-03-26 07:43:36,177 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:38,626 [INFO] [ 915/4864] 处理: Vox libri (id=6745276008)
+2026-03-26 07:43:38,714 [INFO]   ✓ Vox libri | 价格: $4.99 | 类别: Book
+2026-03-26 07:43:42,268 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:44,446 [INFO] [ 916/4864] 处理: Rod's Private Pilot Handbook (id=399662350)
+2026-03-26 07:43:44,555 [INFO]   ✓ Rod's Private Pilot Handbook | 价格: $49.99 | 类别: Book
+2026-03-26 07:43:46,733 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:49,152 [INFO] [ 917/4864] 处理: ShuBook 2M (id=950017941)
+2026-03-26 07:43:49,242 [INFO]   ✓ ShuBook 2M | 价格: $5.99 | 类别: Book
+2026-03-26 07:43:51,486 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:53,393 [INFO] [ 918/4864] 处理: El Cefer (id=1557967114)
+2026-03-26 07:43:53,499 [INFO]   ✓ El Cefer | 价格: $21.99 | 类别: Book
+2026-03-26 07:43:55,746 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:43:58,555 [INFO] [ 919/4864] 处理: Сахих Аль-Бухари (id=493614362)
+2026-03-26 07:43:58,699 [INFO]   ✓ Сахих Аль-Бухари | 价格: $1.99 | 类别: Book
+2026-03-26 07:44:02,364 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:04,669 [INFO] [ 920/4864] 处理: موسوعة بحار الأنوار الكاملة (id=1454113754)
+2026-03-26 07:44:04,794 [INFO]   ✓ موسوعة بحار الأنوار الكاملة | 价格: $1.99 | 类别: Book
+2026-03-26 07:44:07,927 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:09,953 [INFO] [ 921/4864] 处理: معاجم اللغة العربية + (id=1640317028)
+2026-03-26 07:44:10,431 [INFO]   ✓ معاجم اللغة العربية + | 价格: $2.99 | 类别: Book
+2026-03-26 07:44:12,955 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:15,305 [INFO] [ 922/4864] 处理: Geez Amharic Bible 81 Pro (id=1556812699)
+2026-03-26 07:44:15,413 [INFO]   ✓ Geez Amharic Bible 81 Pro | 价格: $5.99 | 类别: Book
+2026-03-26 07:44:19,457 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:21,370 [INFO] [ 923/4864] 处理: Green Eggs and Ham (id=1011476555)
+2026-03-26 07:44:21,556 [INFO]   ✓ Green Eggs and Ham | 价格: $3.99 | 类别: Book
+2026-03-26 07:44:24,388 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:27,552 [INFO] [ 924/4864] 处理: Sephardic Siddur (id=1146814685)
+2026-03-26 07:44:27,659 [INFO]   ✓ Sephardic Siddur | 价格: $4.99 | 类别: Book
+2026-03-26 07:44:30,344 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:32,311 [INFO] [ 925/4864] 处理: Audiobooks - 5,239 Classics Ready to Listen (id=352615816)
+2026-03-26 07:44:32,429 [INFO]   ✓ Audiobooks - 5,239 Classics Ready to Listen | 价格: $1.99 | 类别: Book
+2026-03-26 07:44:36,172 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:44:36,173 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:44:36,173 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:37,742 [INFO] [ 926/4864] 处理: Book Level Checker (id=1495605359)
+2026-03-26 07:44:37,884 [INFO]   ✓ Book Level Checker | 价格: $2.99 | 类别: Book
+2026-03-26 07:44:40,819 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:43,406 [INFO] [ 927/4864] 处理: BookScanner Book Leveler App (id=583672052)
+2026-03-26 07:44:43,505 [INFO]   ✓ BookScanner Book Leveler App | 价格: $39.99 | 类别: Book
+2026-03-26 07:44:47,602 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 07:44:47,603 [INFO]   ✓ 内购: 1 项
+2026-03-26 07:44:47,603 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:50,755 [INFO] [ 928/4864] 处理: ArtScroll Smart Siddur סדור (id=988119206)
+2026-03-26 07:44:50,851 [INFO]   ✓ ArtScroll Smart Siddur סדור | 价格: $9.99 | 类别: Book
+2026-03-26 07:44:52,939 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:44:55,683 [INFO] [ 929/4864] 处理: Learn Arduino Programming Pro (id=6448675741)
+2026-03-26 07:44:55,767 [INFO]   ✓ Learn Arduino Programming Pro | 价格: $1.99 | 类别: Book
+2026-03-26 07:44:59,065 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:02,448 [INFO] [ 930/4864] 处理: Glance - Epub Speed Reader (id=6747596694)
+2026-03-26 07:45:02,568 [INFO]   ✓ Glance - Epub Speed Reader | 价格: $3.99 | 类别: Book
+2026-03-26 07:45:05,963 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:09,021 [INFO] [ 931/4864] 处理: Mr. Brown Can Moo! Can You? (id=1249496615)
+2026-03-26 07:45:09,125 [INFO]   ✓ Mr. Brown Can Moo! Can You? | 价格: $3.99 | 类别: Book
+2026-03-26 07:45:12,708 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:15,889 [INFO] [ 932/4864] 处理: Geez Amharic Bible (id=1490683855)
+2026-03-26 07:45:16,115 [INFO]   ✓ Geez Amharic Bible | 价格: $9.99 | 类别: Book
+2026-03-26 07:45:19,629 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:22,429 [INFO] [ 933/4864] 处理: Shnayim (id=1296709500)
+2026-03-26 07:45:22,554 [INFO]   ✓ Shnayim | 价格: $2.99 | 类别: Book
+2026-03-26 07:45:24,596 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 07:45:24,597 [INFO]   ✓ 内购: 2 项
+2026-03-26 07:45:24,597 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:26,446 [INFO] [ 934/4864] 处理: 5 Monkeys Jumping on the Bed (id=418019881)
+2026-03-26 07:45:26,553 [INFO]   ✓ 5 Monkeys Jumping on the Bed | 价格: $2.99 | 类别: Book
+2026-03-26 07:45:28,953 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:31,245 [INFO] [ 935/4864] 处理: Transformers Rescue Bots: (id=1017447032)
+2026-03-26 07:45:31,396 [INFO]   ✓ Transformers Rescue Bots: | 价格: $3.99 | 类别: Book
+2026-03-26 07:45:34,860 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:38,273 [INFO] [ 936/4864] 处理: Morning Light / Night Light (id=474839398)
+2026-03-26 07:45:38,511 [INFO]   ✓ Morning Light / Night Light | 价格: $14.99 | 类别: Book
+2026-03-26 07:45:41,028 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:44,434 [INFO] [ 937/4864] 处理: SCP Foundation nn5n offline (id=675315890)
+2026-03-26 07:45:44,527 [INFO]   ✓ SCP Foundation nn5n offline | 价格: $4.99 | 类别: Book
+2026-03-26 07:45:47,120 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:50,331 [INFO] [ 938/4864] 处理: New Star Soccer G-Story (id=1114811228)
+2026-03-26 07:45:50,447 [INFO]   ✓ New Star Soccer G-Story | 价格: $0.99 | 类别: Book
+2026-03-26 07:45:52,598 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:45:54,670 [INFO] [ 939/4864] 处理: Interlinear Greek (id=1385872284)
+2026-03-26 07:45:54,787 [INFO]   ✓ Interlinear Greek | 价格: $2.99 | 类别: Book
+2026-03-26 07:45:57,851 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:01,277 [INFO] [ 940/4864] 处理: Libby, the library app (id=1076402606)
+2026-03-26 07:46:01,425 [INFO]   ✓ Libby, the library app | 价格: Free | 类别: Book
+2026-03-26 07:46:01,425 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:04,744 [INFO] [ 941/4864] 处理: Amazon Kindle: Reading App (id=302584613)
+2026-03-26 07:46:04,861 [INFO]   ✓ Amazon Kindle: Reading App | 价格: Free | 类别: Book
+2026-03-26 07:46:04,862 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:06,465 [INFO] [ 942/4864] 处理: Hoopla: Your Library Anywhere (id=580643740)
+2026-03-26 07:46:06,584 [INFO]   ✓ Hoopla: Your Library Anywhere | 价格: Free | 类别: Book
+2026-03-26 07:46:06,584 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:09,718 [INFO] [ 943/4864] 处理: Goodreads: Book Tracker & More (id=355833469)
+2026-03-26 07:46:09,838 [INFO]   ✓ Goodreads: Book Tracker & More | 价格: Free | 类别: Book
+2026-03-26 07:46:09,839 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:13,104 [INFO] [ 944/4864] 处理: GoodNovel - Booktok, Stories (id=1503128132)
+2026-03-26 07:46:13,293 [INFO]   ✓ GoodNovel - Booktok, Stories | 价格: Free | 类别: Book
+2026-03-26 07:46:13,294 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:16,267 [INFO] [ 945/4864] 处理: Movie Boxes - Movie & Trailer (id=6758357819)
+2026-03-26 07:46:16,373 [INFO]   ✓ Movie Boxes - Movie & Trailer | 价格: Free | 类别: Book
+2026-03-26 07:46:16,373 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:18,316 [INFO] [ 946/4864] 处理: Wattpad - Read & Write Stories (id=306310789)
+2026-03-26 07:46:18,411 [INFO]   ✓ Wattpad - Read & Write Stories | 价格: Free | 类别: Book
+2026-03-26 07:46:18,411 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:20,614 [INFO] [ 947/4864] 处理: Barnes & Noble (id=1477515079)
+2026-03-26 07:46:20,702 [INFO]   ✓ Barnes & Noble | 价格: Free | 类别: Book
+2026-03-26 07:46:20,702 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:23,180 [INFO] [ 948/4864] 处理: Fable: Track & Discuss Books (id=1488170618)
+2026-03-26 07:46:23,429 [INFO]   ✓ Fable: Track & Discuss Books | 价格: Free | 类别: Book
+2026-03-26 07:46:23,429 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:26,000 [INFO] [ 949/4864] 处理: Bible For Women. (id=6479348235)
+2026-03-26 07:46:26,100 [INFO]   ✓ Bible For Women. | 价格: Free | 类别: Book
+2026-03-26 07:46:26,100 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:29,508 [INFO] [ 950/4864] 处理: KJV Bible Now: Read & Study (id=6447543328)
+2026-03-26 07:46:29,615 [INFO]   ✓ KJV Bible Now: Read & Study | 价格: Free | 类别: Book
+2026-03-26 07:46:29,615 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:32,441 [INFO] [ 951/4864] 处理: Janitor AI - Official App (id=6692609366)
+2026-03-26 07:46:32,541 [INFO]   ✓ Janitor AI - Official App | 价格: Free | 类别: Book
+2026-03-26 07:46:32,541 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:35,775 [INFO] [ 952/4864] 处理: Novelaria - Read Book, Booktok (id=6587560745)
+2026-03-26 07:46:35,881 [INFO]   ✓ Novelaria - Read Book, Booktok | 价格: Free | 类别: Book
+2026-03-26 07:46:35,881 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:38,814 [INFO] [ 953/4864] 处理: Shonen Jump Manga & Comics (id=594237344)
+2026-03-26 07:46:38,932 [INFO]   ✓ Shonen Jump Manga & Comics | 价格: Free | 类别: Book
+2026-03-26 07:46:38,932 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:41,635 [INFO] [ 954/4864] 处理: Sincerely - Off My Chest (id=6443709181)
+2026-03-26 07:46:41,734 [INFO]   ✓ Sincerely - Off My Chest | 价格: Free | 类别: Book
+2026-03-26 07:46:41,734 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:44,732 [INFO] [ 955/4864] 处理: Novelmates-Best Stories&Novels (id=6446470442)
+2026-03-26 07:46:44,835 [INFO]   ✓ Novelmates-Best Stories&Novels | 价格: Free | 类别: Book
+2026-03-26 07:46:44,835 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:47,707 [INFO] [ 956/4864] 处理: Audiobooks.com: Get audiobooks (id=521227008)
+2026-03-26 07:46:47,817 [INFO]   ✓ Audiobooks.com: Get audiobooks | 价格: Free | 类别: Book
+2026-03-26 07:46:47,818 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:50,563 [INFO] [ 957/4864] 处理: BestNovel - Webnovel & Romance (id=1628300409)
+2026-03-26 07:46:50,669 [INFO]   ✓ BestNovel - Webnovel & Romance | 价格: Free | 类别: Book
+2026-03-26 07:46:50,669 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:52,270 [INFO] [ 958/4864] 处理: MANGA Plus by SHUEISHA (id=1442476536)
+2026-03-26 07:46:52,426 [INFO]   ✓ MANGA Plus by SHUEISHA | 价格: Free | 类别: Book
+2026-03-26 07:46:52,426 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:54,176 [INFO] [ 959/4864] 处理: Y/n (id=6744907251)
+2026-03-26 07:46:54,348 [INFO]   ✓ Y/n | 价格: Free | 类别: Book
+2026-03-26 07:46:54,349 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:46:57,535 [INFO] [ 960/4864] 处理: BookWatch - Visual BookTok (id=1660054787)
+2026-03-26 07:46:57,726 [INFO]   ✓ BookWatch - Visual BookTok | 价格: Free | 类别: Book
+2026-03-26 07:46:57,726 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:00,461 [INFO] [ 961/4864] 处理: GlobalComix: The Comics App (id=6444957733)
+2026-03-26 07:47:00,579 [INFO]   ✓ GlobalComix: The Comics App | 价格: Free | 类别: Book
+2026-03-26 07:47:00,580 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:03,146 [INFO] [ 962/4864] 处理: ThriftBooks: New & Used Books (id=1201902601)
+2026-03-26 07:47:03,316 [INFO]   ✓ ThriftBooks: New & Used Books | 价格: Free | 类别: Book
+2026-03-26 07:47:03,316 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:06,765 [INFO] [ 963/4864] 处理: simmy - stories starring you (id=6749724489)
+2026-03-26 07:47:07,008 [INFO]   ✓ simmy - stories starring you | 价格: Free | 类别: Book
+2026-03-26 07:47:07,008 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:10,506 [INFO] [ 964/4864] 处理: MegaNovel - fiction & webtoon (id=1600844711)
+2026-03-26 07:47:10,592 [INFO]   ✓ MegaNovel - fiction & webtoon | 价格: Free | 类别: Book
+2026-03-26 07:47:10,592 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:12,974 [INFO] [ 965/4864] 处理: StoryGraph: Reading Tracker (id=1570489264)
+2026-03-26 07:47:13,088 [INFO]   ✓ StoryGraph: Reading Tracker | 价格: Free | 类别: Book
+2026-03-26 07:47:13,088 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:14,637 [INFO] [ 966/4864] 处理: Bible for Women & Daily Study (id=1447879414)
+2026-03-26 07:47:14,753 [INFO]   ✓ Bible for Women & Daily Study | 价格: Free | 类别: Book
+2026-03-26 07:47:14,753 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:17,189 [INFO] [ 967/4864] 处理: Tarteel: AI Quran Memorization (id=1391009396)
+2026-03-26 07:47:17,293 [INFO]   ✓ Tarteel: AI Quran Memorization | 价格: Free | 类别: Book
+2026-03-26 07:47:17,293 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:20,289 [INFO] [ 968/4864] 处理: Women's Bible: Verse & Prayer (id=6744045288)
+2026-03-26 07:47:20,400 [INFO]   ✓ Women's Bible: Verse & Prayer | 价格: Free | 类别: Book
+2026-03-26 07:47:20,401 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:22,247 [INFO] [ 969/4864] 处理: PoFic: Read Novels & Stories (id=6756255372)
+2026-03-26 07:47:22,332 [INFO]   ✓ PoFic: Read Novels & Stories | 价格: Free | 类别: Book
+2026-03-26 07:47:22,332 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:25,538 [INFO] [ 970/4864] 处理: Galatea: Books & Audiobooks (id=1380362212)
+2026-03-26 07:47:25,636 [INFO]   ✓ Galatea: Books & Audiobooks | 价格: Free | 类别: Book
+2026-03-26 07:47:25,636 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:28,753 [INFO] [ 971/4864] 处理: CloudLibrary (id=466446054)
+2026-03-26 07:47:28,884 [INFO]   ✓ CloudLibrary | 价格: Free | 类别: Book
+2026-03-26 07:47:28,884 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:31,109 [INFO] [ 972/4864] 处理: Novelove (id=6748330304)
+2026-03-26 07:47:31,215 [INFO]   ✓ Novelove | 价格: Free | 类别: Book
+2026-03-26 07:47:31,215 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:34,713 [INFO] [ 973/4864] 处理: Google Play Books & Audiobooks (id=400989007)
+2026-03-26 07:47:34,823 [INFO]   ✓ Google Play Books & Audiobooks | 价格: Free | 类别: Book
+2026-03-26 07:47:34,823 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:36,885 [INFO] [ 974/4864] 处理: AnyStories-Top Novels & Books (id=1500217654)
+2026-03-26 07:47:36,996 [INFO]   ✓ AnyStories-Top Novels & Books | 价格: Free | 类别: Book
+2026-03-26 07:47:36,996 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:38,982 [INFO] [ 975/4864] 处理: Everand: Audiobooks & Ebooks (id=542557212)
+2026-03-26 07:47:39,082 [INFO]   ✓ Everand: Audiobooks & Ebooks | 价格: Free | 类别: Book
+2026-03-26 07:47:39,082 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:40,759 [INFO] [ 976/4864] 处理: MoboReader: Top Novels & Books (id=1291247971)
+2026-03-26 07:47:40,890 [INFO]   ✓ MoboReader: Top Novels & Books | 价格: Free | 类别: Book
+2026-03-26 07:47:40,891 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:42,489 [INFO] [ 977/4864] 处理: Chirp Audiobooks (id=1438652819)
+2026-03-26 07:47:42,589 [INFO]   ✓ Chirp Audiobooks | 价格: Free | 类别: Book
+2026-03-26 07:47:42,590 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:44,768 [INFO] [ 978/4864] 处理: Dreame - Read Best Romance (id=1421091911)
+2026-03-26 07:47:44,883 [INFO]   ✓ Dreame - Read Best Romance | 价格: Free | 类别: Book
+2026-03-26 07:47:44,883 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:46,704 [INFO] [ 979/4864] 处理: FantacyStory (id=1530149551)
+2026-03-26 07:47:46,832 [INFO]   ✓ FantacyStory | 价格: Free | 类别: Book
+2026-03-26 07:47:46,832 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:49,298 [INFO] [ 980/4864] 处理: WebNovel - Read Novels & Manga (id=1234939196)
+2026-03-26 07:47:49,645 [INFO]   ✓ WebNovel - Read Novels & Manga | 价格: Free | 类别: Book
+2026-03-26 07:47:49,645 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:52,656 [INFO] [ 981/4864] 处理: Magfic-Booktok, Reading Books (id=1621027852)
+2026-03-26 07:47:52,767 [INFO]   ✓ Magfic-Booktok, Reading Books | 价格: Free | 类别: Book
+2026-03-26 07:47:52,767 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:55,658 [INFO] [ 982/4864] 处理: Marvel Unlimited (id=607205403)
+2026-03-26 07:47:55,787 [INFO]   ✓ Marvel Unlimited | 价格: Free | 类别: Book
+2026-03-26 07:47:55,788 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:47:58,344 [INFO] [ 983/4864] 处理: FicTopia (id=6756347599)
+2026-03-26 07:47:58,455 [INFO]   ✓ FicTopia | 价格: Free | 类别: Book
+2026-03-26 07:47:58,456 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:00,912 [INFO] [ 984/4864] 处理: Booktok: Watch Books Explained (id=6738007147)
+2026-03-26 07:48:01,047 [INFO]   ✓ Booktok: Watch Books Explained | 价格: Free | 类别: Book
+2026-03-26 07:48:01,048 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:03,099 [INFO] [ 985/4864] 处理: MyPassion: Read, Listen Novels (id=1568149521)
+2026-03-26 07:48:03,199 [INFO]   ✓ MyPassion: Read, Listen Novels | 价格: Free | 类别: Book
+2026-03-26 07:48:03,200 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:06,406 [INFO] [ 986/4864] 处理: Novelory (id=1567518591)
+2026-03-26 07:48:06,510 [INFO]   ✓ Novelory | 价格: Free | 类别: Book
+2026-03-26 07:48:06,511 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:08,291 [INFO] [ 987/4864] 处理: motonovel (id=6744429534)
+2026-03-26 07:48:08,496 [INFO]   ✓ motonovel | 价格: Free | 类别: Book
+2026-03-26 07:48:08,496 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:11,665 [INFO] [ 988/4864] 处理: NovelFlow: Unlimited Books (id=1627205148)
+2026-03-26 07:48:11,782 [INFO]   ✓ NovelFlow: Unlimited Books | 价格: Free | 类别: Book
+2026-03-26 07:48:11,783 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:13,557 [INFO] [ 989/4864] 处理: Manga Reader Infinity (id=6465748012)
+2026-03-26 07:48:13,655 [INFO]   ✓ Manga Reader Infinity | 价格: Free | 类别: Book
+2026-03-26 07:48:13,655 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:16,419 [INFO] [ 990/4864] 处理: Barnes & Noble NOOK (id=373582546)
+2026-03-26 07:48:16,526 [INFO]   ✓ Barnes & Noble NOOK | 价格: Free | 类别: Book
+2026-03-26 07:48:16,526 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:19,346 [INFO] [ 991/4864] 处理: VIZ Manga (id=421486286)
+2026-03-26 07:48:19,434 [INFO]   ✓ VIZ Manga | 价格: Free | 类别: Book
+2026-03-26 07:48:19,434 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:22,106 [INFO] [ 992/4864] 处理: Bible Offline - KJV Holy Bible (id=1472850697)
+2026-03-26 07:48:22,215 [INFO]   ✓ Bible Offline - KJV Holy Bible | 价格: Free | 类别: Book
+2026-03-26 07:48:22,215 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:23,854 [INFO] [ 993/4864] 处理: BookFunnel (id=1479475087)
+2026-03-26 07:48:23,966 [INFO]   ✓ BookFunnel | 价格: Free | 类别: Book
+2026-03-26 07:48:23,966 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:26,275 [INFO] [ 994/4864] 处理: Novelix (id=6499192742)
+2026-03-26 07:48:26,385 [INFO]   ✓ Novelix | 价格: Free | 类别: Book
+2026-03-26 07:48:26,385 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:29,866 [INFO] [ 995/4864] 处理: NetFic (id=6743437405)
+2026-03-26 07:48:29,981 [INFO]   ✓ NetFic | 价格: Free | 类别: Book
+2026-03-26 07:48:29,981 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:32,483 [INFO] [ 996/4864] 处理: Freewave: Romance Audiobooks (id=6743933151)
+2026-03-26 07:48:32,587 [INFO]   ✓ Freewave: Romance Audiobooks | 价格: Free | 类别: Book
+2026-03-26 07:48:32,587 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:35,651 [INFO] [ 997/4864] 处理: La Biblia Reina Valera Español (id=1132540381)
+2026-03-26 07:48:35,775 [INFO]   ✓ La Biblia Reina Valera Español | 价格: Free | 类别: Book
+2026-03-26 07:48:35,775 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:37,314 [INFO] [ 998/4864] 处理: ReadAnywhere (id=1237370775)
+2026-03-26 07:48:37,402 [INFO]   ✓ ReadAnywhere | 价格: Free | 类别: Book
+2026-03-26 07:48:37,402 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:40,340 [INFO] [ 999/4864] 处理: VibeComix (id=6756994615)
+2026-03-26 07:48:40,448 [INFO]   ✓ VibeComix | 价格: Free | 类别: Book
+2026-03-26 07:48:40,449 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:42,703 [INFO] [1000/4864] 处理: Kobo Books & Audiobooks (id=301259483)
+2026-03-26 07:48:42,832 [INFO]   ✓ Kobo Books & Audiobooks | 价格: Free | 类别: Book
+2026-03-26 07:48:42,832 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 07:48:44,351 [INFO] 历史价格已保存: 973 条记录（本次新增/更新: 500）
+2026-03-26 07:48:44,352 [INFO] 📌 进度已保存：下次从第 1001 个 App 开始（共 4864 个）
+2026-03-26 07:48:44,361 [INFO] HTML 已生成: index.html (973 个 App)
+2026-03-26 07:48:44,361 [INFO] ============================================================
+2026-03-26 07:48:44,361 [INFO] 运行完成 | 成功: 500 | 失败: 0 | 降价: 0 项
+2026-03-26 07:48:44,361 [INFO] ============================================================
