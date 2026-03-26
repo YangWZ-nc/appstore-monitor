@@ -3842,3 +3842,1577 @@
 2026-03-26 13:57:17,830 [INFO] ============================================================
 2026-03-26 13:57:17,830 [INFO] 运行完成 | 成功: 500 | 失败: 0 | 降价: 0 项
 2026-03-26 13:57:17,830 [INFO] ============================================================
+2026-03-26 19:11:07,612 [INFO] ============================================================
+2026-03-26 19:11:07,613 [INFO] App Store 价格监控 启动 - 2026-03-26 19:11:07
+2026-03-26 19:11:07,613 [INFO] ============================================================
+2026-03-26 19:11:07,623 [INFO] 监控列表: 共 4864 个 App，本次处理 [1501~2000]，批大小: 500
+2026-03-26 19:11:07,623 [INFO] 国家: us，内购抓取: True
+2026-03-26 19:11:07,635 [INFO] [1501/4864] 处理: Cicis Pizza (id=582852042)
+2026-03-26 19:11:07,769 [INFO]   ✓ Cicis Pizza | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:07,769 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:09,985 [INFO] [1502/4864] 处理: ReciMe: Recipes & Meal Planner (id=1593779280)
+2026-03-26 19:11:10,080 [INFO]   ✓ ReciMe: Recipes & Meal Planner | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:10,080 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:13,136 [INFO] [1503/4864] 处理: Olive Garden Italian Kitchen (id=1067313166)
+2026-03-26 19:11:13,222 [INFO]   ✓ Olive Garden Italian Kitchen | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:13,223 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:14,984 [INFO] [1504/4864] 处理: Whataburger (id=1141643627)
+2026-03-26 19:11:15,156 [INFO]   ✓ Whataburger | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:15,156 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:17,337 [INFO] [1505/4864] 处理: Zaxbys (id=480603264)
+2026-03-26 19:11:17,457 [INFO]   ✓ Zaxbys | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:17,458 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:20,622 [INFO] [1506/4864] 处理: 7NOW: Food & Drinks Delivery (id=1316244211)
+2026-03-26 19:11:20,716 [INFO]   ✓ 7NOW: Food & Drinks Delivery | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:20,716 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:22,376 [INFO] [1507/4864] 处理: Texas Roadhouse Mobile (id=1097534083)
+2026-03-26 19:11:22,489 [INFO]   ✓ Texas Roadhouse Mobile | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:22,489 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:25,851 [INFO] [1508/4864] 处理: Casey's (id=1470522110)
+2026-03-26 19:11:25,976 [INFO]   ✓ Casey's | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:25,977 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:27,955 [INFO] [1509/4864] 处理: QDOBA Mexican Eats (id=1172435208)
+2026-03-26 19:11:28,078 [INFO]   ✓ QDOBA Mexican Eats | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:28,078 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:31,044 [INFO] [1510/4864] 处理: Bobby Approved - Food Scanner (id=1571725006)
+2026-03-26 19:11:31,126 [INFO]   ✓ Bobby Approved - Food Scanner | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:31,126 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:32,835 [INFO] [1511/4864] 处理: Dave’s Hot Chicken® (id=1668228991)
+2026-03-26 19:11:32,999 [INFO]   ✓ Dave’s Hot Chicken® | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:32,999 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:35,697 [INFO] [1512/4864] 处理: Factor_ Prepared Meal Delivery (id=1015997735)
+2026-03-26 19:11:35,783 [INFO]   ✓ Factor_ Prepared Meal Delivery | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:35,783 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:39,085 [INFO] [1513/4864] 处理: Firehouse Subs (id=894658475)
+2026-03-26 19:11:39,181 [INFO]   ✓ Firehouse Subs | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:39,182 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:41,429 [INFO] [1514/4864] 处理: Sheetz Food Delivery & Rewards (id=623188302)
+2026-03-26 19:11:41,562 [INFO]   ✓ Sheetz Food Delivery & Rewards | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:41,563 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:44,879 [INFO] [1515/4864] 处理: Five Guys Burgers & Fries (id=457494327)
+2026-03-26 19:11:45,014 [INFO]   ✓ Five Guys Burgers & Fries | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:45,014 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:48,275 [INFO] [1516/4864] 处理: talabat: Food, grocery & more (id=451001072)
+2026-03-26 19:11:48,383 [INFO]   ✓ talabat: Food, grocery & more | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:48,383 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:50,731 [INFO] [1517/4864] 处理: Krispy Kreme ® (id=482752836)
+2026-03-26 19:11:50,851 [INFO]   ✓ Krispy Kreme ® | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:50,851 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:54,209 [INFO] [1518/4864] 处理: Gopuff - Grocery Delivery (id=722804810)
+2026-03-26 19:11:54,335 [INFO]   ✓ Gopuff - Grocery Delivery | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:54,336 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:56,129 [INFO] [1519/4864] 处理: Wonder: Food Delivery (id=1504180759)
+2026-03-26 19:11:56,324 [INFO]   ✓ Wonder: Food Delivery | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:56,324 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:58,183 [INFO] [1520/4864] 处理: QuikTrip: Coupons, Fuel, Food (id=1044651221)
+2026-03-26 19:11:58,309 [INFO]   ✓ QuikTrip: Coupons, Fuel, Food | 价格: Free | 类别: Food & Drink
+2026-03-26 19:11:58,309 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:11:59,967 [INFO] [1521/4864] 处理: Slice: Pizza Delivery/Pick Up (id=699705083)
+2026-03-26 19:12:00,124 [INFO]   ✓ Slice: Pizza Delivery/Pick Up | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:00,124 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:02,715 [INFO] [1522/4864] 处理: Carl's Jr. Mobile Ordering (id=1577790958)
+2026-03-26 19:12:02,818 [INFO]   ✓ Carl's Jr. Mobile Ordering | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:02,818 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:06,300 [INFO] [1523/4864] 处理: Tabelog - Food Guide in Japan (id=6752922875)
+2026-03-26 19:12:06,470 [INFO]   ✓ Tabelog - Food Guide in Japan | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:06,471 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:08,702 [INFO] [1524/4864] 处理: Scooter's Coffee (id=1151532978)
+2026-03-26 19:12:08,847 [INFO]   ✓ Scooter's Coffee | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:08,847 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:10,515 [INFO] [1525/4864] 处理: heytea (id=6468945008)
+2026-03-26 19:12:10,689 [INFO]   ✓ heytea | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:10,689 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:12,792 [INFO] [1526/4864] 处理: Keeta - Food Delivery (id=1662451643)
+2026-03-26 19:12:12,917 [INFO]   ✓ Keeta - Food Delivery | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:12,918 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:14,553 [INFO] [1527/4864] 处理: Applebee’s (id=1036172835)
+2026-03-26 19:12:14,700 [INFO]   ✓ Applebee’s | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:14,700 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:17,354 [INFO] [1528/4864] 处理: Freddy’s (id=1463076279)
+2026-03-26 19:12:17,543 [INFO]   ✓ Freddy’s | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:17,544 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:19,292 [INFO] [1529/4864] 处理: sweetgreen (id=594329490)
+2026-03-26 19:12:19,421 [INFO]   ✓ sweetgreen | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:19,421 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:22,458 [INFO] [1530/4864] 处理: TREAT: Play & impact REAL dogs (id=1591591442)
+2026-03-26 19:12:22,606 [INFO]   ✓ TREAT: Play & impact REAL dogs | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:22,606 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:25,286 [INFO] [1531/4864] 处理: Hardee's Mobile Ordering (id=1577790947)
+2026-03-26 19:12:25,370 [INFO]   ✓ Hardee's Mobile Ordering | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:25,371 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:27,950 [INFO] [1532/4864] 处理: Maverik Rewards (id=592161957)
+2026-03-26 19:12:28,092 [INFO]   ✓ Maverik Rewards | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:28,092 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:30,630 [INFO] [1533/4864] 处理: IHOP (id=572284095)
+2026-03-26 19:12:30,718 [INFO]   ✓ IHOP | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:30,719 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:32,981 [INFO] [1534/4864] 处理: Swig Drinks (id=1460588534)
+2026-03-26 19:12:33,076 [INFO]   ✓ Swig Drinks | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:33,076 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:35,812 [INFO] [1535/4864] 处理: Bojangles Restaurant (id=1564685788)
+2026-03-26 19:12:35,922 [INFO]   ✓ Bojangles Restaurant | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:35,922 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:38,528 [INFO] [1536/4864] 处理: Localize - Farmers Market (id=6756440767)
+2026-03-26 19:12:38,615 [INFO]   ✓ Localize - Farmers Market | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:38,616 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:41,006 [INFO] [1537/4864] 处理: Total Wine & More (id=1277318070)
+2026-03-26 19:12:41,129 [INFO]   ✓ Total Wine & More | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:41,129 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:43,478 [INFO] [1538/4864] 处理: Church's Texas Chicken® (id=653653356)
+2026-03-26 19:12:43,678 [INFO]   ✓ Church's Texas Chicken® | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:43,678 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:46,273 [INFO] [1539/4864] 处理: NYT Cooking: Quick Tasty Meals (id=911422904)
+2026-03-26 19:12:46,379 [INFO]   ✓ NYT Cooking: Quick Tasty Meals | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:46,379 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:48,140 [INFO] [1540/4864] 处理: Osta: Save & Share Recipes (id=6739286231)
+2026-03-26 19:12:48,300 [INFO]   ✓ Osta: Save & Share Recipes | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:48,301 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:51,075 [INFO] [1541/4864] 处理: Denny's (id=527548554)
+2026-03-26 19:12:51,281 [INFO]   ✓ Denny's | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:51,281 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:53,799 [INFO] [1542/4864] 处理: Weee! #1 Asian Grocery App (id=921864548)
+2026-03-26 19:12:53,958 [INFO]   ✓ Weee! #1 Asian Grocery App | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:53,959 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:55,826 [INFO] [1543/4864] 处理: Checkers & Rally's (id=1531948632)
+2026-03-26 19:12:55,928 [INFO]   ✓ Checkers & Rally's | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:55,928 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:12:57,984 [INFO] [1544/4864] 处理: McAlisters Deli (id=475738160)
+2026-03-26 19:12:58,164 [INFO]   ✓ McAlisters Deli | 价格: Free | 类别: Food & Drink
+2026-03-26 19:12:58,164 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:01,607 [INFO] [1545/4864] 处理: Einstein Bros Bagels (id=1405128897)
+2026-03-26 19:13:01,779 [INFO]   ✓ Einstein Bros Bagels | 价格: Free | 类别: Food & Drink
+2026-03-26 19:13:01,779 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:04,826 [INFO] [1546/4864] 处理: Potbelly Sandwich Works (id=835528979)
+2026-03-26 19:13:04,980 [INFO]   ✓ Potbelly Sandwich Works | 价格: Free | 类别: Food & Drink
+2026-03-26 19:13:04,980 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:06,622 [INFO] [1547/4864] 处理: El Pollo Loco - Loco Rewards (id=1138437085)
+2026-03-26 19:13:06,724 [INFO]   ✓ El Pollo Loco - Loco Rewards | 价格: Free | 类别: Food & Drink
+2026-03-26 19:13:06,724 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:08,407 [INFO] [1548/4864] 处理: FSD Hunter (id=6737280679)
+2026-03-26 19:13:08,537 [INFO]   ✓ FSD Hunter | 价格: $5.99 | 类别: Shopping
+2026-03-26 19:13:11,113 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:13,231 [INFO] [1549/4864] 处理: Penny Finder (id=1247306177)
+2026-03-26 19:13:13,528 [INFO]   ✓ Penny Finder | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:13:17,109 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:20,317 [INFO] [1550/4864] 处理: Buycott - Barcode Scanner & QR Bar Code Scanner (id=585933440)
+2026-03-26 19:13:20,505 [INFO]   ✓ Buycott - Barcode Scanner & QR Bar Code Scanner | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:13:23,779 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:26,650 [INFO] [1551/4864] 处理: The Christmas List (id=340779800)
+2026-03-26 19:13:26,759 [INFO]   ✓ The Christmas List | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:13:28,946 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:32,402 [INFO] [1552/4864] 处理: Adult Emojis Icons Pro - Naughty Emoji Faces Stickers Keyboard Emoticons for Texting (id=1146997581)
+2026-03-26 19:13:32,506 [INFO]   ✓ Adult Emojis Icons Pro - Naughty Emoji Faces Stickers Keyboard Emoticons for Texting | 价格: $3.99 | 类别: Shopping
+2026-03-26 19:13:35,113 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:38,100 [INFO] [1553/4864] 处理: Smart Closet - Your Stylist (id=1198057728)
+2026-03-26 19:13:38,252 [INFO]   ✓ Smart Closet - Your Stylist | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:13:41,611 [INFO]   [网页] 找到 6 个内购项目
+2026-03-26 19:13:41,612 [INFO]   ✓ 内购: 6 项
+2026-03-26 19:13:41,612 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:44,248 [INFO] [1554/4864] 处理: Baby's Heartbeat Backup (id=1122585593)
+2026-03-26 19:13:44,376 [INFO]   ✓ Baby's Heartbeat Backup | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:13:47,898 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:50,768 [INFO] [1555/4864] 处理: Sale Price + Tax Calculator (id=1200879391)
+2026-03-26 19:13:50,863 [INFO]   ✓ Sale Price + Tax Calculator | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:13:52,752 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:13:55,246 [INFO] [1556/4864] 处理: Ideofit Glasses & sunglasses (id=1608038451)
+2026-03-26 19:13:55,369 [INFO]   ✓ Ideofit Glasses & sunglasses | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:13:59,211 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:01,517 [INFO] [1557/4864] 处理: SnapValu (id=6756733514)
+2026-03-26 19:14:01,623 [INFO]   ✓ SnapValu | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:14:04,213 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:06,808 [INFO] [1558/4864] 处理: TipUS (id=6758221133)
+2026-03-26 19:14:06,957 [INFO]   ✓ TipUS | 价格: $0.49 | 类别: Shopping
+2026-03-26 19:14:08,956 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:10,545 [INFO] [1559/4864] 处理: WISEShopping (id=1063644267)
+2026-03-26 19:14:10,656 [INFO]   ✓ WISEShopping | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:14:13,007 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:15,786 [INFO] [1560/4864] 处理: Emoticons Keyboard Pro - Adult Emoji for Texting (id=1133867070)
+2026-03-26 19:14:15,923 [INFO]   ✓ Emoticons Keyboard Pro - Adult Emoji for Texting | 价格: $3.99 | 类别: Shopping
+2026-03-26 19:14:19,726 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:21,466 [INFO] [1561/4864] 处理: Talking Emoji Pro for Texting (id=1216244658)
+2026-03-26 19:14:21,573 [INFO]   ✓ Talking Emoji Pro for Texting | 价格: $3.99 | 类别: Shopping
+2026-03-26 19:14:23,737 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:26,701 [INFO] [1562/4864] 处理: Minifig Collector (id=1059893061)
+2026-03-26 19:14:26,928 [INFO]   ✓ Minifig Collector | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:14:30,178 [INFO]   [网页] 找到 4 个内购项目
+2026-03-26 19:14:30,179 [INFO]   ✓ 内购: 4 项
+2026-03-26 19:14:30,179 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:32,529 [INFO] [1563/4864] 处理: PokéTools for Pokemon (id=1157273123)
+2026-03-26 19:14:32,656 [INFO]   ✓ PokéTools for Pokemon | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:14:36,830 [INFO]   [网页] 找到 8 个内购项目
+2026-03-26 19:14:36,831 [INFO]   ✓ 内购: 8 项
+2026-03-26 19:14:36,831 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:39,122 [INFO] [1564/4864] 处理: Boycott Buddy - Shop Ethical (id=6503020008)
+2026-03-26 19:14:39,272 [INFO]   ✓ Boycott Buddy - Shop Ethical | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:14:42,752 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:46,219 [INFO] [1565/4864] 处理: Grocery/ShoppingList (id=6760203085)
+2026-03-26 19:14:46,400 [INFO]   ✓ Grocery/ShoppingList | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:14:48,721 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:51,753 [INFO] [1566/4864] 处理: HW_Tracker (id=6758932310)
+2026-03-26 19:14:51,876 [INFO]   ✓ HW_Tracker | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:14:54,700 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:14:54,701 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:14:54,701 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:14:57,094 [INFO] [1567/4864] 处理: Minifigures Tracker (id=1661136258)
+2026-03-26 19:14:57,219 [INFO]   ✓ Minifigures Tracker | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:15:00,478 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 19:15:00,480 [INFO]   ✓ 内购: 3 项
+2026-03-26 19:15:00,480 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:02,192 [INFO] [1568/4864] 处理: GlossWire (id=1548793732)
+2026-03-26 19:15:02,288 [INFO]   ✓ GlossWire | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:15:04,522 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:06,633 [INFO] [1569/4864] 处理: Cross It Off – Shopping & Todo (id=1114967534)
+2026-03-26 19:15:06,725 [INFO]   ✓ Cross It Off – Shopping & Todo | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:15:10,020 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:12,121 [INFO] [1570/4864] 处理: QR Reader for iPhone (Premium) (id=429671513)
+2026-03-26 19:15:12,249 [INFO]   ✓ QR Reader for iPhone (Premium) | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:15:15,785 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:18,384 [INFO] [1571/4864] 处理: Emoji 3 PRO - Color Messages - New Emojis Emojis Sticker for SMS, Facebook, Twitter (id=520376062)
+2026-03-26 19:15:18,462 [INFO]   ✓ Emoji 3 PRO - Color Messages - New Emojis Emojis Sticker for SMS, Facebook, Twitter | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:15:22,175 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:15:22,176 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:15:22,176 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:23,999 [INFO] [1572/4864] 处理: SMS Smileys (id=424477181)
+2026-03-26 19:15:24,168 [INFO]   ✓ SMS Smileys | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:15:27,307 [INFO]   [网页] 找到 5 个内购项目
+2026-03-26 19:15:27,308 [INFO]   ✓ 内购: 5 项
+2026-03-26 19:15:27,308 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:28,992 [INFO] [1573/4864] 处理: Weekly Ads & Sales PRO (id=425987591)
+2026-03-26 19:15:29,339 [INFO]   ✓ Weekly Ads & Sales PRO | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:15:32,835 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:35,883 [INFO] [1574/4864] 处理: Meme Maker (id=477962899)
+2026-03-26 19:15:35,975 [INFO]   ✓ Meme Maker | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:15:38,056 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:41,138 [INFO] [1575/4864] 处理: Digit-Eyes (id=376424490)
+2026-03-26 19:15:41,223 [INFO]   ✓ Digit-Eyes | 价格: $9.99 | 类别: Shopping
+2026-03-26 19:15:44,075 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:46,837 [INFO] [1576/4864] 处理: Jotalicious (id=713576895)
+2026-03-26 19:15:46,929 [INFO]   ✓ Jotalicious | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:15:49,180 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:52,282 [INFO] [1577/4864] 处理: Unofficial Minifigure Catalog (id=486578707)
+2026-03-26 19:15:52,363 [INFO]   ✓ Unofficial Minifigure Catalog | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:15:56,157 [INFO]   [网页] 找到 6 个内购项目
+2026-03-26 19:15:56,158 [INFO]   ✓ 内购: 6 项
+2026-03-26 19:15:56,158 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:15:57,737 [INFO] [1578/4864] 处理: FashWire (id=1212940345)
+2026-03-26 19:15:57,880 [INFO]   ✓ FashWire | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:16:00,081 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:02,216 [INFO] [1579/4864] 处理: Texture Packs & Creator for Minecraft PC: MCPedia (id=1039012558)
+2026-03-26 19:16:02,352 [INFO]   ✓ Texture Packs & Creator for Minecraft PC: MCPedia | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:16:04,587 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:06,149 [INFO] [1580/4864] 处理: My Cards Pro - Wallet (id=673277275)
+2026-03-26 19:16:06,252 [INFO]   ✓ My Cards Pro - Wallet | 价格: $8.99 | 类别: Shopping
+2026-03-26 19:16:08,955 [INFO]   [网页] 找到 5 个内购项目
+2026-03-26 19:16:08,956 [INFO]   ✓ 内购: 5 项
+2026-03-26 19:16:08,956 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:11,897 [INFO] [1581/4864] 处理: Image Resizer Pro - image crop (id=1112548288)
+2026-03-26 19:16:11,974 [INFO]   ✓ Image Resizer Pro - image crop | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:16:15,412 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:17,705 [INFO] [1582/4864] 处理: 1Wallet (id=1042431640)
+2026-03-26 19:16:17,795 [INFO]   ✓ 1Wallet | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:16:20,226 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:16:20,227 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:16:20,228 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:23,403 [INFO] [1583/4864] 处理: SocialSell - Buy and Sell Used and New Items Locally, Shop Deals Near You (id=903735904)
+2026-03-26 19:16:23,574 [INFO]   ✓ SocialSell - Buy and Sell Used and New Items Locally, Shop Deals Near You | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:16:25,520 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 19:16:25,521 [INFO]   ✓ 内购: 3 项
+2026-03-26 19:16:25,522 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:27,514 [INFO] [1584/4864] 处理: Baby Name Assistant (id=512907430)
+2026-03-26 19:16:27,598 [INFO]   ✓ Baby Name Assistant | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:16:31,033 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:33,376 [INFO] [1585/4864] 处理: 3D Emoji Characters Stickers (id=689709826)
+2026-03-26 19:16:33,541 [INFO]   ✓ 3D Emoji Characters Stickers | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:16:37,335 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:39,284 [INFO] [1586/4864] 处理: Pressed Coins 4 WDW (id=1139573600)
+2026-03-26 19:16:39,433 [INFO]   ✓ Pressed Coins 4 WDW | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:16:43,340 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:46,243 [INFO] [1587/4864] 处理: BMW App! (id=1233379232)
+2026-03-26 19:16:46,332 [INFO]   ✓ BMW App! | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:16:49,738 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:51,270 [INFO] [1588/4864] 处理: QR Code Pro: scan, generate (id=550827263)
+2026-03-26 19:16:51,428 [INFO]   ✓ QR Code Pro: scan, generate | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:16:54,201 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:16:56,118 [INFO] [1589/4864] 处理: Green Code-Receive SMS online (id=1517644500)
+2026-03-26 19:16:56,198 [INFO]   ✓ Green Code-Receive SMS online | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:16:58,990 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:02,150 [INFO] [1590/4864] 处理: Mercedes-Benz Car Parts (id=1090750061)
+2026-03-26 19:17:02,300 [INFO]   ✓ Mercedes-Benz Car Parts | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:17:04,931 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:07,170 [INFO] [1591/4864] 处理: Toyota App! (id=1233384588)
+2026-03-26 19:17:07,298 [INFO]   ✓ Toyota App! | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:17:10,387 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:12,667 [INFO] [1592/4864] 处理: Easy Shopping List (id=463855587)
+2026-03-26 19:17:12,814 [INFO]   ✓ Easy Shopping List | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:17:16,781 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:19,941 [INFO] [1593/4864] 处理: My Inventory – Home Tracker (id=1362509132)
+2026-03-26 19:17:20,078 [INFO]   ✓ My Inventory – Home Tracker | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:17:23,231 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:25,903 [INFO] [1594/4864] 处理: Microphone Mixer - Full Version (id=1233988242)
+2026-03-26 19:17:26,036 [INFO]   ✓ Microphone Mixer - Full Version | 价格: $7.99 | 类别: Shopping
+2026-03-26 19:17:29,277 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:31,805 [INFO] [1595/4864] 处理: Gift Card Balance + (id=1459783411)
+2026-03-26 19:17:31,982 [INFO]   ✓ Gift Card Balance + | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:17:35,584 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:37,375 [INFO] [1596/4864] 处理: Pressed Coins 4 DLR (id=1330313789)
+2026-03-26 19:17:37,466 [INFO]   ✓ Pressed Coins 4 DLR | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:17:40,792 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:43,449 [INFO] [1597/4864] 处理: Car Parts for Nissan, Infinity (id=1146258047)
+2026-03-26 19:17:43,606 [INFO]   ✓ Car Parts for Nissan, Infinity | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:17:47,242 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:50,454 [INFO] [1598/4864] 处理: Car parts for Ford (id=1116481358)
+2026-03-26 19:17:50,589 [INFO]   ✓ Car parts for Ford | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:17:53,091 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:17:55,371 [INFO] [1599/4864] 处理: Toyota, Lexus Car Parts (id=1212475501)
+2026-03-26 19:17:55,499 [INFO]   ✓ Toyota, Lexus Car Parts | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:17:58,751 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:02,041 [INFO] [1600/4864] 处理: BestBrickPrice Pro (id=1202710021)
+2026-03-26 19:18:02,158 [INFO]   ✓ BestBrickPrice Pro | 价格: $9.99 | 类别: Shopping
+2026-03-26 19:18:04,691 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:08,180 [INFO] [1601/4864] 处理: TechApp for Mercedes (id=991121401)
+2026-03-26 19:18:08,280 [INFO]   ✓ TechApp for Mercedes | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:18:10,719 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:13,850 [INFO] [1602/4864] 处理: Autoparts for Toyota (id=854549152)
+2026-03-26 19:18:13,938 [INFO]   ✓ Autoparts for Toyota | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:18:16,782 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:20,132 [INFO] [1603/4864] 处理: TechApp for Ford (id=1000138147)
+2026-03-26 19:18:20,310 [INFO]   ✓ TechApp for Ford | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:18:24,194 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:26,124 [INFO] [1604/4864] 处理: Hyundai Car Parts - ETK Parts Diagrams (id=1163118660)
+2026-03-26 19:18:26,291 [INFO]   ✓ Hyundai Car Parts - ETK Parts Diagrams | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:18:29,488 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:32,970 [INFO] [1605/4864] 处理: Happy Birthday Greeting Wishes (id=1100594649)
+2026-03-26 19:18:33,049 [INFO]   ✓ Happy Birthday Greeting Wishes | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:18:35,419 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:37,798 [INFO] [1606/4864] 处理: Autoparts for Land Rover (id=897116784)
+2026-03-26 19:18:37,886 [INFO]   ✓ Autoparts for Land Rover | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:18:40,724 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:43,607 [INFO] [1607/4864] 处理: Easy Price Compare (id=585235293)
+2026-03-26 19:18:43,756 [INFO]   ✓ Easy Price Compare | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:18:46,018 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:49,104 [INFO] [1608/4864] 处理: SwissCal (id=6448163211)
+2026-03-26 19:18:49,270 [INFO]   ✓ SwissCal | 价格: $0.29 | 类别: Shopping
+2026-03-26 19:18:52,042 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:18:54,183 [INFO] [1609/4864] 处理: VAG service - Audi, Porsche, Seat, Skoda, VW. (id=918411051)
+2026-03-26 19:18:54,329 [INFO]   ✓ VAG service - Audi, Porsche, Seat, Skoda, VW. | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:18:58,249 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:01,302 [INFO] [1610/4864] 处理: Car Parts for Mercedes-Benz (id=1248010735)
+2026-03-26 19:19:01,504 [INFO]   ✓ Car Parts for Mercedes-Benz | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:19:05,441 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:08,646 [INFO] [1611/4864] 处理: TechApp for BMW (id=988681696)
+2026-03-26 19:19:08,818 [INFO]   ✓ TechApp for BMW | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:19:11,703 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:13,750 [INFO] [1612/4864] 处理: TVfit (id=1561689617)
+2026-03-26 19:19:13,961 [INFO]   ✓ TVfit | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:19:16,416 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:18,361 [INFO] [1613/4864] 处理: Car Parts for Chrysler - ETK Spare Parts Diagrams (id=1197894871)
+2026-03-26 19:19:18,462 [INFO]   ✓ Car Parts for Chrysler - ETK Spare Parts Diagrams | 价格: $3.99 | 类别: Shopping
+2026-03-26 19:19:20,066 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:22,405 [INFO] [1614/4864] 处理: Kode QR (id=1035557188)
+2026-03-26 19:19:22,537 [INFO]   ✓ Kode QR | 价格: $3.99 | 类别: Shopping
+2026-03-26 19:19:24,746 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:27,177 [INFO] [1615/4864] 处理: TechApp for Volkswagen (id=1002164923)
+2026-03-26 19:19:27,269 [INFO]   ✓ TechApp for Volkswagen | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:19:30,665 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:32,722 [INFO] [1616/4864] 处理: Receipt Elite (id=6443821393)
+2026-03-26 19:19:32,836 [INFO]   ✓ Receipt Elite | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:19:35,517 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:38,481 [INFO] [1617/4864] 处理: Jetpedia | Private Jet Guide (id=980774091)
+2026-03-26 19:19:38,690 [INFO]   ✓ Jetpedia | Private Jet Guide | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:19:42,396 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:44,015 [INFO] [1618/4864] 处理: Coupon Generator PRO (id=1364544755)
+2026-03-26 19:19:44,094 [INFO]   ✓ Coupon Generator PRO | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:19:47,818 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:51,306 [INFO] [1619/4864] 处理: PawWire (id=6463645301)
+2026-03-26 19:19:51,436 [INFO]   ✓ PawWire | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:19:53,502 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:19:56,069 [INFO] [1620/4864] 处理: Shopping Calculator with Tax (id=1571689792)
+2026-03-26 19:19:56,157 [INFO]   ✓ Shopping Calculator with Tax | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:19:59,302 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:02,616 [INFO] [1621/4864] 处理: Natural Layers (id=1525081293)
+2026-03-26 19:20:02,818 [INFO]   ✓ Natural Layers | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:20:05,612 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:07,580 [INFO] [1622/4864] 处理: Покупки! (Список покупок) - Ваш помощник в магазинах (id=744347890)
+2026-03-26 19:20:07,673 [INFO]   ✓ Покупки! (Список покупок) - Ваш помощник в магазинах | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:20:12,229 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:14,210 [INFO] [1623/4864] 处理: uCard - Wallet (id=1555897727)
+2026-03-26 19:20:14,298 [INFO]   ✓ uCard - Wallet | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:20:17,680 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:19,970 [INFO] [1624/4864] 处理: Shoppers Lists (id=567918123)
+2026-03-26 19:20:20,141 [INFO]   ✓ Shoppers Lists | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:20:23,417 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:25,101 [INFO] [1625/4864] 处理: TechApp for Audi (id=1002164392)
+2026-03-26 19:20:25,244 [INFO]   ✓ TechApp for Audi | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:20:28,490 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:30,803 [INFO] [1626/4864] 处理: Card Yard (id=1435497340)
+2026-03-26 19:20:31,058 [INFO]   ✓ Card Yard | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:20:34,053 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:36,185 [INFO] [1627/4864] 处理: Watchlist+Shopping (id=6758472370)
+2026-03-26 19:20:36,358 [INFO]   ✓ Watchlist+Shopping | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:20:39,648 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:41,263 [INFO] [1628/4864] 处理: Autopedia | Auto guide (id=895583433)
+2026-03-26 19:20:41,424 [INFO]   ✓ Autopedia | Auto guide | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:20:44,044 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:45,585 [INFO] [1629/4864] 处理: PreO - The Preorder Manager (id=1630729282)
+2026-03-26 19:20:45,752 [INFO]   ✓ PreO - The Preorder Manager | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:20:48,503 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:51,066 [INFO] [1630/4864] 处理: Everypay (id=1054646951)
+2026-03-26 19:20:51,148 [INFO]   ✓ Everypay | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:20:53,543 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:20:55,551 [INFO] [1631/4864] 处理: WHATSIZE: Brand Size Converter (id=6757195133)
+2026-03-26 19:20:55,777 [INFO]   ✓ WHATSIZE: Brand Size Converter | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:20:59,257 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:01,717 [INFO] [1632/4864] 处理: Ukraine Help (id=1271322725)
+2026-03-26 19:21:01,894 [INFO]   ✓ Ukraine Help | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:21:05,434 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:08,645 [INFO] [1633/4864] 处理: Airrends - Shopping List (id=1364361242)
+2026-03-26 19:21:08,751 [INFO]   ✓ Airrends - Shopping List | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:21:10,567 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:13,341 [INFO] [1634/4864] 处理: Opel App (id=1233377284)
+2026-03-26 19:21:13,541 [INFO]   ✓ Opel App | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:21:15,914 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:17,606 [INFO] [1635/4864] 处理: Simple Shopping List Maker (id=6450320188)
+2026-03-26 19:21:17,698 [INFO]   ✓ Simple Shopping List Maker | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:21:20,981 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:24,157 [INFO] [1636/4864] 处理: ZkBa - 提供海量活动线报、优惠资讯 (id=1473328266)
+2026-03-26 19:21:24,280 [INFO]   ✓ ZkBa - 提供海量活动线报、优惠资讯 | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:21:27,578 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:29,742 [INFO] [1637/4864] 处理: Budget Bananaz (id=1063827390)
+2026-03-26 19:21:29,835 [INFO]   ✓ Budget Bananaz | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:21:32,055 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:35,504 [INFO] [1638/4864] 处理: Gem Genius AI (id=6636492811)
+2026-03-26 19:21:35,608 [INFO]   ✓ Gem Genius AI | 价格: $0.99 | 类别: Shopping
+2026-03-26 19:21:38,593 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:41,145 [INFO] [1639/4864] 处理: اسرار الببغاء الافريقي الرمادي (id=1508578049)
+2026-03-26 19:21:41,228 [INFO]   ✓ اسرار الببغاء الافريقي الرمادي | 价格: $19.99 | 类别: Shopping
+2026-03-26 19:21:44,178 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:47,582 [INFO] [1640/4864] 处理: Biu奢品 (id=1643412671)
+2026-03-26 19:21:47,795 [INFO]   ✓ Biu奢品 | 价格: $99.99 | 类别: Shopping
+2026-03-26 19:21:51,380 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:53,741 [INFO] [1641/4864] 处理: AliFansBazar (id=1589767582)
+2026-03-26 19:21:53,925 [INFO]   ✓ AliFansBazar | 价格: $12.99 | 类别: Shopping
+2026-03-26 19:21:57,186 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:21:59,374 [INFO] [1642/4864] 处理: 高吉起名HD起名大师专业版 (id=527844985)
+2026-03-26 19:21:59,587 [INFO]   ✓ 高吉起名HD起名大师专业版 | 价格: $9.99 | 类别: Shopping
+2026-03-26 19:22:03,503 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:06,450 [INFO] [1643/4864] 处理: Try Me On (id=6757370892)
+2026-03-26 19:22:06,623 [INFO]   ✓ Try Me On | 价格: $2.99 | 类别: Shopping
+2026-03-26 19:22:09,148 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:11,655 [INFO] [1644/4864] 处理: Pool Care Property Maintenance (id=664571220)
+2026-03-26 19:22:11,797 [INFO]   ✓ Pool Care Property Maintenance | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:22:13,933 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 19:22:13,934 [INFO]   ✓ 内购: 10 项
+2026-03-26 19:22:13,934 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:15,477 [INFO] [1645/4864] 处理: 牛津英语 English File -Elementary (id=1534835771)
+2026-03-26 19:22:15,705 [INFO]   ✓ 牛津英语 English File -Elementary | 价格: $1.99 | 类别: Shopping
+2026-03-26 19:22:19,256 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:21,311 [INFO] [1646/4864] 处理: Tally :) (id=872546286)
+2026-03-26 19:22:21,580 [INFO]   ✓ Tally :) | 价格: $4.99 | 类别: Shopping
+2026-03-26 19:22:24,961 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:22:24,962 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:22:24,962 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:27,592 [INFO] [1647/4864] 处理: Etsy: Shop Home, Style & More (id=477128284)
+2026-03-26 19:22:27,684 [INFO]   ✓ Etsy: Shop Home, Style & More | 价格: Free | 类别: Shopping
+2026-03-26 19:22:27,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:29,305 [INFO] [1648/4864] 处理: Affirm: Buy now, pay over time (id=967040652)
+2026-03-26 19:22:29,437 [INFO]   ✓ Affirm: Buy now, pay over time | 价格: Free | 类别: Shopping
+2026-03-26 19:22:29,438 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:32,074 [INFO] [1649/4864] 处理: Best Buy: Tech Deals & Savings (id=314855255)
+2026-03-26 19:22:32,203 [INFO]   ✓ Best Buy: Tech Deals & Savings | 价格: Free | 类别: Shopping
+2026-03-26 19:22:32,203 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:34,610 [INFO] [1650/4864] 处理: Vinted: Shop & sell pre-loved (id=632064380)
+2026-03-26 19:22:34,773 [INFO]   ✓ Vinted: Shop & sell pre-loved | 价格: Free | 类别: Shopping
+2026-03-26 19:22:34,773 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:37,957 [INFO] [1651/4864] 处理: Lowe's Home Improvement (id=457954781)
+2026-03-26 19:22:38,049 [INFO]   ✓ Lowe's Home Improvement | 价格: Free | 类别: Shopping
+2026-03-26 19:22:38,049 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:39,835 [INFO] [1652/4864] 处理: Walgreens (id=335364882)
+2026-03-26 19:22:39,974 [INFO]   ✓ Walgreens | 价格: Free | 类别: Shopping
+2026-03-26 19:22:39,974 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:42,338 [INFO] [1653/4864] 处理: DealSeek: Coupons & Discounts (id=6745274862)
+2026-03-26 19:22:42,496 [INFO]   ✓ DealSeek: Coupons & Discounts | 价格: Free | 类别: Shopping
+2026-03-26 19:22:42,496 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:44,179 [INFO] [1654/4864] 处理: Fetch: America’s Rewards App (id=1182474649)
+2026-03-26 19:22:44,275 [INFO]   ✓ Fetch: America’s Rewards App | 价格: Free | 类别: Shopping
+2026-03-26 19:22:44,275 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:47,632 [INFO] [1655/4864] 处理: Wayfair – Shop All Things Home (id=836767708)
+2026-03-26 19:22:47,722 [INFO]   ✓ Wayfair – Shop All Things Home | 价格: Free | 类别: Shopping
+2026-03-26 19:22:47,722 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:49,986 [INFO] [1656/4864] 处理: OfferUp - Shop. Buy. Sell. (id=468996152)
+2026-03-26 19:22:50,219 [INFO]   ✓ OfferUp - Shop. Buy. Sell. | 价格: Free | 类别: Shopping
+2026-03-26 19:22:50,220 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:53,619 [INFO] [1657/4864] 处理: Sephora US: Makeup & Skincare (id=393328150)
+2026-03-26 19:22:53,726 [INFO]   ✓ Sephora US: Makeup & Skincare | 价格: Free | 类别: Shopping
+2026-03-26 19:22:53,726 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:57,001 [INFO] [1658/4864] 处理: Ulta Beauty: Makeup & Skincare (id=561930308)
+2026-03-26 19:22:57,138 [INFO]   ✓ Ulta Beauty: Makeup & Skincare | 价格: Free | 类别: Shopping
+2026-03-26 19:22:57,138 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:22:58,717 [INFO] [1659/4864] 处理: CARFAX - New & Used Cars (id=479267592)
+2026-03-26 19:22:58,870 [INFO]   ✓ CARFAX - New & Used Cars | 价格: Free | 类别: Shopping
+2026-03-26 19:22:58,870 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:01,918 [INFO] [1660/4864] 处理: KashKick: Get paid to have fun (id=1667151711)
+2026-03-26 19:23:02,047 [INFO]   ✓ KashKick: Get paid to have fun | 价格: Free | 类别: Shopping
+2026-03-26 19:23:02,048 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:04,640 [INFO] [1661/4864] 处理: Circle K (id=1592397814)
+2026-03-26 19:23:04,729 [INFO]   ✓ Circle K | 价格: Free | 类别: Shopping
+2026-03-26 19:23:04,729 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:06,947 [INFO] [1662/4864] 处理: Afterpay: Pay over time (id=1401019110)
+2026-03-26 19:23:07,027 [INFO]   ✓ Afterpay: Pay over time | 价格: Free | 类别: Shopping
+2026-03-26 19:23:07,028 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:08,614 [INFO] [1663/4864] 处理: DICK’S Sporting Goods (id=556653197)
+2026-03-26 19:23:08,752 [INFO]   ✓ DICK’S Sporting Goods | 价格: Free | 类别: Shopping
+2026-03-26 19:23:08,752 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:10,502 [INFO] [1664/4864] 处理: CarGurus: Used & New Cars (id=814517475)
+2026-03-26 19:23:10,808 [INFO]   ✓ CarGurus: Used & New Cars | 价格: Free | 类别: Shopping
+2026-03-26 19:23:10,808 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:12,866 [INFO] [1665/4864] 处理: POP MART Americas (id=6757692490)
+2026-03-26 19:23:13,009 [INFO]   ✓ POP MART Americas | 价格: Free | 类别: Shopping
+2026-03-26 19:23:13,009 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:15,500 [INFO] [1666/4864] 处理: Old Navy: Shop for New Clothes (id=342792281)
+2026-03-26 19:23:15,652 [INFO]   ✓ Old Navy: Shop for New Clothes | 价格: Free | 类别: Shopping
+2026-03-26 19:23:15,652 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:19,087 [INFO] [1667/4864] 处理: Dollar General-Digital Coupons (id=561311442)
+2026-03-26 19:23:19,227 [INFO]   ✓ Dollar General-Digital Coupons | 价格: Free | 类别: Shopping
+2026-03-26 19:23:19,228 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:21,591 [INFO] [1668/4864] 处理: Nike: Shoes, Apparel, Stories (id=1095459556)
+2026-03-26 19:23:21,733 [INFO]   ✓ Nike: Shoes, Apparel, Stories | 价格: Free | 类别: Shopping
+2026-03-26 19:23:21,734 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:24,729 [INFO] [1669/4864] 处理: Chewy - Pet Care & Pharmacy (id=1149449468)
+2026-03-26 19:23:25,028 [INFO]   ✓ Chewy - Pet Care & Pharmacy | 价格: Free | 类别: Shopping
+2026-03-26 19:23:25,029 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:26,754 [INFO] [1670/4864] 处理: Groupon - Local Deals Near Me (id=352683833)
+2026-03-26 19:23:26,911 [INFO]   ✓ Groupon - Local Deals Near Me | 价格: Free | 类别: Shopping
+2026-03-26 19:23:26,911 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:29,584 [INFO] [1671/4864] 处理: PetSmart (id=1175467091)
+2026-03-26 19:23:29,817 [INFO]   ✓ PetSmart | 价格: Free | 类别: Shopping
+2026-03-26 19:23:29,817 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:31,966 [INFO] [1672/4864] 处理: Fashion Nova: Trendy Shopping (id=1367363988)
+2026-03-26 19:23:32,224 [INFO]   ✓ Fashion Nova: Trendy Shopping | 价格: Free | 类别: Shopping
+2026-03-26 19:23:32,224 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:33,964 [INFO] [1673/4864] 处理: ALDI Grocery Pickup & Delivery (id=429396645)
+2026-03-26 19:23:34,209 [INFO]   ✓ ALDI Grocery Pickup & Delivery | 价格: Free | 类别: Shopping
+2026-03-26 19:23:34,210 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:37,153 [INFO] [1674/4864] 处理: Macy's: Online Shopping & Save (id=341036067)
+2026-03-26 19:23:37,357 [INFO]   ✓ Macy's: Online Shopping & Save | 价格: Free | 类别: Shopping
+2026-03-26 19:23:37,358 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:40,078 [INFO] [1675/4864] 处理: Laura Geller Beauty (id=6757837249)
+2026-03-26 19:23:40,352 [INFO]   ✓ Laura Geller Beauty | 价格: Free | 类别: Shopping
+2026-03-26 19:23:40,352 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:41,938 [INFO] [1676/4864] 处理: Bath & Body Works | B&BW (id=1256027729)
+2026-03-26 19:23:42,020 [INFO]   ✓ Bath & Body Works | B&BW | 价格: Free | 类别: Shopping
+2026-03-26 19:23:42,020 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:45,299 [INFO] [1677/4864] 处理: lululemon (id=920098546)
+2026-03-26 19:23:45,426 [INFO]   ✓ lululemon | 价格: Free | 类别: Shopping
+2026-03-26 19:23:45,426 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:47,616 [INFO] [1678/4864] 处理: StockX - Sneakers and Apparel (id=881599819)
+2026-03-26 19:23:47,707 [INFO]   ✓ StockX - Sneakers and Apparel | 价格: Free | 类别: Shopping
+2026-03-26 19:23:47,707 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:50,452 [INFO] [1679/4864] 处理: Carvana: Buy/Sell Used Cars (id=1273426583)
+2026-03-26 19:23:50,598 [INFO]   ✓ Carvana: Buy/Sell Used Cars | 价格: Free | 类别: Shopping
+2026-03-26 19:23:50,599 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:52,593 [INFO] [1680/4864] 处理: Zip - Buy Now, Pay Later (id=1425045070)
+2026-03-26 19:23:52,687 [INFO]   ✓ Zip - Buy Now, Pay Later | 价格: Free | 类别: Shopping
+2026-03-26 19:23:52,687 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:55,529 [INFO] [1681/4864] 处理: Phia: Shop Smarter, Save Money (id=6739351340)
+2026-03-26 19:23:55,656 [INFO]   ✓ Phia: Shop Smarter, Save Money | 价格: Free | 类别: Shopping
+2026-03-26 19:23:55,656 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:23:57,990 [INFO] [1682/4864] 处理: Publix (id=562794249)
+2026-03-26 19:23:58,106 [INFO]   ✓ Publix | 价格: Free | 类别: Shopping
+2026-03-26 19:23:58,106 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:00,934 [INFO] [1683/4864] 处理: adidas: Shop Shoes & Clothing (id=1266591536)
+2026-03-26 19:24:01,069 [INFO]   ✓ adidas: Shop Shoes & Clothing | 价格: Free | 类别: Shopping
+2026-03-26 19:24:01,070 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:04,307 [INFO] [1684/4864] 处理: Poshmark: Shop & Sell Fashion (id=470412147)
+2026-03-26 19:24:04,484 [INFO]   ✓ Poshmark: Shop & Sell Fashion | 价格: Free | 类别: Shopping
+2026-03-26 19:24:04,484 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:07,958 [INFO] [1685/4864] 处理: ZARA (id=547951480)
+2026-03-26 19:24:08,094 [INFO]   ✓ ZARA | 价格: Free | 类别: Shopping
+2026-03-26 19:24:08,095 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:11,035 [INFO] [1686/4864] 处理: Dollar Tree (id=1659445743)
+2026-03-26 19:24:11,167 [INFO]   ✓ Dollar Tree | 价格: Free | 类别: Shopping
+2026-03-26 19:24:11,167 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:13,974 [INFO] [1687/4864] 处理: Victoria's Secret—Bras & More (id=336860594)
+2026-03-26 19:24:14,101 [INFO]   ✓ Victoria's Secret—Bras & More | 价格: Free | 类别: Shopping
+2026-03-26 19:24:14,101 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:16,883 [INFO] [1688/4864] 处理: Kroger (id=403901186)
+2026-03-26 19:24:17,009 [INFO]   ✓ Kroger | 价格: Free | 类别: Shopping
+2026-03-26 19:24:17,010 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:20,230 [INFO] [1689/4864] 处理: Babylist Baby Registry (id=718582092)
+2026-03-26 19:24:20,337 [INFO]   ✓ Babylist Baby Registry | 价格: Free | 类别: Shopping
+2026-03-26 19:24:20,337 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:22,564 [INFO] [1690/4864] 处理: craigslist (id=1336642410)
+2026-03-26 19:24:22,713 [INFO]   ✓ craigslist | 价格: Free | 类别: Shopping
+2026-03-26 19:24:22,713 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:25,397 [INFO] [1691/4864] 处理: Halara (id=1545920983)
+2026-03-26 19:24:25,549 [INFO]   ✓ Halara | 价格: Free | 类别: Shopping
+2026-03-26 19:24:25,550 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:28,865 [INFO] [1692/4864] 处理: IKEA (id=1452164827)
+2026-03-26 19:24:29,003 [INFO]   ✓ IKEA | 价格: Free | 类别: Shopping
+2026-03-26 19:24:29,003 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:31,973 [INFO] [1693/4864] 处理: Mercari: Buying & Selling App (id=896130944)
+2026-03-26 19:24:32,206 [INFO]   ✓ Mercari: Buying & Selling App | 价格: Free | 类别: Shopping
+2026-03-26 19:24:32,206 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:34,028 [INFO] [1694/4864] 处理: Kohl's - Shopping & Discounts (id=472014516)
+2026-03-26 19:24:34,141 [INFO]   ✓ Kohl's - Shopping & Discounts | 价格: Free | 类别: Shopping
+2026-03-26 19:24:34,141 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:36,063 [INFO] [1695/4864] 处理: Hollister Co. (id=383915209)
+2026-03-26 19:24:36,142 [INFO]   ✓ Hollister Co. | 价格: Free | 类别: Shopping
+2026-03-26 19:24:36,142 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:38,682 [INFO] [1696/4864] 处理: Cars.com - New & Used Cars (id=353263352)
+2026-03-26 19:24:38,807 [INFO]   ✓ Cars.com - New & Used Cars | 价格: Free | 类别: Shopping
+2026-03-26 19:24:38,807 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:40,466 [INFO] [1697/4864] 处理: Foot Locker - Shop Releases (id=934030757)
+2026-03-26 19:24:40,590 [INFO]   ✓ Foot Locker - Shop Releases | 价格: Free | 类别: Shopping
+2026-03-26 19:24:40,590 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:42,308 [INFO] [1698/4864] 处理: Four | Buy Now, Pay Later (id=1527063669)
+2026-03-26 19:24:42,411 [INFO]   ✓ Four | Buy Now, Pay Later | 价格: Free | 类别: Shopping
+2026-03-26 19:24:42,411 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:45,599 [INFO] [1699/4864] 处理: Harbor Freight Tools (id=1533833273)
+2026-03-26 19:24:45,804 [INFO]   ✓ Harbor Freight Tools | 价格: Free | 类别: Shopping
+2026-03-26 19:24:45,804 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:48,040 [INFO] [1700/4864] 处理: BJs Wholesale Club (id=1287596508)
+2026-03-26 19:24:48,169 [INFO]   ✓ BJs Wholesale Club | 价格: Free | 类别: Shopping
+2026-03-26 19:24:48,169 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:51,049 [INFO] [1701/4864] 处理: On: Shop Shoes & Apparel (id=6449706677)
+2026-03-26 19:24:51,143 [INFO]   ✓ On: Shop Shoes & Apparel | 价格: Free | 类别: Shopping
+2026-03-26 19:24:51,143 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:54,202 [INFO] [1702/4864] 处理: Koupon: Real Deals & Codes (id=6472232952)
+2026-03-26 19:24:54,327 [INFO]   ✓ Koupon: Real Deals & Codes | 价格: Free | 类别: Shopping
+2026-03-26 19:24:54,328 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:56,917 [INFO] [1703/4864] 处理: My Parcel Delivery Tracker (id=6447516226)
+2026-03-26 19:24:57,108 [INFO]   ✓ My Parcel Delivery Tracker | 价格: Free | 类别: Shopping
+2026-03-26 19:24:57,108 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:24:59,126 [INFO] [1704/4864] 处理: ALO (id=1503741784)
+2026-03-26 19:24:59,398 [INFO]   ✓ ALO | 价格: Free | 类别: Shopping
+2026-03-26 19:24:59,398 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:01,224 [INFO] [1705/4864] 处理: Bed Bath & Beyond (id=339883869)
+2026-03-26 19:25:01,360 [INFO]   ✓ Bed Bath & Beyond | 价格: Free | 类别: Shopping
+2026-03-26 19:25:01,361 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:03,115 [INFO] [1706/4864] 处理: Cupshe - Swimwear & Clothing (id=1177423676)
+2026-03-26 19:25:03,254 [INFO]   ✓ Cupshe - Swimwear & Clothing | 价格: Free | 类别: Shopping
+2026-03-26 19:25:03,254 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:05,057 [INFO] [1707/4864] 处理: Nordstrom Rack: Shop Deals (id=853330019)
+2026-03-26 19:25:05,150 [INFO]   ✓ Nordstrom Rack: Shop Deals | 价格: Free | 类别: Shopping
+2026-03-26 19:25:05,150 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:06,728 [INFO] [1708/4864] 处理: Ace Hardware (id=1495294584)
+2026-03-26 19:25:07,102 [INFO]   ✓ Ace Hardware | 价格: Free | 类别: Shopping
+2026-03-26 19:25:07,102 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:09,163 [INFO] [1709/4864] 处理: Autotrader – Shop All the Cars (id=700740807)
+2026-03-26 19:25:09,310 [INFO]   ✓ Autotrader – Shop All the Cars | 价格: Free | 类别: Shopping
+2026-03-26 19:25:09,310 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:11,326 [INFO] [1710/4864] 处理: GOAT – Sneakers & Apparel (id=966758561)
+2026-03-26 19:25:11,414 [INFO]   ✓ GOAT – Sneakers & Apparel | 价格: Free | 类别: Shopping
+2026-03-26 19:25:11,414 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:12,986 [INFO] [1711/4864] 处理: Five Below (id=1076108089)
+2026-03-26 19:25:13,095 [INFO]   ✓ Five Below | 价格: Free | 类别: Shopping
+2026-03-26 19:25:13,095 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:14,771 [INFO] [1712/4864] 处理: Safeway Deals & Delivery (id=521487551)
+2026-03-26 19:25:14,897 [INFO]   ✓ Safeway Deals & Delivery | 价格: Free | 类别: Shopping
+2026-03-26 19:25:14,897 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:17,727 [INFO] [1713/4864] 处理: AE + Aerie (id=467738064)
+2026-03-26 19:25:17,844 [INFO]   ✓ AE + Aerie | 价格: Free | 类别: Shopping
+2026-03-26 19:25:17,844 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:19,677 [INFO] [1714/4864] 处理: CIDER - Clothing & Fashion (id=1539133680)
+2026-03-26 19:25:19,802 [INFO]   ✓ CIDER - Clothing & Fashion | 价格: Free | 类别: Shopping
+2026-03-26 19:25:19,803 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:22,314 [INFO] [1715/4864] 处理: T.J.Maxx (id=1231524763)
+2026-03-26 19:25:22,439 [INFO]   ✓ T.J.Maxx | 价格: Free | 类别: Shopping
+2026-03-26 19:25:22,440 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:25,857 [INFO] [1716/4864] 处理: Nordstrom (id=474349412)
+2026-03-26 19:25:25,963 [INFO]   ✓ Nordstrom | 价格: Free | 类别: Shopping
+2026-03-26 19:25:25,963 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:28,322 [INFO] [1717/4864] 处理: UNIQLO: Clothes Shopping (id=1284609872)
+2026-03-26 19:25:28,546 [INFO]   ✓ UNIQLO: Clothes Shopping | 价格: Free | 类别: Shopping
+2026-03-26 19:25:28,546 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:31,799 [INFO] [1718/4864] 处理: AutoZone Auto Parts & Repair (id=375381161)
+2026-03-26 19:25:31,917 [INFO]   ✓ AutoZone Auto Parts & Repair | 价格: Free | 类别: Shopping
+2026-03-26 19:25:31,917 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:35,185 [INFO] [1719/4864] 处理: H&M (id=834465911)
+2026-03-26 19:25:35,270 [INFO]   ✓ H&M | 价格: Free | 类别: Shopping
+2026-03-26 19:25:35,270 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:37,432 [INFO] [1720/4864] 处理: Rakuten: Cash Back & Deals (id=723134859)
+2026-03-26 19:25:37,564 [INFO]   ✓ Rakuten: Cash Back & Deals | 价格: Free | 类别: Shopping
+2026-03-26 19:25:37,565 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:40,235 [INFO] [1721/4864] 处理: Murphy Drive Rewards (id=1386235320)
+2026-03-26 19:25:40,387 [INFO]   ✓ Murphy Drive Rewards | 价格: Free | 类别: Shopping
+2026-03-26 19:25:40,388 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:42,732 [INFO] [1722/4864] 处理: Tractor Supply (id=1502197298)
+2026-03-26 19:25:42,899 [INFO]   ✓ Tractor Supply | 价格: Free | 类别: Shopping
+2026-03-26 19:25:42,899 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:44,762 [INFO] [1723/4864] 处理: Carter's (id=1275723118)
+2026-03-26 19:25:44,889 [INFO]   ✓ Carter's | 价格: Free | 类别: Shopping
+2026-03-26 19:25:44,889 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:46,415 [INFO] [1724/4864] 处理: Michaels Stores (id=445458809)
+2026-03-26 19:25:46,514 [INFO]   ✓ Michaels Stores | 价格: Free | 类别: Shopping
+2026-03-26 19:25:46,515 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:48,321 [INFO] [1725/4864] 处理: MAC.BID (id=1337779816)
+2026-03-26 19:25:48,412 [INFO]   ✓ MAC.BID | 价格: Free | 类别: Shopping
+2026-03-26 19:25:48,412 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:51,634 [INFO] [1726/4864] 处理: LTK: Shop Trusted Recs (id=1154027990)
+2026-03-26 19:25:51,754 [INFO]   ✓ LTK: Shop Trusted Recs | 价格: Free | 类别: Shopping
+2026-03-26 19:25:51,754 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:55,030 [INFO] [1727/4864] 处理: Zenni | Try On & Buy Glasses (id=1524212453)
+2026-03-26 19:25:55,198 [INFO]   ✓ Zenni | Try On & Buy Glasses | 价格: Free | 类别: Shopping
+2026-03-26 19:25:55,198 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:25:58,622 [INFO] [1728/4864] 处理: Petco: The Pet Parents Partner (id=1368715736)
+2026-03-26 19:25:58,778 [INFO]   ✓ Petco: The Pet Parents Partner | 价格: Free | 类别: Shopping
+2026-03-26 19:25:58,779 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:00,400 [INFO] [1729/4864] 处理: SellRaze: List, sell, earn (id=6455042085)
+2026-03-26 19:26:00,557 [INFO]   ✓ SellRaze: List, sell, earn | 价格: Free | 类别: Shopping
+2026-03-26 19:26:00,557 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:03,881 [INFO] [1730/4864] 处理: My H-E-B (id=1477891300)
+2026-03-26 19:26:03,997 [INFO]   ✓ My H-E-B | 价格: Free | 类别: Shopping
+2026-03-26 19:26:03,997 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:06,738 [INFO] [1731/4864] 处理: Echo - SSH + Mosh Client (id=6758669847)
+2026-03-26 19:26:06,876 [INFO]   ✓ Echo - SSH + Mosh Client | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:26:09,076 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:11,248 [INFO] [1732/4864] 处理: Termix Pro: SSH & SFTP Client (id=6743685377)
+2026-03-26 19:26:11,333 [INFO]   ✓ Termix Pro: SSH & SFTP Client | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:26:14,511 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:16,944 [INFO] [1733/4864] 处理: Inspect Browser (id=1203594958)
+2026-03-26 19:26:17,139 [INFO]   ✓ Inspect Browser | 价格: $6.99 | 类别: Developer Tools
+2026-03-26 19:26:19,695 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:22,240 [INFO] [1734/4864] 处理: Sync.md (id=6758960270)
+2026-03-26 19:26:22,330 [INFO]   ✓ Sync.md | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:26:24,541 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:26,981 [INFO] [1735/4864] 处理: UDevice - Dev Assistant (id=1608053878)
+2026-03-26 19:26:27,121 [INFO]   ✓ UDevice - Dev Assistant | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:26:31,202 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:33,490 [INFO] [1736/4864] 处理: TinyServer (id=1517211662)
+2026-03-26 19:26:33,632 [INFO]   ✓ TinyServer | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:26:36,026 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:38,137 [INFO] [1737/4864] 处理: Code App (id=1512938504)
+2026-03-26 19:26:38,310 [INFO]   ✓ Code App | 价格: $6.99 | 类别: Developer Tools
+2026-03-26 19:26:41,445 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:43,848 [INFO] [1738/4864] 处理: CodeMan - VS Code Browser (id=6759809062)
+2026-03-26 19:26:43,934 [INFO]   ✓ CodeMan - VS Code Browser | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:26:47,672 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:49,870 [INFO] [1739/4864] 处理: Simple Server: HTTP Server (id=6443893597)
+2026-03-26 19:26:50,000 [INFO]   ✓ Simple Server: HTTP Server | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:26:52,273 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:26:55,131 [INFO] [1740/4864] 处理: Smart NFC (id=1470146079)
+2026-03-26 19:26:55,250 [INFO]   ✓ Smart NFC | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:26:57,797 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:00,784 [INFO] [1741/4864] 处理: Cookie Editor For Safari (id=6446626905)
+2026-03-26 19:27:00,923 [INFO]   ✓ Cookie Editor For Safari | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:27:04,541 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:06,390 [INFO] [1742/4864] 处理: Netdata server monitoring (id=1525322870)
+2026-03-26 19:27:06,483 [INFO]   ✓ Netdata server monitoring | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:27:08,526 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:10,075 [INFO] [1743/4864] 处理: Pet Claw (id=6759503884)
+2026-03-26 19:27:10,241 [INFO]   ✓ Pet Claw | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:27:13,905 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:15,535 [INFO] [1744/4864] 处理: RegEx Lab: Regular Expressions (id=1252988123)
+2026-03-26 19:27:15,656 [INFO]   ✓ RegEx Lab: Regular Expressions | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:27:19,185 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:21,673 [INFO] [1745/4864] 处理: Assembly Lab: 8086 NASM IDE (id=6757485881)
+2026-03-26 19:27:21,812 [INFO]   ✓ Assembly Lab: 8086 NASM IDE | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:27:25,304 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:26,883 [INFO] [1746/4864] 处理: Kuber - Kubernetes Dashboard (id=1461666739)
+2026-03-26 19:27:27,011 [INFO]   ✓ Kuber - Kubernetes Dashboard | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:27:29,925 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:32,983 [INFO] [1747/4864] 处理: Python & SQL Pro (id=1572726721)
+2026-03-26 19:27:33,091 [INFO]   ✓ Python & SQL Pro | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:27:35,222 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:37,167 [INFO] [1748/4864] 处理: Global Store Go (id=1669618444)
+2026-03-26 19:27:37,303 [INFO]   ✓ Global Store Go | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:27:40,049 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:43,343 [INFO] [1749/4864] 处理: Void Connect (id=6757708903)
+2026-03-26 19:27:43,432 [INFO]   ✓ Void Connect | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:27:46,910 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:49,043 [INFO] [1750/4864] 处理: AirCodum Agentum (id=6758521566)
+2026-03-26 19:27:49,157 [INFO]   ✓ AirCodum Agentum | 价格: $6.99 | 类别: Developer Tools
+2026-03-26 19:27:51,186 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:52,998 [INFO] [1751/4864] 处理: Dev Auto Capture (id=6755616902)
+2026-03-26 19:27:53,082 [INFO]   ✓ Dev Auto Capture | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:27:55,650 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:27:58,749 [INFO] [1752/4864] 处理: Logger for Shortcuts (id=1611554653)
+2026-03-26 19:27:58,869 [INFO]   ✓ Logger for Shortcuts | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:28:02,606 [INFO]   [网页] 找到 4 个内购项目
+2026-03-26 19:28:02,607 [INFO]   ✓ 内购: 4 项
+2026-03-26 19:28:02,607 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:04,818 [INFO] [1753/4864] 处理: Mdly – Markdown Viewer (id=6759057599)
+2026-03-26 19:28:04,975 [INFO]   ✓ Mdly – Markdown Viewer | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:28:07,111 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:10,324 [INFO] [1754/4864] 处理: YAML Tools (id=6758571420)
+2026-03-26 19:28:10,438 [INFO]   ✓ YAML Tools | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:28:13,276 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:16,107 [INFO] [1755/4864] 处理: PocketHog: Product Analytics (id=6759969606)
+2026-03-26 19:28:16,199 [INFO]   ✓ PocketHog: Product Analytics | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:28:19,828 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:22,453 [INFO] [1756/4864] 处理: iCardVerify - Card Validator (id=6501961979)
+2026-03-26 19:28:22,578 [INFO]   ✓ iCardVerify - Card Validator | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:28:25,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:27,787 [INFO] [1757/4864] 处理: Packet Sender - UDP/ TCP/ SSL (id=1558236648)
+2026-03-26 19:28:27,882 [INFO]   ✓ Packet Sender - UDP/ TCP/ SSL | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:28:31,066 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:33,401 [INFO] [1758/4864] 处理: HapticCode (id=6747934791)
+2026-03-26 19:28:33,567 [INFO]   ✓ HapticCode | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:28:36,531 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:38,730 [INFO] [1759/4864] 处理: Code Recipes Pro (id=1061486140)
+2026-03-26 19:28:38,829 [INFO]   ✓ Code Recipes Pro | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:28:41,597 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:44,833 [INFO] [1760/4864] 处理: LadderTouch (id=386737169)
+2026-03-26 19:28:44,965 [INFO]   ✓ LadderTouch | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:28:47,603 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:50,540 [INFO] [1761/4864] 处理: HogLite — PostHog Mobile App (id=6742509573)
+2026-03-26 19:28:50,639 [INFO]   ✓ HogLite — PostHog Mobile App | 价格: $5.79 | 类别: Developer Tools
+2026-03-26 19:28:54,186 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:28:56,503 [INFO] [1762/4864] 处理: python3$ (id=585637688)
+2026-03-26 19:28:56,630 [INFO]   ✓ python3$ | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:28:58,857 [WARNING]   Request error attempt 1: Exceeded 30 redirects.
+2026-03-26 19:29:04,128 [WARNING]   Request error attempt 2: Exceeded 30 redirects.
+2026-03-26 19:29:14,331 [WARNING]   Request error attempt 3: Exceeded 30 redirects.
+2026-03-26 19:29:14,331 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:16,632 [INFO] [1763/4864] 处理: iSocketTool (id=1461652639)
+2026-03-26 19:29:16,788 [INFO]   ✓ iSocketTool | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:29:19,492 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 19:29:19,493 [INFO]   ✓ 内购: 2 项
+2026-03-26 19:29:19,493 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:22,007 [INFO] [1764/4864] 处理: Code - Compile & Run Program (id=1515506950)
+2026-03-26 19:29:22,115 [INFO]   ✓ Code - Compile & Run Program | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:29:24,756 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:26,734 [INFO] [1765/4864] 处理: Format JSON for Safari (id=6745445528)
+2026-03-26 19:29:26,832 [INFO]   ✓ Format JSON for Safari | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:29:29,019 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:30,598 [INFO] [1766/4864] 处理: Text Editor - Document Editor (id=1565641091)
+2026-03-26 19:29:30,731 [INFO]   ✓ Text Editor - Document Editor | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:29:33,660 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:36,996 [INFO] [1767/4864] 处理: SQLed - SQL Database Manager (id=475312085)
+2026-03-26 19:29:37,083 [INFO]   ✓ SQLed - SQL Database Manager | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:29:40,540 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:29:40,541 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:29:40,541 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:43,939 [INFO] [1768/4864] 处理: Continuous .NET C# and F# IDE (id=1095213378)
+2026-03-26 19:29:44,093 [INFO]   ✓ Continuous .NET C# and F# IDE | 价格: $12.99 | 类别: Developer Tools
+2026-03-26 19:29:47,648 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:50,638 [INFO] [1769/4864] 处理: DNS Client (id=1517487743)
+2026-03-26 19:29:50,721 [INFO]   ✓ DNS Client | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:29:52,817 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:54,508 [INFO] [1770/4864] 处理: OpenTerm (id=1481149807)
+2026-03-26 19:29:54,635 [INFO]   ✓ OpenTerm | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:29:57,710 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:29:57,711 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:29:57,711 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:29:59,395 [INFO] [1771/4864] 处理: websta$-learn html css and js (id=932296259)
+2026-03-26 19:29:59,480 [INFO]   ✓ websta$-learn html css and js | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:30:01,935 [WARNING]   Request error attempt 1: Exceeded 30 redirects.
+2026-03-26 19:30:07,150 [WARNING]   Request error attempt 2: Exceeded 30 redirects.
+2026-03-26 19:30:17,385 [WARNING]   Request error attempt 3: Exceeded 30 redirects.
+2026-03-26 19:30:17,385 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:19,195 [INFO] [1772/4864] 处理: Adaptivity (A) (id=1054670022)
+2026-03-26 19:30:19,385 [INFO]   ✓ Adaptivity (A) | 价格: $7.99 | 类别: Developer Tools
+2026-03-26 19:30:22,803 [INFO]   [网页] 找到 4 个内购项目
+2026-03-26 19:30:22,804 [INFO]   ✓ 内购: 4 项
+2026-03-26 19:30:22,804 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:24,649 [INFO] [1773/4864] 处理: iPulse - Monitor Your Device (id=6474695786)
+2026-03-26 19:30:24,726 [INFO]   ✓ iPulse - Monitor Your Device | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:30:27,680 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:30,357 [INFO] [1774/4864] 处理: PPHub For GitHub - Developer (id=1314212521)
+2026-03-26 19:30:30,435 [INFO]   ✓ PPHub For GitHub - Developer | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:30:32,426 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:33,955 [INFO] [1775/4864] 处理: Ruby 2.0-run code,pro (id=727047729)
+2026-03-26 19:30:34,054 [INFO]   ✓ Ruby 2.0-run code,pro | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:30:37,219 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:38,739 [INFO] [1776/4864] 处理: Hexer — Hex File Viewer (id=1468880337)
+2026-03-26 19:30:38,819 [INFO]   ✓ Hexer — Hex File Viewer | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:30:42,160 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:45,211 [INFO] [1777/4864] 处理: Harbour - Docker Manager (id=1582439659)
+2026-03-26 19:30:45,296 [INFO]   ✓ Harbour - Docker Manager | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:30:47,334 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:48,861 [INFO] [1778/4864] 处理: Source 3 (id=921385542)
+2026-03-26 19:30:49,005 [INFO]   ✓ Source 3 | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:30:52,011 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:30:55,080 [INFO] [1779/4864] 处理: PasteMe - Pastebin Client (id=1191488320)
+2026-03-26 19:30:55,224 [INFO]   ✓ PasteMe - Pastebin Client | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:30:57,964 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:00,485 [INFO] [1780/4864] 处理: DraftCode for PHP IDE (id=593757593)
+2026-03-26 19:31:00,617 [INFO]   ✓ DraftCode for PHP IDE | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:31:03,497 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 19:31:03,499 [INFO]   ✓ 内购: 2 项
+2026-03-26 19:31:03,499 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:05,488 [INFO] [1781/4864] 处理: MongoLime - manage databases (id=1237825358)
+2026-03-26 19:31:05,753 [INFO]   ✓ MongoLime - manage databases | 价格: $11.99 | 类别: Developer Tools
+2026-03-26 19:31:09,261 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:12,613 [INFO] [1782/4864] 处理: iHTTP Tracker -Network monitor (id=1463315864)
+2026-03-26 19:31:12,737 [INFO]   ✓ iHTTP Tracker -Network monitor | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:31:16,706 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:18,336 [INFO] [1783/4864] 处理: SecurityKit - Developer Tools (id=1548808907)
+2026-03-26 19:31:18,480 [INFO]   ✓ SecurityKit - Developer Tools | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:31:22,304 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:24,405 [INFO] [1784/4864] 处理: Juno Connect: Jupyter Client (id=1315744137)
+2026-03-26 19:31:24,489 [INFO]   ✓ Juno Connect: Jupyter Client | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:31:27,579 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:29,943 [INFO] [1785/4864] 处理: Source Code Reader (id=511639148)
+2026-03-26 19:31:30,103 [INFO]   ✓ Source Code Reader | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:31:33,284 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:35,160 [INFO] [1786/4864] 处理: Zeitgeist (id=1526052028)
+2026-03-26 19:31:35,281 [INFO]   ✓ Zeitgeist | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:31:38,140 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:41,587 [INFO] [1787/4864] 处理: ESP32 BLE Terminal (id=1567601472)
+2026-03-26 19:31:41,768 [INFO]   ✓ ESP32 BLE Terminal | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:31:45,129 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:31:45,131 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:31:45,131 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:47,700 [INFO] [1788/4864] 处理: SSL Checker (id=1347743213)
+2026-03-26 19:31:47,833 [INFO]   ✓ SSL Checker | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:31:50,565 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:53,262 [INFO] [1789/4864] 处理: View Source Premier (id=1425213172)
+2026-03-26 19:31:53,409 [INFO]   ✓ View Source Premier | 价格: $5.99 | 类别: Developer Tools
+2026-03-26 19:31:55,337 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:31:57,305 [INFO] [1790/4864] 处理: My Lisp (id=1245341806)
+2026-03-26 19:31:57,399 [INFO]   ✓ My Lisp | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:32:00,511 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:03,660 [INFO] [1791/4864] 处理: Scarlet (id=1532669250)
+2026-03-26 19:32:03,788 [INFO]   ✓ Scarlet | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:32:07,053 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:09,306 [INFO] [1792/4864] 处理: San Fransymbols: SF Symbols (id=1504761986)
+2026-03-26 19:32:09,433 [INFO]   ✓ San Fransymbols: SF Symbols | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:32:13,094 [INFO]   [网页] 找到 3 个内购项目
+2026-03-26 19:32:13,095 [INFO]   ✓ 内购: 3 项
+2026-03-26 19:32:13,095 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:16,062 [INFO] [1793/4864] 处理: Store Redirect Switch (id=6446801749)
+2026-03-26 19:32:16,266 [INFO]   ✓ Store Redirect Switch | 价格: $0.29 | 类别: Developer Tools
+2026-03-26 19:32:19,909 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:23,384 [INFO] [1794/4864] 处理: Node-PAD (id=1534470128)
+2026-03-26 19:32:23,521 [INFO]   ✓ Node-PAD | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:32:26,945 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:30,082 [INFO] [1795/4864] 处理: UDIDit (id=326123820)
+2026-03-26 19:32:30,177 [INFO]   ✓ UDIDit | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:32:33,485 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:36,247 [INFO] [1796/4864] 处理: Haptics - Test Haptic Feedback (id=1474606532)
+2026-03-26 19:32:36,346 [INFO]   ✓ Haptics - Test Haptic Feedback | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:32:38,464 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:41,369 [INFO] [1797/4864] 处理: Code Develop IDE (id=1564857036)
+2026-03-26 19:32:41,637 [INFO]   ✓ Code Develop IDE | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:32:44,707 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:46,931 [INFO] [1798/4864] 处理: HTMLSource (id=1661026537)
+2026-03-26 19:32:47,063 [INFO]   ✓ HTMLSource | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:32:49,771 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:52,168 [INFO] [1799/4864] 处理: BLE Spy (id=1445874104)
+2026-03-26 19:32:52,350 [INFO]   ✓ BLE Spy | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:32:56,444 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:32:59,603 [INFO] [1800/4864] 处理: Nmap Handbook (id=6450674361)
+2026-03-26 19:32:59,728 [INFO]   ✓ Nmap Handbook | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:33:01,884 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:04,161 [INFO] [1801/4864] 处理: n8n Toolbox (id=6746510452)
+2026-03-26 19:33:04,281 [INFO]   ✓ n8n Toolbox | 价格: $5.99 | 类别: Developer Tools
+2026-03-26 19:33:07,385 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:10,753 [INFO] [1802/4864] 处理: BetterAppIcons (id=1532627187)
+2026-03-26 19:33:10,988 [INFO]   ✓ BetterAppIcons | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:33:13,148 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:15,922 [INFO] [1803/4864] 处理: Nan - Packet Capture (id=1534485108)
+2026-03-26 19:33:16,004 [INFO]   ✓ Nan - Packet Capture | 价格: $34.99 | 类别: Developer Tools
+2026-03-26 19:33:19,650 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:21,299 [INFO] [1804/4864] 处理: Neural Object Detector (id=1506388148)
+2026-03-26 19:33:21,388 [INFO]   ✓ Neural Object Detector | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:33:24,311 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:26,904 [INFO] [1805/4864] 处理: SeeLess - C Compiler (id=1481018071)
+2026-03-26 19:33:27,051 [INFO]   ✓ SeeLess - C Compiler | 价格: $2.99 | 类别: Developer Tools
+2026-03-26 19:33:30,963 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:33,906 [INFO] [1806/4864] 处理: a11yTools - Web Accessibility (id=1356241530)
+2026-03-26 19:33:34,347 [INFO]   ✓ a11yTools - Web Accessibility | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:33:36,271 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:38,573 [INFO] [1807/4864] 处理: Http Traffic pro - sniffer (id=1490043916)
+2026-03-26 19:33:38,732 [INFO]   ✓ Http Traffic pro - sniffer | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:33:41,946 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:43,735 [INFO] [1808/4864] 处理: C Code Develop (id=1503486606)
+2026-03-26 19:33:43,962 [INFO]   ✓ C Code Develop | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:33:47,534 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:50,806 [INFO] [1809/4864] 处理: RegEx+ (id=1511763524)
+2026-03-26 19:33:50,893 [INFO]   ✓ RegEx+ | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:33:53,045 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:54,740 [INFO] [1810/4864] 处理: AirTerminal - BLE Terminal (id=1296588408)
+2026-03-26 19:33:54,863 [INFO]   ✓ AirTerminal - BLE Terminal | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:33:58,211 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:33:59,826 [INFO] [1811/4864] 处理: Jockey OSC & MIDI (id=1553621603)
+2026-03-26 19:34:00,053 [INFO]   ✓ Jockey OSC & MIDI | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:34:03,263 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:05,662 [INFO] [1812/4864] 处理: Pixel Resizer: Custom Metadata (id=1288339266)
+2026-03-26 19:34:05,769 [INFO]   ✓ Pixel Resizer: Custom Metadata | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:34:08,910 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:11,654 [INFO] [1813/4864] 处理: MermaidEditor (id=1581312955)
+2026-03-26 19:34:11,834 [INFO]   ✓ MermaidEditor | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:34:15,083 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:17,118 [INFO] [1814/4864] 处理: Device Information Tool (id=6736626499)
+2026-03-26 19:34:17,232 [INFO]   ✓ Device Information Tool | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:34:20,945 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:23,864 [INFO] [1815/4864] 处理: BASIC: programming language (id=1540244170)
+2026-03-26 19:34:24,009 [INFO]   ✓ BASIC: programming language | 价格: $11.99 | 类别: Developer Tools
+2026-03-26 19:34:27,371 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:30,312 [INFO] [1816/4864] 处理: Colordrop: Color Picker (id=1123855886)
+2026-03-26 19:34:30,432 [INFO]   ✓ Colordrop: Color Picker | 价格: $4.99 | 类别: Developer Tools
+2026-03-26 19:34:32,683 [INFO]   [网页] 找到 5 个内购项目
+2026-03-26 19:34:32,685 [INFO]   ✓ 内购: 5 项
+2026-03-26 19:34:32,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:35,284 [INFO] [1817/4864] 处理: Bee - Cookie Editor For Safari (id=1661684144)
+2026-03-26 19:34:35,402 [INFO]   ✓ Bee - Cookie Editor For Safari | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:34:38,162 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:41,258 [INFO] [1818/4864] 处理: Playing Haptics (id=6448959702)
+2026-03-26 19:34:41,386 [INFO]   ✓ Playing Haptics | 价格: $0.29 | 类别: Developer Tools
+2026-03-26 19:34:44,676 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:47,358 [INFO] [1819/4864] 处理: Lorem Ipsum Keyboard (id=1496093635)
+2026-03-26 19:34:47,443 [INFO]   ✓ Lorem Ipsum Keyboard | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:34:50,535 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:53,747 [INFO] [1820/4864] 处理: App icon Generator: icon Maker (id=1628134574)
+2026-03-26 19:34:53,842 [INFO]   ✓ App icon Generator: icon Maker | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:34:56,936 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:34:59,802 [INFO] [1821/4864] 处理: SSL Toolkit (id=1547278785)
+2026-03-26 19:35:00,138 [INFO]   ✓ SSL Toolkit | 价格: $9.99 | 类别: Developer Tools
+2026-03-26 19:35:03,509 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:05,917 [INFO] [1822/4864] 处理: mitmproxy client by txthinking (id=1528537342)
+2026-03-26 19:35:06,092 [INFO]   ✓ mitmproxy client by txthinking | 价格: $24.99 | 类别: Developer Tools
+2026-03-26 19:35:08,813 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:11,534 [INFO] [1823/4864] 处理: neightn remote (id=6744863722)
+2026-03-26 19:35:11,704 [INFO]   ✓ neightn remote | 价格: $8.99 | 类别: Developer Tools
+2026-03-26 19:35:15,359 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:17,359 [INFO] [1824/4864] 处理: Haptique - Haptic Explorer (id=1535337134)
+2026-03-26 19:35:17,527 [INFO]   ✓ Haptique - Haptic Explorer | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:35:20,784 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:23,063 [INFO] [1825/4864] 处理: Enable Everything (id=6757458905)
+2026-03-26 19:35:23,144 [INFO]   ✓ Enable Everything | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:35:25,199 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:27,455 [INFO] [1826/4864] 处理: Core Data Manager (id=617332649)
+2026-03-26 19:35:27,598 [INFO]   ✓ Core Data Manager | 价格: $1.99 | 类别: Developer Tools
+2026-03-26 19:35:29,687 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:32,534 [INFO] [1827/4864] 处理: JSON Navigator (id=6740144978)
+2026-03-26 19:35:32,693 [INFO]   ✓ JSON Navigator | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:35:35,302 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:38,045 [INFO] [1828/4864] 处理: JSON Tools (id=1526081216)
+2026-03-26 19:35:38,186 [INFO]   ✓ JSON Tools | 价格: $0.99 | 类别: Developer Tools
+2026-03-26 19:35:40,869 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:44,107 [INFO] [1829/4864] 处理: UCoW - Ultimate Code Wrapper (id=1551344923)
+2026-03-26 19:35:44,184 [INFO]   ✓ UCoW - Ultimate Code Wrapper | 价格: $3.99 | 类别: Developer Tools
+2026-03-26 19:35:48,193 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:50,420 [INFO] [1830/4864] 处理: Developer Colour Palette (id=6447426581)
+2026-03-26 19:35:50,576 [INFO]   ✓ Developer Colour Palette | 价格: $0.49 | 类别: Developer Tools
+2026-03-26 19:35:52,688 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:35:52,690 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:35:52,690 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:54,583 [INFO] [1831/4864] 处理: TestFlight (id=899247664)
+2026-03-26 19:35:54,810 [INFO]   ✓ TestFlight | 价格: Free | 类别: Developer Tools
+2026-03-26 19:35:54,810 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:35:58,218 [INFO] [1832/4864] 处理: Replit: Vibe Code Apps (id=1614022293)
+2026-03-26 19:35:58,343 [INFO]   ✓ Replit: Vibe Code Apps | 价格: Free | 类别: Developer Tools
+2026-03-26 19:35:58,343 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:01,057 [INFO] [1833/4864] 处理: GitHub (id=1477376905)
+2026-03-26 19:36:01,136 [INFO]   ✓ GitHub | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:01,137 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:04,129 [INFO] [1834/4864] 处理: Expo Go (id=982107779)
+2026-03-26 19:36:04,264 [INFO]   ✓ Expo Go | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:04,264 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:06,579 [INFO] [1835/4864] 处理: O-KAM Pro (id=1602054864)
+2026-03-26 19:36:06,695 [INFO]   ✓ O-KAM Pro | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:06,695 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:08,661 [INFO] [1836/4864] 处理: App Store Connect (id=1234793120)
+2026-03-26 19:36:08,793 [INFO]   ✓ App Store Connect | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:08,794 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:10,925 [INFO] [1837/4864] 处理: Emergent AI: Vibe Code Apps (id=6748029391)
+2026-03-26 19:36:11,011 [INFO]   ✓ Emergent AI: Vibe Code Apps | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:11,011 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:12,596 [INFO] [1838/4864] 处理: Apple Developer (id=640199958)
+2026-03-26 19:36:12,684 [INFO]   ✓ Apple Developer | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:12,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:14,582 [INFO] [1839/4864] 处理: Termius - Modern SSH Client (id=549039908)
+2026-03-26 19:36:14,676 [INFO]   ✓ Termius - Modern SSH Client | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:14,676 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:17,927 [INFO] [1840/4864] 处理: Sekai: Create · Remix · Play (id=6504506653)
+2026-03-26 19:36:18,012 [INFO]   ✓ Sekai: Create · Remix · Play | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:18,012 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:20,538 [INFO] [1841/4864] 处理: LocalDevVPN (id=6755608044)
+2026-03-26 19:36:20,632 [INFO]   ✓ LocalDevVPN | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:20,632 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:23,671 [INFO] [1842/4864] 处理: brrr • just push notifications (id=6755617665)
+2026-03-26 19:36:23,758 [INFO]   ✓ brrr • just push notifications | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:23,758 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:25,615 [INFO] [1843/4864] 处理: Cookie-Editor (id=6446215341)
+2026-03-26 19:36:25,782 [INFO]   ✓ Cookie-Editor | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:25,782 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:27,835 [INFO] [1844/4864] 处理: ProxyPin - Open Source Capture (id=6450932949)
+2026-03-26 19:36:27,940 [INFO]   ✓ ProxyPin - Open Source Capture | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:27,940 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:29,679 [INFO] [1845/4864] 处理: avoGate (id=6753074404)
+2026-03-26 19:36:29,829 [INFO]   ✓ avoGate | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:29,829 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:31,366 [INFO] [1846/4864] 处理: Python Coding Editor & IDE App (id=6444399635)
+2026-03-26 19:36:31,494 [INFO]   ✓ Python Coding Editor & IDE App | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:31,494 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:33,944 [INFO] [1847/4864] 处理: Anything - AI App Builder (id=6751247034)
+2026-03-26 19:36:34,017 [WARNING]   ⚠ 获取失败，跳过
+2026-03-26 19:36:36,788 [INFO] [1848/4864] 处理: Cursor AI Mobile - Remote IDE (id=6755931330)
+2026-03-26 19:36:36,884 [INFO]   ✓ Cursor AI Mobile - Remote IDE | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:36,884 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:39,261 [INFO] [1849/4864] 处理: iSH Shell (id=1436902243)
+2026-03-26 19:36:39,439 [INFO]   ✓ iSH Shell | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:39,439 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:42,399 [INFO] [1850/4864] 处理: Scriptable (id=1405459188)
+2026-03-26 19:36:42,572 [INFO]   ✓ Scriptable | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:42,572 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:44,748 [INFO] [1851/4864] 处理: Mobile IDE for Claude Code (id=6757921693)
+2026-03-26 19:36:44,876 [INFO]   ✓ Mobile IDE for Claude Code | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:44,876 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:48,079 [INFO] [1852/4864] 处理: Koder Code Editor (id=1447489375)
+2026-03-26 19:36:48,211 [INFO]   ✓ Koder Code Editor | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:48,212 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:51,514 [INFO] [1853/4864] 处理: Termux (id=6738933789)
+2026-03-26 19:36:51,743 [INFO]   ✓ Termux | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:51,743 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:54,475 [INFO] [1854/4864] 处理: Happy: Codex & Claude Code App (id=6748571505)
+2026-03-26 19:36:54,566 [INFO]   ✓ Happy: Codex & Claude Code App | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:54,567 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:36:57,312 [INFO] [1855/4864] 处理: Vibecode Apps IDE - LastApp (id=6751259948)
+2026-03-26 19:36:57,408 [INFO]   ✓ Vibecode Apps IDE - LastApp | 价格: Free | 类别: Developer Tools
+2026-03-26 19:36:57,408 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:00,747 [INFO] [1856/4864] 处理: iProxy - Sys admin tools (id=6742786598)
+2026-03-26 19:37:00,869 [INFO]   ✓ iProxy - Sys admin tools | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:00,869 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:03,680 [INFO] [1857/4864] 处理: Userscripts (id=1463298887)
+2026-03-26 19:37:03,774 [INFO]   ✓ Userscripts | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:03,775 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:07,096 [INFO] [1858/4864] 处理: Desktop Browser • Zoomable (id=1568442831)
+2026-03-26 19:37:07,209 [INFO]   ✓ Desktop Browser • Zoomable | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:07,209 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:10,145 [INFO] [1859/4864] 处理: Apps Connect (id=1643688878)
+2026-03-26 19:37:10,248 [INFO]   ✓ Apps Connect | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:10,248 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:12,034 [INFO] [1860/4864] 处理: Python Coding (id=6738411328)
+2026-03-26 19:37:12,227 [INFO]   ✓ Python Coding | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:12,227 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:14,921 [INFO] [1861/4864] 处理: Surge 5 (id=1442620678)
+2026-03-26 19:37:15,070 [INFO]   ✓ Surge 5 | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:15,071 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:18,383 [INFO] [1862/4864] 处理: a-Shell (id=1473805438)
+2026-03-26 19:37:18,529 [INFO]   ✓ a-Shell | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:18,529 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:20,680 [INFO] [1863/4864] 处理: PIA S5 Control (id=6657984482)
+2026-03-26 19:37:20,802 [INFO]   ✓ PIA S5 Control | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:20,803 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:23,301 [INFO] [1864/4864] 处理: Device Monitor² (id=1522870046)
+2026-03-26 19:37:23,573 [INFO]   ✓ Device Monitor² | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:23,573 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:26,209 [INFO] [1865/4864] 处理: Resolutioner (id=1563852783)
+2026-03-26 19:37:26,291 [INFO]   ✓ Resolutioner | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:26,291 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:28,863 [INFO] [1866/4864] 处理: Rev for Vercel (id=6740740427)
+2026-03-26 19:37:28,967 [INFO]   ✓ Rev for Vercel | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:28,967 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:30,495 [INFO] [1867/4864] 处理: Google Play Console (id=1606772645)
+2026-03-26 19:37:30,631 [INFO]   ✓ Google Play Console | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:30,632 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:32,320 [INFO] [1868/4864] 处理: Bluetooth Inspector (id=1509085044)
+2026-03-26 19:37:32,497 [INFO]   ✓ Bluetooth Inspector | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:32,497 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:34,031 [INFO] [1869/4864] 处理: Textastic Code Editor (id=1049254261)
+2026-03-26 19:37:34,123 [INFO]   ✓ Textastic Code Editor | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:34,123 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:37,296 [INFO] [1870/4864] 处理: Store Redirect (id=1601434613)
+2026-03-26 19:37:37,391 [INFO]   ✓ Store Redirect | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:37,391 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:40,804 [INFO] [1871/4864] 处理: Runestone Text Editor (id=1548193893)
+2026-03-26 19:37:40,946 [INFO]   ✓ Runestone Text Editor | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:40,947 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:44,004 [INFO] [1872/4864] 处理: v0 (id=6745097949)
+2026-03-26 19:37:44,112 [INFO]   ✓ v0 | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:44,112 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:46,629 [INFO] [1873/4864] 处理: BluetoothAssistant (id=1536579599)
+2026-03-26 19:37:46,729 [INFO]   ✓ BluetoothAssistant | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:46,729 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:48,749 [INFO] [1874/4864] 处理: GDevelop - Create & Play Games (id=1663675754)
+2026-03-26 19:37:48,897 [INFO]   ✓ GDevelop - Create & Play Games | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:48,898 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:51,335 [INFO] [1875/4864] 处理: Pyto IDE (id=1436650069)
+2026-03-26 19:37:51,500 [INFO]   ✓ Pyto IDE | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:51,500 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:53,891 [INFO] [1876/4864] 处理: Vlive- (id=6757915510)
+2026-03-26 19:37:54,021 [INFO]   ✓ Vlive- | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:54,022 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:37:56,829 [INFO] [1877/4864] 处理: Kodex (id=1038574481)
+2026-03-26 19:37:56,937 [INFO]   ✓ Kodex | 价格: Free | 类别: Developer Tools
+2026-03-26 19:37:56,937 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:00,317 [INFO] [1878/4864] 处理: Web Inspector (id=1584825745)
+2026-03-26 19:38:00,415 [INFO]   ✓ Web Inspector | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:00,416 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:02,227 [INFO] [1879/4864] 处理: Git client - Working Copy (id=896694807)
+2026-03-26 19:38:02,359 [INFO]   ✓ Git client - Working Copy | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:02,359 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:05,629 [INFO] [1880/4864] 处理: Prompt 3 (id=1594420480)
+2026-03-26 19:38:05,718 [INFO]   ✓ Prompt 3 | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:05,718 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:08,033 [INFO] [1881/4864] 处理: Blink Shell, Build & Code (id=1594898306)
+2026-03-26 19:38:08,121 [INFO]   ✓ Blink Shell, Build & Code | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:08,122 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:09,798 [INFO] [1882/4864] 处理: Terminal# (id=1632249346)
+2026-03-26 19:38:09,893 [INFO]   ✓ Terminal# | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:09,894 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:11,902 [INFO] [1883/4864] 处理: Reins: Chat for Ollama (id=6739738501)
+2026-03-26 19:38:12,045 [INFO]   ✓ Reins: Chat for Ollama | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:12,046 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:15,472 [INFO] [1884/4864] 处理: Proxyman - Capture HTTPS (id=1551292695)
+2026-03-26 19:38:15,567 [INFO]   ✓ Proxyman - Capture HTTPS | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:15,568 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:17,305 [INFO] [1885/4864] 处理: N8N Automations — Nathan (id=6754570005)
+2026-03-26 19:38:17,443 [INFO]   ✓ N8N Automations — Nathan | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:17,444 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:19,867 [INFO] [1886/4864] 处理: Text Editor. (id=1483790257)
+2026-03-26 19:38:19,974 [INFO]   ✓ Text Editor. | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:19,974 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:22,827 [INFO] [1887/4864] 处理: xTerminal - SSH Terminal Shell (id=1544728400)
+2026-03-26 19:38:22,981 [INFO]   ✓ xTerminal - SSH Terminal Shell | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:22,981 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:24,592 [INFO] [1888/4864] 处理: a-Shell mini (id=1543537943)
+2026-03-26 19:38:24,672 [INFO]   ✓ a-Shell mini | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:24,672 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:26,701 [INFO] [1889/4864] 处理: Supanator: Supabase Manager (id=6748534773)
+2026-03-26 19:38:26,805 [INFO]   ✓ Supanator: Supabase Manager | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:26,806 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:29,090 [INFO] [1890/4864] 处理: Jayson (id=1447750768)
+2026-03-26 19:38:29,317 [INFO]   ✓ Jayson | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:29,317 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:31,962 [INFO] [1891/4864] 处理: Stream - Network Debug Tool (id=1312141691)
+2026-03-26 19:38:32,098 [INFO]   ✓ Stream - Network Debug Tool | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:32,098 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:35,136 [INFO] [1892/4864] 处理: Carnets - Jupyter (id=1450994949)
+2026-03-26 19:38:35,318 [INFO]   ✓ Carnets - Jupyter | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:35,318 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:36,913 [INFO] [1893/4864] 处理: Storm Sniffer - Packet Capture (id=1610958307)
+2026-03-26 19:38:36,994 [INFO]   ✓ Storm Sniffer - Packet Capture | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:36,994 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:39,274 [INFO] [1894/4864] 处理: Subtext (id=1606625287)
+2026-03-26 19:38:39,397 [INFO]   ✓ Subtext | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:39,397 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:42,177 [INFO] [1895/4864] 处理: Moshi: SSH & MOSH Terminal (id=6757859949)
+2026-03-26 19:38:42,267 [INFO]   ✓ Moshi: SSH & MOSH Terminal | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:42,267 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:44,557 [INFO] [1896/4864] 处理: Rootly (id=6478240412)
+2026-03-26 19:38:44,693 [INFO]   ✓ Rootly | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:44,693 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:48,100 [INFO] [1897/4864] 处理: Dashify for Netlify.com (id=6742102359)
+2026-03-26 19:38:48,232 [INFO]   ✓ Dashify for Netlify.com | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:48,233 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:50,395 [INFO] [1898/4864] 处理: Spectre VPN (id=1508712998)
+2026-03-26 19:38:50,481 [INFO]   ✓ Spectre VPN | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:50,481 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:52,580 [INFO] [1899/4864] 处理: Antigravity AI - Vibecode App (id=6755731546)
+2026-03-26 19:38:52,732 [INFO]   ✓ Antigravity AI - Vibecode App | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:52,732 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:55,251 [INFO] [1900/4864] 处理: Shortcut Connector (id=6737373111)
+2026-03-26 19:38:55,374 [INFO]   ✓ Shortcut Connector | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:55,375 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:38:58,199 [INFO] [1901/4864] 处理: Swifty Compiler: Swift IDE (id=1544749600)
+2026-03-26 19:38:58,278 [INFO]   ✓ Swifty Compiler: Swift IDE | 价格: Free | 类别: Developer Tools
+2026-03-26 19:38:58,278 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:00,516 [INFO] [1902/4864] 处理: HTML Editor (id=1580431405)
+2026-03-26 19:39:00,595 [INFO]   ✓ HTML Editor | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:00,596 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:03,629 [INFO] [1903/4864] 处理: Sticky -  AI Game Maker (id=1497044357)
+2026-03-26 19:39:03,714 [INFO]   ✓ Sticky -  AI Game Maker | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:03,714 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:05,866 [INFO] [1904/4864] 处理: Bugjaeger - Mobile ADB (id=6463413200)
+2026-03-26 19:39:05,962 [INFO]   ✓ Bugjaeger - Mobile ADB | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:05,962 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:07,888 [INFO] [1905/4864] 处理: WebSSH - Sysadmin Toolbox (id=497714887)
+2026-03-26 19:39:07,977 [INFO]   ✓ WebSSH - Sysadmin Toolbox | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:07,977 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:10,811 [INFO] [1906/4864] 处理: OnSpace AI: Mobile App Builder (id=6746471538)
+2026-03-26 19:39:10,901 [INFO]   ✓ OnSpace AI: Mobile App Builder | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:10,901 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:14,212 [INFO] [1907/4864] 处理: Pydroid 3 (id=6758005480)
+2026-03-26 19:39:14,349 [INFO]   ✓ Pydroid 3 | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:14,350 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:16,059 [INFO] [1908/4864] 处理: Get My IDFA (id=1580368827)
+2026-03-26 19:39:16,148 [INFO]   ✓ Get My IDFA | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:16,148 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:18,355 [INFO] [1909/4864] 处理: ProxyTap (id=6667120510)
+2026-03-26 19:39:18,601 [INFO]   ✓ ProxyTap | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:18,601 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:21,143 [INFO] [1910/4864] 处理: eNES: NES & SNES Retro Emu (id=6499447166)
+2026-03-26 19:39:21,270 [INFO]   ✓ eNES: NES & SNES Retro Emu | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:21,270 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:24,278 [INFO] [1911/4864] 处理: Entee (id=6759636141)
+2026-03-26 19:39:24,426 [INFO]   ✓ Entee | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:24,427 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:26,698 [INFO] [1912/4864] 处理: Juno – Python and Jupyter (id=1462586500)
+2026-03-26 19:39:26,848 [INFO]   ✓ Juno – Python and Jupyter | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:26,848 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:30,246 [INFO] [1913/4864] 处理: Railway.app Client — Station (id=6741881453)
+2026-03-26 19:39:30,327 [INFO]   ✓ Railway.app Client — Station | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:30,327 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:33,524 [INFO] [1914/4864] 处理: CSDN-技术开发者社区 (id=1437086352)
+2026-03-26 19:39:33,776 [INFO]   ✓ CSDN-技术开发者社区 | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:33,776 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:36,416 [INFO] [1915/4864] 处理: Flutter Builder (id=6504612819)
+2026-03-26 19:39:36,498 [INFO]   ✓ Flutter Builder | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:36,498 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:39,469 [INFO] [1916/4864] 处理: Proxmox VE Companion (id=6748314140)
+2026-03-26 19:39:39,609 [INFO]   ✓ Proxmox VE Companion | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:39,609 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:42,723 [INFO] [1917/4864] 处理: Code Editor - Compiler & IDE (id=1581290510)
+2026-03-26 19:39:42,872 [INFO]   ✓ Code Editor - Compiler & IDE | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:42,873 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:44,392 [INFO] [1918/4864] 处理: Thermals (id=1567050762)
+2026-03-26 19:39:44,480 [INFO]   ✓ Thermals | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:44,480 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:46,209 [INFO] [1919/4864] 处理: Wifi Analyzer: Network Scanner (id=1578710731)
+2026-03-26 19:39:46,311 [INFO]   ✓ Wifi Analyzer: Network Scanner | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:46,311 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:48,736 [INFO] [1920/4864] 处理: Brook.app (id=1216002642)
+2026-03-26 19:39:48,842 [INFO]   ✓ Brook.app | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:48,842 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:51,711 [INFO] [1921/4864] 处理: Spck Editor (id=1507309511)
+2026-03-26 19:39:51,791 [INFO]   ✓ Spck Editor | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:51,791 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:53,317 [INFO] [1922/4864] 处理: Mobile IDE for Antigravity AI (id=6759795486)
+2026-03-26 19:39:53,424 [INFO]   ✓ Mobile IDE for Antigravity AI | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:53,424 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:56,686 [INFO] [1923/4864] 处理: Python Editor App (id=1672453872)
+2026-03-26 19:39:56,894 [INFO]   ✓ Python Editor App | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:56,894 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:39:58,520 [INFO] [1924/4864] 处理: STL File Viewer Pro (id=6741022143)
+2026-03-26 19:39:58,644 [INFO]   ✓ STL File Viewer Pro | 价格: Free | 类别: Developer Tools
+2026-03-26 19:39:58,644 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:00,197 [INFO] [1925/4864] 处理: SSH Client - Secure ShellFish (id=1336634154)
+2026-03-26 19:40:00,325 [INFO]   ✓ SSH Client - Secure ShellFish | 价格: Free | 类别: Developer Tools
+2026-03-26 19:40:00,326 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:02,050 [INFO] [1926/4864] 处理: AI App Maker - rohe.vc (id=6753941379)
+2026-03-26 19:40:02,183 [INFO]   ✓ AI App Maker - rohe.vc | 价格: Free | 类别: Developer Tools
+2026-03-26 19:40:02,183 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:03,864 [INFO] [1927/4864] 处理: Weights & Biases (id=6755162576)
+2026-03-26 19:40:03,971 [INFO]   ✓ Weights & Biases | 价格: Free | 类别: Developer Tools
+2026-03-26 19:40:03,971 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:07,469 [INFO] [1928/4864] 处理: Termux Pro - (id=6755708389)
+2026-03-26 19:40:07,677 [INFO]   ✓ Termux Pro - | 价格: Free | 类别: Developer Tools
+2026-03-26 19:40:07,677 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:10,063 [INFO] [1929/4864] 处理: Vibe SSH Terminal (id=1537745821)
+2026-03-26 19:40:10,186 [INFO]   ✓ Vibe SSH Terminal | 价格: Free | 类别: Developer Tools
+2026-03-26 19:40:10,186 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:12,700 [INFO] [1930/4864] 处理: Mono Lab (id=6759029184)
+2026-03-26 19:40:12,857 [INFO]   ✓ Mono Lab | 价格: $4.99 | 类别: Graphics & Design
+2026-03-26 19:40:15,748 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:19,162 [INFO] [1931/4864] 处理: Nomad Sculpt (id=1519508653)
+2026-03-26 19:40:19,273 [INFO]   ✓ Nomad Sculpt | 价格: $19.99 | 类别: Graphics & Design
+2026-03-26 19:40:22,191 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:40:22,193 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:40:22,193 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:24,591 [INFO] [1932/4864] 处理: Mandelbrot Metal (id=6749807290)
+2026-03-26 19:40:24,779 [INFO]   ✓ Mandelbrot Metal | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:40:27,918 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:29,653 [INFO] [1933/4864] 处理: RoughAnimator - animation app (id=954718244)
+2026-03-26 19:40:29,834 [INFO]   ✓ RoughAnimator - animation app | 价格: $7.99 | 类别: Graphics & Design
+2026-03-26 19:40:32,932 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:34,615 [INFO] [1934/4864] 处理: ChromaMagic (id=6479220262)
+2026-03-26 19:40:34,737 [INFO]   ✓ ChromaMagic | 价格: $19.99 | 类别: Graphics & Design
+2026-03-26 19:40:36,806 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:40,191 [INFO] [1935/4864] 处理: ibis Paint (id=441179131)
+2026-03-26 19:40:40,384 [INFO]   ✓ ibis Paint | 价格: $15.99 | 类别: Graphics & Design
+2026-03-26 19:40:44,051 [INFO]   [网页] 找到 2 个内购项目
+2026-03-26 19:40:44,052 [INFO]   ✓ 内购: 2 项
+2026-03-26 19:40:44,052 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:46,685 [INFO] [1936/4864] 处理: Camera Lucida™: AR Drawing (id=362499096)
+2026-03-26 19:40:46,906 [INFO]   ✓ Camera Lucida™: AR Drawing | 价格: $14.99 | 类别: Graphics & Design
+2026-03-26 19:40:48,882 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:40:48,883 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:40:48,884 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:51,636 [INFO] [1937/4864] 处理: Callipeg mini: Animation App (id=6502952180)
+2026-03-26 19:40:51,763 [INFO]   ✓ Callipeg mini: Animation App | 价格: $4.99 | 类别: Graphics & Design
+2026-03-26 19:40:55,026 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:40:57,488 [INFO] [1938/4864] 处理: VizRef Lite (id=1502216965)
+2026-03-26 19:40:57,614 [INFO]   ✓ VizRef Lite | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:41:00,215 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:01,913 [INFO] [1939/4864] 处理: Graffiti Spray Can Art - KING (id=6446203280)
+2026-03-26 19:41:02,094 [INFO]   ✓ Graffiti Spray Can Art - KING | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:41:05,021 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:07,959 [INFO] [1940/4864] 处理: Vectorize! (id=1520204499)
+2026-03-26 19:41:08,084 [INFO]   ✓ Vectorize! | 价格: $9.99 | 类别: Graphics & Design
+2026-03-26 19:41:10,915 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:13,747 [INFO] [1941/4864] 处理: Sketch Club (id=404414176)
+2026-03-26 19:41:13,830 [INFO]   ✓ Sketch Club | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:41:17,523 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:19,759 [INFO] [1942/4864] 处理: StitchSketch (id=525117691)
+2026-03-26 19:41:19,895 [INFO]   ✓ StitchSketch | 价格: $7.99 | 类别: Graphics & Design
+2026-03-26 19:41:22,668 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:25,408 [INFO] [1943/4864] 处理: Brushes (id=1168117279)
+2026-03-26 19:41:25,579 [INFO]   ✓ Brushes | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:41:28,242 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:30,700 [INFO] [1944/4864] 处理: DynamicMe (id=6677058414)
+2026-03-26 19:41:30,800 [INFO]   ✓ DynamicMe | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:41:33,411 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:36,824 [INFO] [1945/4864] 处理: Quick Draw: AR Tracing (id=6747405708)
+2026-03-26 19:41:36,917 [INFO]   ✓ Quick Draw: AR Tracing | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:41:39,958 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:42,914 [INFO] [1946/4864] 处理: What Font for Safari (id=6468666357)
+2026-03-26 19:41:43,030 [INFO]   ✓ What Font for Safari | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:41:45,961 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:48,936 [INFO] [1947/4864] 处理: Codepoint (id=6444068649)
+2026-03-26 19:41:49,031 [INFO]   ✓ Codepoint | 价格: $4.99 | 类别: Graphics & Design
+2026-03-26 19:41:51,966 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:54,041 [INFO] [1948/4864] 处理: Patternica (id=1525524448)
+2026-03-26 19:41:54,146 [INFO]   ✓ Patternica | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:41:57,297 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:41:59,806 [INFO] [1949/4864] 处理: JPEG Convert - HEIC to JPG (id=6475955513)
+2026-03-26 19:41:59,941 [INFO]   ✓ JPEG Convert - HEIC to JPG | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:42:02,746 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:05,502 [INFO] [1950/4864] 处理: Light Scope - Lux Meter (id=1572227924)
+2026-03-26 19:42:05,644 [INFO]   ✓ Light Scope - Lux Meter | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:42:08,961 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:12,002 [INFO] [1951/4864] 处理: Crystalzoa (id=6444454988)
+2026-03-26 19:42:12,099 [INFO]   ✓ Crystalzoa | 价格: $0.29 | 类别: Graphics & Design
+2026-03-26 19:42:14,295 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:16,434 [INFO] [1952/4864] 处理: Tessellate (id=6473245834)
+2026-03-26 19:42:16,591 [INFO]   ✓ Tessellate | 价格: $0.49 | 类别: Graphics & Design
+2026-03-26 19:42:20,239 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:22,607 [INFO] [1953/4864] 处理: Random Palette (id=6754533992)
+2026-03-26 19:42:22,759 [INFO]   ✓ Random Palette | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:42:26,265 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:28,413 [INFO] [1954/4864] 处理: Election Poster Maker (id=6752805729)
+2026-03-26 19:42:28,523 [INFO]   ✓ Election Poster Maker | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:42:32,175 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:34,083 [INFO] [1955/4864] 处理: Transparent App Icons (id=1533210346)
+2026-03-26 19:42:34,232 [INFO]   ✓ Transparent App Icons | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:42:37,883 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:40,803 [INFO] [1956/4864] 处理: PieChart Maker (id=1575265935)
+2026-03-26 19:42:40,903 [INFO]   ✓ PieChart Maker | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:42:43,404 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:44,948 [INFO] [1957/4864] 处理: Sci-Fi Themes (id=6449518113)
+2026-03-26 19:42:45,039 [INFO]   ✓ Sci-Fi Themes | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:42:47,368 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:49,007 [INFO] [1958/4864] 处理: SvgTrace Pro (id=6444320997)
+2026-03-26 19:42:49,114 [INFO]   ✓ SvgTrace Pro | 价格: $12.99 | 类别: Graphics & Design
+2026-03-26 19:42:53,087 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:54,953 [INFO] [1959/4864] 处理: TREK: Icons (id=6446984601)
+2026-03-26 19:42:55,067 [INFO]   ✓ TREK: Icons | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:42:58,152 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:42:59,849 [INFO] [1960/4864] 处理: Kitchen Editor 3D (id=6468807438)
+2026-03-26 19:42:59,997 [INFO]   ✓ Kitchen Editor 3D | 价格: $5.99 | 类别: Graphics & Design
+2026-03-26 19:43:02,885 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:05,064 [INFO] [1961/4864] 处理: WatchSketch - Drawing (id=1659728454)
+2026-03-26 19:43:05,390 [INFO]   ✓ WatchSketch - Drawing | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:43:07,666 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:09,612 [INFO] [1962/4864] 处理: Relax For A Minute (id=1543821598)
+2026-03-26 19:43:09,754 [INFO]   ✓ Relax For A Minute | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:43:12,835 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:16,266 [INFO] [1963/4864] 处理: ImgRef (id=6742316732)
+2026-03-26 19:43:16,435 [INFO]   ✓ ImgRef | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:43:18,639 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:21,153 [INFO] [1964/4864] 处理: Local AI Art Private Diffusion (id=6529537093)
+2026-03-26 19:43:21,303 [INFO]   ✓ Local AI Art Private Diffusion | 价格: $6.99 | 类别: Graphics & Design
+2026-03-26 19:43:23,871 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:26,680 [INFO] [1965/4864] 处理: Sci-Fi Keyboard (id=6736796753)
+2026-03-26 19:43:26,871 [INFO]   ✓ Sci-Fi Keyboard | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:43:30,301 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:33,545 [INFO] [1966/4864] 处理: You Doodle Pro - art on the go (id=570448397)
+2026-03-26 19:43:33,687 [INFO]   ✓ You Doodle Pro - art on the go | 价格: $5.99 | 类别: Graphics & Design
+2026-03-26 19:43:36,490 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:39,275 [INFO] [1967/4864] 处理: Passport Photo: ID Photo (id=6472762578)
+2026-03-26 19:43:39,385 [INFO]   ✓ Passport Photo: ID Photo | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:43:42,330 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:45,495 [INFO] [1968/4864] 处理: Face Model -posable human head (id=1277602139)
+2026-03-26 19:43:45,692 [INFO]   ✓ Face Model -posable human head | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:43:48,364 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:50,150 [INFO] [1969/4864] 处理: Tattoo Print System (id=1524074329)
+2026-03-26 19:43:50,230 [INFO]   ✓ Tattoo Print System | 价格: $9.99 | 类别: Graphics & Design
+2026-03-26 19:43:54,132 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:43:57,230 [INFO] [1970/4864] 处理: Voxel Max - 3D Modeling (id=1442352186)
+2026-03-26 19:43:57,428 [INFO]   ✓ Voxel Max - 3D Modeling | 价格: $9.99 | 类别: Graphics & Design
+2026-03-26 19:44:00,060 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:02,319 [INFO] [1971/4864] 处理: CompassOverlay (id=6477355207)
+2026-03-26 19:44:02,428 [INFO]   ✓ CompassOverlay | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:44:05,315 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:44:05,316 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:44:05,316 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:07,327 [INFO] [1972/4864] 处理: Bulk Image Compressor (id=6475670217)
+2026-03-26 19:44:07,449 [INFO]   ✓ Bulk Image Compressor | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:44:11,317 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:12,892 [INFO] [1973/4864] 处理: Tattoo Preview – 3D & AR (id=6760173684)
+2026-03-26 19:44:12,984 [INFO]   ✓ Tattoo Preview – 3D & AR | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:44:16,800 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:18,825 [INFO] [1974/4864] 处理: Explorer for Sketchfab (id=6472942395)
+2026-03-26 19:44:18,993 [INFO]   ✓ Explorer for Sketchfab | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:44:21,622 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:24,735 [INFO] [1975/4864] 处理: Image to Pixel Art (id=1607154790)
+2026-03-26 19:44:24,817 [INFO]   ✓ Image to Pixel Art | 价格: $0.29 | 类别: Graphics & Design
+2026-03-26 19:44:27,378 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:30,157 [INFO] [1976/4864] 处理: Percolator: Drippy Mosaics (id=385454903)
+2026-03-26 19:44:30,290 [INFO]   ✓ Percolator: Drippy Mosaics | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:44:32,825 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:35,707 [INFO] [1977/4864] 处理: Tayasui Color (id=1106374233)
+2026-03-26 19:44:35,839 [INFO]   ✓ Tayasui Color | 价格: $7.99 | 类别: Graphics & Design
+2026-03-26 19:44:39,924 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:42,576 [INFO] [1978/4864] 处理: Inspire (id=315556628)
+2026-03-26 19:44:42,770 [INFO]   ✓ Inspire | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:44:45,269 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:47,584 [INFO] [1979/4864] 处理: Poetics (id=543995959)
+2026-03-26 19:44:47,733 [INFO]   ✓ Poetics | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:44:50,087 [INFO]   [网页] 找到 10 个内购项目
+2026-03-26 19:44:50,088 [INFO]   ✓ 内购: 10 项
+2026-03-26 19:44:50,088 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:52,003 [INFO] [1980/4864] 处理: GradientWallpaper (id=731511368)
+2026-03-26 19:44:52,116 [INFO]   ✓ GradientWallpaper | 价格: $0.49 | 类别: Graphics & Design
+2026-03-26 19:44:54,800 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:44:58,160 [INFO] [1981/4864] 处理: Dark Aura - Aurora Dark Themes (id=6474502720)
+2026-03-26 19:44:58,257 [INFO]   ✓ Dark Aura - Aurora Dark Themes | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:45:01,811 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:04,049 [INFO] [1982/4864] 处理: Tinto: Personal Color Wheel (id=6745742404)
+2026-03-26 19:45:04,126 [INFO]   ✓ Tinto: Personal Color Wheel | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:45:07,723 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:10,401 [INFO] [1983/4864] 处理: VectorAI (id=6472805438)
+2026-03-26 19:45:10,516 [INFO]   ✓ VectorAI | 价格: $9.99 | 类别: Graphics & Design
+2026-03-26 19:45:13,895 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:15,607 [INFO] [1984/4864] 处理: Color Theory Studio (id=6756895339)
+2026-03-26 19:45:15,717 [INFO]   ✓ Color Theory Studio | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:45:19,085 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:22,050 [INFO] [1985/4864] 处理: ColorPlanets! (id=6467719987)
+2026-03-26 19:45:22,168 [INFO]   ✓ ColorPlanets! | 价格: $0.49 | 类别: Graphics & Design
+2026-03-26 19:45:24,379 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:26,848 [INFO] [1986/4864] 处理: 3D Printing Aid (id=6736886118)
+2026-03-26 19:45:27,092 [INFO]   ✓ 3D Printing Aid | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:45:29,146 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:30,894 [INFO] [1987/4864] 处理: Rotation - Visual Effect (id=6744263566)
+2026-03-26 19:45:31,039 [INFO]   ✓ Rotation - Visual Effect | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:45:33,500 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:35,684 [INFO] [1988/4864] 处理: Vectors Sketch (id=6758646967)
+2026-03-26 19:45:35,778 [INFO]   ✓ Vectors Sketch | 价格: $0.99 | 类别: Graphics & Design
+2026-03-26 19:45:39,103 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:40,658 [INFO] [1989/4864] 处理: Focus Line (id=6447179702)
+2026-03-26 19:45:40,818 [INFO]   ✓ Focus Line | 价格: $0.29 | 类别: Graphics & Design
+2026-03-26 19:45:44,160 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:47,190 [INFO] [1990/4864] 处理: Stable - Video Stabilizer (id=6479000660)
+2026-03-26 19:45:47,278 [INFO]   ✓ Stable - Video Stabilizer | 价格: $4.99 | 类别: Graphics & Design
+2026-03-26 19:45:51,041 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:53,437 [INFO] [1991/4864] 处理: Asketch (id=371723593)
+2026-03-26 19:45:53,629 [INFO]   ✓ Asketch | 价格: $1.99 | 类别: Graphics & Design
+2026-03-26 19:45:56,635 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:45:59,453 [INFO] [1992/4864] 处理: Object Removal Pro - Eraser Me (id=1454088469)
+2026-03-26 19:45:59,758 [INFO]   ✓ Object Removal Pro - Eraser Me | 价格: $5.99 | 类别: Graphics & Design
+2026-03-26 19:46:02,225 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:04,424 [INFO] [1993/4864] 处理: Sprite Creator (id=1078225966)
+2026-03-26 19:46:04,562 [INFO]   ✓ Sprite Creator | 价格: $3.99 | 类别: Graphics & Design
+2026-03-26 19:46:08,647 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:10,156 [INFO] [1994/4864] 处理: Paint - Draw & Sketch (id=6449164281)
+2026-03-26 19:46:10,287 [INFO]   ✓ Paint - Draw & Sketch | 价格: $0.49 | 类别: Graphics & Design
+2026-03-26 19:46:12,820 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:14,830 [INFO] [1995/4864] 处理: EDGE touch (pixel art tool) (id=329021851)
+2026-03-26 19:46:14,998 [INFO]   ✓ EDGE touch (pixel art tool) | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:46:18,380 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:21,417 [INFO] [1996/4864] 处理: Sketch Grid (id=573334305)
+2026-03-26 19:46:21,573 [INFO]   ✓ Sketch Grid | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:46:25,371 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:28,276 [INFO] [1997/4864] 处理: Zen Brush 3 (id=1531841731)
+2026-03-26 19:46:28,404 [INFO]   ✓ Zen Brush 3 | 价格: $4.99 | 类别: Graphics & Design
+2026-03-26 19:46:30,479 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:33,148 [INFO] [1998/4864] 处理: culur: Custom Color by Number (id=1568546440)
+2026-03-26 19:46:33,277 [INFO]   ✓ culur: Custom Color by Number | 价格: $2.99 | 类别: Graphics & Design
+2026-03-26 19:46:36,264 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:38,324 [INFO] [1999/4864] 处理: ArtRage Vitae Mobile Painting (id=1521959252)
+2026-03-26 19:46:38,515 [INFO]   ✓ ArtRage Vitae Mobile Painting | 价格: $4.99 | 类别: Graphics & Design
+2026-03-26 19:46:41,277 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:43,432 [INFO] [2000/4864] 处理: Color Wheel + Osmosi AI (id=1459219370)
+2026-03-26 19:46:43,522 [INFO]   ✓ Color Wheel + Osmosi AI | 价格: $9.99 | 类别: Graphics & Design
+2026-03-26 19:46:46,651 [INFO]   [网页] 找到 1 个内购项目
+2026-03-26 19:46:46,652 [INFO]   ✓ 内购: 1 项
+2026-03-26 19:46:46,652 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-26 19:46:49,975 [INFO] 历史价格已保存: 1972 条记录（本次新增/更新: 499）
+2026-03-26 19:46:49,975 [INFO] 📌 进度已保存：下次从第 2001 个 App 开始（共 4864 个）
+2026-03-26 19:46:49,996 [INFO] HTML 已生成: index.html (1972 个 App)
+2026-03-26 19:46:49,997 [INFO] ============================================================
+2026-03-26 19:46:49,997 [INFO] 运行完成 | 成功: 499 | 失败: 1 | 降价: 0 项
+2026-03-26 19:46:49,997 [INFO] ============================================================
