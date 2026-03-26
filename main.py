@@ -37,9 +37,10 @@ RETRY_DELAY       = 5
 REQUEST_DELAY     = (1.5, 3.5)   # 每次请求之间的随机延迟（秒）
 
 # 分批运行配置
-# GitHub Actions 单次运行限制 6 小时，但为了留出余量，设置为 200 个/次
-# 完整跑一轮 900+ 个 App 需要约 5 次运行（~5 天跑完一圈）
-BATCH_SIZE        = int(os.environ.get("MONITOR_BATCH_SIZE", "200"))
+# GitHub Actions 单次运行限制 6 小时，但为了留出余量，设置为 500 个/次
+# 完整跑一轮 5000+ 个 App 需要约 10 次运行（~10 天跑完一圈）
+# 每晚运行一次，可设置定时任务
+BATCH_SIZE        = int(os.environ.get("MONITOR_BATCH_SIZE", "500"))
 
 # 推送渠道（从 GitHub Secrets / 环境变量读取）
 BARK_KEY          = os.environ.get("BARK_KEY", "")

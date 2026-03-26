@@ -53,7 +53,7 @@ jobs:
           BARK_SERVER: ${{ secrets.BARK_SERVER }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-          MONITOR_BATCH_SIZE: ${{ github.event.inputs.batch_size || '200' }}
+          MONITOR_BATCH_SIZE: ${{ github.event.inputs.batch_size || '500' }}
         run: |
           python main.py
 
