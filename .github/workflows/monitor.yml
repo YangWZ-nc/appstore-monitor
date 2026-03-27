@@ -1,18 +1,21 @@
 name: "App Store Price Monitor"
 
 on:
-  # 每 6 小时运行一次（UTC 时间 0/6/12/18 点整）
-  # 每天4次 × 每批200个 App = 每5天完成一轮完整扫描（962个App）
+  # 每天凌晨 2 点 UTC（北京时间 10:00）全量扫描
   schedule:
-    - cron: "0 0,6,12,18 * * *"
+    - cron: "0 2 * * *"
 
   # 允许在 GitHub Actions 界面手动触发（方便调试）
   workflow_dispatch:
     inputs:
       batch_size:
-        description: "本次处理的 App 数量（默认200）"
+        description: "分批处理的 App 数量（设置 MONITOR_FULL_SCAN=1 时忽略此项）"
         required: false
-        default: "200"
+        default: "500"
+      full_scan:
+        description: "是否全量扫描（true=扫全部，false=分批）"
+        required: false
+        default: "true"
 
 # 仓库写权限（用于 commit & push 更新后的数据文件）
 permissions:
@@ -24,7 +27,7 @@ jobs:
   monitor:
     name: "Run Price Monitor"
     runs-on: ubuntu-latest
-    timeout-minutes: 90        # 最长允许运行 90 分钟
+    timeout-minutes: 360        # 6 小时上限（全量扫描 23522 个 App 需要较长时间）
 
     steps:
       # ── 1. 检出仓库代码 ──────────────────────────────────
@@ -54,6 +57,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
           MONITOR_BATCH_SIZE: ${{ github.event.inputs.batch_size || '500' }}
+          MONITOR_FULL_SCAN:  ${{ github.event.inputs.full_scan || '1' }}
         run: |
           python main.py
 

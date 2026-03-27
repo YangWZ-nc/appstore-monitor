@@ -37,10 +37,10 @@ RETRY_DELAY       = 5
 REQUEST_DELAY     = (1.5, 3.5)   # 每次请求之间的随机延迟（秒）
 
 # 分批运行配置
-# GitHub Actions 单次运行限制 6 小时，但为了留出余量，设置为 500 个/次
-# 完整跑一轮 5000+ 个 App 需要约 10 次运行（~10 天跑完一圈）
-# 每晚运行一次，可设置定时任务
+# MONITOR_FULL_SCAN=1 时跳过分批，一次扫完所有 App
+# 否则每次处理 BATCH_SIZE 个 App，通过 progress 文件记录进度
 BATCH_SIZE        = int(os.environ.get("MONITOR_BATCH_SIZE", "500"))
+FULL_SCAN         = os.environ.get("MONITOR_FULL_SCAN", "").strip().lower() in ("1", "true", "yes")
 
 # 推送渠道（从 GitHub Secrets / 环境变量读取）
 BARK_KEY          = os.environ.get("BARK_KEY", "")
@@ -687,27 +687,34 @@ def main():
     total_apps = len(apps_to_watch)
 
     # ── 分批处理逻辑 ──
-    # 每次 GitHub Actions 运行处理 BATCH_SIZE 个 App
-    # progress 文件记录下次从哪个 index 开始
+    # FULL_SCAN 模式：一次扫完所有 App
+    # 分批模式：每次处理 BATCH_SIZE 个 App，通过 progress 文件记录进度
     progress_path = Path(PROGRESS_FILE)
     batch_offset = 0
-    if progress_path.exists():
-        try:
-            batch_offset = json.loads(progress_path.read_text())
-            batch_offset = int(batch_offset)
-        except Exception:
+
+    if FULL_SCAN:
+        logger.info("🔄 全量扫描模式：一次处理所有 App")
+        batch_end = total_apps
+        current_batch = apps_to_watch
+        next_offset = 0
+    else:
+        if progress_path.exists():
+            try:
+                batch_offset = json.loads(progress_path.read_text())
+                batch_offset = int(batch_offset)
+            except Exception:
+                batch_offset = 0
+
+        # 如果 offset 超过了总数，从头开始（完成一轮循环）
+        if batch_offset >= total_apps:
             batch_offset = 0
+            logger.info("✅ 已完成一轮完整扫描，从头开始新一轮")
 
-    # 如果 offset 超过了总数，从头开始（完成一轮循环）
-    if batch_offset >= total_apps:
-        batch_offset = 0
-        logger.info("✅ 已完成一轮完整扫描，从头开始新一轮")
+        batch_end    = min(batch_offset + BATCH_SIZE, total_apps)
+        current_batch = apps_to_watch[batch_offset:batch_end]
+        next_offset  = batch_end if batch_end < total_apps else 0
 
-    batch_end    = min(batch_offset + BATCH_SIZE, total_apps)
-    current_batch = apps_to_watch[batch_offset:batch_end]
-    next_offset  = batch_end if batch_end < total_apps else 0
-
-    logger.info(f"监控列表: 共 {total_apps} 个 App，本次处理 [{batch_offset+1}~{batch_end}]，批大小: {BATCH_SIZE}")
+    logger.info(f"监控列表: 共 {total_apps} 个 App，本次处理 [{batch_offset+1}~{batch_end}]，批大小: {BATCH_SIZE if not FULL_SCAN else '全量'}")
     logger.info(f"国家: {country}，内购抓取: {fetch_iap}")
 
     # 2. 读取历史价格
@@ -810,12 +817,16 @@ def main():
     history_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.info(f"历史价格已保存: {len(merged)} 条记录（本次新增/更新: {len(current_data)}）")
 
-    # 保存分批进度（下次从哪里开始）
-    progress_path.write_text(json.dumps(next_offset), encoding="utf-8")
-    if next_offset == 0:
-        logger.info("✅ 完成一轮完整扫描，下次从头开始")
+    # 保存分批进度（下次从哪里开始，全量模式下重置为 0）
+    if FULL_SCAN:
+        progress_path.write_text(json.dumps(0), encoding="utf-8")
+        logger.info("✅ 全量扫描完成，进度已重置")
     else:
-        logger.info(f"📌 进度已保存：下次从第 {next_offset + 1} 个 App 开始（共 {total_apps} 个）")
+        progress_path.write_text(json.dumps(next_offset), encoding="utf-8")
+        if next_offset == 0:
+            logger.info("✅ 完成一轮完整扫描，下次从头开始")
+        else:
+            logger.info(f"📌 进度已保存：下次从第 {next_offset + 1} 个 App 开始（共 {total_apps} 个）")
 
     # 5. 生成 HTML
     generate_html(merged)
