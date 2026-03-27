@@ -1,12 +1,12 @@
 name: "App Store Price Monitor"
 
 on:
-  # 每天凌晨 2 点 UTC（北京时间 10:00）全量扫描
-  # 如果超时未完成，下次自动从断点继续
+  # 每 2 小时运行一次（自动续跑直到全量完成）
+  # 凌晨 2 点 UTC 也会触发，确保每天至少有一次
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "15 */2 * * *"
 
-  # 允许手动触发（方便调试）
+  # 允许手动触发
   workflow_dispatch:
     inputs:
       batch_size:
@@ -27,7 +27,7 @@ jobs:
   monitor:
     name: "Run Price Monitor"
     runs-on: ubuntu-latest
-    timeout-minutes: 360        # 6 小时上限
+    timeout-minutes: 110        # 110 分钟，留余量给 commit/push
 
     steps:
       - name: Checkout repository
@@ -46,9 +46,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 判断是否需要全量扫描
-      # 如果 progress=0 或者上次是全量模式且已完成（progress=0），则全量扫描
-      # 如果 progress>0 且 < total，说明上次超时了，自动分批续跑
+      # 判断扫描模式：
+      # - progress >= total: 全量已完成，无需运行
+      # - progress = 0: 从头开始（全量或分批）
+      # - 0 < progress < total: 上次中断，分批续跑
       - name: Determine scan mode
         id: scan_mode
         run: |
@@ -59,31 +60,38 @@ jobs:
           echo "Progress: $PROGRESS / Total: $TOTAL / Input: $INPUT_MODE"
           
           if [ "$INPUT_MODE" = "false" ]; then
-            # 手动指定分批模式
+            echo "should_run=true" >> $GITHUB_OUTPUT
             echo "scan=0" >> $GITHUB_OUTPUT
             echo "Mode: Batch (manual)"
-          elif [ "$PROGRESS" = "0" ] || [ "$PROGRESS" = "0.0" ]; then
-            # 进度为 0，需要全量扫描
+          elif [ "$INPUT_MODE" = "true" ]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
             echo "scan=1" >> $GITHUB_OUTPUT
-            echo "Mode: Full scan"
+            echo "Mode: Full scan (forced)"
+          elif [ "$PROGRESS" -ge "$TOTAL" ] 2>/dev/null; then
+            # 全量已完成，跳过本次运行
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            echo "scan=0" >> $GITHUB_OUTPUT
+            echo "Mode: Skip (scan completed)"
           else
-            # 有未完成的进度，分批续跑
+            echo "should_run=true" >> $GITHUB_OUTPUT
             echo "scan=0" >> $GITHUB_OUTPUT
             echo "Mode: Batch resume from $PROGRESS"
           fi
 
       - name: Run monitor script
+        if: steps.scan_mode.outputs.should_run == 'true'
         env:
           BARK_KEY:    ${{ secrets.BARK_KEY }}
           BARK_SERVER: ${{ secrets.BARK_SERVER }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-          MONITOR_BATCH_SIZE: ${{ github.event.inputs.batch_size || '500' }}
+          MONITOR_BATCH_SIZE: "1000"
           MONITOR_FULL_SCAN:  ${{ steps.scan_mode.outputs.scan }}
         run: |
           python main.py
 
       - name: Commit and push updated data
+        if: steps.scan_mode.outputs.should_run == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -97,4 +105,20 @@ jobs:
             git commit -m "chore: update prices [${TIMESTAMP}] [skip ci]"
             git push
             echo "Data files committed and pushed."
+          fi
+
+      - name: Reset progress for next cycle
+        if: steps.scan_mode.outputs.should_run == 'true'
+        run: |
+          # 检查是否刚刚完成全量扫描
+          PROGRESS=$(python -c "import json; print(json.load(open('monitor_progress.json')))" 2>/dev/null || echo "0")
+          TOTAL=$(python -c "import json; d=json.load(open('watchlist.json')); print(len(d['apps']))" 2>/dev/null || echo "0")
+          if [ "$PROGRESS" -ge "$TOTAL" ] 2>/dev/null; then
+            echo "Full scan completed! Resetting progress for next daily cycle."
+            echo "0" > monitor_progress.json
+            git add monitor_progress.json
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: reset progress after full scan [skip ci]" || true
+            git push || true
           fi
