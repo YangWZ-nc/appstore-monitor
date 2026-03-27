@@ -2,22 +2,22 @@ name: "App Store Price Monitor"
 
 on:
   # 每天凌晨 2 点 UTC（北京时间 10:00）全量扫描
+  # 如果超时未完成，下次自动从断点继续
   schedule:
     - cron: "0 2 * * *"
 
-  # 允许在 GitHub Actions 界面手动触发（方便调试）
+  # 允许手动触发（方便调试）
   workflow_dispatch:
     inputs:
       batch_size:
-        description: "分批处理的 App 数量（设置 MONITOR_FULL_SCAN=1 时忽略此项）"
+        description: "分批处理数量（仅在非全量模式生效）"
         required: false
         default: "500"
       full_scan:
-        description: "是否全量扫描（true=扫全部，false=分批）"
+        description: "是否全量扫描（auto=自动判断, true=强制全量, false=分批）"
         required: false
-        default: "true"
+        default: "auto"
 
-# 仓库写权限（用于 commit & push 更新后的数据文件）
 permissions:
   contents: write
   pages: write
@@ -27,29 +27,51 @@ jobs:
   monitor:
     name: "Run Price Monitor"
     runs-on: ubuntu-latest
-    timeout-minutes: 360        # 6 小时上限（全量扫描 23522 个 App 需要较长时间）
+    timeout-minutes: 360        # 6 小时上限
 
     steps:
-      # ── 1. 检出仓库代码 ──────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # ── 2. 设置 Python 环境 ──────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
-      # ── 3. 安装依赖 ──────────────────────────────────────
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ── 4. 运行监控脚本 ──────────────────────────────────
+      # 判断是否需要全量扫描
+      # 如果 progress=0 或者上次是全量模式且已完成（progress=0），则全量扫描
+      # 如果 progress>0 且 < total，说明上次超时了，自动分批续跑
+      - name: Determine scan mode
+        id: scan_mode
+        run: |
+          PROGRESS=$(python -c "import json; print(json.load(open('monitor_progress.json')))" 2>/dev/null || echo "0")
+          TOTAL=$(python -c "import json; d=json.load(open('watchlist.json')); print(len(d['apps']))" 2>/dev/null || echo "0")
+          
+          INPUT_MODE="${{ github.event.inputs.full_scan }}"
+          echo "Progress: $PROGRESS / Total: $TOTAL / Input: $INPUT_MODE"
+          
+          if [ "$INPUT_MODE" = "false" ]; then
+            # 手动指定分批模式
+            echo "scan=0" >> $GITHUB_OUTPUT
+            echo "Mode: Batch (manual)"
+          elif [ "$PROGRESS" = "0" ] || [ "$PROGRESS" = "0.0" ]; then
+            # 进度为 0，需要全量扫描
+            echo "scan=1" >> $GITHUB_OUTPUT
+            echo "Mode: Full scan"
+          else
+            # 有未完成的进度，分批续跑
+            echo "scan=0" >> $GITHUB_OUTPUT
+            echo "Mode: Batch resume from $PROGRESS"
+          fi
+
       - name: Run monitor script
         env:
           BARK_KEY:    ${{ secrets.BARK_KEY }}
@@ -57,11 +79,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
           MONITOR_BATCH_SIZE: ${{ github.event.inputs.batch_size || '500' }}
-          MONITOR_FULL_SCAN:  ${{ github.event.inputs.full_scan || '1' }}
+          MONITOR_FULL_SCAN:  ${{ steps.scan_mode.outputs.scan }}
         run: |
           python main.py
 
-      # ── 5. 提交并推送更新的数据文件 ──────────────────────
       - name: Commit and push updated data
         run: |
           git config user.name  "github-actions[bot]"
@@ -70,10 +91,10 @@ jobs:
           git add history_prices.json index.html monitor_progress.json monitor.log || true
 
           if git diff --cached --quiet; then
-            echo "No changes to commit — prices unchanged."
+            echo "No changes to commit."
           else
             TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M UTC")
             git commit -m "chore: update prices [${TIMESTAMP}] [skip ci]"
             git push
-            echo "Data files committed and pushed successfully."
+            echo "Data files committed and pushed."
           fi

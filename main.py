@@ -12,6 +12,7 @@ import logging
 import os
 import random
 import re
+import signal
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -705,10 +706,10 @@ def main():
             except Exception:
                 batch_offset = 0
 
-        # 如果 offset 超过了总数，从头开始（完成一轮循环）
+        # 如果 offset >= total_apps，说明上一轮全量扫描已完成，从头开始
         if batch_offset >= total_apps:
             batch_offset = 0
-            logger.info("✅ 已完成一轮完整扫描，从头开始新一轮")
+            logger.info("✅ 上一轮已完成，从头开始新一轮")
 
         batch_end    = min(batch_offset + BATCH_SIZE, total_apps)
         current_batch = apps_to_watch[batch_offset:batch_end]
@@ -725,6 +726,29 @@ def main():
             history = json.loads(history_path.read_text(encoding="utf-8"))
         except Exception as e:
             logger.warning(f"读取历史价格文件失败: {e}，将从头开始记录")
+
+    # 用于中断时保存进度的全局变量
+    _last_processed_index = [batch_offset]
+
+    def save_progress_on_exit(signum, frame):
+        """收到中断信号时保存当前进度"""
+        idx = _last_processed_index[0]
+        logger.warning(f"⚠ 收到中断信号，保存进度: {idx}")
+        progress_path.write_text(json.dumps(idx), encoding="utf-8")
+        # 也保存当前已扫描的数据
+        timestamp = datetime.now(timezone.utc).isoformat()
+        for app_id, data in current_data.items():
+            data["last_updated"] = timestamp
+        merged = dict(history)
+        merged.update(current_data)
+        history_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
+        generate_html(merged)
+        logger.info("已保存进度和数据，安全退出")
+        raise SystemExit(0)
+
+    # 注册信号处理（Ctrl+C 和 SIGTERM）
+    signal.signal(signal.SIGINT, save_progress_on_exit)
+    signal.signal(signal.SIGTERM, save_progress_on_exit)
 
     # 3. 遍历本批次监控列表
     all_drops: list[dict] = []
@@ -804,6 +828,11 @@ def main():
 
         time.sleep(random.uniform(*REQUEST_DELAY))
 
+        # 定期保存进度（每 100 个 App 保存一次，防止中断丢失太多）
+        if (i - batch_offset) % 100 == 0 and FULL_SCAN:
+            _last_processed_index[0] = i
+            progress_path.write_text(json.dumps(i), encoding="utf-8")
+
     # 4. 保存历史价格和进度
     # 更新当前数据中的时间戳
     timestamp = datetime.now(timezone.utc).isoformat()
@@ -817,10 +846,11 @@ def main():
     history_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.info(f"历史价格已保存: {len(merged)} 条记录（本次新增/更新: {len(current_data)}）")
 
-    # 保存分批进度（下次从哪里开始，全量模式下重置为 0）
+    # 保存分批进度
+    # 全量模式：完成后保存 total_apps 表示一轮已完成，中途中断保存当前进度
     if FULL_SCAN:
-        progress_path.write_text(json.dumps(0), encoding="utf-8")
-        logger.info("✅ 全量扫描完成，进度已重置")
+        progress_path.write_text(json.dumps(total_apps), encoding="utf-8")
+        logger.info(f"✅ 全量扫描完成，进度标记为 {total_apps}（表示已完成一轮）")
     else:
         progress_path.write_text(json.dumps(next_offset), encoding="utf-8")
         if next_offset == 0:
