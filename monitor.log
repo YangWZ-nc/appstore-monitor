@@ -29464,3 +29464,1178 @@
 2026-03-28 17:54:43,351 [INFO] ============================================================
 2026-03-28 17:54:43,351 [INFO] 运行完成 | 成功: 1000 | 失败: 0 | 降价: 0 项
 2026-03-28 17:54:43,351 [INFO] ============================================================
+2026-03-28 19:00:34,438 [INFO] ============================================================
+2026-03-28 19:00:34,438 [INFO] App Store 价格监控 启动 - 2026-03-28 19:00:34
+2026-03-28 19:00:34,438 [INFO] ============================================================
+2026-03-28 19:00:34,450 [INFO] 监控列表: 共 8372 个 App，本次处理 [8001~8372]，批大小: 1000
+2026-03-28 19:00:34,451 [INFO] 国家: us，内购抓取: True
+2026-03-28 19:00:34,521 [INFO] [8001/8372] 处理: MovieCat! - Movie Trivia Game (id=367288615)
+2026-03-28 19:00:34,657 [INFO]   ✓ MovieCat! - Movie Trivia Game | 价格: $1.99 | 类别: Games
+2026-03-28 19:00:37,694 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:00:37,695 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:00:37,695 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:00:41,050 [INFO] [8002/8372] 处理: Mental Math - Arithmetic Quiz (id=305627630)
+2026-03-28 19:00:41,183 [INFO]   ✓ Mental Math - Arithmetic Quiz | 价格: $2.99 | 类别: Games
+2026-03-28 19:00:43,876 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:00:47,173 [INFO] [8003/8372] 处理: Shape Puzzle - Toddler games (id=465899255)
+2026-03-28 19:00:47,270 [INFO]   ✓ Shape Puzzle - Toddler games | 价格: $5.99 | 类别: Games
+2026-03-28 19:00:49,647 [INFO]   [网页] 找到 2 个内购项目
+2026-03-28 19:00:49,648 [INFO]   ✓ 内购: 2 项
+2026-03-28 19:00:49,648 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:00:52,582 [INFO] [8004/8372] 处理: Amazing Match for kids (id=467327200)
+2026-03-28 19:00:52,718 [INFO]   ✓ Amazing Match for kids | 价格: $2.99 | 类别: Games
+2026-03-28 19:00:55,800 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:00:57,778 [INFO] [8005/8372] 处理: Brainess - Train your Brain (id=982836020)
+2026-03-28 19:00:57,877 [INFO]   ✓ Brainess - Train your Brain | 价格: $0.99 | 类别: Games
+2026-03-28 19:01:01,374 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:03,387 [INFO] [8006/8372] 处理: GeoGuesser - Explore the World (id=660070298)
+2026-03-28 19:01:03,509 [INFO]   ✓ GeoGuesser - Explore the World | 价格: $0.99 | 类别: Games
+2026-03-28 19:01:07,154 [INFO]   [网页] 找到 10 个内购项目
+2026-03-28 19:01:07,155 [INFO]   ✓ 内购: 10 项
+2026-03-28 19:01:07,155 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:10,550 [INFO] [8007/8372] 处理: Elementary Minute (id=889417668)
+2026-03-28 19:01:10,682 [INFO]   ✓ Elementary Minute | 价格: $0.99 | 类别: Games
+2026-03-28 19:01:13,623 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:16,101 [INFO] [8008/8372] 处理: First & Sight Words Games (id=488667779)
+2026-03-28 19:01:16,182 [INFO]   ✓ First & Sight Words Games | 价格: $2.99 | 类别: Games
+2026-03-28 19:01:19,479 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:22,961 [INFO] [8009/8372] 处理: MovieCat 2 - The Movie Trivia Game Sequel! (id=465112244)
+2026-03-28 19:01:23,063 [INFO]   ✓ MovieCat 2 - The Movie Trivia Game Sequel! | 价格: $1.99 | 类别: Games
+2026-03-28 19:01:26,279 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:27,797 [INFO] [8010/8372] 处理: Word Fill - Fill in puzzles (id=446199878)
+2026-03-28 19:01:27,949 [INFO]   ✓ Word Fill - Fill in puzzles | 价格: $2.99 | 类别: Games
+2026-03-28 19:01:31,608 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:01:31,609 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:01:31,609 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:33,802 [INFO] [8011/8372] 处理: Bible Reference Game (id=335724587)
+2026-03-28 19:01:33,897 [INFO]   ✓ Bible Reference Game | 价格: $1.99 | 类别: Games
+2026-03-28 19:01:37,618 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:39,961 [INFO] [8012/8372] 处理: ABC Circus - Learn Alphabets (id=513184827)
+2026-03-28 19:01:40,222 [INFO]   ✓ ABC Circus - Learn Alphabets | 价格: $2.99 | 类别: Games
+2026-03-28 19:01:43,708 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:46,398 [INFO] [8013/8372] 处理: Einstein™ Brain Training (id=516023543)
+2026-03-28 19:01:46,562 [INFO]   ✓ Einstein™ Brain Training | 价格: $2.99 | 类别: Games
+2026-03-28 19:01:48,908 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:51,440 [INFO] [8014/8372] 处理: Game Buzzer (id=484395345)
+2026-03-28 19:01:51,600 [INFO]   ✓ Game Buzzer | 价格: $1.99 | 类别: Games
+2026-03-28 19:01:54,714 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:01:56,325 [INFO] [8015/8372] 处理: The Questions Game (id=354880016)
+2026-03-28 19:01:56,703 [INFO]   ✓ The Questions Game | 价格: $0.99 | 类别: Games
+2026-03-28 19:01:59,588 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:03,079 [INFO] [8016/8372] 处理: Biblicious Bible Trivia (id=348988242)
+2026-03-28 19:02:03,272 [INFO]   ✓ Biblicious Bible Trivia | 价格: $4.99 | 类别: Games
+2026-03-28 19:02:07,427 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:09,528 [INFO] [8017/8372] 处理: States And Plates, The License Plate Game (id=568409056)
+2026-03-28 19:02:09,684 [INFO]   ✓ States And Plates, The License Plate Game | 价格: $0.99 | 类别: Games
+2026-03-28 19:02:12,540 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:02:12,541 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:02:12,542 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:14,513 [INFO] [8018/8372] 处理: Magic Eye Stereogram Quiz (id=340361737)
+2026-03-28 19:02:14,602 [INFO]   ✓ Magic Eye Stereogram Quiz | 价格: $0.99 | 类别: Games
+2026-03-28 19:02:18,373 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:21,747 [INFO] [8019/8372] 处理: Buzzer (id=298042472)
+2026-03-28 19:02:21,914 [INFO]   ✓ Buzzer | 价格: $1.99 | 类别: Games
+2026-03-28 19:02:24,344 [INFO]   [网页] 找到 4 个内购项目
+2026-03-28 19:02:24,345 [INFO]   ✓ 内购: 4 项
+2026-03-28 19:02:24,345 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:27,590 [INFO] [8020/8372] 处理: Name This Country (id=318914584)
+2026-03-28 19:02:27,687 [INFO]   ✓ Name This Country | 价格: $0.99 | 类别: Games
+2026-03-28 19:02:29,800 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:32,931 [INFO] [8021/8372] 处理: GeoExpert+ World Geography Map (id=515836751)
+2026-03-28 19:02:33,084 [INFO]   ✓ GeoExpert+ World Geography Map | 价格: $14.99 | 类别: Games
+2026-03-28 19:02:36,134 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:38,070 [INFO] [8022/8372] 处理: 修真风云录 (id=1308038634)
+2026-03-28 19:02:38,208 [INFO]   ✓ 修真风云录 | 价格: $0.99 | 类别: Games
+2026-03-28 19:02:41,541 [INFO]   [网页] 找到 8 个内购项目
+2026-03-28 19:02:41,542 [INFO]   ✓ 内购: 8 项
+2026-03-28 19:02:41,542 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:44,909 [INFO] [8023/8372] 处理: Lamplight City mobile (id=1533426901)
+2026-03-28 19:02:44,977 [INFO]   ✓ Lamplight City mobile | 价格: $4.99 | 类别: Games
+2026-03-28 19:02:47,674 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:50,252 [INFO] [8024/8372] 处理: Word Wow Seasons - No Ads (id=1043400501)
+2026-03-28 19:02:50,389 [INFO]   ✓ Word Wow Seasons - No Ads | 价格: $4.99 | 类别: Games
+2026-03-28 19:02:53,079 [INFO]   [网页] 找到 9 个内购项目
+2026-03-28 19:02:53,081 [INFO]   ✓ 内购: 9 项
+2026-03-28 19:02:53,081 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:02:55,290 [INFO] [8025/8372] 处理: Penny Dell Jumbo Crosswords 2 – Crossword Puzzles for Everyone! (id=976690822)
+2026-03-28 19:02:55,384 [INFO]   ✓ Penny Dell Jumbo Crosswords 2 – Crossword Puzzles for Everyone! | 价格: $4.99 | 类别: Games
+2026-03-28 19:02:59,201 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:01,585 [INFO] [8026/8372] 处理: NWT Quizzer (id=1051006680)
+2026-03-28 19:03:01,737 [INFO]   ✓ NWT Quizzer | 价格: $1.99 | 类别: Games
+2026-03-28 19:03:04,846 [INFO]   [网页] 找到 5 个内购项目
+2026-03-28 19:03:04,847 [INFO]   ✓ 内购: 5 项
+2026-03-28 19:03:04,847 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:07,664 [INFO] [8027/8372] 处理: Maps of our World (Edu) (id=847640469)
+2026-03-28 19:03:07,816 [INFO]   ✓ Maps of our World (Edu) | 价格: $19.99 | 类别: Games
+2026-03-28 19:03:10,124 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:13,623 [INFO] [8028/8372] 处理: Einstein™ Brain Training HD (id=455578451)
+2026-03-28 19:03:13,701 [INFO]   ✓ Einstein™ Brain Training HD | 价格: $2.99 | 类别: Games
+2026-03-28 19:03:16,938 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:18,548 [INFO] [8029/8372] 处理: Aircraft Recognition Quiz (id=442950324)
+2026-03-28 19:03:18,751 [INFO]   ✓ Aircraft Recognition Quiz | 价格: $0.99 | 类别: Games
+2026-03-28 19:03:21,165 [INFO]   [网页] 找到 3 个内购项目
+2026-03-28 19:03:21,167 [INFO]   ✓ 内购: 3 项
+2026-03-28 19:03:21,167 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:23,022 [INFO] [8030/8372] 处理: Wissenstraining Pro. Das Quiz (id=369681554)
+2026-03-28 19:03:23,239 [INFO]   ✓ Wissenstraining Pro. Das Quiz | 价格: $6.99 | 类别: Games
+2026-03-28 19:03:25,797 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:28,137 [INFO] [8031/8372] 处理: Country Maps Quiz (id=339749089)
+2026-03-28 19:03:28,213 [INFO]   ✓ Country Maps Quiz | 价格: $0.99 | 类别: Games
+2026-03-28 19:03:31,303 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:34,455 [INFO] [8032/8372] 处理: Two Player Trivia (id=1215536285)
+2026-03-28 19:03:34,602 [INFO]   ✓ Two Player Trivia | 价格: $0.99 | 类别: Games
+2026-03-28 19:03:38,909 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:41,786 [INFO] [8033/8372] 处理: Миллионер викторина PRO (id=581548715)
+2026-03-28 19:03:41,859 [INFO]   ✓ Миллионер викторина PRO | 价格: $1.99 | 类别: Games
+2026-03-28 19:03:45,005 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:46,721 [INFO] [8034/8372] 处理: About Love and Hate 2 (id=1244428793)
+2026-03-28 19:03:46,801 [INFO]   ✓ About Love and Hate 2 | 价格: $2.99 | 类别: Games
+2026-03-28 19:03:49,683 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:51,654 [INFO] [8035/8372] 处理: Tricky test: Get smart Pro (id=1232567752)
+2026-03-28 19:03:51,780 [INFO]   ✓ Tricky test: Get smart Pro | 价格: $0.99 | 类别: Games
+2026-03-28 19:03:54,256 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:03:54,257 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:03:54,257 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:03:57,020 [INFO] [8036/8372] 处理: The fabulous Animal Playground (id=467343891)
+2026-03-28 19:03:57,108 [INFO]   ✓ The fabulous Animal Playground | 价格: $5.99 | 类别: Games
+2026-03-28 19:04:01,054 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:04,148 [INFO] [8037/8372] 处理: iRoll Up Friends: Multiplayer Rolling and Smoking Simulator Game (id=638282228)
+2026-03-28 19:04:04,288 [INFO]   ✓ iRoll Up Friends: Multiplayer Rolling and Smoking Simulator Game | 价格: $0.99 | 类别: Games
+2026-03-28 19:04:07,641 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:04:07,642 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:04:07,642 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:10,496 [INFO] [8038/8372] 处理: National Parks of the US: Quiz (id=882669045)
+2026-03-28 19:04:10,582 [INFO]   ✓ National Parks of the US: Quiz | 价格: $0.99 | 类别: Games
+2026-03-28 19:04:14,505 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:04:14,506 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:04:14,506 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:16,507 [INFO] [8039/8372] 处理: Anime Trivia Pro (Inc. Manga) (id=555594329)
+2026-03-28 19:04:16,576 [INFO]   ✓ Anime Trivia Pro (Inc. Manga) | 价格: $0.99 | 类别: Games
+2026-03-28 19:04:18,975 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:20,735 [INFO] [8040/8372] 处理: НЛП Радуга игра (id=1536414223)
+2026-03-28 19:04:20,868 [INFO]   ✓ НЛП Радуга игра | 价格: $2.99 | 类别: Games
+2026-03-28 19:04:24,319 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:27,709 [INFO] [8041/8372] 处理: 100 Questions - Youth (id=1387964565)
+2026-03-28 19:04:27,910 [INFO]   ✓ 100 Questions - Youth | 价格: $2.99 | 类别: Games
+2026-03-28 19:04:31,633 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:04:31,635 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:04:31,635 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:33,346 [INFO] [8042/8372] 处理: Crack Me PRO - Logic Puzzle (id=1252927289)
+2026-03-28 19:04:33,521 [INFO]   ✓ Crack Me PRO - Logic Puzzle | 价格: $0.99 | 类别: Games
+2026-03-28 19:04:37,526 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:40,474 [INFO] [8043/8372] 处理: Truth or dare: Sex Actions 18 (id=686500602)
+2026-03-28 19:04:40,614 [INFO]   ✓ Truth or dare: Sex Actions 18 | 价格: $0.99 | 类别: Games
+2026-03-28 19:04:44,617 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:46,162 [INFO] [8044/8372] 处理: Magic Eye Animal Quiz (id=373741215)
+2026-03-28 19:04:46,254 [INFO]   ✓ Magic Eye Animal Quiz | 价格: $0.99 | 类别: Games
+2026-03-28 19:04:50,219 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:52,597 [INFO] [8045/8372] 处理: Big Chungus Rampage -Chapter 2 (id=1529822227)
+2026-03-28 19:04:52,745 [INFO]   ✓ Big Chungus Rampage -Chapter 2 | 价格: $2.99 | 类别: Games
+2026-03-28 19:04:55,825 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:04:57,652 [INFO] [8046/8372] 处理: Easter Holidays Junior 3 in 1 (id=827797752)
+2026-03-28 19:04:57,723 [INFO]   ✓ Easter Holidays Junior 3 in 1 | 价格: $2.99 | 类别: Games
+2026-03-28 19:05:00,403 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:03,781 [INFO] [8047/8372] 处理: Charades for Kids - Guess the Words for Children (id=1102825551)
+2026-03-28 19:05:03,861 [INFO]   ✓ Charades for Kids - Guess the Words for Children | 价格: $0.99 | 类别: Games
+2026-03-28 19:05:06,571 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:08,350 [INFO] [8048/8372] 处理: Brain Test Premium (id=6447440666)
+2026-03-28 19:05:08,487 [INFO]   ✓ Brain Test Premium | 价格: $4.99 | 类别: Games
+2026-03-28 19:05:10,896 [INFO]   [网页] 找到 4 个内购项目
+2026-03-28 19:05:10,897 [INFO]   ✓ 内购: 4 项
+2026-03-28 19:05:10,897 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:12,749 [INFO] [8049/8372] 处理: 2 Players 1 Device: Tabletop (id=1504000687)
+2026-03-28 19:05:12,861 [INFO]   ✓ 2 Players 1 Device: Tabletop | 价格: $0.49 | 类别: Games
+2026-03-28 19:05:16,482 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:19,315 [INFO] [8050/8372] 处理: GeoGuessr (id=1049876497)
+2026-03-28 19:05:19,387 [INFO]   ✓ GeoGuessr | 价格: Free | 类别: Games
+2026-03-28 19:05:19,388 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:22,317 [INFO] [8051/8372] 处理: Everyday Puzzles: Mini Games (id=1580601028)
+2026-03-28 19:05:22,400 [INFO]   ✓ Everyday Puzzles: Mini Games | 价格: Free | 类别: Games
+2026-03-28 19:05:22,400 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:25,725 [INFO] [8052/8372] 处理: Photo Roulette (id=1050443738)
+2026-03-28 19:05:25,859 [INFO]   ✓ Photo Roulette | 价格: Free | 类别: Games
+2026-03-28 19:05:25,859 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:28,304 [INFO] [8053/8372] 处理: WhoLiked: Guess Likes Reposts (id=6742410648)
+2026-03-28 19:05:28,436 [INFO]   ✓ WhoLiked: Guess Likes Reposts | 价格: Free | 类别: Games
+2026-03-28 19:05:28,436 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:31,078 [INFO] [8054/8372] 处理: Skinape for Games - Play Quiz (id=6480004025)
+2026-03-28 19:05:31,158 [INFO]   ✓ Skinape for Games - Play Quiz | 价格: Free | 类别: Games
+2026-03-28 19:05:31,158 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:32,964 [INFO] [8055/8372] 处理: Connect Balls - Line Puzzle - (id=1626781939)
+2026-03-28 19:05:33,121 [INFO]   ✓ Connect Balls - Line Puzzle - | 价格: Free | 类别: Games
+2026-03-28 19:05:33,122 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:35,568 [INFO] [8056/8372] 处理: Tricky Mean2 (id=6758080238)
+2026-03-28 19:05:35,699 [INFO]   ✓ Tricky Mean2 | 价格: Free | 类别: Games
+2026-03-28 19:05:35,699 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:37,390 [INFO] [8057/8372] 处理: Sporcle Party: Social Trivia (id=1484143447)
+2026-03-28 19:05:37,461 [INFO]   ✓ Sporcle Party: Social Trivia | 价格: Free | 类别: Games
+2026-03-28 19:05:37,462 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:39,188 [INFO] [8058/8372] 处理: World Quiz: Learn Geography (id=628052020)
+2026-03-28 19:05:39,298 [INFO]   ✓ World Quiz: Learn Geography | 价格: Free | 类别: Games
+2026-03-28 19:05:39,299 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:41,396 [INFO] [8059/8372] 处理: Jeopardy! Trivia TV Game Show (id=1096884447)
+2026-03-28 19:05:41,477 [INFO]   ✓ Jeopardy! Trivia TV Game Show | 价格: Free | 类别: Games
+2026-03-28 19:05:41,478 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:43,082 [INFO] [8060/8372] 处理: برا السالفة (id=1486192343)
+2026-03-28 19:05:43,225 [INFO]   ✓ برا السالفة | 价格: Free | 类别: Games
+2026-03-28 19:05:43,226 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:46,069 [INFO] [8061/8372] 处理: Blackbox (id=962969578)
+2026-03-28 19:05:46,223 [INFO]   ✓ Blackbox | 价格: Free | 类别: Games
+2026-03-28 19:05:46,223 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:48,352 [INFO] [8062/8372] 处理: Best Guess Live (id=6741133499)
+2026-03-28 19:05:48,429 [INFO]   ✓ Best Guess Live | 价格: Free | 类别: Games
+2026-03-28 19:05:48,430 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:51,861 [INFO] [8063/8372] 处理: flamingo cards (id=1537890432)
+2026-03-28 19:05:52,000 [INFO]   ✓ flamingo cards | 价格: Free | 类别: Games
+2026-03-28 19:05:52,000 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:54,446 [INFO] [8064/8372] 处理: Stop 2 - Word Trivia Game (id=1581869942)
+2026-03-28 19:05:54,596 [INFO]   ✓ Stop 2 - Word Trivia Game | 价格: Free | 类别: Games
+2026-03-28 19:05:54,597 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:57,036 [INFO] [8065/8372] 处理: Word Search Quest Puzzles (id=1479305181)
+2026-03-28 19:05:57,173 [INFO]   ✓ Word Search Quest Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:05:57,174 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:05:58,898 [INFO] [8066/8372] 处理: Imposter - Who is the Spy? (id=6748455155)
+2026-03-28 19:05:59,068 [INFO]   ✓ Imposter - Who is the Spy? | 价格: Free | 类别: Games
+2026-03-28 19:05:59,068 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:00,670 [INFO] [8067/8372] 处理: Mental Math Cards Games & Tips (id=500595081)
+2026-03-28 19:06:00,838 [INFO]   ✓ Mental Math Cards Games & Tips | 价格: Free | 类别: Games
+2026-03-28 19:06:00,838 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:03,487 [INFO] [8068/8372] 处理: Would You Rather? Adult (id=1437263404)
+2026-03-28 19:06:03,622 [INFO]   ✓ Would You Rather? Adult | 价格: Free | 类别: Games
+2026-03-28 19:06:03,623 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:05,233 [INFO] [8069/8372] 处理: Wheel of Fortune Official Game (id=898040123)
+2026-03-28 19:06:05,312 [INFO]   ✓ Wheel of Fortune Official Game | 价格: Free | 类别: Games
+2026-03-28 19:06:05,313 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:07,378 [INFO] [8070/8372] 处理: Sporcle (id=1572007006)
+2026-03-28 19:06:07,542 [INFO]   ✓ Sporcle | 价格: Free | 类别: Games
+2026-03-28 19:06:07,543 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:09,766 [INFO] [8071/8372] 处理: Bible Trivia - Bible Quiz Game (id=6738333688)
+2026-03-28 19:06:09,838 [INFO]   ✓ Bible Trivia - Bible Quiz Game | 价格: Free | 类别: Games
+2026-03-28 19:06:09,838 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:12,063 [INFO] [8072/8372] 处理: Mindblow: Guess the Word! (id=6472485066)
+2026-03-28 19:06:12,395 [INFO]   ✓ Mindblow: Guess the Word! | 价格: Free | 类别: Games
+2026-03-28 19:06:12,395 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:13,929 [INFO] [8073/8372] 处理: Toca Life Aesthetic Mod Boca (id=6475600785)
+2026-03-28 19:06:14,201 [INFO]   ✓ Toca Life Aesthetic Mod Boca | 价格: Free | 类别: Games
+2026-03-28 19:06:14,201 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:15,843 [INFO] [8074/8372] 处理: Sort It Right: Relax Puzzle (id=6670433218)
+2026-03-28 19:06:15,997 [INFO]   ✓ Sort It Right: Relax Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:06:15,998 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:18,744 [INFO] [8075/8372] 处理: سين جيم Seen Jeem (id=6479301314)
+2026-03-28 19:06:18,886 [INFO]   ✓ سين جيم Seen Jeem | 价格: Free | 类别: Games
+2026-03-28 19:06:18,887 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:22,354 [INFO] [8076/8372] 处理: Brain Test 2: Tricky Stories (id=1509517244)
+2026-03-28 19:06:22,447 [INFO]   ✓ Brain Test 2: Tricky Stories | 价格: Free | 类别: Games
+2026-03-28 19:06:22,448 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:24,466 [INFO] [8077/8372] 处理: What Would You Choose? Rather (id=1216673574)
+2026-03-28 19:06:24,542 [INFO]   ✓ What Would You Choose? Rather | 价格: Free | 类别: Games
+2026-03-28 19:06:24,543 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:26,133 [INFO] [8078/8372] 处理: 21 Questions - Card Games (id=6451004192)
+2026-03-28 19:06:26,206 [INFO]   ✓ 21 Questions - Card Games | 价格: Free | 类别: Games
+2026-03-28 19:06:26,206 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:27,879 [INFO] [8079/8372] 处理: BunnyHops - The #1 party game (id=1126783692)
+2026-03-28 19:06:28,034 [INFO]   ✓ BunnyHops - The #1 party game | 价格: Free | 类别: Games
+2026-03-28 19:06:28,035 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:31,455 [INFO] [8080/8372] 处理: 4 Pics 1 Word (id=595558452)
+2026-03-28 19:06:31,581 [INFO]   ✓ 4 Pics 1 Word | 价格: Free | 类别: Games
+2026-03-28 19:06:31,581 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:33,779 [INFO] [8081/8372] 处理: Quiz & IQ test: Triviascapes (id=6468810871)
+2026-03-28 19:06:33,971 [INFO]   ✓ Quiz & IQ test: Triviascapes | 价格: Free | 类别: Games
+2026-03-28 19:06:33,971 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:35,612 [INFO] [8082/8372] 处理: Erudite: Brain Spin Trivia (id=1506496657)
+2026-03-28 19:06:35,898 [INFO]   ✓ Erudite: Brain Spin Trivia | 价格: Free | 类别: Games
+2026-03-28 19:06:35,898 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:37,843 [INFO] [8083/8372] 处理: How Well Do You Know Me? (id=1295936594)
+2026-03-28 19:06:38,042 [INFO]   ✓ How Well Do You Know Me? | 价格: Free | 类别: Games
+2026-03-28 19:06:38,042 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:39,887 [INFO] [8084/8372] 处理: Taqtaqah طقطقة (id=1562848833)
+2026-03-28 19:06:40,018 [INFO]   ✓ Taqtaqah طقطقة | 价格: Free | 类别: Games
+2026-03-28 19:06:40,018 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:41,548 [INFO] [8085/8372] 处理: Party Lab: Exposed Game (id=6446330973)
+2026-03-28 19:06:41,667 [INFO]   ✓ Party Lab: Exposed Game | 价格: Free | 类别: Games
+2026-03-28 19:06:41,668 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:44,134 [INFO] [8086/8372] 处理: Trivia Crack Retro Brain Games (id=1424533120)
+2026-03-28 19:06:44,309 [INFO]   ✓ Trivia Crack Retro Brain Games | 价格: Free | 类别: Games
+2026-03-28 19:06:44,309 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:47,758 [INFO] [8087/8372] 处理: Gartic.io (id=1270393677)
+2026-03-28 19:06:47,935 [INFO]   ✓ Gartic.io | 价格: Free | 类别: Games
+2026-03-28 19:06:47,936 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:50,713 [INFO] [8088/8372] 处理: WordPix－Crossword Puzzle Game (id=6479217224)
+2026-03-28 19:06:50,885 [INFO]   ✓ WordPix－Crossword Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:06:50,886 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:53,930 [INFO] [8089/8372] 处理: Explode 2: Get Exposed (id=6504657055)
+2026-03-28 19:06:54,107 [INFO]   ✓ Explode 2: Get Exposed | 价格: Free | 类别: Games
+2026-03-28 19:06:54,107 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:57,032 [INFO] [8090/8372] 处理: Logo Quiz 2026: Guess the logo (id=1467771859)
+2026-03-28 19:06:57,105 [INFO]   ✓ Logo Quiz 2026: Guess the logo | 价格: Free | 类别: Games
+2026-03-28 19:06:57,106 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:06:59,617 [INFO] [8091/8372] 处理: Tsuki's Odyssey (id=1564146071)
+2026-03-28 19:06:59,773 [INFO]   ✓ Tsuki's Odyssey | 价格: Free | 类别: Games
+2026-03-28 19:06:59,773 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:01,319 [INFO] [8092/8372] 处理: Party Clash – Party Game (id=6757229845)
+2026-03-28 19:07:01,482 [INFO]   ✓ Party Clash – Party Game | 价格: Free | 类别: Games
+2026-03-28 19:07:01,482 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:03,839 [INFO] [8093/8372] 处理: Boomit - Most Likely To (id=1526940871)
+2026-03-28 19:07:04,000 [INFO]   ✓ Boomit - Most Likely To | 价格: Free | 类别: Games
+2026-03-28 19:07:04,001 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:05,818 [INFO] [8094/8372] 处理: جوابك جوابهم (id=1598130921)
+2026-03-28 19:07:05,952 [INFO]   ✓ جوابك جوابهم | 价格: Free | 类别: Games
+2026-03-28 19:07:05,952 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:07,791 [INFO] [8095/8372] 处理: RobQuiz Play (id=6749267275)
+2026-03-28 19:07:07,861 [INFO]   ✓ RobQuiz Play | 价格: Free | 类别: Games
+2026-03-28 19:07:07,861 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:11,084 [INFO] [8096/8372] 处理: People Say - Trivia Quiz game (id=1611741868)
+2026-03-28 19:07:11,337 [INFO]   ✓ People Say - Trivia Quiz game | 价格: Free | 类别: Games
+2026-03-28 19:07:11,337 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:13,507 [INFO] [8097/8372] 处理: من سيربح المليون (id=999816135)
+2026-03-28 19:07:13,602 [INFO]   ✓ من سيربح المليون | 价格: Free | 类别: Games
+2026-03-28 19:07:13,603 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:15,603 [INFO] [8098/8372] 处理: Swagbucks Trivia for Money (id=1325285782)
+2026-03-28 19:07:15,738 [INFO]   ✓ Swagbucks Trivia for Money | 价格: Free | 类别: Games
+2026-03-28 19:07:15,738 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:18,319 [INFO] [8099/8372] 处理: Naughty Cat Prankster (id=6741417896)
+2026-03-28 19:07:18,486 [INFO]   ✓ Naughty Cat Prankster | 价格: Free | 类别: Games
+2026-03-28 19:07:18,487 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:21,218 [INFO] [8100/8372] 处理: Brainstorm Test: Tricky Puzzle (id=1602077913)
+2026-03-28 19:07:21,320 [INFO]   ✓ Brainstorm Test: Tricky Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:07:21,321 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:24,056 [INFO] [8101/8372] 处理: QuizzLand. Quiz & Trivia game (id=1275023828)
+2026-03-28 19:07:24,166 [INFO]   ✓ QuizzLand. Quiz & Trivia game | 价格: Free | 类别: Games
+2026-03-28 19:07:24,167 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:27,117 [INFO] [8102/8372] 处理: Adorable Home (id=1486637414)
+2026-03-28 19:07:27,342 [INFO]   ✓ Adorable Home | 价格: Free | 类别: Games
+2026-03-28 19:07:27,343 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:28,849 [INFO] [8103/8372] 处理: Spelling Quiz - Trivia Puzzle (id=6755225782)
+2026-03-28 19:07:28,963 [INFO]   ✓ Spelling Quiz - Trivia Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:07:28,963 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:31,372 [INFO] [8104/8372] 处理: Word Craze - Trivia crosswords (id=1473573813)
+2026-03-28 19:07:31,535 [INFO]   ✓ Word Craze - Trivia crosswords | 价格: Free | 类别: Games
+2026-03-28 19:07:31,535 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:33,049 [INFO] [8105/8372] 处理: Stop - Categories Word Game (id=687877464)
+2026-03-28 19:07:33,174 [INFO]   ✓ Stop - Categories Word Game | 价格: Free | 类别: Games
+2026-03-28 19:07:33,174 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:35,071 [INFO] [8106/8372] 处理: Love Tester - Crush Test Quiz (id=1234094465)
+2026-03-28 19:07:35,148 [INFO]   ✓ Love Tester - Crush Test Quiz | 价格: Free | 类别: Games
+2026-03-28 19:07:35,149 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:38,045 [INFO] [8107/8372] 处理: Mancala. (id=615261740)
+2026-03-28 19:07:38,290 [INFO]   ✓ Mancala. | 价格: Free | 类别: Games
+2026-03-28 19:07:38,290 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:39,798 [INFO] [8108/8372] 处理: Room Escape: 50 rooms I (id=1107507527)
+2026-03-28 19:07:39,957 [INFO]   ✓ Room Escape: 50 rooms I | 价格: Free | 类别: Games
+2026-03-28 19:07:39,957 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:42,315 [INFO] [8109/8372] 处理: Charades & Headbands Game (id=1503437368)
+2026-03-28 19:07:42,473 [INFO]   ✓ Charades & Headbands Game | 价格: Free | 类别: Games
+2026-03-28 19:07:42,474 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:44,972 [INFO] [8110/8372] 处理: Fridge Horror Game (id=6450404387)
+2026-03-28 19:07:45,048 [INFO]   ✓ Fridge Horror Game | 价格: Free | 类别: Games
+2026-03-28 19:07:45,049 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:48,077 [INFO] [8111/8372] 处理: Happy Printer (id=1539388451)
+2026-03-28 19:07:48,198 [INFO]   ✓ Happy Printer | 价格: Free | 类别: Games
+2026-03-28 19:07:48,198 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:50,763 [INFO] [8112/8372] 处理: Millionaire Trivia: TV Game (id=1418794453)
+2026-03-28 19:07:50,894 [INFO]   ✓ Millionaire Trivia: TV Game | 价格: Free | 类别: Games
+2026-03-28 19:07:50,894 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:52,683 [INFO] [8113/8372] 处理: Gorilla tag Mods (id=6479996795)
+2026-03-28 19:07:52,830 [INFO]   ✓ Gorilla tag Mods | 价格: Free | 类别: Games
+2026-03-28 19:07:52,830 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:55,309 [INFO] [8114/8372] 处理: How Much Does My Crush Like Me (id=1446328948)
+2026-03-28 19:07:55,388 [INFO]   ✓ How Much Does My Crush Like Me | 价格: Free | 类别: Games
+2026-03-28 19:07:55,388 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:57,388 [INFO] [8115/8372] 处理: Best Bartender - Mixed Drink (id=1261761935)
+2026-03-28 19:07:57,472 [INFO]   ✓ Best Bartender - Mixed Drink | 价格: Free | 类别: Games
+2026-03-28 19:07:57,472 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:07:59,006 [INFO] [8116/8372] 处理: ترَبَّع (id=6474274690)
+2026-03-28 19:07:59,144 [INFO]   ✓ ترَبَّع | 价格: Free | 类别: Games
+2026-03-28 19:07:59,144 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:02,336 [INFO] [8117/8372] 处理: Pictoword: Fun Word Quiz Games (id=600674056)
+2026-03-28 19:08:02,422 [INFO]   ✓ Pictoword: Fun Word Quiz Games | 价格: Free | 类别: Games
+2026-03-28 19:08:02,422 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:05,344 [INFO] [8118/8372] 处理: Location Guesser: GeoGuesser (id=6754612383)
+2026-03-28 19:08:05,424 [INFO]   ✓ Location Guesser: GeoGuesser | 价格: Free | 类别: Games
+2026-03-28 19:08:05,425 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:08,288 [INFO] [8119/8372] 处理: Bible Trivia Quiz Games (id=6737213796)
+2026-03-28 19:08:08,459 [INFO]   ✓ Bible Trivia Quiz Games | 价格: Free | 类别: Games
+2026-03-28 19:08:08,459 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:11,795 [INFO] [8120/8372] 处理: Trivia: Knowledge Trainer Quiz (id=553432225)
+2026-03-28 19:08:11,931 [INFO]   ✓ Trivia: Knowledge Trainer Quiz | 价格: Free | 类别: Games
+2026-03-28 19:08:11,931 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:14,535 [INFO] [8121/8372] 处理: Meow Tower - Nonogram Puzzle (id=1579122980)
+2026-03-28 19:08:14,610 [INFO]   ✓ Meow Tower - Nonogram Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:08:14,611 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:17,304 [INFO] [8122/8372] 处理: Wordfinder by WordTips (id=1546175708)
+2026-03-28 19:08:17,439 [INFO]   ✓ Wordfinder by WordTips | 价格: Free | 类别: Games
+2026-03-28 19:08:17,439 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:20,625 [INFO] [8123/8372] 处理: Pawfect Cat (id=6754833303)
+2026-03-28 19:08:20,728 [INFO]   ✓ Pawfect Cat | 价格: Free | 类别: Games
+2026-03-28 19:08:20,728 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:24,037 [INFO] [8124/8372] 处理: Deal or No Deal (id=6739618563)
+2026-03-28 19:08:24,120 [INFO]   ✓ Deal or No Deal | 价格: Free | 类别: Games
+2026-03-28 19:08:24,120 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:27,613 [INFO] [8125/8372] 处理: Rhino Brain Rush (id=6749035917)
+2026-03-28 19:08:27,776 [INFO]   ✓ Rhino Brain Rush | 价格: Free | 类别: Games
+2026-03-28 19:08:27,777 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:31,223 [INFO] [8126/8372] 处理: Woody Sort: Color Puzzle (id=6455128706)
+2026-03-28 19:08:31,339 [INFO]   ✓ Woody Sort: Color Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:08:31,339 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:33,513 [INFO] [8127/8372] 处理: Are You Smarter Than A Child?? (id=1488266461)
+2026-03-28 19:08:33,605 [INFO]   ✓ Are You Smarter Than A Child?? | 价格: Free | 类别: Games
+2026-03-28 19:08:33,605 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:35,613 [INFO] [8128/8372] 处理: BFF Friendship Test - Quiz (id=1234019228)
+2026-03-28 19:08:35,801 [INFO]   ✓ BFF Friendship Test - Quiz | 价格: Free | 类别: Games
+2026-03-28 19:08:35,802 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:39,077 [INFO] [8129/8372] 处理: ASTRAL HOUSE (id=6759899677)
+2026-03-28 19:08:39,234 [INFO]   ✓ ASTRAL HOUSE | 价格: Free | 类别: Games
+2026-03-28 19:08:39,234 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:41,857 [INFO] [8130/8372] 处理: Crosswords With Friends (id=1184083151)
+2026-03-28 19:08:41,943 [INFO]   ✓ Crosswords With Friends | 价格: Free | 类别: Games
+2026-03-28 19:08:41,943 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:43,691 [INFO] [8131/8372] 处理: Book Reader-Best Novel&Stories (id=1610104620)
+2026-03-28 19:08:43,831 [INFO]   ✓ Book Reader-Best Novel&Stories | 价格: Free | 类别: Games
+2026-03-28 19:08:43,832 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:45,719 [INFO] [8132/8372] 处理: Wordgrams - Crossword & Puzzle (id=1517829670)
+2026-03-28 19:08:45,866 [INFO]   ✓ Wordgrams - Crossword & Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:08:45,867 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:48,185 [INFO] [8133/8372] 处理: Arrow Crosswords (id=6499236530)
+2026-03-28 19:08:48,342 [INFO]   ✓ Arrow Crosswords | 价格: Free | 类别: Games
+2026-03-28 19:08:48,343 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:49,865 [INFO] [8134/8372] 处理: CodyCross: Crossword Puzzles (id=1092689152)
+2026-03-28 19:08:49,951 [INFO]   ✓ CodyCross: Crossword Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:08:49,951 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:52,027 [INFO] [8135/8372] 处理: BLeBRiTY Charades (id=1252073947)
+2026-03-28 19:08:52,100 [INFO]   ✓ BLeBRiTY Charades | 价格: Free | 类别: Games
+2026-03-28 19:08:52,101 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:54,261 [INFO] [8136/8372] 处理: Would You Rather? Dirty Adult (id=1453835217)
+2026-03-28 19:08:54,333 [INFO]   ✓ Would You Rather? Dirty Adult | 价格: Free | 类别: Games
+2026-03-28 19:08:54,333 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:56,627 [INFO] [8137/8372] 处理: Daily POP Crossword Puzzles (id=1287540998)
+2026-03-28 19:08:56,699 [INFO]   ✓ Daily POP Crossword Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:08:56,699 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:08:58,942 [INFO] [8138/8372] 处理: Word Nut Crossword Puzzle Game (id=1379080711)
+2026-03-28 19:08:59,075 [INFO]   ✓ Word Nut Crossword Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:08:59,075 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:02,281 [INFO] [8139/8372] 处理: Charades for Kids - Guess Up (id=1451060960)
+2026-03-28 19:09:02,418 [INFO]   ✓ Charades for Kids - Guess Up | 价格: Free | 类别: Games
+2026-03-28 19:09:02,418 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:05,297 [INFO] [8140/8372] 处理: Word Carnival - All in One (id=1609570356)
+2026-03-28 19:09:05,407 [INFO]   ✓ Word Carnival - All in One | 价格: Free | 类别: Games
+2026-03-28 19:09:05,407 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:08,133 [INFO] [8141/8372] 处理: Word Card: Fun Collect Game (id=1518963006)
+2026-03-28 19:09:08,290 [INFO]   ✓ Word Card: Fun Collect Game | 价格: Free | 类别: Games
+2026-03-28 19:09:08,291 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:10,411 [INFO] [8142/8372] 处理: Room Escape Game-EXiTS- (id=1454183741)
+2026-03-28 19:09:10,548 [INFO]   ✓ Room Escape Game-EXiTS- | 价格: Free | 类别: Games
+2026-03-28 19:09:10,548 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:12,889 [INFO] [8143/8372] 处理: We’re Deep Conversations Cards (id=6737181262)
+2026-03-28 19:09:13,019 [INFO]   ✓ We’re Deep Conversations Cards | 价格: Free | 类别: Games
+2026-03-28 19:09:13,019 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:15,976 [INFO] [8144/8372] 处理: Backpacker™ Go! (id=6478389736)
+2026-03-28 19:09:16,120 [INFO]   ✓ Backpacker™ Go! | 价格: Free | 类别: Games
+2026-03-28 19:09:16,120 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:18,000 [INFO] [8145/8372] 处理: fondly - couple games (id=6741367208)
+2026-03-28 19:09:18,141 [INFO]   ✓ fondly - couple games | 价格: Free | 类别: Games
+2026-03-28 19:09:18,141 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:19,897 [INFO] [8146/8372] 处理: Truth or Dare · by Partybus (id=1625682712)
+2026-03-28 19:09:19,982 [INFO]   ✓ Truth or Dare · by Partybus | 价格: Free | 类别: Games
+2026-03-28 19:09:19,982 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:22,179 [INFO] [8147/8372] 处理: Outsmarted - Companion App (id=1541321303)
+2026-03-28 19:09:22,250 [INFO]   ✓ Outsmarted - Companion App | 价格: Free | 类别: Games
+2026-03-28 19:09:22,250 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:24,339 [INFO] [8148/8372] 处理: GeoHunter (id=6755425765)
+2026-03-28 19:09:24,411 [INFO]   ✓ GeoHunter | 价格: Free | 类别: Games
+2026-03-28 19:09:24,412 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:26,908 [INFO] [8149/8372] 处理: L3b - لعب (id=6746659144)
+2026-03-28 19:09:27,002 [INFO]   ✓ L3b - لعب | 价格: Free | 类别: Games
+2026-03-28 19:09:27,002 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:29,802 [INFO] [8150/8372] 处理: Adult Charades Party Game (id=1059177218)
+2026-03-28 19:09:29,894 [INFO]   ✓ Adult Charades Party Game | 价格: Free | 类别: Games
+2026-03-28 19:09:29,894 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:33,265 [INFO] [8151/8372] 处理: Exposed Party: Game Reveal Fun (id=6743406417)
+2026-03-28 19:09:33,403 [INFO]   ✓ Exposed Party: Game Reveal Fun | 价格: Free | 类别: Games
+2026-03-28 19:09:33,403 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:36,838 [INFO] [8152/8372] 处理: Couple Games: 99+ Couples Game (id=6748642216)
+2026-03-28 19:09:36,922 [INFO]   ✓ Couple Games: 99+ Couples Game | 价格: Free | 类别: Games
+2026-03-28 19:09:36,922 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:38,858 [INFO] [8153/8372] 处理: Daily Bible Trivia: Quiz Games (id=1633307858)
+2026-03-28 19:09:39,044 [INFO]   ✓ Daily Bible Trivia: Quiz Games | 价格: Free | 类别: Games
+2026-03-28 19:09:39,045 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:41,044 [INFO] [8154/8372] 处理: Maps of our World (id=658902767)
+2026-03-28 19:09:41,118 [INFO]   ✓ Maps of our World | 价格: Free | 类别: Games
+2026-03-28 19:09:41,118 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:44,514 [INFO] [8155/8372] 处理: I Have Never: Dirty Game (id=1436049430)
+2026-03-28 19:09:44,673 [INFO]   ✓ I Have Never: Dirty Game | 价格: Free | 类别: Games
+2026-03-28 19:09:44,673 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:47,726 [INFO] [8156/8372] 处理: Word Town: Word Search Puzzles (id=1370245504)
+2026-03-28 19:09:47,887 [INFO]   ✓ Word Town: Word Search Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:09:47,887 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:50,821 [INFO] [8157/8372] 处理: Most Likely To (id=1498057837)
+2026-03-28 19:09:51,045 [INFO]   ✓ Most Likely To | 价格: Free | 类别: Games
+2026-03-28 19:09:51,046 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:53,044 [INFO] [8158/8372] 处理: WordFinder by YourDictionary (id=1436464468)
+2026-03-28 19:09:53,196 [INFO]   ✓ WordFinder by YourDictionary | 价格: Free | 类别: Games
+2026-03-28 19:09:53,196 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:55,687 [INFO] [8159/8372] 处理: Paint by Number Oil: Hey Color (id=1445135380)
+2026-03-28 19:09:55,841 [INFO]   ✓ Paint by Number Oil: Hey Color | 价格: Free | 类别: Games
+2026-03-28 19:09:55,841 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:57,395 [INFO] [8160/8372] 处理: Infinite Word Search Puzzles (id=1023782170)
+2026-03-28 19:09:57,562 [INFO]   ✓ Infinite Word Search Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:09:57,563 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:09:59,400 [INFO] [8161/8372] 处理: Fairy Village (id=6472733074)
+2026-03-28 19:09:59,592 [INFO]   ✓ Fairy Village | 价格: Free | 类别: Games
+2026-03-28 19:09:59,592 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:02,458 [INFO] [8162/8372] 处理: The Chase - World Tour (id=6449974483)
+2026-03-28 19:10:02,560 [INFO]   ✓ The Chase - World Tour | 价格: Free | 类别: Games
+2026-03-28 19:10:02,560 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:04,681 [INFO] [8163/8372] 处理: Penny Dell Daily Crossword (id=655645841)
+2026-03-28 19:10:04,824 [INFO]   ✓ Penny Dell Daily Crossword | 价格: Free | 类别: Games
+2026-03-28 19:10:04,825 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:06,595 [INFO] [8164/8372] 处理: Sway™ (id=6742747165)
+2026-03-28 19:10:06,696 [INFO]   ✓ Sway™ | 价格: Free | 类别: Games
+2026-03-28 19:10:06,697 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:08,707 [INFO] [8165/8372] 处理: Trivia Crush - Quiz Games (id=6447509943)
+2026-03-28 19:10:08,873 [INFO]   ✓ Trivia Crush - Quiz Games | 价格: Free | 类别: Games
+2026-03-28 19:10:08,874 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:11,307 [INFO] [8166/8372] 处理: IQ Test - Brain Training Games (id=1546228874)
+2026-03-28 19:10:11,454 [INFO]   ✓ IQ Test - Brain Training Games | 价格: Free | 类别: Games
+2026-03-28 19:10:11,454 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:13,793 [INFO] [8167/8372] 处理: Couples Games: Spicy Challenge (id=6476441461)
+2026-03-28 19:10:13,943 [INFO]   ✓ Couples Games: Spicy Challenge | 价格: Free | 类别: Games
+2026-03-28 19:10:13,943 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:17,418 [INFO] [8168/8372] 处理: Word Serenity: Fun Brain Game (id=1487585438)
+2026-03-28 19:10:17,506 [INFO]   ✓ Word Serenity: Fun Brain Game | 价格: Free | 类别: Games
+2026-03-28 19:10:17,506 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:20,010 [INFO] [8169/8372] 处理: Catch It! Phrase Party Games (id=973605105)
+2026-03-28 19:10:20,106 [INFO]   ✓ Catch It! Phrase Party Games | 价格: Free | 类别: Games
+2026-03-28 19:10:20,107 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:22,078 [INFO] [8170/8372] 处理: General Knowledge Trivia Quiz. (id=1492574252)
+2026-03-28 19:10:22,200 [INFO]   ✓ General Knowledge Trivia Quiz. | 价格: Free | 类别: Games
+2026-03-28 19:10:22,200 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:23,843 [INFO] [8171/8372] 处理: Ord. (id=1523539543)
+2026-03-28 19:10:23,980 [INFO]   ✓ Ord. | 价格: $1.99 | 类别: Games
+2026-03-28 19:10:26,794 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:29,196 [INFO] [8172/8372] 处理: supertype (id=1349292121)
+2026-03-28 19:10:29,386 [INFO]   ✓ supertype | 价格: $1.99 | 类别: Games
+2026-03-28 19:10:31,797 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:35,173 [INFO] [8173/8372] 处理: The Wiki Game! (id=459318432)
+2026-03-28 19:10:35,252 [INFO]   ✓ The Wiki Game! | 价格: $1.99 | 类别: Games
+2026-03-28 19:10:37,713 [INFO]   [网页] 找到 3 个内购项目
+2026-03-28 19:10:37,714 [INFO]   ✓ 内购: 3 项
+2026-03-28 19:10:37,714 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:40,753 [INFO] [8174/8372] 处理: Letterlike (id=6737422986)
+2026-03-28 19:10:40,964 [INFO]   ✓ Letterlike | 价格: $4.99 | 类别: Games
+2026-03-28 19:10:43,353 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:45,907 [INFO] [8175/8372] 处理: Hexiled (id=881274996)
+2026-03-28 19:10:46,076 [INFO]   ✓ Hexiled | 价格: $3.99 | 类别: Games
+2026-03-28 19:10:49,117 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:51,630 [INFO] [8176/8372] 处理: Her Story (id=952658953)
+2026-03-28 19:10:51,709 [INFO]   ✓ Her Story | 价格: $2.99 | 类别: Games
+2026-03-28 19:10:55,216 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:10:58,499 [INFO] [8177/8372] 处理: DownWords: Daily Word Game (id=6756895326)
+2026-03-28 19:10:58,882 [INFO]   ✓ DownWords: Daily Word Game | 价格: $1.99 | 类别: Games
+2026-03-28 19:11:00,749 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:04,122 [INFO] [8178/8372] 处理: Morse Command: CW Trainer (id=6759479305)
+2026-03-28 19:11:04,540 [INFO]   ✓ Morse Command: CW Trainer | 价格: $4.99 | 类别: Games
+2026-03-28 19:11:07,346 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:09,156 [INFO] [8179/8372] 处理: Shorthanded Gregg (id=6755334673)
+2026-03-28 19:11:09,230 [INFO]   ✓ Shorthanded Gregg | 价格: $1.99 | 类别: Games
+2026-03-28 19:11:12,545 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:14,912 [INFO] [8180/8372] 处理: First Words Animals (id=294536447)
+2026-03-28 19:11:15,048 [INFO]   ✓ First Words Animals | 价格: $1.99 | 类别: Games
+2026-03-28 19:11:17,288 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:20,443 [INFO] [8181/8372] 处理: Crosswords Classic (id=284036524)
+2026-03-28 19:11:20,523 [INFO]   ✓ Crosswords Classic | 价格: $9.99 | 类别: Games
+2026-03-28 19:11:24,347 [INFO]   [网页] 找到 10 个内购项目
+2026-03-28 19:11:24,348 [INFO]   ✓ 内购: 10 项
+2026-03-28 19:11:24,348 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:26,688 [INFO] [8182/8372] 处理: Cryptogram (id=380210791)
+2026-03-28 19:11:26,761 [INFO]   ✓ Cryptogram | 价格: $4.99 | 类别: Games
+2026-03-28 19:11:29,984 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:33,346 [INFO] [8183/8372] 处理: Whirly Word (id=333262544)
+2026-03-28 19:11:33,425 [INFO]   ✓ Whirly Word | 价格: $1.99 | 类别: Games
+2026-03-28 19:11:36,348 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:39,744 [INFO] [8184/8372] 处理: Word Lookup Pro (id=406150030)
+2026-03-28 19:11:39,872 [INFO]   ✓ Word Lookup Pro | 价格: $4.99 | 类别: Games
+2026-03-28 19:11:43,409 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:46,503 [INFO] [8185/8372] 处理: Hangman Pro (id=327456838)
+2026-03-28 19:11:46,693 [INFO]   ✓ Hangman Pro | 价格: $1.99 | 类别: Games
+2026-03-28 19:11:49,274 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:52,483 [INFO] [8186/8372] 处理: The Game Gal's Word Generator (id=546236058)
+2026-03-28 19:11:52,607 [INFO]   ✓ The Game Gal's Word Generator | 价格: $1.99 | 类别: Games
+2026-03-28 19:11:56,507 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:11:59,554 [INFO] [8187/8372] 处理: Blackbar (id=672002602)
+2026-03-28 19:11:59,625 [INFO]   ✓ Blackbar | 价格: $2.99 | 类别: Games
+2026-03-28 19:12:03,062 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:04,835 [INFO] [8188/8372] 处理: Greek Letters and Alphabet 2 (id=834706017)
+2026-03-28 19:12:04,907 [INFO]   ✓ Greek Letters and Alphabet 2 | 价格: $0.99 | 类别: Games
+2026-03-28 19:12:08,492 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:12:08,494 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:12:08,494 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:10,860 [INFO] [8189/8372] 处理: Word Search Unlimited (id=288688365)
+2026-03-28 19:12:10,949 [INFO]   ✓ Word Search Unlimited | 价格: $0.99 | 类别: Games
+2026-03-28 19:12:14,806 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:17,936 [INFO] [8190/8372] 处理: Regency Love (id=763991668)
+2026-03-28 19:12:18,039 [INFO]   ✓ Regency Love | 价格: $4.99 | 类别: Games
+2026-03-28 19:12:20,838 [INFO]   [网页] 找到 10 个内购项目
+2026-03-28 19:12:20,839 [INFO]   ✓ 内购: 10 项
+2026-03-28 19:12:20,839 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:23,611 [INFO] [8191/8372] 处理: Wordlike - Word Roguelike (id=6738364965)
+2026-03-28 19:12:23,748 [INFO]   ✓ Wordlike - Word Roguelike | 价格: $4.99 | 类别: Games
+2026-03-28 19:12:26,773 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:29,167 [INFO] [8192/8372] 处理: Word Search Wear - Watch game (id=1451321452)
+2026-03-28 19:12:29,370 [INFO]   ✓ Word Search Wear - Watch game | 价格: $1.99 | 类别: Games
+2026-03-28 19:12:33,300 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:35,785 [INFO] [8193/8372] 处理: Phonetic Cards: Pronunciation (id=929089228)
+2026-03-28 19:12:35,862 [INFO]   ✓ Phonetic Cards: Pronunciation | 价格: $1.99 | 类别: Games
+2026-03-28 19:12:39,592 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:41,445 [INFO] [8194/8372] 处理: Overwords (id=6747488783)
+2026-03-28 19:12:41,520 [INFO]   ✓ Overwords | 价格: $2.99 | 类别: Games
+2026-03-28 19:12:45,637 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:48,655 [INFO] [8195/8372] 处理: Hangman Wear - Watch Game (id=1465364315)
+2026-03-28 19:12:48,743 [INFO]   ✓ Hangman Wear - Watch Game | 价格: $1.99 | 类别: Games
+2026-03-28 19:12:51,685 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:54,102 [INFO] [8196/8372] 处理: Scattered Verse (id=6478508550)
+2026-03-28 19:12:54,233 [INFO]   ✓ Scattered Verse | 价格: $0.99 | 类别: Games
+2026-03-28 19:12:56,326 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:12:59,639 [INFO] [8197/8372] 处理: ABC StarterKit Deutsch: DFA (id=1089856580)
+2026-03-28 19:12:59,846 [INFO]   ✓ ABC StarterKit Deutsch: DFA | 价格: $1.99 | 类别: Games
+2026-03-28 19:13:03,818 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:05,459 [INFO] [8198/8372] 处理: Wordsmyth - Calm Word Play (id=1534959553)
+2026-03-28 19:13:05,562 [INFO]   ✓ Wordsmyth - Calm Word Play | 价格: $1.99 | 类别: Games
+2026-03-28 19:13:08,772 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:11,968 [INFO] [8199/8372] 处理: Inorganic Acids, Ions & Salts (id=814622099)
+2026-03-28 19:13:12,043 [INFO]   ✓ Inorganic Acids, Ions & Salts | 价格: $0.99 | 类别: Games
+2026-03-28 19:13:15,507 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:13:15,508 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:13:15,508 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:17,499 [INFO] [8200/8372] 处理: Simply Cryptic (id=6757966051)
+2026-03-28 19:13:17,647 [INFO]   ✓ Simply Cryptic | 价格: $0.99 | 类别: Games
+2026-03-28 19:13:21,279 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:24,168 [INFO] [8201/8372] 处理: Word Seek HD (id=393819590)
+2026-03-28 19:13:24,251 [INFO]   ✓ Word Seek HD | 价格: $1.99 | 类别: Games
+2026-03-28 19:13:27,996 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:29,729 [INFO] [8202/8372] 处理: Text Twisted Pro (id=6447632074)
+2026-03-28 19:13:29,864 [INFO]   ✓ Text Twisted Pro | 价格: $1.99 | 类别: Games
+2026-03-28 19:13:33,127 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:36,350 [INFO] [8203/8372] 处理: Words Alone (id=474662296)
+2026-03-28 19:13:36,431 [INFO]   ✓ Words Alone | 价格: $0.99 | 类别: Games
+2026-03-28 19:13:39,869 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:42,784 [INFO] [8204/8372] 处理: Antigrams (id=1112055588)
+2026-03-28 19:13:42,958 [INFO]   ✓ Antigrams | 价格: $0.99 | 类别: Games
+2026-03-28 19:13:47,287 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:49,890 [INFO] [8205/8372] 处理: Honeycomb - Word Puzzle (id=6446267827)
+2026-03-28 19:13:49,968 [INFO]   ✓ Honeycomb - Word Puzzle | 价格: $1.99 | 类别: Games
+2026-03-28 19:13:53,234 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:13:56,726 [INFO] [8206/8372] 处理: MASH Touch (id=310316214)
+2026-03-28 19:13:56,863 [INFO]   ✓ MASH Touch | 价格: $0.99 | 类别: Games
+2026-03-28 19:14:00,331 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:02,400 [INFO] [8207/8372] 处理: WordJong (id=301295390)
+2026-03-28 19:14:02,618 [INFO]   ✓ WordJong | 价格: $1.99 | 类别: Games
+2026-03-28 19:14:05,947 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:08,418 [INFO] [8208/8372] 处理: WordSearch Kids (id=301027036)
+2026-03-28 19:14:08,495 [INFO]   ✓ WordSearch Kids | 价格: $0.99 | 类别: Games
+2026-03-28 19:14:11,159 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:14,265 [INFO] [8209/8372] 处理: Word Finder - wordhelper.org (id=460744832)
+2026-03-28 19:14:14,388 [INFO]   ✓ Word Finder - wordhelper.org | 价格: $2.99 | 类别: Games
+2026-03-28 19:14:16,591 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:19,939 [INFO] [8210/8372] 处理: Dabble A Fast Paced Word Game (id=452176000)
+2026-03-28 19:14:20,116 [INFO]   ✓ Dabble A Fast Paced Word Game | 价格: $1.99 | 类别: Games
+2026-03-28 19:14:22,796 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:26,061 [INFO] [8211/8372] 处理: Befuddled (id=343077741)
+2026-03-28 19:14:26,171 [INFO]   ✓ Befuddled | 价格: $1.99 | 类别: Games
+2026-03-28 19:14:28,827 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:31,231 [INFO] [8212/8372] 处理: Word Mess (id=504739597)
+2026-03-28 19:14:31,302 [INFO]   ✓ Word Mess | 价格: $2.99 | 类别: Games
+2026-03-28 19:14:34,452 [INFO]   [网页] 找到 4 个内购项目
+2026-03-28 19:14:34,453 [INFO]   ✓ 内购: 4 项
+2026-03-28 19:14:34,453 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:37,895 [INFO] [8213/8372] 处理: Word Shaker (id=317452750)
+2026-03-28 19:14:37,971 [INFO]   ✓ Word Shaker | 价格: $2.99 | 类别: Games
+2026-03-28 19:14:41,662 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:44,304 [INFO] [8214/8372] 处理: Sidewords (id=1223257768)
+2026-03-28 19:14:44,447 [INFO]   ✓ Sidewords | 价格: $2.99 | 类别: Games
+2026-03-28 19:14:47,901 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:49,859 [INFO] [8215/8372] 处理: Antitype (id=1117100543)
+2026-03-28 19:14:50,014 [INFO]   ✓ Antitype | 价格: $3.99 | 类别: Games
+2026-03-28 19:14:53,532 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:14:56,406 [INFO] [8216/8372] 处理: WordStorm (id=404366437)
+2026-03-28 19:14:56,476 [INFO]   ✓ WordStorm | 价格: $3.99 | 类别: Games
+2026-03-28 19:14:59,027 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:01,635 [INFO] [8217/8372] 处理: Ar CrossWord - كلمات متقاطعة (id=474299392)
+2026-03-28 19:15:01,794 [INFO]   ✓ Ar CrossWord - كلمات متقاطعة | 价格: $2.99 | 类别: Games
+2026-03-28 19:15:05,472 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:07,085 [INFO] [8218/8372] 处理: Telling Lies (id=1261458837)
+2026-03-28 19:15:07,163 [INFO]   ✓ Telling Lies | 价格: $6.99 | 类别: Games
+2026-03-28 19:15:11,317 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:14,283 [INFO] [8219/8372] 处理: Way Walkers: University (id=550060613)
+2026-03-28 19:15:14,356 [INFO]   ✓ Way Walkers: University | 价格: $5.99 | 类别: Games
+2026-03-28 19:15:18,647 [INFO]   [网页] 找到 1 个内购项目
+2026-03-28 19:15:18,649 [INFO]   ✓ 内购: 1 项
+2026-03-28 19:15:18,649 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:21,897 [INFO] [8220/8372] 处理: Grayout (id=1023152763)
+2026-03-28 19:15:22,033 [INFO]   ✓ Grayout | 价格: $2.99 | 类别: Games
+2026-03-28 19:15:25,786 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:27,743 [INFO] [8221/8372] 处理: WWF Helper Premium (id=381884002)
+2026-03-28 19:15:27,817 [INFO]   ✓ WWF Helper Premium | 价格: $3.99 | 类别: Games
+2026-03-28 19:15:30,182 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:33,099 [INFO] [8222/8372] 处理: On-Core Wordfind (id=285884423)
+2026-03-28 19:15:33,170 [INFO]   ✓ On-Core Wordfind | 价格: $0.99 | 类别: Games
+2026-03-28 19:15:36,033 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:39,305 [INFO] [8223/8372] 处理: PRY (id=846195114)
+2026-03-28 19:15:39,382 [INFO]   ✓ PRY | 价格: $2.99 | 类别: Games
+2026-03-28 19:15:42,567 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:44,122 [INFO] [8224/8372] 处理: Endless Craft ∞ (id=6477922067)
+2026-03-28 19:15:44,257 [INFO]   ✓ Endless Craft ∞ | 价格: $0.99 | 类别: Games
+2026-03-28 19:15:47,086 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:48,752 [INFO] [8225/8372] 处理: Hot Date (id=1057329502)
+2026-03-28 19:15:48,914 [INFO]   ✓ Hot Date | 价格: $1.99 | 类别: Games
+2026-03-28 19:15:52,340 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:15:54,342 [INFO] [8226/8372] 处理: CHARADES: Guess word on heads (id=1135172555)
+2026-03-28 19:15:54,438 [INFO]   ✓ CHARADES: Guess word on heads | 价格: $3.99 | 类别: Games
+2026-03-28 19:15:58,575 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:01,040 [INFO] [8227/8372] 处理: Photographs - Puzzle Stories (id=1392948321)
+2026-03-28 19:16:01,203 [INFO]   ✓ Photographs - Puzzle Stories | 价格: $3.99 | 类别: Games
+2026-03-28 19:16:04,431 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:07,785 [INFO] [8228/8372] 处理: The Guides Compendium (id=1003979151)
+2026-03-28 19:16:07,869 [INFO]   ✓ The Guides Compendium | 价格: $0.99 | 类别: Games
+2026-03-28 19:16:10,395 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:13,328 [INFO] [8229/8372] 处理: Word Shaker HD (id=410759189)
+2026-03-28 19:16:13,402 [INFO]   ✓ Word Shaker HD | 价格: $4.99 | 类别: Games
+2026-03-28 19:16:17,448 [INFO]   [网页] 找到 6 个内购项目
+2026-03-28 19:16:17,450 [INFO]   ✓ 内购: 6 项
+2026-03-28 19:16:17,450 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:19,634 [INFO] [8230/8372] 处理: Wordtouch (id=284963567)
+2026-03-28 19:16:19,765 [INFO]   ✓ Wordtouch | 价格: $1.99 | 类别: Games
+2026-03-28 19:16:22,434 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:25,745 [INFO] [8231/8372] 处理: Pangrams (id=1504475352)
+2026-03-28 19:16:25,878 [INFO]   ✓ Pangrams | 价格: $1.99 | 类别: Games
+2026-03-28 19:16:29,412 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:31,603 [INFO] [8232/8372] 处理: Letter² (id=1282896869)
+2026-03-28 19:16:31,740 [INFO]   ✓ Letter² | 价格: $0.99 | 类别: Games
+2026-03-28 19:16:35,474 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:37,824 [INFO] [8233/8372] 处理: Word Swipe : Word Search (id=620072282)
+2026-03-28 19:16:37,937 [INFO]   ✓ Word Swipe : Word Search | 价格: $0.99 | 类别: Games
+2026-03-28 19:16:41,537 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:44,491 [INFO] [8234/8372] 处理: حروفي المرحة (id=422056390)
+2026-03-28 19:16:44,569 [INFO]   ✓ حروفي المرحة | 价格: $2.99 | 类别: Games
+2026-03-28 19:16:48,325 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:51,327 [INFO] [8235/8372] 处理: King of Booze Drinking Game 18 (id=715048833)
+2026-03-28 19:16:51,409 [INFO]   ✓ King of Booze Drinking Game 18 | 价格: $6.99 | 类别: Games
+2026-03-28 19:16:55,499 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:16:58,133 [INFO] [8236/8372] 处理: Acrostic Crossword Puzzles (id=580847667)
+2026-03-28 19:16:58,282 [INFO]   ✓ Acrostic Crossword Puzzles | 价格: $5.99 | 类别: Games
+2026-03-28 19:17:02,038 [INFO]   [网页] 找到 10 个内购项目
+2026-03-28 19:17:02,039 [INFO]   ✓ 内购: 10 项
+2026-03-28 19:17:02,039 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:03,869 [INFO] [8237/8372] 处理: Waggle Words (id=1107742264)
+2026-03-28 19:17:03,998 [INFO]   ✓ Waggle Words | 价格: $3.99 | 类别: Games
+2026-03-28 19:17:07,746 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:10,261 [INFO] [8238/8372] 处理: KLAC (id=1421420656)
+2026-03-28 19:17:10,396 [INFO]   ✓ KLAC | 价格: $1.99 | 类别: Games
+2026-03-28 19:17:12,532 [INFO]   [网页] 找到 4 个内购项目
+2026-03-28 19:17:12,533 [INFO]   ✓ 内购: 4 项
+2026-03-28 19:17:12,533 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:15,885 [INFO] [8239/8372] 处理: Variety Puzzles (id=596543924)
+2026-03-28 19:17:15,967 [INFO]   ✓ Variety Puzzles | 价格: $4.99 | 类别: Games
+2026-03-28 19:17:19,018 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:21,644 [INFO] [8240/8372] 处理: TipOff – Word Guessing Game (id=1110306961)
+2026-03-28 19:17:21,778 [INFO]   ✓ TipOff – Word Guessing Game | 价格: $0.99 | 类别: Games
+2026-03-28 19:17:25,523 [INFO]   [网页] 找到 9 个内购项目
+2026-03-28 19:17:25,524 [INFO]   ✓ 内购: 9 项
+2026-03-28 19:17:25,525 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:28,072 [INFO] [8241/8372] 处理: Words By Post Premium (id=505384445)
+2026-03-28 19:17:28,166 [INFO]   ✓ Words By Post Premium | 价格: $2.99 | 类别: Games
+2026-03-28 19:17:30,956 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:34,271 [INFO] [8242/8372] 处理: Word Forward (id=1454290016)
+2026-03-28 19:17:34,419 [INFO]   ✓ Word Forward | 价格: $2.99 | 类别: Games
+2026-03-28 19:17:36,871 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:39,536 [INFO] [8243/8372] 处理: Zen Word® - Relax Puzzle Game (id=1660171117)
+2026-03-28 19:17:39,617 [INFO]   ✓ Zen Word® - Relax Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:17:42,104 [INFO] [8244/8372] 处理: Words Explorer - Puzzle Search (id=6746753182)
+2026-03-28 19:17:42,196 [INFO]   ✓ Words Explorer - Puzzle Search | 价格: Free | 类别: Games
+2026-03-28 19:17:42,197 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:43,784 [INFO] [8245/8372] 处理: Associations - Colorwood Game (id=6749696890)
+2026-03-28 19:17:43,875 [INFO]   ✓ Associations - Colorwood Game | 价格: Free | 类别: Games
+2026-03-28 19:17:43,875 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:46,392 [INFO] [8246/8372] 处理: Profile Perfect (id=6759077038)
+2026-03-28 19:17:46,470 [INFO]   ✓ Profile Perfect | 价格: Free | 类别: Games
+2026-03-28 19:17:46,471 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:48,485 [INFO] [8247/8372] 处理: Word Master (id=6739423612)
+2026-03-28 19:17:48,625 [INFO]   ✓ Word Master | 价格: Free | 类别: Games
+2026-03-28 19:17:48,625 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:50,828 [INFO] [8248/8372] 处理: Words of Wonders: Crossword (id=1369521645)
+2026-03-28 19:17:50,976 [INFO]   ✓ Words of Wonders: Crossword | 价格: Free | 类别: Games
+2026-03-28 19:17:50,976 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:52,549 [INFO] [8249/8372] 处理: Crostic Crossword－Word Puzzles (id=1636821805)
+2026-03-28 19:17:52,688 [INFO]   ✓ Crostic Crossword－Word Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:17:52,688 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:54,343 [INFO] [8250/8372] 处理: Braindom: Brain Games Test Out (id=1513009813)
+2026-03-28 19:17:54,488 [INFO]   ✓ Braindom: Brain Games Test Out | 价格: Free | 类别: Games
+2026-03-28 19:17:54,489 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:56,231 [INFO] [8251/8372] 处理: Serene Word Search (id=6737221366)
+2026-03-28 19:17:56,304 [INFO]   ✓ Serene Word Search | 价格: Free | 类别: Games
+2026-03-28 19:17:56,305 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:17:58,369 [INFO] [8252/8372] 处理: Word Connect Association (id=6747810901)
+2026-03-28 19:17:58,588 [INFO]   ✓ Word Connect Association | 价格: Free | 类别: Games
+2026-03-28 19:17:58,588 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:00,996 [INFO] [8253/8372] 处理: Word Search Solitaire (id=6740845687)
+2026-03-28 19:18:01,124 [INFO]   ✓ Word Search Solitaire | 价格: Free | 类别: Games
+2026-03-28 19:18:01,125 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:04,254 [INFO] [8254/8372] 处理: Bible Word Puzzle - Word Games (id=1342112505)
+2026-03-28 19:18:04,404 [INFO]   ✓ Bible Word Puzzle - Word Games | 价格: Free | 类别: Games
+2026-03-28 19:18:04,405 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:05,944 [INFO] [8255/8372] 处理: Cryptogram: Word Brain Puzzle (id=1644099880)
+2026-03-28 19:18:06,025 [INFO]   ✓ Cryptogram: Word Brain Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:18:06,025 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:09,182 [INFO] [8256/8372] 处理: Cryptogram: Logic Puzzle Game (id=6742755086)
+2026-03-28 19:18:09,329 [INFO]   ✓ Cryptogram: Logic Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:18:09,329 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:12,402 [INFO] [8257/8372] 处理: Wordscapes Search - Word game (id=1420294918)
+2026-03-28 19:18:12,546 [INFO]   ✓ Wordscapes Search - Word game | 价格: Free | 类别: Games
+2026-03-28 19:18:12,546 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:14,406 [INFO] [8258/8372] 处理: Where's My Seat?・Logic Puzzles (id=6756035115)
+2026-03-28 19:18:14,555 [INFO]   ✓ Where's My Seat?・Logic Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:18:14,555 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:16,191 [INFO] [8259/8372] 处理: Infinite Craft by Neal (id=6499235533)
+2026-03-28 19:18:16,331 [INFO]   ✓ Infinite Craft by Neal | 价格: Free | 类别: Games
+2026-03-28 19:18:16,331 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:19,129 [INFO] [8260/8372] 处理: Crostic Guru - Guess The Words (id=6744235731)
+2026-03-28 19:18:19,308 [INFO]   ✓ Crostic Guru - Guess The Words | 价格: Free | 类别: Games
+2026-03-28 19:18:19,308 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:22,709 [INFO] [8261/8372] 处理: Word Chain Puzzle (id=6736897776)
+2026-03-28 19:18:22,775 [INFO]   ✓ Word Chain Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:18:22,775 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:24,682 [INFO] [8262/8372] 处理: Word Trip - Word Puzzles Games (id=1214223596)
+2026-03-28 19:18:24,815 [INFO]   ✓ Word Trip - Word Puzzles Games | 价格: Free | 类别: Games
+2026-03-28 19:18:24,815 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:28,290 [INFO] [8263/8372] 处理: Connect Word Association Game (id=6692629257)
+2026-03-28 19:18:28,434 [INFO]   ✓ Connect Word Association Game | 价格: Free | 类别: Games
+2026-03-28 19:18:28,434 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:31,504 [INFO] [8264/8372] 处理: Word Seekers (id=6446890132)
+2026-03-28 19:18:31,723 [INFO]   ✓ Word Seekers | 价格: Free | 类别: Games
+2026-03-28 19:18:31,723 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:34,890 [INFO] [8265/8372] 处理: Word Search Journey - Puzzle (id=1549726220)
+2026-03-28 19:18:34,961 [INFO]   ✓ Word Search Journey - Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:18:34,961 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:36,826 [INFO] [8266/8372] 处理: WordsSoup - Word Search Puzzle (id=1581677528)
+2026-03-28 19:18:36,906 [INFO]   ✓ WordsSoup - Word Search Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:18:36,907 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:38,599 [INFO] [8267/8372] 处理: Riddle Test: Brain Teaser Game (id=1580064408)
+2026-03-28 19:18:38,677 [INFO]   ✓ Riddle Test: Brain Teaser Game | 价格: Free | 类别: Games
+2026-03-28 19:18:38,677 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:41,147 [INFO] [8268/8372] 处理: Imposter Game - BAM! (id=6751252728)
+2026-03-28 19:18:41,291 [INFO]   ✓ Imposter Game - BAM! | 价格: Free | 类别: Games
+2026-03-28 19:18:41,291 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:44,206 [INFO] [8269/8372] 处理: Easy Words - Word Puzzle Games (id=6612024746)
+2026-03-28 19:18:44,279 [INFO]   ✓ Easy Words - Word Puzzle Games | 价格: Free | 类别: Games
+2026-03-28 19:18:44,280 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:46,127 [INFO] [8270/8372] 处理: Bubble Word Jam (id=6754839783)
+2026-03-28 19:18:46,208 [INFO]   ✓ Bubble Word Jam | 价格: Free | 类别: Games
+2026-03-28 19:18:46,208 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:47,749 [INFO] [8271/8372] 处理: Word Groups: Match & Sort (id=6759798103)
+2026-03-28 19:18:47,827 [INFO]   ✓ Word Groups: Match & Sort | 价格: Free | 类别: Games
+2026-03-28 19:18:47,827 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:50,135 [INFO] [8272/8372] 处理: Crozzle - Crossword Puzzles (id=6474729809)
+2026-03-28 19:18:50,212 [INFO]   ✓ Crozzle - Crossword Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:18:50,212 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:52,583 [INFO] [8273/8372] 处理: Connect Words - Puzzle Game (id=6476164708)
+2026-03-28 19:18:52,719 [INFO]   ✓ Connect Words - Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:18:52,720 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:54,266 [INFO] [8274/8372] 处理: Word Maker - Puzzle Game (id=1598506904)
+2026-03-28 19:18:54,407 [INFO]   ✓ Word Maker - Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:18:54,408 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:55,980 [INFO] [8275/8372] 处理: Word Guess - Word Games (id=1603978681)
+2026-03-28 19:18:56,160 [INFO]   ✓ Word Guess - Word Games | 价格: Free | 类别: Games
+2026-03-28 19:18:56,160 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:18:59,265 [INFO] [8276/8372] 处理: كلمات كراش : لعبة تسلية و تحدي (id=1306947001)
+2026-03-28 19:18:59,404 [INFO]   ✓ كلمات كراش : لعبة تسلية و تحدي | 价格: Free | 类别: Games
+2026-03-28 19:18:59,404 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:01,844 [INFO] [8277/8372] 处理: Wordscapes Solitaire Word Game (id=6452119853)
+2026-03-28 19:19:01,924 [INFO]   ✓ Wordscapes Solitaire Word Game | 价格: Free | 类别: Games
+2026-03-28 19:19:01,924 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:05,206 [INFO] [8278/8372] 处理: Word Spells: Game for Adults (id=1542930270)
+2026-03-28 19:19:05,348 [INFO]   ✓ Word Spells: Game for Adults | 价格: Free | 类别: Games
+2026-03-28 19:19:05,348 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:08,587 [INFO] [8279/8372] 处理: Mix Solitaire: Word&Pic (id=6756719766)
+2026-03-28 19:19:08,684 [INFO]   ✓ Mix Solitaire: Word&Pic | 价格: Free | 类别: Games
+2026-03-28 19:19:08,684 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:11,549 [INFO] [8280/8372] 处理: Snappy Word Search (id=1143681780)
+2026-03-28 19:19:11,701 [INFO]   ✓ Snappy Word Search | 价格: Free | 类别: Games
+2026-03-28 19:19:11,701 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:14,598 [INFO] [8281/8372] 处理: Crossword Explorer (id=1512407890)
+2026-03-28 19:19:14,732 [INFO]   ✓ Crossword Explorer | 价格: Free | 类别: Games
+2026-03-28 19:19:14,732 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:18,123 [INFO] [8282/8372] 处理: Brain Who? Tricky Riddle Tests (id=1526842079)
+2026-03-28 19:19:18,273 [INFO]   ✓ Brain Who? Tricky Riddle Tests | 价格: Free | 类别: Games
+2026-03-28 19:19:18,273 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:21,648 [INFO] [8283/8372] 处理: Boggle With Friends: Word Game (id=1197041040)
+2026-03-28 19:19:21,718 [INFO]   ✓ Boggle With Friends: Word Game | 价格: Free | 类别: Games
+2026-03-28 19:19:21,718 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:23,878 [INFO] [8284/8372] 处理: Imposter Game: Spark PartyPass (id=6755589571)
+2026-03-28 19:19:23,954 [INFO]   ✓ Imposter Game: Spark PartyPass | 价格: Free | 类别: Games
+2026-03-28 19:19:23,955 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:25,718 [INFO] [8285/8372] 处理: Word Tour - word puzzle (id=6599847974)
+2026-03-28 19:19:25,856 [INFO]   ✓ Word Tour - word puzzle | 价格: Free | 类别: Games
+2026-03-28 19:19:25,856 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:28,589 [INFO] [8286/8372] 处理: Netflix Puzzled: Brain puzzles (id=6742752351)
+2026-03-28 19:19:28,720 [INFO]   ✓ Netflix Puzzled: Brain puzzles | 价格: Free | 类别: Games
+2026-03-28 19:19:28,721 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:31,417 [INFO] [8287/8372] 处理: Word MindSort: Solitaire (id=6754582928)
+2026-03-28 19:19:31,586 [INFO]   ✓ Word MindSort: Solitaire | 价格: Free | 类别: Games
+2026-03-28 19:19:31,586 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:33,793 [INFO] [8288/8372] 处理: Word Connect ¤ (id=1226926872)
+2026-03-28 19:19:33,876 [INFO]   ✓ Word Connect ¤ | 价格: Free | 类别: Games
+2026-03-28 19:19:33,876 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:35,479 [INFO] [8289/8372] 处理: Truth Or Drink Dirty Questions (id=1217017696)
+2026-03-28 19:19:35,625 [INFO]   ✓ Truth Or Drink Dirty Questions | 价格: Free | 类别: Games
+2026-03-28 19:19:35,625 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:38,881 [INFO] [8290/8372] 处理: Crossword Search: Word Puzzles (id=6714459074)
+2026-03-28 19:19:38,972 [INFO]   ✓ Crossword Search: Word Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:19:38,972 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:40,562 [INFO] [8291/8372] 处理: Word Search Pro‧ (id=1123930673)
+2026-03-28 19:19:40,649 [INFO]   ✓ Word Search Pro‧ | 价格: Free | 类别: Games
+2026-03-28 19:19:40,649 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:43,792 [INFO] [8292/8372] 处理: Hexa Words: Match Associations (id=6753587430)
+2026-03-28 19:19:43,880 [INFO]   ✓ Hexa Words: Match Associations | 价格: Free | 类别: Games
+2026-03-28 19:19:43,881 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:45,468 [INFO] [8293/8372] 处理: TDZ Pro (id=6756714377)
+2026-03-28 19:19:45,545 [INFO]   ✓ TDZ Pro | 价格: Free | 类别: Games
+2026-03-28 19:19:45,545 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:47,963 [INFO] [8294/8372] 处理: Word Search · (id=1357802596)
+2026-03-28 19:19:48,039 [INFO]   ✓ Word Search · | 价格: Free | 类别: Games
+2026-03-28 19:19:48,039 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:50,808 [INFO] [8295/8372] 处理: Solitaire Word Match (id=6757349076)
+2026-03-28 19:19:50,916 [INFO]   ✓ Solitaire Word Match | 价格: Free | 类别: Games
+2026-03-28 19:19:50,916 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:54,383 [INFO] [8296/8372] 处理: Word Salad: a daily puzzle (id=6475351623)
+2026-03-28 19:19:54,520 [INFO]   ✓ Word Salad: a daily puzzle | 价格: Free | 类别: Games
+2026-03-28 19:19:54,520 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:56,570 [INFO] [8297/8372] 处理: Draw N Guess Multiplayer (id=532137502)
+2026-03-28 19:19:56,647 [INFO]   ✓ Draw N Guess Multiplayer | 价格: Free | 类别: Games
+2026-03-28 19:19:56,647 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:19:59,070 [INFO] [8298/8372] 处理: Crossword Jam: Fun Word Search (id=1269540854)
+2026-03-28 19:19:59,191 [INFO]   ✓ Crossword Jam: Fun Word Search | 价格: Free | 类别: Games
+2026-03-28 19:19:59,191 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:02,086 [INFO] [8299/8372] 处理: Minute Cryptic (id=6735268899)
+2026-03-28 19:20:02,169 [INFO]   ✓ Minute Cryptic | 价格: Free | 类别: Games
+2026-03-28 19:20:02,169 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:04,237 [INFO] [8300/8372] 处理: Word Collect : Word Search (id=1299956969)
+2026-03-28 19:20:04,308 [INFO]   ✓ Word Collect : Word Search | 价格: Free | 类别: Games
+2026-03-28 19:20:04,309 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:06,223 [INFO] [8301/8372] 处理: Word Crossy - A Crossword game (id=1273162445)
+2026-03-28 19:20:06,313 [INFO]   ✓ Word Crossy - A Crossword game | 价格: Free | 类别: Games
+2026-03-28 19:20:06,313 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:09,183 [INFO] [8302/8372] 处理: Word Crush® - Fun Puzzle Game (id=1446728841)
+2026-03-28 19:20:09,257 [INFO]   ✓ Word Crush® - Fun Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:20:09,258 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:10,814 [INFO] [8303/8372] 处理: Words Klondike : Associations (id=6754153799)
+2026-03-28 19:20:10,887 [INFO]   ✓ Words Klondike : Associations | 价格: Free | 类别: Games
+2026-03-28 19:20:10,887 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:12,765 [INFO] [8304/8372] 处理: Puzzle Page - Daily Games! (id=1308181322)
+2026-03-28 19:20:12,839 [INFO]   ✓ Puzzle Page - Daily Games! | 价格: Free | 类别: Games
+2026-03-28 19:20:12,840 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:15,024 [INFO] [8305/8372] 处理: Word Roll - Fun Word Game (id=1563215345)
+2026-03-28 19:20:15,111 [INFO]   ✓ Word Roll - Fun Word Game | 价格: Free | 类别: Games
+2026-03-28 19:20:15,112 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:18,116 [INFO] [8306/8372] 处理: Wordzee! - Puzzle Word Game (id=1482382774)
+2026-03-28 19:20:18,194 [INFO]   ✓ Wordzee! - Puzzle Word Game | 价格: Free | 类别: Games
+2026-03-28 19:20:18,194 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:21,299 [INFO] [8307/8372] 处理: Imposters Game — Bluffit (id=6755478234)
+2026-03-28 19:20:21,455 [INFO]   ✓ Imposters Game — Bluffit | 价格: Free | 类别: Games
+2026-03-28 19:20:21,455 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:24,583 [INFO] [8308/8372] 处理: Ruzzle (id=504265646)
+2026-03-28 19:20:24,726 [INFO]   ✓ Ruzzle | 价格: Free | 类别: Games
+2026-03-28 19:20:24,726 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:26,434 [INFO] [8309/8372] 处理: Word Stacks (id=1413942319)
+2026-03-28 19:20:26,563 [INFO]   ✓ Word Stacks | 价格: Free | 类别: Games
+2026-03-28 19:20:26,563 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:28,743 [INFO] [8310/8372] 处理: Coastal Dreams-Online Fiction (id=6733229458)
+2026-03-28 19:20:28,815 [INFO]   ✓ Coastal Dreams-Online Fiction | 价格: Free | 类别: Games
+2026-03-28 19:20:28,815 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:31,717 [INFO] [8311/8372] 处理: Kryss - The Battle of Words (id=1386727308)
+2026-03-28 19:20:31,876 [INFO]   ✓ Kryss - The Battle of Words | 价格: Free | 类别: Games
+2026-03-28 19:20:31,876 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:34,157 [INFO] [8312/8372] 处理: Word Wars - Word Game (id=1245525899)
+2026-03-28 19:20:34,233 [INFO]   ✓ Word Wars - Word Game | 价格: Free | 类别: Games
+2026-03-28 19:20:34,234 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:36,186 [INFO] [8313/8372] 处理: Crossword - Word Hike (id=1633021483)
+2026-03-28 19:20:36,269 [INFO]   ✓ Crossword - Word Hike | 价格: Free | 类别: Games
+2026-03-28 19:20:36,269 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:38,409 [INFO] [8314/8372] 处理: 5 Second Rule - Group Games (id=1441645718)
+2026-03-28 19:20:38,481 [INFO]   ✓ 5 Second Rule - Group Games | 价格: Free | 类别: Games
+2026-03-28 19:20:38,482 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:41,802 [INFO] [8315/8372] 处理: TaleTrail-Story Stream (id=6720741253)
+2026-03-28 19:20:41,939 [INFO]   ✓ TaleTrail-Story Stream | 价格: Free | 类别: Games
+2026-03-28 19:20:41,939 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:44,363 [INFO] [8316/8372] 处理: Word Chums! (id=517840944)
+2026-03-28 19:20:44,456 [INFO]   ✓ Word Chums! | 价格: Free | 类别: Games
+2026-03-28 19:20:44,457 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:46,685 [INFO] [8317/8372] 处理: Fillwords: Word Search Puzzle (id=1197961218)
+2026-03-28 19:20:46,846 [INFO]   ✓ Fillwords: Word Search Puzzle | 价格: Free | 类别: Games
+2026-03-28 19:20:46,846 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:49,800 [INFO] [8318/8372] 处理: Family Tree! - Logic Puzzles (id=6453159988)
+2026-03-28 19:20:49,874 [INFO]   ✓ Family Tree! - Logic Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:20:49,874 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:52,412 [INFO] [8319/8372] 处理: Word Yatzy - Fun Word Puzzler (id=6444775332)
+2026-03-28 19:20:52,483 [INFO]   ✓ Word Yatzy - Fun Word Puzzler | 价格: Free | 类别: Games
+2026-03-28 19:20:52,483 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:53,997 [INFO] [8320/8372] 处理: Clue Master - Logic Puzzles (id=6608973267)
+2026-03-28 19:20:54,090 [INFO]   ✓ Clue Master - Logic Puzzles | 价格: Free | 类别: Games
+2026-03-28 19:20:54,090 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:56,070 [INFO] [8321/8372] 处理: Otium Word: Relax Puzzle Game (id=6479394113)
+2026-03-28 19:20:56,154 [INFO]   ✓ Otium Word: Relax Puzzle Game | 价格: Free | 类别: Games
+2026-03-28 19:20:56,154 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:20:58,613 [INFO] [8322/8372] 处理: Never Ever: Dirty & Evil (id=1390646086)
+2026-03-28 19:20:58,692 [INFO]   ✓ Never Ever: Dirty & Evil | 价格: Free | 类别: Games
+2026-03-28 19:20:58,692 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:01,604 [INFO] [8323/8372] 处理: Vegas Downtown Slots & Words (id=975035622)
+2026-03-28 19:21:01,689 [INFO]   ✓ Vegas Downtown Slots & Words | 价格: Free | 类别: Games
+2026-03-28 19:21:01,689 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:03,286 [INFO] [8324/8372] 处理: Connections Word Game (id=6479947010)
+2026-03-28 19:21:03,441 [INFO]   ✓ Connections Word Game | 价格: Free | 类别: Games
+2026-03-28 19:21:03,441 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:05,356 [INFO] [8325/8372] 处理: Word Merge: Categories (id=6745254229)
+2026-03-28 19:21:05,434 [INFO]   ✓ Word Merge: Categories | 价格: Free | 类别: Games
+2026-03-28 19:21:05,434 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:07,994 [INFO] [8326/8372] 处理: Wordscapes In Bloom (id=1313561414)
+2026-03-28 19:21:08,065 [INFO]   ✓ Wordscapes In Bloom | 价格: Free | 类别: Games
+2026-03-28 19:21:08,065 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:10,547 [INFO] [8327/8372] 处理: WordBrain: classic word puzzle (id=708600202)
+2026-03-28 19:21:10,702 [INFO]   ✓ WordBrain: classic word puzzle | 价格: Free | 类别: Games
+2026-03-28 19:21:10,703 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:12,735 [INFO] [8328/8372] 处理: DeerFiction-Web Stories&Novels (id=6450500130)
+2026-03-28 19:21:12,805 [INFO]   ✓ DeerFiction-Web Stories&Novels | 价格: Free | 类别: Games
+2026-03-28 19:21:12,805 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:15,263 [INFO] [8329/8372] 处理: 7 Little Words and More (id=431434152)
+2026-03-28 19:21:15,631 [INFO]   ✓ 7 Little Words and More | 价格: Free | 类别: Games
+2026-03-28 19:21:15,631 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:17,506 [INFO] [8330/8372] 处理: Wordscapes Uncrossed (id=1302451299)
+2026-03-28 19:21:17,579 [INFO]   ✓ Wordscapes Uncrossed | 价格: Free | 类别: Games
+2026-03-28 19:21:17,580 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:20,198 [INFO] [8331/8372] 处理: Word Bliss - from PlaySimple (id=1465591510)
+2026-03-28 19:21:20,287 [INFO]   ✓ Word Bliss - from PlaySimple | 价格: Free | 类别: Games
+2026-03-28 19:21:20,287 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:21,857 [INFO] [8332/8372] 处理: RESIDENT EVIL 7 biohazard (id=1640629241)
+2026-03-28 19:21:21,945 [INFO]   ✓ RESIDENT EVIL 7 biohazard | 价格: Free | 类别: Games
+2026-03-28 19:21:21,945 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:23,959 [INFO] [8333/8372] 处理: Resident Evil Village (id=6450980545)
+2026-03-28 19:21:24,050 [INFO]   ✓ Resident Evil Village | 价格: Free | 类别: Games
+2026-03-28 19:21:24,051 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:26,521 [INFO] [8334/8372] 处理: Resident Evil 4 (id=6462360082)
+2026-03-28 19:21:26,594 [INFO]   ✓ Resident Evil 4 | 价格: Free | 类别: Games
+2026-03-28 19:21:26,594 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:30,059 [INFO] [8335/8372] 处理: GHOST TRICK (id=6473715300)
+2026-03-28 19:21:30,204 [INFO]   ✓ GHOST TRICK | 价格: Free | 类别: Games
+2026-03-28 19:21:30,204 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:33,527 [INFO] [8336/8372] 处理: My Arcade Center (id=6449451200)
+2026-03-28 19:21:33,666 [INFO]   ✓ My Arcade Center | 价格: Free | 类别: Games
+2026-03-28 19:21:33,666 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:36,678 [INFO] [8337/8372] 处理: Apollo Justice Ace Attorney (id=1136993233)
+2026-03-28 19:21:36,808 [INFO]   ✓ Apollo Justice Ace Attorney | 价格: $0.99 | 类别: Games
+2026-03-28 19:21:40,222 [INFO]   [网页] 找到 5 个内购项目
+2026-03-28 19:21:40,224 [INFO]   ✓ 内购: 5 项
+2026-03-28 19:21:40,224 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:43,603 [INFO] [8338/8372] 处理: MHRise Companion (id=1560917688)
+2026-03-28 19:21:43,752 [INFO]   ✓ MHRise Companion | 价格: Free | 类别: Utilities
+2026-03-28 19:21:43,752 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:46,390 [INFO] [8339/8372] 处理: FINAL FANTASY DIMENSIONS (id=540992837)
+2026-03-28 19:21:46,456 [INFO]   ✓ FINAL FANTASY DIMENSIONS | 价格: Free | 类别: Games
+2026-03-28 19:21:46,456 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:48,002 [INFO] [8340/8372] 处理: OCTOPATH TRAVELER: CotC (id=6453476038)
+2026-03-28 19:21:48,075 [INFO]   ✓ OCTOPATH TRAVELER: CotC | 价格: Free | 类别: Games
+2026-03-28 19:21:48,076 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:51,145 [INFO] [8341/8372] 处理: FINAL FANTASY III (3D REMAKE) (id=424591347)
+2026-03-28 19:21:51,218 [INFO]   ✓ FINAL FANTASY III (3D REMAKE) | 价格: $14.99 | 类别: Games
+2026-03-28 19:21:55,016 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:21:56,969 [INFO] [8342/8372] 处理: FINAL FANTASY IV (id=1492041417)
+2026-03-28 19:21:57,052 [INFO]   ✓ FINAL FANTASY IV | 价格: $14.99 | 类别: Games
+2026-03-28 19:22:00,247 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:02,181 [INFO] [8343/8372] 处理: Punishing: Gray Raven (id=1571685286)
+2026-03-28 19:22:02,318 [INFO]   ✓ Punishing: Gray Raven | 价格: Free | 类别: Games
+2026-03-28 19:22:02,318 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:04,943 [INFO] [8344/8372] 处理: Sonic Dash+ (id=1608888053)
+2026-03-28 19:22:05,087 [INFO]   ✓ Sonic Dash+ | 价格: Free | 类别: Games
+2026-03-28 19:22:05,087 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:06,880 [INFO] [8345/8372] 处理: Plants vs. Zombies™ Heroes (id=1000876192)
+2026-03-28 19:22:07,012 [INFO]   ✓ Plants vs. Zombies™ Heroes | 价格: Free | 类别: Games
+2026-03-28 19:22:07,012 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:09,765 [INFO] [8346/8372] 处理: Assassin’s Creed Rebellion (id=1164056434)
+2026-03-28 19:22:09,844 [INFO]   ✓ Assassin’s Creed Rebellion | 价格: Free | 类别: Games
+2026-03-28 19:22:09,844 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:12,708 [INFO] [8347/8372] 处理: Brawlhalla (id=1491520571)
+2026-03-28 19:22:12,858 [INFO]   ✓ Brawlhalla | 价格: Free | 类别: Games
+2026-03-28 19:22:12,858 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:16,226 [INFO] [8348/8372] 处理: Street Fighter IV CE NETFLIX (id=6473451387)
+2026-03-28 19:22:16,358 [INFO]   ✓ Street Fighter IV CE NETFLIX | 价格: Free | 类别: Games
+2026-03-28 19:22:16,359 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:19,480 [INFO] [8349/8372] 处理: Squad Busters (id=1668983788)
+2026-03-28 19:22:19,562 [INFO]   ✓ Squad Busters | 价格: Free | 类别: Games
+2026-03-28 19:22:19,562 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:21,585 [INFO] [8350/8372] 处理: Honkai Impact 3rd (id=1336342304)
+2026-03-28 19:22:21,732 [INFO]   ✓ Honkai Impact 3rd | 价格: Free | 类别: Games
+2026-03-28 19:22:21,732 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:25,006 [INFO] [8351/8372] 处理: TFT: Teamfight Tactics (id=1480616748)
+2026-03-28 19:22:25,088 [INFO]   ✓ TFT: Teamfight Tactics | 价格: Free | 类别: Games
+2026-03-28 19:22:25,088 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:26,767 [INFO] [8352/8372] 处理: Sid Meier's Civilization® VI (id=1235863443)
+2026-03-28 19:22:26,847 [INFO]   ✓ Sid Meier's Civilization® VI | 价格: Free | 类别: Games
+2026-03-28 19:22:28,389 [INFO] [8353/8372] 处理: The Elder Scrolls: Blades (id=1358476597)
+2026-03-28 19:22:28,514 [WARNING]   ⚠ 获取失败，跳过
+2026-03-28 19:22:30,470 [INFO] [8354/8372] 处理: Guide for Hollow Knight (id=1326686758)
+2026-03-28 19:22:30,605 [INFO]   ✓ Guide for Hollow Knight | 价格: Free | 类别: Reference
+2026-03-28 19:22:30,606 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:33,101 [INFO] [8355/8372] 处理: Bloons TD Battles 2 (id=1540061397)
+2026-03-28 19:22:33,262 [INFO]   ✓ Bloons TD Battles 2 | 价格: Free | 类别: Games
+2026-03-28 19:22:33,262 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:36,522 [INFO] [8356/8372] 处理: Blue Archive (id=1571873795)
+2026-03-28 19:22:36,657 [INFO]   ✓ Blue Archive | 价格: Free | 类别: Games
+2026-03-28 19:22:36,658 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:38,680 [INFO] [8357/8372] 处理: The Room Pocket (id=573156739)
+2026-03-28 19:22:38,814 [INFO]   ✓ The Room Pocket | 价格: Free | 类别: Games
+2026-03-28 19:22:38,814 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:41,505 [INFO] [8358/8372] 处理: The Battle of Polytopia (id=1006393168)
+2026-03-28 19:22:41,602 [INFO]   ✓ The Battle of Polytopia | 价格: Free | 类别: Games
+2026-03-28 19:22:41,603 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:44,143 [INFO] [8359/8372] 处理: Bear - Markdown Notes (id=1016366447)
+2026-03-28 19:22:44,228 [INFO]   ✓ Bear - Markdown Notes | 价格: Free | 类别: Productivity
+2026-03-28 19:22:44,228 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:46,126 [INFO] [8360/8372] 处理: Goodnotes: AI Notes, Docs, PDF (id=1444383602)
+2026-03-28 19:22:46,284 [INFO]   ✓ Goodnotes: AI Notes, Docs, PDF | 价格: Free | 类别: Productivity
+2026-03-28 19:22:48,166 [INFO] [8361/8372] 处理: OmniFocus 4 (id=1542143627)
+2026-03-28 19:22:48,310 [INFO]   ✓ OmniFocus 4 | 价格: Free | 类别: Productivity
+2026-03-28 19:22:51,236 [INFO] [8362/8372] 处理: Drafts (id=1236254471)
+2026-03-28 19:22:51,395 [INFO]   ✓ Drafts | 价格: Free | 类别: Productivity
+2026-03-28 19:22:51,395 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:54,107 [INFO] [8363/8372] 处理: Fantastical Calendar (id=718043190)
+2026-03-28 19:22:54,261 [INFO]   ✓ Fantastical Calendar | 价格: Free | 类别: Productivity
+2026-03-28 19:22:57,284 [INFO] [8364/8372] 处理: Darkroom: Photo & Video Editor (id=953286746)
+2026-03-28 19:22:57,361 [INFO]   ✓ Darkroom: Photo & Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-28 19:22:57,361 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:22:59,526 [INFO] [8365/8372] 处理: Camera+: Pro Camera & Editor (id=1313580627)
+2026-03-28 19:22:59,604 [INFO]   ✓ Camera+: Pro Camera & Editor | 价格: Free | 类别: Photo & Video
+2026-03-28 19:22:59,604 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:02,810 [INFO] [8366/8372] 处理: ProCamera. Professional Camera (id=694647259)
+2026-03-28 19:23:02,908 [INFO]   ✓ ProCamera. Professional Camera | 价格: Free | 类别: Photo & Video
+2026-03-28 19:23:02,908 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:05,056 [INFO] [8367/8372] 处理: GarageBand (id=408709785)
+2026-03-28 19:23:05,141 [INFO]   ✓ GarageBand | 价格: Free | 类别: Music
+2026-03-28 19:23:05,141 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:07,231 [INFO] [8368/8372] 处理: Craft: Notes, Documents, AI (id=1487937127)
+2026-03-28 19:23:07,381 [INFO]   ✓ Craft: Notes, Documents, AI | 价格: Free | 类别: Productivity
+2026-03-28 19:23:07,381 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:10,395 [INFO] [8369/8372] 处理: Obsidian - Connected Notes (id=1557175442)
+2026-03-28 19:23:10,475 [INFO]   ✓ Obsidian - Connected Notes | 价格: Free | 类别: Productivity
+2026-03-28 19:23:10,476 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:13,357 [INFO] [8370/8372] 处理: Instapaper (id=288545208)
+2026-03-28 19:23:13,498 [INFO]   ✓ Instapaper | 价格: Free | 类别: News
+2026-03-28 19:23:13,498 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:16,854 [INFO] [8371/8372] 处理: Logic Remote (id=638394624)
+2026-03-28 19:23:16,999 [INFO]   ✓ Logic Remote | 价格: Free | 类别: Music
+2026-03-28 19:23:17,000 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:20,401 [INFO] [8372/8372] 处理: Feeddler RSS News Reader (id=364873582)
+2026-03-28 19:23:20,547 [INFO]   ✓ Feeddler RSS News Reader | 价格: Free | 类别: News
+2026-03-28 19:23:20,547 [INFO]   ℹ 首次记录，无历史价格可比对
+2026-03-28 19:23:22,601 [INFO] 历史价格已保存: 8869 条记录（本次新增/更新: 371）
+2026-03-28 19:23:22,601 [INFO] ✅ 完成一轮完整扫描，下次从头开始
+2026-03-28 19:23:22,688 [INFO] HTML 已生成: index.html (8869 个 App)
+2026-03-28 19:23:22,691 [INFO] ============================================================
+2026-03-28 19:23:22,691 [INFO] 运行完成 | 成功: 371 | 失败: 1 | 降价: 0 项
+2026-03-28 19:23:22,691 [INFO] ============================================================
