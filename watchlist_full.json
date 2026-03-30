@@ -3,9 +3,19 @@
     "country": "us",
     "fetch_iap": true,
     "last_updated": "2026-03-27",
-    "note": "US-only watchlist. RSS: 8331, Search: 132. Total: 8372"
+    "note": "US-only watchlist. RSS: 8331, Search: 134. Total: 8374"
   },
   "apps": [
+    {
+      "id": "1640632432",
+      "name": "RESIDENT EVIL 2",
+      "category": "Games"
+    },
+    {
+      "id": "1640630077",
+      "name": "RESIDENT EVIL 3",
+      "category": "Games"
+    },
     {
       "id": "479516143",
       "name": "Minecraft: Dream it, Build it!",
