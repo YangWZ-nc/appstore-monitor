@@ -231,6 +231,33 @@ def fetch_iap_from_webpage(app_id: str, country: str = "us") -> list[dict]:
 # 价格比对
 # ─────────────────────────────────────────────
 
+def merge_iap_with_history(current_iap: list[dict], prev_iap: list[dict]) -> list[dict]:
+    """
+    将当前内购列表与历史记录合并，保留每个项目的历史最高价（original_price）。
+    original_price = 历史上见过的最高价，用于展示折扣力度。
+    """
+    # 构建历史记录映射：name -> {price, original_price}
+    prev_map = {item["name"]: item for item in prev_iap}
+
+    merged = []
+    for item in current_iap:
+        name  = item["name"]
+        price = item["price"]
+        prev  = prev_map.get(name, {})
+
+        # original_price = max(历史original_price, 历史price, 当前price)
+        prev_original = prev.get("original_price", prev.get("price", price))
+        original_price = max(prev_original, price)
+
+        merged.append({
+            "name":           name,
+            "price":          price,
+            "original_price": round(original_price, 2),
+        })
+
+    return merged
+
+
 def compare_prices(current: dict, previous: dict) -> list[dict]:
     """
     比对当前和历史价格，返回降价列表。
@@ -258,21 +285,22 @@ def compare_prices(current: dict, previous: dict) -> list[dict]:
                 "drop":      round(old_price - new_price, 2),
             })
 
-    # 内购价格
-    old_iap_map = {item["name"]: item["price"] for item in previous.get("iap", [])}
+    # 内购价格：与历史 original_price 比对，才能反映真实折扣
+    prev_iap_map = {item["name"]: item for item in previous.get("iap", [])}
     for item in current.get("iap", []):
         iap_name  = item["name"]
         iap_price = item["price"]
-        if iap_name in old_iap_map:
-            old_iap_price = old_iap_map[iap_name]
-            if iap_price < old_iap_price and old_iap_price > 0:
-                drops.append({
-                    "type":      "iap",
-                    "name":      iap_name,
-                    "old_price": old_iap_price,
-                    "new_price": iap_price,
-                    "drop":      round(old_iap_price - iap_price, 2),
-                })
+        prev_item = prev_iap_map.get(iap_name, {})
+        # 用 original_price 作为参考原价（如无则用历史 price）
+        ref_price = prev_item.get("original_price", prev_item.get("price", None))
+        if ref_price is not None and iap_price < ref_price and ref_price > 0:
+            drops.append({
+                "type":      "iap",
+                "name":      iap_name,
+                "old_price": ref_price,
+                "new_price": iap_price,
+                "drop":      round(ref_price - iap_price, 2),
+            })
 
     return drops
 
@@ -368,21 +396,53 @@ def generate_html(all_data: dict):
 
         iap_html = ""
         if iap_list:
-            iap_items = "".join(
-                f'<li><span class="iap-name">{item["name"]}</span>'
-                f'<span class="iap-price">${item["price"]:.2f}</span></li>'
-                for item in iap_list[:10]
-            )
+            iap_items = ""
+            has_discount = False
+            for item in iap_list[:10]:
+                cur_price  = item["price"]
+                orig_price = item.get("original_price", cur_price)
+                disc_pct   = 0
+                if orig_price > cur_price and orig_price > 0:
+                    disc_pct = round((orig_price - cur_price) / orig_price * 100)
+                    has_discount = True
+
+                if disc_pct > 0:
+                    iap_items += (
+                        f'<li>'
+                        f'<span class="iap-name">{item["name"]}</span>'
+                        f'<span class="iap-prices">'
+                        f'<span class="iap-orig">${orig_price:.2f}</span>'
+                        f'<span class="iap-price disc">${cur_price:.2f}</span>'
+                        f'<span class="disc-badge">-{disc_pct}%</span>'
+                        f'</span>'
+                        f'</li>'
+                    )
+                else:
+                    iap_items += (
+                        f'<li>'
+                        f'<span class="iap-name">{item["name"]}</span>'
+                        f'<span class="iap-prices">'
+                        f'<span class="iap-price">${cur_price:.2f}</span>'
+                        f'</span>'
+                        f'</li>'
+                    )
+
+            disc_label = ' 🔥 有折扣' if has_discount else ''
             iap_html = f'''
-            <details class="iap-section">
-                <summary>🎁 内购 {len(iap_list)} 项</summary>
+            <div class="iap-section">
+                <div class="iap-header">🎁 内购 {len(iap_list)} 项{disc_label}</div>
                 <ul class="iap-list">{iap_items}</ul>
-            </details>'''
+            </div>'''
+
+        has_iap_discount = any(
+            item.get("original_price", item["price"]) > item["price"]
+            for item in iap_list
+        ) if iap_list else False
 
         icon_html = f'<img src="{icon}" alt="{name}" class="app-icon" loading="lazy">' if icon else '<div class="app-icon-placeholder">📱</div>'
 
         cards_html += f'''
-        <div class="app-card" data-price="{price}" data-name="{name.lower()}">
+        <div class="app-card" data-price="{price}" data-name="{name.lower()}" data-hasiap="{"1" if iap_list else "0"}" data-discount="{"1" if has_iap_discount else "0"}">
             <a href="{url}" target="_blank" class="card-link">
                 <div class="card-header">
                     {icon_html}
@@ -554,26 +614,22 @@ def generate_html(all_data: dict):
         }}
         .iap-section {{
             border-top: 1px solid var(--border);
-            padding: 0 16px;
+            padding: 10px 16px 12px;
         }}
-        .iap-section summary {{
-            padding: 10px 0;
-            cursor: pointer;
+        .iap-header {{
             font-size: 0.82rem;
             color: var(--muted);
-            user-select: none;
-            list-style: none;
+            margin-bottom: 8px;
+            font-weight: 600;
         }}
-        .iap-section summary:hover {{ color: var(--text); }}
         .iap-list {{
             list-style: none;
-            padding-bottom: 12px;
         }}
         .iap-list li {{
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 4px 0;
+            padding: 5px 0;
             font-size: 0.82rem;
             border-bottom: 1px solid var(--border);
         }}
@@ -583,13 +639,36 @@ def generate_html(all_data: dict):
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
-            max-width: 200px;
+            max-width: 170px;
+            flex: 1;
+        }}
+        .iap-prices {{
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-shrink: 0;
+            margin-left: 8px;
         }}
         .iap-price {{
             color: var(--green);
             font-weight: 600;
-            flex-shrink: 0;
-            margin-left: 8px;
+        }}
+        .iap-price.disc {{
+            color: #ff453a;
+        }}
+        .iap-orig {{
+            color: var(--muted);
+            text-decoration: line-through;
+            font-size: 0.76rem;
+        }}
+        .disc-badge {{
+            background: #ff453a;
+            color: #fff;
+            font-size: 0.7rem;
+            font-weight: 700;
+            padding: 1px 5px;
+            border-radius: 6px;
+            white-space: nowrap;
         }}
         footer {{
             text-align: center;
@@ -618,6 +697,7 @@ def generate_html(all_data: dict):
             <button class="filter-btn active" onclick="setFilter('all', this)">全部</button>
             <button class="filter-btn" onclick="setFilter('paid', this)">付费</button>
             <button class="filter-btn" onclick="setFilter('iap', this)">含内购</button>
+            <button class="filter-btn" onclick="setFilter('discount', this)">🔥 内购折扣</button>
             <button class="filter-btn" onclick="setFilter('free', this)">免费</button>
         </div>
     </header>
@@ -637,13 +717,15 @@ def generate_html(all_data: dict):
             const q = document.getElementById('search').value.toLowerCase();
             const cards = document.querySelectorAll('.app-card');
             cards.forEach(card => {{
-                const name = card.dataset.name || '';
-                const price = parseFloat(card.dataset.price || '0');
-                const hasIap = card.querySelector('.iap-section') !== null;
+                const name     = card.dataset.name     || '';
+                const price    = parseFloat(card.dataset.price    || '0');
+                const hasIap   = card.dataset.hasiap   === '1';
+                const hasDisc  = card.dataset.discount === '1';
                 let show = name.includes(q);
-                if (show && currentFilter === 'paid') show = price > 0;
-                if (show && currentFilter === 'free') show = price === 0;
-                if (show && currentFilter === 'iap')  show = hasIap;
+                if (show && currentFilter === 'paid')     show = price > 0;
+                if (show && currentFilter === 'free')     show = price === 0;
+                if (show && currentFilter === 'iap')      show = hasIap;
+                if (show && currentFilter === 'discount') show = hasDisc;
                 card.classList.toggle('hidden', !show);
             }});
         }}
@@ -785,8 +867,10 @@ def main():
                 should_fetch = info["price"] > 0 or len(prev_iap) > 0
                 if should_fetch:
                     time.sleep(random.uniform(*REQUEST_DELAY))
-                    iap = fetch_iap_from_webpage(app_id, country)
-                    if iap:
+                    iap_raw = fetch_iap_from_webpage(app_id, country)
+                    if iap_raw:
+                        # 合并历史，保留 original_price（历史最高价）
+                        iap = merge_iap_with_history(iap_raw, prev_iap)
                         logger.info(f"  ✓ 内购: {len(iap)} 项")
                     else:
                         # 保留上次的内购数据（防止暂时爬不到就清空）
