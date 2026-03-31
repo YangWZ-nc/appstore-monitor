@@ -42271,3 +42271,2208 @@
 2026-03-31 10:23:42,527 [INFO]   [iap] MyRallyCoach - All Access: $38.0 → $24.99
 2026-03-31 10:23:42,527 [INFO]   [app] Spider League: Arena - Spider League: Arena: $1.99 → $0.0
 2026-03-31 10:23:42,527 [INFO] ============================================================
+2026-03-31 11:11:39,644 [INFO] ============================================================
+2026-03-31 11:11:39,644 [INFO] App Store 价格监控 启动 - 2026-03-31 11:11:39
+2026-03-31 11:11:39,644 [INFO] ============================================================
+2026-03-31 11:11:39,656 [INFO] 监控列表: 共 8374 个 App，本次处理 [2001~3000]，批大小: 1000
+2026-03-31 11:11:39,656 [INFO] 国家: us，内购抓取: True
+2026-03-31 11:11:39,725 [INFO] [2001/8374] 处理: Voice Translator: AI Translate (id=1036725690)
+2026-03-31 11:11:39,975 [INFO]   ✓ Voice Translator: AI Translate | 价格: Free | 类别: Reference
+2026-03-31 11:11:42,630 [INFO] [2002/8374] 处理: MyHeritage: Family Tree & DNA (id=477971748)
+2026-03-31 11:11:42,725 [INFO]   ✓ MyHeritage: Family Tree & DNA | 价格: Free | 类别: Reference
+2026-03-31 11:11:44,789 [INFO] [2003/8374] 处理: Glorify: Devotional & Prayer (id=1490587079)
+2026-03-31 11:11:44,889 [INFO]   ✓ Glorify: Devotional & Prayer | 价格: Free | 类别: Reference
+2026-03-31 11:11:48,029 [INFO] [2004/8374] 处理: Translate: Voice & Text (id=1666080084)
+2026-03-31 11:11:48,171 [INFO]   ✓ Translate: Voice & Text | 价格: Free | 类别: Reference
+2026-03-31 11:11:50,427 [INFO] [2005/8374] 处理: ScanCoin: identify & check (id=6445847779)
+2026-03-31 11:11:50,577 [INFO]   ✓ ScanCoin: identify & check | 价格: Free | 类别: Reference
+2026-03-31 11:11:53,221 [INFO] [2006/8374] 处理: FancyNovel-eBooks&Webstories (id=6444688314)
+2026-03-31 11:11:53,379 [INFO]   ✓ FancyNovel-eBooks&Webstories | 价格: Free | 类别: Reference
+2026-03-31 11:11:56,858 [INFO] [2007/8374] 处理: Coin Identifier & AI Scanner (id=6737041776)
+2026-03-31 11:11:56,968 [INFO]   ✓ Coin Identifier & AI Scanner | 价格: Free | 类别: Reference
+2026-03-31 11:12:00,416 [INFO] [2008/8374] 处理: Holy Bible † Study God's Word (id=1666079454)
+2026-03-31 11:12:00,516 [INFO]   ✓ Holy Bible † Study God's Word | 价格: Free | 类别: Reference
+2026-03-31 11:12:02,626 [INFO] [2009/8374] 处理: Translate Go: AI Translator (id=6736970537)
+2026-03-31 11:12:02,720 [INFO]   ✓ Translate Go: AI Translator | 价格: Free | 类别: Reference
+2026-03-31 11:12:04,537 [INFO] [2010/8374] 处理: ReelTrends - AI Creator Tools (id=1612492046)
+2026-03-31 11:12:04,628 [INFO]   ✓ ReelTrends - AI Creator Tools | 价格: Free | 类别: Reference
+2026-03-31 11:12:07,678 [INFO] [2011/8374] 处理: Talk & Translate AI Translator (id=1102728735)
+2026-03-31 11:12:07,782 [INFO]   ✓ Talk & Translate AI Translator | 价格: Free | 类别: Reference
+2026-03-31 11:12:09,292 [INFO] [2012/8374] 处理: Athan: Prayer Times in USA (id=505858403)
+2026-03-31 11:12:09,450 [INFO]   ✓ Athan: Prayer Times in USA | 价格: Free | 类别: Reference
+2026-03-31 11:12:11,451 [INFO] [2013/8374] 处理: Ayatique: Quran Sleep Stories (id=6740481012)
+2026-03-31 11:12:11,566 [INFO]   ✓ Ayatique: Quran Sleep Stories | 价格: Free | 类别: Reference
+2026-03-31 11:12:14,593 [INFO] [2014/8374] 处理: Coin Identifier - CoinCheck (id=6455731760)
+2026-03-31 11:12:14,762 [INFO]   ✓ Coin Identifier - CoinCheck | 价格: Free | 类别: Reference
+2026-03-31 11:12:16,394 [INFO] [2015/8374] 处理: Toyzie AI: Toy Value Scanner (id=6753714328)
+2026-03-31 11:12:16,548 [INFO]   ✓ Toyzie AI: Toy Value Scanner | 价格: Free | 类别: Reference
+2026-03-31 11:12:19,752 [INFO] [2016/8374] 处理: Deepcheck - AI Search (id=6746719863)
+2026-03-31 11:12:19,854 [INFO]   ✓ Deepcheck - AI Search | 价格: Free | 类别: Reference
+2026-03-31 11:12:21,628 [INFO] [2017/8374] 处理: AR Translator: Translate Photo (id=1465903782)
+2026-03-31 11:12:21,811 [INFO]   ✓ AR Translator: Translate Photo | 价格: Free | 类别: Reference
+2026-03-31 11:12:24,384 [INFO] [2018/8374] 处理: Translate your Voice - Talk AI (id=6476104118)
+2026-03-31 11:12:24,527 [INFO]   ✓ Translate your Voice - Talk AI | 价格: Free | 类别: Reference
+2026-03-31 11:12:26,590 [INFO] [2019/8374] 处理: Life Bible App (id=325955298)
+2026-03-31 11:12:26,738 [INFO]   ✓ Life Bible App | 价格: Free | 类别: Reference
+2026-03-31 11:12:29,206 [INFO] [2020/8374] 处理: ESV Bible (id=361797273)
+2026-03-31 11:12:29,373 [INFO]   ✓ ESV Bible | 价格: Free | 类别: Reference
+2026-03-31 11:12:31,772 [INFO] [2021/8374] 处理: EMRA Antibiotic Guide (id=1436939575)
+2026-03-31 11:12:31,935 [INFO]   ✓ EMRA Antibiotic Guide | 价格: Free | 类别: Reference
+2026-03-31 11:12:33,955 [INFO] [2022/8374] 处理: My Translator - AI Translate (id=6738385447)
+2026-03-31 11:12:34,056 [INFO]   ✓ My Translator - AI Translate | 价格: Free | 类别: Reference
+2026-03-31 11:12:36,150 [INFO] [2023/8374] 处理: Jibreel: Learn Islam App (id=6742844814)
+2026-03-31 11:12:36,285 [INFO]   ✓ Jibreel: Learn Islam App | 价格: Free | 类别: Reference
+2026-03-31 11:12:37,919 [INFO] [2024/8374] 处理: The Bible - Verse & Prayer (id=1539702617)
+2026-03-31 11:12:38,097 [INFO]   ✓ The Bible - Verse & Prayer | 价格: Free | 类别: Reference
+2026-03-31 11:12:39,885 [INFO] [2025/8374] 处理: True Heritage & Ancestry: EDNA (id=6753166395)
+2026-03-31 11:12:39,978 [INFO]   ✓ True Heritage & Ancestry: EDNA | 价格: Free | 类别: Reference
+2026-03-31 11:12:43,059 [INFO] [2026/8374] 处理: Banknote Identifier - NoteScan (id=6478563047)
+2026-03-31 11:12:43,211 [INFO]   ✓ Banknote Identifier - NoteScan | 价格: Free | 类别: Reference
+2026-03-31 11:12:45,911 [INFO] [2027/8374] 处理: Reverso translate and learn (id=919979642)
+2026-03-31 11:12:46,019 [INFO]   ✓ Reverso translate and learn | 价格: Free | 类别: Reference
+2026-03-31 11:12:49,036 [INFO] [2028/8374] 处理: The Bible Memory App (id=496790833)
+2026-03-31 11:12:49,198 [INFO]   ✓ The Bible Memory App | 价格: Free | 类别: Reference
+2026-03-31 11:12:51,351 [INFO] [2029/8374] 处理: Coin Identifier - CoinScan (id=6448908389)
+2026-03-31 11:12:51,446 [INFO]   ✓ Coin Identifier - CoinScan | 价格: Free | 类别: Reference
+2026-03-31 11:12:53,930 [INFO] [2030/8374] 处理: Blumenkrantz Pesach Digest (id=839183699)
+2026-03-31 11:12:54,104 [INFO]   ✓ Blumenkrantz Pesach Digest | 价格: Free | 类别: Reference
+2026-03-31 11:12:56,782 [INFO] [2031/8374] 处理: Orthodox Bible (id=6446212792)
+2026-03-31 11:12:57,228 [INFO]   ✓ Orthodox Bible | 价格: Free | 类别: Reference
+2026-03-31 11:13:00,052 [INFO] [2032/8374] 处理: Muslim: Ramadan 2026, Azan (id=1137963102)
+2026-03-31 11:13:00,296 [INFO]   ✓ Muslim: Ramadan 2026, Azan | 价格: Free | 类别: Reference
+2026-03-31 11:13:02,463 [INFO] [2033/8374] 处理: PhilSnap: Stamp ID & Values (id=6752372987)
+2026-03-31 11:13:02,696 [INFO]   ✓ PhilSnap: Stamp ID & Values | 价格: Free | 类别: Reference
+2026-03-31 11:13:04,680 [INFO] [2034/8374] 处理: Aura: Pray Deeper, Walk Closer (id=6736381898)
+2026-03-31 11:13:04,862 [INFO]   ✓ Aura: Pray Deeper, Walk Closer | 价格: Free | 类别: Reference
+2026-03-31 11:13:06,567 [INFO] [2035/8374] 处理: Bible App - Read & Study Daily (id=332615624)
+2026-03-31 11:13:06,761 [INFO]   ✓ Bible App - Read & Study Daily | 价格: Free | 类别: Reference
+2026-03-31 11:13:09,837 [INFO] [2036/8374] 处理: TCG Card Identifier Value (id=6742734047)
+2026-03-31 11:13:10,012 [INFO]   ✓ TCG Card Identifier Value | 价格: Free | 类别: Reference
+2026-03-31 11:13:11,968 [INFO] [2037/8374] 处理: Dialog - Translate Speech (id=1367138686)
+2026-03-31 11:13:12,138 [INFO]   ✓ Dialog - Translate Speech | 价格: Free | 类别: Reference
+2026-03-31 11:13:14,469 [INFO] [2038/8374] 处理: Deen Buddy - Quran Chat (id=6740403566)
+2026-03-31 11:13:14,562 [INFO]   ✓ Deen Buddy - Quran Chat | 价格: Free | 类别: Reference
+2026-03-31 11:13:17,184 [INFO] [2039/8374] 处理: VinylSnap: Scan & Value Record (id=6748595105)
+2026-03-31 11:13:17,322 [INFO]   ✓ VinylSnap: Scan & Value Record | 价格: Free | 类别: Reference
+2026-03-31 11:13:19,564 [INFO] [2040/8374] 处理: Site Audit Pro (id=430234732)
+2026-03-31 11:13:19,709 [INFO]   ✓ Site Audit Pro | 价格: $12.90 | 类别: Productivity
+2026-03-31 11:13:22,735 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:13:22,736 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:13:24,641 [INFO] [2041/8374] 处理: Tampermonkey (id=6738342400)
+2026-03-31 11:13:24,791 [INFO]   ✓ Tampermonkey | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:13:31,574 [INFO] [2042/8374] 处理: iBend Pipe (id=339407922)
+2026-03-31 11:13:32,028 [INFO]   ✓ iBend Pipe | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:13:37,892 [INFO] [2043/8374] 处理: Ugly's Electrical References (id=1134770838)
+2026-03-31 11:13:38,037 [INFO]   ✓ Ugly's Electrical References | 价格: $12.99 | 类别: Productivity
+2026-03-31 11:13:43,596 [INFO] [2044/8374] 处理: Oilfield Calendar (id=862869041)
+2026-03-31 11:13:43,740 [INFO]   ✓ Oilfield Calendar | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:13:49,030 [INFO] [2045/8374] 处理: LineLearner (id=368070258)
+2026-03-31 11:13:49,174 [INFO]   ✓ LineLearner | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:13:56,020 [INFO] [2046/8374] 处理: Dumbify (id=6480082872)
+2026-03-31 11:13:56,188 [INFO]   ✓ Dumbify | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:14:01,926 [INFO] [2047/8374] 处理: Scrivener (id=972387337)
+2026-03-31 11:14:02,052 [INFO]   ✓ Scrivener | 价格: $23.99 | 类别: Productivity
+2026-03-31 11:14:08,304 [INFO] [2048/8374] 处理: Whisper Notes - Speech to Text (id=6447090616)
+2026-03-31 11:14:08,419 [INFO]   ✓ Whisper Notes - Speech to Text | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:14:14,302 [INFO] [2049/8374] 处理: Groundwire: VoIP SIP Softphone (id=378503081)
+2026-03-31 11:14:14,405 [INFO]   ✓ Groundwire: VoIP SIP Softphone | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:14:17,080 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:14:17,081 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:14:19,478 [INFO] [2050/8374] 处理: Pythonista 3 (id=1085978097)
+2026-03-31 11:14:19,647 [INFO]   ✓ Pythonista 3 | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:14:25,097 [INFO] [2051/8374] 处理: UnTrap for YouTube (id=1637438059)
+2026-03-31 11:14:25,225 [INFO]   ✓ UnTrap for YouTube | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:14:27,664 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:14:27,665 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:14:29,925 [INFO] [2052/8374] 处理: Conduit: OpenWebUI Client (id=6749840287)
+2026-03-31 11:14:30,065 [INFO]   ✓ Conduit: OpenWebUI Client | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:14:35,891 [INFO] [2053/8374] 处理: Alimentor 2: Custody Tracker (id=1428802675)
+2026-03-31 11:14:36,048 [INFO]   ✓ Alimentor 2: Custody Tracker | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:14:42,112 [INFO] [2054/8374] 处理: Due - Reminders & Timers (id=390017969)
+2026-03-31 11:14:42,316 [INFO]   ✓ Due - Reminders & Timers | 价格: $7.99 | 类别: Productivity
+2026-03-31 11:14:45,210 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:14:45,212 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:14:47,464 [INFO] [2055/8374] 处理: iA Writer (id=775737172)
+2026-03-31 11:14:47,588 [INFO]   ✓ iA Writer | 价格: $19.99 | 类别: Productivity
+2026-03-31 11:14:53,108 [INFO] [2056/8374] 处理: xSearch for Safari (id=1579902068)
+2026-03-31 11:14:53,216 [INFO]   ✓ xSearch for Safari | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:14:58,888 [INFO] [2057/8374] 处理: Sign Up by SignUp.com (id=672829281)
+2026-03-31 11:14:59,050 [INFO]   ✓ Sign Up by SignUp.com | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:15:04,741 [INFO] [2058/8374] 处理: Phased: Circuit Colors (id=898615603)
+2026-03-31 11:15:04,899 [INFO]   ✓ Phased: Circuit Colors | 价格: $0.99 | 类别: Productivity
+2026-03-31 11:15:12,259 [INFO] [2059/8374] 处理: Dark Reader for Safari (id=1438243180)
+2026-03-31 11:15:12,404 [INFO]   ✓ Dark Reader for Safari | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:15:17,329 [INFO] [2060/8374] 处理: iFacialMocap (id=1489470545)
+2026-03-31 11:15:17,468 [INFO]   ✓ iFacialMocap | 价格: $7.99 | 类别: Productivity
+2026-03-31 11:15:22,998 [INFO] [2061/8374] 处理: CamScanner + | OCR Scanner (id=388624839)
+2026-03-31 11:15:23,096 [INFO]   ✓ CamScanner + | OCR Scanner | 价格: $0.99 | 类别: Productivity
+2026-03-31 11:15:25,281 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:15:25,282 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:15:25,282 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 11:15:25,283 [INFO]      [iap] CamScanner Premium: $49.99 → $4.99
+2026-03-31 11:15:27,126 [INFO] [2062/8374] 处理: Planimeter — Measure Land Area (id=423492040)
+2026-03-31 11:15:27,323 [INFO]   ✓ Planimeter — Measure Land Area | 价格: $7.99 | 类别: Productivity
+2026-03-31 11:15:32,572 [INFO] [2063/8374] 处理: BusyCal: Calendar & Tasks (id=1035689743)
+2026-03-31 11:15:32,671 [INFO]   ✓ BusyCal: Calendar & Tasks | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:15:39,457 [INFO] [2064/8374] 处理: My Contacts Backup Pro (id=466388978)
+2026-03-31 11:15:39,594 [INFO]   ✓ My Contacts Backup Pro | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:15:46,016 [INFO] [2065/8374] 处理: Aiko (id=1672085276)
+2026-03-31 11:15:46,165 [INFO]   ✓ Aiko | 价格: $24.00 | 类别: Productivity
+2026-03-31 11:15:51,859 [INFO] [2066/8374] 处理: Calzy (id=623690732)
+2026-03-31 11:15:52,037 [INFO]   ✓ Calzy | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:15:55,953 [INFO] [2067/8374] 处理: Webmail App (id=1602403259)
+2026-03-31 11:15:56,094 [INFO]   ✓ Webmail App | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:15:58,399 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 11:15:58,400 [INFO]   ✓ 内购: 9 项
+2026-03-31 11:16:01,177 [INFO] [2068/8374] 处理: Merge Voice Memos (id=6476123178)
+2026-03-31 11:16:01,333 [INFO]   ✓ Merge Voice Memos | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:16:06,888 [INFO] [2069/8374] 处理: GoodReader PDF Editor & Viewer (id=777310222)
+2026-03-31 11:16:06,980 [INFO]   ✓ GoodReader PDF Editor & Viewer | 价格: $5.99 | 类别: Productivity
+2026-03-31 11:16:10,629 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:16:10,630 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:16:13,714 [INFO] [2070/8374] 处理: Ammo Handler (id=1207706409)
+2026-03-31 11:16:13,885 [INFO]   ✓ Ammo Handler | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:16:19,202 [INFO] [2071/8374] 处理: SponsorBlock for Safari (id=1573461917)
+2026-03-31 11:16:19,339 [INFO]   ✓ SponsorBlock for Safari | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:16:25,163 [INFO] [2072/8374] 处理: Export contacts by Covve (id=1532203461)
+2026-03-31 11:16:25,269 [INFO]   ✓ Export contacts by Covve | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:16:30,529 [INFO] [2073/8374] 处理: Wildland Toolkit (id=318683999)
+2026-03-31 11:16:30,732 [INFO]   ✓ Wildland Toolkit | 价格: $5.99 | 类别: Productivity
+2026-03-31 11:16:35,519 [INFO] [2074/8374] 处理: Easy Offset (id=412835048)
+2026-03-31 11:16:35,651 [INFO]   ✓ Easy Offset | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:16:39,590 [INFO] [2075/8374] 处理: Bullet Journal Companion (id=1201419241)
+2026-03-31 11:16:39,682 [INFO]   ✓ Bullet Journal Companion | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:16:44,012 [INFO] [2076/8374] 处理: Ductulator - Duct Sizing (id=1474939475)
+2026-03-31 11:16:44,296 [INFO]   ✓ Ductulator - Duct Sizing | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:16:50,749 [INFO] [2077/8374] 处理: eDrawings (id=520231936)
+2026-03-31 11:16:50,997 [INFO]   ✓ eDrawings | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:16:56,942 [INFO] [2078/8374] 处理: Scene Study (id=406805077)
+2026-03-31 11:16:57,047 [INFO]   ✓ Scene Study | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:17:02,926 [INFO] [2079/8374] 处理: CalenGoo Calendar (id=300370871)
+2026-03-31 11:17:03,114 [INFO]   ✓ CalenGoo Calendar | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:17:08,925 [INFO] [2080/8374] 处理: Electric Color Code (id=304936138)
+2026-03-31 11:17:09,081 [INFO]   ✓ Electric Color Code | 价格: $0.99 | 类别: Productivity
+2026-03-31 11:17:14,194 [INFO] [2081/8374] 处理: Möbius Sync Pro (id=1671184333)
+2026-03-31 11:17:14,347 [INFO]   ✓ Möbius Sync Pro | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:17:18,145 [INFO] [2082/8374] 处理: Zoiper Premium voip soft phone (id=787863350)
+2026-03-31 11:17:18,393 [INFO]   ✓ Zoiper Premium voip soft phone | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:17:21,305 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:17:21,306 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:17:23,928 [INFO] [2083/8374] 处理: iCalendar (id=492076105)
+2026-03-31 11:17:24,086 [INFO]   ✓ iCalendar | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:17:26,547 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:17:26,548 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:17:29,190 [INFO] [2084/8374] 处理: Pipefitter (id=1043963852)
+2026-03-31 11:17:29,316 [INFO]   ✓ Pipefitter | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:17:36,423 [INFO] [2085/8374] 处理: Rack Builder Pro (id=6754610609)
+2026-03-31 11:17:36,548 [INFO]   ✓ Rack Builder Pro | 价格: $0.99 | 类别: Productivity
+2026-03-31 11:17:41,855 [INFO] [2086/8374] 处理: Magnifying Glass w/ Light Pro (id=477968382)
+2026-03-31 11:17:41,978 [INFO]   ✓ Magnifying Glass w/ Light Pro | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:17:46,363 [INFO] [2087/8374] 处理: Open Relay - Open WebUI Client (id=6759630325)
+2026-03-31 11:17:46,464 [INFO]   ✓ Open Relay - Open WebUI Client | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:17:51,655 [INFO] [2088/8374] 处理: impcat (id=1496845136)
+2026-03-31 11:17:51,750 [INFO]   ✓ impcat | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:17:57,633 [INFO] [2089/8374] 处理: Lactation Consultant Toolkit (id=6737789345)
+2026-03-31 11:17:57,780 [INFO]   ✓ Lactation Consultant Toolkit | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:18:01,686 [INFO] [2090/8374] 处理: Phone Buddy Phone Lost Alert (id=1451559391)
+2026-03-31 11:18:01,823 [INFO]   ✓ Phone Buddy Phone Lost Alert | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:18:07,017 [INFO] [2091/8374] 处理: Show StopWatch (id=1211287819)
+2026-03-31 11:18:07,155 [INFO]   ✓ Show StopWatch | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:18:10,088 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:18:10,089 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:18:12,546 [INFO] [2092/8374] 处理: 1Writer - Markdown Text Editor (id=680469088)
+2026-03-31 11:18:12,688 [INFO]   ✓ 1Writer - Markdown Text Editor | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:18:15,014 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 11:18:15,015 [INFO]   ✓ 内购: 5 项
+2026-03-31 11:18:16,530 [INFO] [2093/8374] 处理: Reminder & Countdown Pro (id=515197396)
+2026-03-31 11:18:16,655 [INFO]   ✓ Reminder & Countdown Pro | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:18:21,689 [INFO] [2094/8374] 处理: eDrawings Pro (id=553557031)
+2026-03-31 11:18:21,852 [INFO]   ✓ eDrawings Pro | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:18:28,442 [INFO] [2095/8374] 处理: CNC Machinist Calculator Pro (id=1037668281)
+2026-03-31 11:18:28,619 [INFO]   ✓ CNC Machinist Calculator Pro | 价格: $14.99 | 类别: Productivity
+2026-03-31 11:18:35,033 [INFO] [2096/8374] 处理: JigglyPaint: Draw/Shake/Share! (id=6751747069)
+2026-03-31 11:18:35,129 [INFO]   ✓ JigglyPaint: Draw/Shake/Share! | 价格: $5.99 | 类别: Productivity
+2026-03-31 11:18:41,060 [INFO] [2097/8374] 处理: ClawTalk (id=6760325621)
+2026-03-31 11:18:41,233 [INFO]   ✓ ClawTalk | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:18:46,318 [INFO] [2098/8374] 处理: NO EXCUSES DAILY (id=6761076742)
+2026-03-31 11:18:46,448 [INFO]   ✓ NO EXCUSES DAILY | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:18:51,369 [INFO] [2099/8374] 处理: PLANBELLA - Planner App (id=1389771232)
+2026-03-31 11:18:51,615 [INFO]   ✓ PLANBELLA - Planner App | 价格: $8.99 | 类别: Productivity
+2026-03-31 11:18:54,779 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:18:54,780 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:18:56,363 [INFO] [2100/8374] 处理: PDF417 Pro: Scan & Generate (id=560119160)
+2026-03-31 11:18:56,494 [INFO]   ✓ PDF417 Pro: Scan & Generate | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:19:01,274 [INFO] [2101/8374] 处理: Queen calendar (id=6447299589)
+2026-03-31 11:19:01,430 [INFO]   ✓ Queen calendar | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:19:06,586 [INFO] [2102/8374] 处理: Billiard University Exams (id=6445834350)
+2026-03-31 11:19:06,747 [INFO]   ✓ Billiard University Exams | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:19:12,793 [INFO] [2103/8374] 处理: gTasks Pro for Google Tasks (id=672241079)
+2026-03-31 11:19:12,952 [INFO]   ✓ gTasks Pro for Google Tasks | 价格: $19.99 | 类别: Productivity
+2026-03-31 11:19:17,830 [INFO] [2104/8374] 处理: Miter Angle Calculator (id=1591826245)
+2026-03-31 11:19:18,083 [INFO]   ✓ Miter Angle Calculator | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:19:24,955 [INFO] [2105/8374] 处理: KerfMaker Woodworking Planner (id=1106264371)
+2026-03-31 11:19:25,058 [INFO]   ✓ KerfMaker Woodworking Planner | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:19:30,232 [INFO] [2106/8374] 处理: aWallet Cloud Password Manager (id=1194813074)
+2026-03-31 11:19:30,437 [INFO]   ✓ aWallet Cloud Password Manager | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:19:37,888 [INFO] [2107/8374] 处理: GoCoEdit - Code & Text Editor (id=869346854)
+2026-03-31 11:19:38,027 [INFO]   ✓ GoCoEdit - Code & Text Editor | 价格: $8.99 | 类别: Productivity
+2026-03-31 11:19:43,129 [INFO] [2108/8374] 处理: AO Office Pro (id=1097657424)
+2026-03-31 11:19:43,278 [INFO]   ✓ AO Office Pro | 价格: $19.99 | 类别: Productivity
+2026-03-31 11:19:47,563 [INFO] [2109/8374] 处理: Ancient Enoch Calendar (id=1067503877)
+2026-03-31 11:19:47,656 [INFO]   ✓ Ancient Enoch Calendar | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:19:53,569 [INFO] [2110/8374] 处理: RPN-55 SD (id=1469907917)
+2026-03-31 11:19:53,771 [INFO]   ✓ RPN-55 SD | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:20:00,072 [INFO] [2111/8374] 处理: Solar Calculator Pro (id=6453291359)
+2026-03-31 11:20:00,218 [INFO]   ✓ Solar Calculator Pro | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:20:05,667 [INFO] [2112/8374] 处理: Onwá (id=6753959839)
+2026-03-31 11:20:05,830 [INFO]   ✓ Onwá | 价格: $5.99 | 类别: Productivity
+2026-03-31 11:20:11,702 [INFO] [2113/8374] 处理: RoofCalc Pro (id=6760304473)
+2026-03-31 11:20:11,924 [INFO]   ✓ RoofCalc Pro | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:20:18,338 [INFO] [2114/8374] 处理: DidYou? - Failsafe Reminders (id=6759696453)
+2026-03-31 11:20:18,446 [INFO]   ✓ DidYou? - Failsafe Reminders | 价格: $0.99 | 类别: Productivity
+2026-03-31 11:20:23,509 [INFO] [2115/8374] 处理: On the Dot - Visual Timer (id=6757131427)
+2026-03-31 11:20:23,746 [INFO]   ✓ On the Dot - Visual Timer | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:20:28,448 [INFO] [2116/8374] 处理: Ditto Keyboard (id=944421992)
+2026-03-31 11:20:28,557 [INFO]   ✓ Ditto Keyboard | 价格: $0.99 | 类别: Productivity
+2026-03-31 11:20:32,416 [INFO] [2117/8374] 处理: Awesome Calendar (id=480102733)
+2026-03-31 11:20:32,536 [INFO]   ✓ Awesome Calendar | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:20:36,305 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:20:36,306 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:20:38,777 [INFO] [2118/8374] 处理: DeArrow for YouTube (id=6451469297)
+2026-03-31 11:20:38,896 [INFO]   ✓ DeArrow for YouTube | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:20:44,084 [INFO] [2119/8374] 处理: Today Planned: Calendar Alarms (id=1672689846)
+2026-03-31 11:20:44,248 [INFO]   ✓ Today Planned: Calendar Alarms | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:20:48,232 [INFO] [2120/8374] 处理: Plain Text Editor (id=1572202501)
+2026-03-31 11:20:48,392 [INFO]   ✓ Plain Text Editor | 价格: $5.00 | 类别: Productivity
+2026-03-31 11:20:54,413 [INFO] [2121/8374] 处理: Electrodoc Pro (id=1146647134)
+2026-03-31 11:20:54,600 [INFO]   ✓ Electrodoc Pro | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:21:00,087 [INFO] [2122/8374] 处理: Audio spectrum analyzer EQ Rta (id=1122398778)
+2026-03-31 11:21:00,305 [INFO]   ✓ Audio spectrum analyzer EQ Rta | 价格: $3.99 | 类别: Productivity
+2026-03-31 11:21:06,567 [INFO] [2123/8374] 处理: Calculator Speed Distance Time (id=6670777872)
+2026-03-31 11:21:06,775 [INFO]   ✓ Calculator Speed Distance Time | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:21:12,859 [INFO] [2124/8374] 处理: Mil Fuel Check (id=1257185111)
+2026-03-31 11:21:13,013 [INFO]   ✓ Mil Fuel Check | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:21:17,959 [INFO] [2125/8374] 处理: IISCA+ (id=1478619988)
+2026-03-31 11:21:18,093 [INFO]   ✓ IISCA+ | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:21:21,341 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:21:21,342 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:21:23,830 [INFO] [2126/8374] 处理: Photo Measures (id=415038787)
+2026-03-31 11:21:23,923 [INFO]   ✓ Photo Measures | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:21:28,863 [INFO] [2127/8374] 处理: 2017 Master Electrician Ref. (id=1275949959)
+2026-03-31 11:21:28,960 [INFO]   ✓ 2017 Master Electrician Ref. | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:21:32,631 [INFO] [2128/8374] 处理: Screen Mirroring+ for Roku (id=1295610132)
+2026-03-31 11:21:32,724 [INFO]   ✓ Screen Mirroring+ for Roku | 价格: $9.99 | 类别: Productivity
+2026-03-31 11:21:38,667 [INFO] [2129/8374] 处理: Contacts Mover Pro (id=1321249676)
+2026-03-31 11:21:38,887 [INFO]   ✓ Contacts Mover Pro | 价格: $5.99 | 类别: Productivity
+2026-03-31 11:21:41,613 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:21:41,615 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:21:44,469 [INFO] [2130/8374] 处理: 3sparks Chat (id=6736871168)
+2026-03-31 11:21:44,603 [INFO]   ✓ 3sparks Chat | 价格: $5.99 | 类别: Productivity
+2026-03-31 11:21:51,011 [INFO] [2131/8374] 处理: Acrobits Softphone (id=314192799)
+2026-03-31 11:21:51,166 [INFO]   ✓ Acrobits Softphone | 价格: $6.99 | 类别: Productivity
+2026-03-31 11:21:54,832 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:21:54,833 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:21:57,335 [INFO] [2132/8374] 处理: NumPad: Your Number Keyboard (id=1072547160)
+2026-03-31 11:21:57,473 [INFO]   ✓ NumPad: Your Number Keyboard | 价格: $1.99 | 类别: Productivity
+2026-03-31 11:22:02,539 [INFO] [2133/8374] 处理: Auto Translate for Safari (id=1586762439)
+2026-03-31 11:22:02,663 [INFO]   ✓ Auto Translate for Safari | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:22:07,634 [INFO] [2134/8374] 处理: SP Voice (id=718952607)
+2026-03-31 11:22:07,794 [INFO]   ✓ SP Voice | 价格: $2.99 | 类别: Productivity
+2026-03-31 11:22:12,299 [INFO] [2135/8374] 处理: Pipe Saddle Layout Calculator (id=524302215)
+2026-03-31 11:22:12,428 [INFO]   ✓ Pipe Saddle Layout Calculator | 价格: $4.99 | 类别: Productivity
+2026-03-31 11:22:16,372 [INFO] [2136/8374] 处理: Microsoft Word (id=586447913)
+2026-03-31 11:22:16,511 [INFO]   ✓ Microsoft Word | 价格: Free | 类别: Productivity
+2026-03-31 11:22:18,811 [INFO] [2137/8374] 处理: Workcloud Shift (id=6741380655)
+2026-03-31 11:22:18,950 [INFO]   ✓ Workcloud Shift | 价格: Free | 类别: Productivity
+2026-03-31 11:22:20,839 [INFO] [2138/8374] 处理: Microsoft Copilot (id=6472538445)
+2026-03-31 11:22:20,958 [INFO]   ✓ Microsoft Copilot | 价格: Free | 类别: Productivity
+2026-03-31 11:22:22,950 [INFO] [2139/8374] 处理: Google Calendar: Get Organized (id=909319292)
+2026-03-31 11:22:23,139 [INFO]   ✓ Google Calendar: Get Organized | 价格: Free | 类别: Productivity
+2026-03-31 11:22:25,332 [INFO] [2140/8374] 处理: Yahoo Mail: Your Email & Inbox (id=577586159)
+2026-03-31 11:22:25,476 [INFO]   ✓ Yahoo Mail: Your Email & Inbox | 价格: Free | 类别: Productivity
+2026-03-31 11:22:27,061 [INFO] [2141/8374] 处理: Google Slides (id=879478102)
+2026-03-31 11:22:27,159 [INFO]   ✓ Google Slides | 价格: Free | 类别: Productivity
+2026-03-31 11:22:29,227 [INFO] [2142/8374] 处理: Link to Windows (id=6443686328)
+2026-03-31 11:22:29,373 [INFO]   ✓ Link to Windows | 价格: Free | 类别: Productivity
+2026-03-31 11:22:31,618 [INFO] [2143/8374] 处理: Microsoft Excel (id=586683407)
+2026-03-31 11:22:31,739 [INFO]   ✓ Microsoft Excel | 价格: Free | 类别: Productivity
+2026-03-31 11:22:34,512 [INFO] [2144/8374] 处理: Microsoft OneDrive (id=477537958)
+2026-03-31 11:22:34,628 [INFO]   ✓ Microsoft OneDrive | 价格: Free | 类别: Productivity
+2026-03-31 11:22:36,692 [INFO] [2145/8374] 处理: HP (id=469284907)
+2026-03-31 11:22:36,801 [INFO]   ✓ HP | 价格: Free | 类别: Productivity
+2026-03-31 11:22:39,841 [INFO] [2146/8374] 处理: VPN 360: Super Fast VPN Proxy (id=1193154948)
+2026-03-31 11:22:39,985 [INFO]   ✓ VPN 360: Super Fast VPN Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:22:42,319 [INFO] [2147/8374] 处理: VPN Proxy Master - Super VPN (id=1025707485)
+2026-03-31 11:22:42,421 [INFO]   ✓ VPN Proxy Master - Super VPN | 价格: Free | 类别: Productivity
+2026-03-31 11:22:44,761 [INFO] [2148/8374] 处理: Microsoft 365 Copilot (id=541164041)
+2026-03-31 11:22:44,927 [INFO]   ✓ Microsoft 365 Copilot | 价格: Free | 类别: Productivity
+2026-03-31 11:22:46,697 [INFO] [2149/8374] 处理: WireVPN - Fast VPN & Proxy (id=1615422104)
+2026-03-31 11:22:46,845 [INFO]   ✓ WireVPN - Fast VPN & Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:22:49,167 [INFO] [2150/8374] 处理: Turbo VPN Private Browser (id=1365309175)
+2026-03-31 11:22:49,260 [INFO]   ✓ Turbo VPN Private Browser | 价格: Free | 类别: Productivity
+2026-03-31 11:22:51,781 [INFO] [2151/8374] 处理: Smart Home Manager (id=1258654743)
+2026-03-31 11:22:51,882 [INFO]   ✓ Smart Home Manager | 价格: Free | 类别: Productivity
+2026-03-31 11:22:54,566 [INFO] [2152/8374] 处理: Speechify – Text to Speech PDF (id=1209815023)
+2026-03-31 11:22:54,670 [INFO]   ✓ Speechify – Text to Speech PDF | 价格: Free | 类别: Productivity
+2026-03-31 11:22:58,125 [INFO] [2153/8374] 处理: Perplexity - AI Search & Chat (id=1668000334)
+2026-03-31 11:22:58,362 [INFO]   ✓ Perplexity - AI Search & Chat | 价格: Free | 类别: Productivity
+2026-03-31 11:23:00,500 [INFO] [2154/8374] 处理: ID.me Authenticator (id=1446335066)
+2026-03-31 11:23:00,647 [INFO]   ✓ ID.me Authenticator | 价格: Free | 类别: Productivity
+2026-03-31 11:23:02,850 [INFO] [2155/8374] 处理: AdGuard VPN: Fast Secure Proxy (id=1525373602)
+2026-03-31 11:23:03,005 [INFO]   ✓ AdGuard VPN: Fast Secure Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:23:05,634 [INFO] [2156/8374] 处理: Google NotebookLM (id=6737527615)
+2026-03-31 11:23:05,729 [INFO]   ✓ Google NotebookLM | 价格: Free | 类别: Productivity
+2026-03-31 11:23:08,277 [INFO] [2157/8374] 处理: CamScanner - PDF Scanner App (id=388627783)
+2026-03-31 11:23:08,438 [INFO]   ✓ CamScanner - PDF Scanner App | 价格: Free | 类别: Productivity
+2026-03-31 11:23:10,111 [INFO] [2158/8374] 处理: VPN Hotspot Shield: WiFi Proxy (id=443369807)
+2026-03-31 11:23:10,358 [INFO]   ✓ VPN Hotspot Shield: Secure VPN | 价格: Free | 类别: Productivity
+2026-03-31 11:23:12,365 [INFO] [2159/8374] 处理: Google Voice (id=318698524)
+2026-03-31 11:23:12,557 [INFO]   ✓ Google Voice | 价格: Free | 类别: Productivity
+2026-03-31 11:23:14,785 [INFO] [2160/8374] 处理: Microsoft PowerPoint (id=586449534)
+2026-03-31 11:23:14,962 [INFO]   ✓ Microsoft PowerPoint | 价格: Free | 类别: Productivity
+2026-03-31 11:23:17,568 [INFO] [2161/8374] 处理: Ringtones Maker - the ring app (id=1358107315)
+2026-03-31 11:23:17,717 [INFO]   ✓ Ringtones Maker - the ring app | 价格: Free | 类别: Productivity
+2026-03-31 11:23:20,970 [INFO] [2162/8374] 处理: Manus AI (id=6740909540)
+2026-03-31 11:23:21,170 [INFO]   ✓ Manus - AI Agent & Automation | 价格: Free | 类别: Productivity
+2026-03-31 11:23:23,803 [INFO] [2163/8374] 处理: Surfshark VPN: Fast VPN App (id=1391782046)
+2026-03-31 11:23:23,950 [INFO]   ✓ Surfshark VPN: Fast VPN App | 价格: Free | 类别: Productivity
+2026-03-31 11:23:27,106 [INFO] [2164/8374] 处理: BePresent: Screen Time Control (id=1644737181)
+2026-03-31 11:23:27,201 [INFO]   ✓ BePresent: Screen Time Control | 价格: Free | 类别: Productivity
+2026-03-31 11:23:29,194 [INFO] [2165/8374] 处理: Widgetsmith (id=1523682319)
+2026-03-31 11:23:29,456 [INFO]   ✓ Widgetsmith | 价格: Free | 类别: Productivity
+2026-03-31 11:23:32,614 [INFO] [2166/8374] 处理: VPN - Fast VPN Proxy (id=1282216562)
+2026-03-31 11:23:32,809 [INFO]   ✓ VPN - Fast VPN Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:23:35,764 [INFO] [2167/8374] 处理: Online Portal by AppFolio (id=1376350358)
+2026-03-31 11:23:35,909 [INFO]   ✓ Online Portal by AppFolio | 价格: Free | 类别: Productivity
+2026-03-31 11:23:38,207 [INFO] [2168/8374] 处理: DeepSeek - AI Assistant (id=6737597349)
+2026-03-31 11:23:38,325 [INFO]   ✓ DeepSeek - AI Assistant | 价格: Free | 类别: Productivity
+2026-03-31 11:23:40,886 [INFO] [2169/8374] 处理: Grammarly: AI Keyboard & Notes (id=1158877342)
+2026-03-31 11:23:41,111 [INFO]   ✓ Grammarly: AI Keyboard & Notes | 价格: Free | 类别: Productivity
+2026-03-31 11:23:44,587 [INFO] [2170/8374] 处理: ChatOn AI - Chat Bot Assistant (id=1661308505)
+2026-03-31 11:23:44,727 [INFO]   ✓ ChatOn AI - Chat Bot Assistant | 价格: Free | 类别: Productivity
+2026-03-31 11:23:46,654 [INFO] [2171/8374] 处理: Betternet VPN: Hotspot Proxy (id=946659216)
+2026-03-31 11:23:46,813 [INFO]   ✓ Betternet VPN: Hotspot Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:23:48,679 [INFO] [2172/8374] 处理: Notion: Notes, Tasks, AI (id=1232780281)
+2026-03-31 11:23:48,809 [INFO]   ✓ Notion: Notes, Tasks, AI | 价格: Free | 类别: Productivity
+2026-03-31 11:23:51,959 [INFO] [2173/8374] 处理: TeraBox: 1TB Cloud & AI Space (id=1509453185)
+2026-03-31 11:23:52,227 [INFO]   ✓ TeraBox: 1TB Cloud & AI Space | 价格: Free | 类别: Productivity
+2026-03-31 11:23:55,380 [INFO] [2174/8374] 处理: VPN Fly 2026 (id=6753937623)
+2026-03-31 11:23:55,520 [INFO]   ✓ VPN Fly 2026 | 价格: Free | 类别: Productivity
+2026-03-31 11:23:57,660 [INFO] [2175/8374] 处理: Brainrot: Screen Time Control (id=6744338972)
+2026-03-31 11:23:57,779 [INFO]   ✓ Brainrot: Screen Time Control | 价格: Free | 类别: Productivity
+2026-03-31 11:24:00,584 [INFO] [2176/8374] 处理: Otter Transcribe Voice Notes (id=1276437113)
+2026-03-31 11:24:00,770 [INFO]   ✓ Otter Transcribe Voice Notes | 价格: Free | 类别: Productivity
+2026-03-31 11:24:02,432 [INFO] [2177/8374] 处理: VPN Vpnfly Master 2026 (id=6754629077)
+2026-03-31 11:24:02,589 [INFO]   ✓ VPN Vpnfly Master 2026 | 价格: Free | 类别: Productivity
+2026-03-31 11:24:05,456 [INFO] [2178/8374] 处理: AI Chatbot - Nova (id=1669007652)
+2026-03-31 11:24:05,638 [INFO]   ✓ AI Chatbot - Nova | 价格: Free | 类别: Productivity
+2026-03-31 11:24:08,031 [INFO] [2179/8374] 处理: Cloaked: Protect your privacy (id=1600487147)
+2026-03-31 11:24:08,195 [INFO]   ✓ Cloaked: Protect your privacy | 价格: Free | 类别: Productivity
+2026-03-31 11:24:11,208 [INFO] [2180/8374] 处理: f3 vpn - simple VPN (id=1633624637)
+2026-03-31 11:24:11,370 [INFO]   ✓ f3 vpn - simple VPN | 价格: Free | 类别: Productivity
+2026-03-31 11:24:13,126 [INFO] [2181/8374] 处理: CyberGhost: Safe & Private VPN (id=583009522)
+2026-03-31 11:24:13,284 [INFO]   ✓ CyberGhost: Safe & Private VPN | 价格: Free | 类别: Productivity
+2026-03-31 11:24:16,399 [INFO] [2182/8374] 处理: Docusign - Upload & Sign Docs (id=474990205)
+2026-03-31 11:24:16,575 [INFO]   ✓ Docusign - Upload & Sign Docs | 价格: Free | 类别: Productivity
+2026-03-31 11:24:19,153 [INFO] [2183/8374] 处理: PlatoVPN Fast:Super VPN Proxy (id=6504545807)
+2026-03-31 11:24:19,303 [INFO]   ✓ PlatoVPN Fast:Super VPN Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:24:22,147 [INFO] [2184/8374] 处理: Form for Google Forms (id=1544827472)
+2026-03-31 11:24:22,272 [INFO]   ✓ Form for Google Forms | 价格: Free | 类别: Productivity
+2026-03-31 11:24:25,481 [INFO] [2185/8374] 处理: Google Keep - Notes and lists (id=1029207872)
+2026-03-31 11:24:25,667 [INFO]   ✓ Google Keep - Notes and lists | 价格: Free | 类别: Productivity
+2026-03-31 11:24:27,460 [INFO] [2186/8374] 处理: HitWave (id=6755142095)
+2026-03-31 11:24:27,617 [INFO]   ✓ HitWave | 价格: Free | 类别: Productivity
+2026-03-31 11:24:30,487 [INFO] [2187/8374] 处理: MEGA (id=706857885)
+2026-03-31 11:24:30,588 [INFO]   ✓ MEGA | 价格: Free | 类别: Productivity
+2026-03-31 11:24:32,221 [INFO] [2188/8374] 处理: Park Smarter (id=1055789534)
+2026-03-31 11:24:32,315 [INFO]   ✓ Park Smarter | 价格: Free | 类别: Productivity
+2026-03-31 11:24:35,600 [INFO] [2189/8374] 处理: Forms for Google Docs (id=1619382448)
+2026-03-31 11:24:35,751 [INFO]   ✓ Forms for Google Docs | 价格: Free | 类别: Productivity
+2026-03-31 11:24:38,635 [INFO] [2190/8374] 处理: TimeTree: Shared Calendar (id=952578473)
+2026-03-31 11:24:38,797 [INFO]   ✓ TimeTree: Shared Calendar | 价格: Free | 类别: Productivity
+2026-03-31 11:24:41,627 [INFO] [2191/8374] 处理: Google One (id=1451784328)
+2026-03-31 11:24:41,794 [INFO]   ✓ Google One | 价格: Free | 类别: Productivity
+2026-03-31 11:24:44,499 [INFO] [2192/8374] 处理: ButterflyMX (id=714133074)
+2026-03-31 11:24:44,642 [INFO]   ✓ ButterflyMX | 价格: Free | 类别: Productivity
+2026-03-31 11:24:47,126 [INFO] [2193/8374] 处理: Chat Smith: AI Chatbot & Agent (id=1559479889)
+2026-03-31 11:24:47,316 [INFO]   ✓ Chat Smith: AI Chatbot & Agent | 价格: Free | 类别: Productivity
+2026-03-31 11:24:50,718 [INFO] [2194/8374] 处理: Opal: Screen Time Control (id=1497465230)
+2026-03-31 11:24:50,821 [INFO]   ✓ Opal: Screen Time Control | 价格: Free | 类别: Productivity
+2026-03-31 11:24:53,722 [INFO] [2195/8374] 处理: Wispr Flow: AI Voice Keyboard (id=6497229487)
+2026-03-31 11:24:53,831 [INFO]   ✓ Wispr Flow: AI Voice Keyboard | 价格: Free | 类别: Productivity
+2026-03-31 11:24:57,205 [INFO] [2196/8374] 处理: Private VPN Proxy - Easy Start (id=1612822001)
+2026-03-31 11:24:57,400 [INFO]   ✓ Private VPN Proxy - Easy Start | 价格: Free | 类别: Productivity
+2026-03-31 11:25:00,148 [INFO] [2197/8374] 处理: WeTransfer: Transfer Files (id=1569379048)
+2026-03-31 11:25:00,388 [INFO]   ✓ WeTransfer: Transfer Files | 价格: Free | 类别: Productivity
+2026-03-31 11:25:02,638 [INFO] [2198/8374] 处理: Speedy Quark VPN - VPN Proxy (id=1495277812)
+2026-03-31 11:25:02,780 [INFO]   ✓ Speedy Quark VPN - VPN Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:25:06,065 [INFO] [2199/8374] 处理: Summary: AI Meeting Note Taker (id=6670175056)
+2026-03-31 11:25:06,217 [INFO]   ✓ Summary - AI Note Taker | 价格: Free | 类别: Productivity
+2026-03-31 11:25:07,912 [INFO] [2200/8374] 处理: PingID (id=891247102)
+2026-03-31 11:25:08,064 [INFO]   ✓ PingID | 价格: Free | 类别: Productivity
+2026-03-31 11:25:10,812 [INFO] [2201/8374] 处理: Kia Access (id=1280548773)
+2026-03-31 11:25:11,018 [INFO]   ✓ Kia Access | 价格: Free | 类别: Productivity
+2026-03-31 11:25:13,365 [INFO] [2202/8374] 处理: Office Word:Edit Word Document (id=6444708069)
+2026-03-31 11:25:13,545 [INFO]   ✓ Office Word:Edit Word Document | 价格: Free | 类别: Productivity
+2026-03-31 11:25:15,537 [INFO] [2203/8374] 处理: Microsoft OneNote (id=410395246)
+2026-03-31 11:25:15,691 [INFO]   ✓ Microsoft OneNote | 价格: Free | 类别: Productivity
+2026-03-31 11:25:18,496 [INFO] [2204/8374] 处理: VPN Windscribe: Fast & Secure (id=1129435228)
+2026-03-31 11:25:18,642 [INFO]   ✓ VPN Windscribe: Fast & Secure | 价格: Free | 类别: Productivity
+2026-03-31 11:25:20,646 [INFO] [2205/8374] 处理: Brick - Ditch Distractions (id=6448794069)
+2026-03-31 11:25:20,770 [INFO]   ✓ Brick - Ditch Distractions | 价格: Free | 类别: Productivity
+2026-03-31 11:25:22,518 [INFO] [2206/8374] 处理: HitVPN (id=6463235095)
+2026-03-31 11:25:22,651 [INFO]   ✓ HitVPN | 价格: Free | 类别: Productivity
+2026-03-31 11:25:24,581 [INFO] [2207/8374] 处理: Double Good (id=1401184723)
+2026-03-31 11:25:24,790 [INFO]   ✓ Double Good | 价格: Free | 类别: Productivity
+2026-03-31 11:25:27,342 [INFO] [2208/8374] 处理: Spaces: Follow Businesses (id=1099748482)
+2026-03-31 11:25:27,490 [INFO]   ✓ Spaces: Follow Businesses | 价格: Free | 类别: Productivity
+2026-03-31 11:25:30,666 [INFO] [2209/8374] 处理: AI Chat Assistant – ChatNow (id=1667518571)
+2026-03-31 11:25:30,777 [INFO]   ✓ AI Chat Assistant – ChatNow | 价格: Free | 类别: Productivity
+2026-03-31 11:25:33,741 [INFO] [2210/8374] 处理: MyHyundai with Bluelink (id=893514610)
+2026-03-31 11:25:33,862 [INFO]   ✓ MyHyundai with Bluelink | 价格: Free | 类别: Productivity
+2026-03-31 11:25:36,791 [INFO] [2211/8374] 处理: Super V2ray Tunnel 2026 (id=6755873784)
+2026-03-31 11:25:36,936 [INFO]   ✓ Super V2ray Tunnel 2026 | 价格: Free | 类别: Productivity
+2026-03-31 11:25:38,851 [INFO] [2212/8374] 处理: Auto Clicker: Automatic tap+ (id=6756167845)
+2026-03-31 11:25:39,076 [INFO]   ✓ Auto Clicker: Automatic tap+ | 价格: Free | 类别: Productivity
+2026-03-31 11:25:41,556 [INFO] [2213/8374] 处理: Translator GO: AI Translate (id=1570134612)
+2026-03-31 11:25:41,741 [INFO]   ✓ Translator GO: AI Translate | 价格: Free | 类别: Productivity
+2026-03-31 11:25:43,357 [INFO] [2214/8374] 处理: Star VPN - Super Fast Proxy (id=1115864690)
+2026-03-31 11:25:43,523 [INFO]   ✓ Star VPN - Super Fast Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:25:45,267 [INFO] [2215/8374] 处理: Blank Spaces Launcher (id=1570856853)
+2026-03-31 11:25:45,427 [INFO]   ✓ Blank Spaces Launcher | 价格: Free | 类别: Productivity
+2026-03-31 11:25:48,902 [INFO] [2216/8374] 处理: VPN FREE Super Unlimited Proxy (id=6473046576)
+2026-03-31 11:25:49,072 [INFO]   ✓ VPN FREE Super Unlimited Proxy | 价格: Free | 类别: Productivity
+2026-03-31 11:25:52,308 [INFO] [2217/8374] 处理: Proton Mail - Encrypted Email (id=979659905)
+2026-03-31 11:25:52,509 [INFO]   ✓ Proton Mail - Encrypted Email | 价格: Free | 类别: Productivity
+2026-03-31 11:25:55,323 [INFO] [2218/8374] 处理: Google Tasks: Get Things Done (id=1353634006)
+2026-03-31 11:25:55,538 [INFO]   ✓ Google Tasks: Get Things Done | 价格: Free | 类别: Productivity
+2026-03-31 11:25:57,546 [INFO] [2219/8374] 处理: Structured: Daily Planner Todo (id=1499198946)
+2026-03-31 11:25:57,821 [INFO]   ✓ Structured: Daily Planner Todo | 价格: Free | 类别: Productivity
+2026-03-31 11:26:01,025 [INFO] [2220/8374] 处理: Keeper Password Manager (id=287170072)
+2026-03-31 11:26:01,313 [INFO]   ✓ Keeper Password Manager | 价格: Free | 类别: Productivity
+2026-03-31 11:26:04,570 [INFO] [2221/8374] 处理: ChatBox AI - Chatbot Assistant (id=6447763703)
+2026-03-31 11:26:04,742 [INFO]   ✓ ChatBox AI - Chatbot Assistant | 价格: Free | 类别: Productivity
+2026-03-31 11:26:07,692 [INFO] [2222/8374] 处理: Chat AI: Ask Agent Anything (id=1668787639)
+2026-03-31 11:26:07,907 [INFO]   ✓ Chat AI: Ask Agent Anything | 价格: Free | 类别: Productivity
+2026-03-31 11:26:09,542 [INFO] [2223/8374] 处理: Plaud: AI Note Taker (id=6450364080)
+2026-03-31 11:26:09,755 [INFO]   ✓ Plaud: AI Note Taker | 价格: Free | 类别: Productivity
+2026-03-31 11:26:12,841 [INFO] [2224/8374] 处理: OurFamilyWizard Co-Parent App (id=497405393)
+2026-03-31 11:26:12,993 [INFO]   ✓ OurFamilyWizard Co-Parent App | 价格: Free | 类别: Productivity
+2026-03-31 11:26:14,532 [INFO] [2225/8374] 处理: Evernote - Notes Organizer (id=281796108)
+2026-03-31 11:26:14,698 [INFO]   ✓ Evernote - Notes Organizer | 价格: Free | 类别: Productivity
+2026-03-31 11:26:17,719 [INFO] [2226/8374] 处理: iTranslate Translator (id=288113403)
+2026-03-31 11:26:17,899 [INFO]   ✓ iTranslate Translator | 价格: Free | 类别: Productivity
+2026-03-31 11:26:20,160 [INFO] [2227/8374] 处理: TalkingParents: Co-Parent App (id=1092220726)
+2026-03-31 11:26:20,311 [INFO]   ✓ TalkingParents: Co-Parent App | 价格: Free | 类别: Productivity
+2026-03-31 11:26:22,335 [INFO] [2228/8374] 处理: LastPass Password Manager (id=324613447)
+2026-03-31 11:26:22,483 [INFO]   ✓ LastPass Password Manager | 价格: Free | 类别: Productivity
+2026-03-31 11:26:25,078 [INFO] [2229/8374] 处理: 1Password: Password Manager (id=1511601750)
+2026-03-31 11:26:25,216 [INFO]   ✓ 1Password: Password Manager | 价格: Free | 类别: Productivity
+2026-03-31 11:26:28,053 [INFO] [2230/8374] 处理: PDF Converter - Word to PDF (id=1515133401)
+2026-03-31 11:26:28,200 [INFO]   ✓ PDF Converter - Word to PDF | 价格: Free | 类别: Productivity
+2026-03-31 11:26:31,550 [INFO] [2231/8374] 处理: Authenticator App (id=1538761576)
+2026-03-31 11:26:31,740 [INFO]   ✓ Authenticator App | 价格: Free | 类别: Productivity
+2026-03-31 11:26:34,916 [INFO] [2232/8374] 处理: AI CleanKit: Phone Cleaner Pro (id=6751531813)
+2026-03-31 11:26:35,079 [INFO]   ✓ AI CleanKit: Phone Cleaner Pro | 价格: Free | 类别: Productivity
+2026-03-31 11:26:36,876 [INFO] [2233/8374] 处理: Beside (M1): AI Receptionist (id=6453521926)
+2026-03-31 11:26:37,038 [INFO]   ✓ Beside (M1): AI Receptionist | 价格: Free | 类别: Productivity
+2026-03-31 11:26:38,754 [INFO] [2234/8374] 处理: Notee: AI Note Taker (id=6745517667)
+2026-03-31 11:26:38,845 [INFO]   ✓ Notee: AI Note Taker | 价格: Free | 类别: Productivity
+2026-03-31 11:26:42,114 [INFO] [2235/8374] 处理: Bark - Parental Controls (id=1477619146)
+2026-03-31 11:26:42,230 [INFO]   ✓ Bark - Parental Controls | 价格: Free | 类别: Productivity
+2026-03-31 11:26:43,824 [INFO] [2236/8374] 处理: Cozi Family Organizer (id=407108860)
+2026-03-31 11:26:43,960 [INFO]   ✓ Cozi Family Organizer | 价格: Free | 类别: Productivity
+2026-03-31 11:26:46,873 [INFO] [2237/8374] 处理: AppClose (id=1019290876)
+2026-03-31 11:26:47,095 [INFO]   ✓ AppClose | 价格: Free | 类别: Productivity
+2026-03-31 11:26:49,258 [INFO] [2238/8374] 处理: Chatbot AI Assistant - Genie (id=1658377526)
+2026-03-31 11:26:49,362 [INFO]   ✓ Chatbot AI Assistant - Genie | 价格: Free | 类别: Productivity
+2026-03-31 11:26:51,846 [INFO] [2239/8374] 处理: Minutes: AI Meeting Note Taker (id=6504206467)
+2026-03-31 11:26:52,008 [INFO]   ✓ Minutes: AI Meeting Note Taker | 价格: Free | 类别: Productivity
+2026-03-31 11:26:55,204 [INFO] [2240/8374] 处理: Norton VPN – Fast & Secure (id=1095519285)
+2026-03-31 11:26:55,365 [INFO]   ✓ Norton VPN – Fast & Secure | 价格: Free | 类别: Productivity
+2026-03-31 11:26:57,351 [INFO] [2241/8374] 处理: PDF Expert: Editor & Converter (id=743974925)
+2026-03-31 11:26:57,500 [INFO]   ✓ PDF Expert: Editor & Converter | 价格: Free | 类别: Productivity
+2026-03-31 11:26:59,055 [INFO] [2242/8374] 处理: AI Chatbot: Pixi (id=6499593159)
+2026-03-31 11:26:59,266 [INFO]   ✓ AI Chatbot: Pixi | 价格: Free | 类别: Productivity
+2026-03-31 11:27:00,932 [INFO] [2243/8374] 处理: Wave AI Note Taker & Recorder (id=6451491556)
+2026-03-31 11:27:01,085 [INFO]   ✓ Wave AI Note Taker & Recorder | 价格: Free | 类别: Productivity
+2026-03-31 11:27:04,039 [INFO] [2244/8374] 处理: Speak & Translate - Translator (id=804641004)
+2026-03-31 11:27:04,202 [INFO]   ✓ Speak & Translate - Translator | 价格: Free | 类别: Productivity
+2026-03-31 11:27:06,779 [INFO] [2245/8374] 处理: Dashlane Password Manager (id=517914548)
+2026-03-31 11:27:06,933 [INFO]   ✓ Dashlane Password Manager | 价格: Free | 类别: Productivity
+2026-03-31 11:27:09,107 [INFO] [2246/8374] 处理: Smart AI Note Taker: CraftNote (id=6741078963)
+2026-03-31 11:27:09,211 [INFO]   ✓ Smart AI Note Taker: CraftNote | 价格: Free | 类别: Productivity
+2026-03-31 11:27:12,656 [INFO] [2247/8374] 处理: Cue - Smart AI Meeting Notes (id=6741517781)
+2026-03-31 11:27:12,833 [INFO]   ✓ Cue - Smart AI Meeting Notes | 价格: Free | 类别: Productivity
+2026-03-31 11:27:15,497 [INFO] [2248/8374] 处理: Mobile Scanner App - Scan PDF (id=1461747901)
+2026-03-31 11:27:15,683 [INFO]   ✓ Mobile Scanner App - Scan PDF | 价格: Free | 类别: Productivity
+2026-03-31 11:27:18,666 [INFO] [2249/8374] 处理: Documents: File Manager & Docs (id=364901807)
+2026-03-31 11:27:18,824 [INFO]   ✓ Documents: File Manager & Docs | 价格: Free | 类别: Productivity
+2026-03-31 11:27:20,681 [INFO] [2250/8374] 处理: SignNow: e-Signature app (id=489262811)
+2026-03-31 11:27:20,881 [INFO]   ✓ SignNow: e-Signature app | 价格: Free | 类别: Productivity
+2026-03-31 11:27:24,200 [INFO] [2251/8374] 处理: AI ChatBot Assistant: AskEasy (id=6447290444)
+2026-03-31 11:27:24,364 [INFO]   ✓ AI ChatBot Assistant: AskEasy | 价格: Free | 类别: Productivity
+2026-03-31 11:27:27,758 [INFO] [2252/8374] 处理: BimmerCode for BMW and MINI (id=1130787459)
+2026-03-31 11:27:27,878 [INFO]   ✓ BimmerCode for BMW and MINI | 价格: Free | 类别: Productivity
+2026-03-31 11:27:29,768 [INFO] [2253/8374] 处理: Land id® (id=1173937731)
+2026-03-31 11:27:29,949 [INFO]   ✓ Land id® | 价格: Free | 类别: Productivity
+2026-03-31 11:27:31,674 [INFO] [2254/8374] 处理: Shadowsearch: AI Assistant (id=1672003086)
+2026-03-31 11:27:31,856 [INFO]   ✓ Shadowsearch: AI Assistant | 价格: Free | 类别: Productivity
+2026-03-31 11:27:35,183 [INFO] [2255/8374] 处理: Zeely: AI Marketing Platform (id=1586861768)
+2026-03-31 11:27:35,339 [INFO]   ✓ Zeely: AI Marketing Platform | 价格: Free | 类别: Productivity
+2026-03-31 11:27:38,725 [INFO] [2256/8374] 处理: Text to Speech - Listen AI (id=6502340091)
+2026-03-31 11:27:38,859 [INFO]   ✓ Text to Speech - Listen AI | 价格: Free | 类别: Productivity
+2026-03-31 11:27:41,741 [INFO] [2257/8374] 处理: Evernote Scannable (id=883338188)
+2026-03-31 11:27:41,907 [INFO]   ✓ Evernote Scannable | 价格: Free | 类别: Productivity
+2026-03-31 11:27:43,414 [INFO] [2258/8374] 处理: Forma: PDF Document Editor (id=1658514439)
+2026-03-31 11:27:43,613 [INFO]   ✓ Forma: PDF Document Editor | 价格: Free | 类别: Productivity
+2026-03-31 11:27:45,273 [INFO] [2259/8374] 处理: Authenticator App - FastOTP (id=6480253221)
+2026-03-31 11:27:45,418 [INFO]   ✓ Authenticator App - FastOTP | 价格: Free | 类别: Productivity
+2026-03-31 11:27:48,233 [INFO] [2260/8374] 处理: Teleprompter.com (id=1420515755)
+2026-03-31 11:27:48,394 [INFO]   ✓ Teleprompter.com | 价格: Free | 类别: Productivity
+2026-03-31 11:27:51,304 [INFO] [2261/8374] 处理: Goldie: Appointment Scheduler (id=1068911190)
+2026-03-31 11:27:51,503 [INFO]   ✓ Goldie: Appointment Scheduler | 价格: Free | 类别: Productivity
+2026-03-31 11:27:53,171 [INFO] [2262/8374] 处理: Chatbot AI Assistant ChatPrime (id=6749363102)
+2026-03-31 11:27:53,278 [INFO]   ✓ Chatbot AI Assistant ChatPrime | 价格: Free | 类别: Productivity
+2026-03-31 11:27:55,199 [INFO] [2263/8374] 处理: Voicenotes AI Notes & Meetings (id=6483293628)
+2026-03-31 11:27:55,392 [INFO]   ✓ Voicenotes AI Notes & Meetings | 价格: Free | 类别: Productivity
+2026-03-31 11:27:58,157 [INFO] [2264/8374] 处理: Notability: AI Notes & PDF app (id=360593530)
+2026-03-31 11:27:58,350 [INFO]   ✓ Notability: AI Notes & PDF app | 价格: Free | 类别: Productivity
+2026-03-31 11:28:01,200 [INFO] [2265/8374] 处理: Genspark AI Workspace (id=6739554054)
+2026-03-31 11:28:01,383 [INFO]   ✓ Genspark AI Workspace | 价格: Free | 类别: Productivity
+2026-03-31 11:28:04,692 [INFO] [2266/8374] 处理: AI Chatbot & Design Assistant (id=6743953410)
+2026-03-31 11:28:04,898 [INFO]   ✓ AI Chatbot & Design Assistant | 价格: Free | 类别: Productivity
+2026-03-31 11:28:07,453 [INFO] [2267/8374] 处理: Poe – Fast AI Chat (id=1640745955)
+2026-03-31 11:28:07,580 [INFO]   ✓ Poe – Fast AI Chat | 价格: Free | 类别: Productivity
+2026-03-31 11:28:10,963 [INFO] [2268/8374] 处理: VPN by Private Internet Access (id=955626407)
+2026-03-31 11:28:11,112 [INFO]   ✓ VPN by Private Internet Access | 价格: Free | 类别: Productivity
+2026-03-31 11:28:13,401 [INFO] [2269/8374] 处理: TunnelBear: Secure VPN & Wifi (id=564842283)
+2026-03-31 11:28:13,571 [INFO]   ✓ TunnelBear: Secure VPN & Wifi | 价格: Free | 类别: Productivity
+2026-03-31 11:28:16,506 [INFO] [2270/8374] 处理: BimmerLink (id=1065360416)
+2026-03-31 11:28:16,683 [INFO]   ✓ BimmerLink | 价格: Free | 类别: Productivity
+2026-03-31 11:28:18,669 [INFO] [2271/8374] 处理: TickTick:To-Do List & Calendar (id=626144601)
+2026-03-31 11:28:18,809 [INFO]   ✓ TickTick:To-Do List & Calendar | 价格: Free | 类别: Productivity
+2026-03-31 11:28:22,061 [INFO] [2272/8374] 处理: AI Chatbot with Сhat - Chatrun (id=6446992925)
+2026-03-31 11:28:22,160 [INFO]   ✓ AI Chatbot with Сhat - Chatrun | 价格: Free | 类别: Productivity
+2026-03-31 11:28:25,327 [INFO] [2273/8374] 处理: Echo – AI Meeting Note Taker (id=6738732089)
+2026-03-31 11:28:25,451 [INFO]   ✓ Echo – AI Meeting Note Taker | 价格: Free | 类别: Productivity
+2026-03-31 11:28:27,065 [INFO] [2274/8374] 处理: HyNote: AI Note Taker, Summary (id=6478655348)
+2026-03-31 11:28:27,493 [INFO]   ✓ HyNote: AI Note Taker, Summary | 价格: Free | 类别: Productivity
+2026-03-31 11:28:30,328 [INFO] [2275/8374] 处理: QR Code Scanner Pro * (id=6740634101)
+2026-03-31 11:28:30,478 [INFO]   ✓ QR Code Scanner Pro * | 价格: Free | 类别: Productivity
+2026-03-31 11:28:33,385 [INFO] [2276/8374] 处理: MaxProtection VPN PRO (id=6743002311)
+2026-03-31 11:28:33,634 [INFO]   ✓ MaxProtection VPN PRO | 价格: Free | 类别: Productivity
+2026-03-31 11:28:36,844 [INFO] [2277/8374] 处理: Lumy (id=908905093)
+2026-03-31 11:28:36,981 [INFO]   ✓ Lumy | 价格: $6.99 | 类别: Photo & Video
+2026-03-31 11:28:41,078 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 11:28:41,079 [INFO]   ✓ 内购: 3 项
+2026-03-31 11:28:44,144 [INFO] [2278/8374] 处理: PhotoPills (id=596026805)
+2026-03-31 11:28:44,247 [INFO]   ✓ PhotoPills | 价格: $10.99 | 类别: Photo & Video
+2026-03-31 11:28:51,001 [INFO] [2279/8374] 处理: PromptSmart Pro - Teleprompter (id=894811756)
+2026-03-31 11:28:51,226 [INFO]   ✓ PromptSmart Pro - Teleprompter | 价格: $29.99 | 类别: Photo & Video
+2026-03-31 11:28:54,416 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:28:54,418 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:28:56,744 [INFO] [2280/8374] 处理: Rarevision VHS: Retro Cam (id=679454835)
+2026-03-31 11:28:56,929 [INFO]   ✓ Rarevision VHS: Retro Cam | 价格: $5.99 | 类别: Photo & Video
+2026-03-31 11:29:01,681 [INFO] [2281/8374] 处理: Pro Camera by Moment (id=927098908)
+2026-03-31 11:29:01,897 [INFO]   ✓ Pro Camera by Moment | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:29:05,573 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 11:29:05,574 [INFO]   ✓ 内购: 6 项
+2026-03-31 11:29:09,053 [INFO] [2282/8374] 处理: LumaFusion (id=1062022008)
+2026-03-31 11:29:09,181 [INFO]   ✓ LumaFusion | 价格: $29.99 | 类别: Photo & Video
+2026-03-31 11:29:13,332 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 11:29:13,333 [INFO]   ✓ 内购: 6 项
+2026-03-31 11:29:16,113 [INFO] [2283/8374] 处理: Stop Motion Studio Pro (id=640564761)
+2026-03-31 11:29:16,281 [INFO]   ✓ Stop Motion Studio Pro | 价格: $5.99 | 类别: Photo & Video
+2026-03-31 11:29:21,615 [INFO] [2284/8374] 处理: NightCap Camera (id=754105884)
+2026-03-31 11:29:21,765 [INFO]   ✓ NightCap Camera | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:29:26,505 [INFO] [2285/8374] 处理: Slow Shutter Cam (id=357404131)
+2026-03-31 11:29:26,661 [INFO]   ✓ Slow Shutter Cam | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:29:30,996 [INFO] [2286/8374] 处理: iWebTV PRO (id=1453647914)
+2026-03-31 11:29:31,134 [INFO]   ✓ iWebTV PRO | 价格: $6.99 | 类别: Photo & Video
+2026-03-31 11:29:34,785 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:29:34,786 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:29:34,786 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 11:29:34,786 [INFO]      [iap] Premium Services: $9.99 → $0.99
+2026-03-31 11:29:38,264 [INFO] [2287/8374] 处理: Print to Size (id=949490225)
+2026-03-31 11:29:38,403 [INFO]   ✓ Print to Size | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:29:42,528 [INFO] [2288/8374] 处理: myLightMeter PRO (id=583922375)
+2026-03-31 11:29:42,669 [INFO]   ✓ myLightMeter PRO | 价格: $3.99 | 类别: Photo & Video
+2026-03-31 11:29:48,402 [INFO] [2289/8374] 处理: ProCam - Pro Camera (id=730712409)
+2026-03-31 11:29:48,562 [INFO]   ✓ ProCam - Pro Camera | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:29:50,968 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 11:29:50,969 [INFO]   ✓ 内购: 6 项
+2026-03-31 11:29:53,503 [INFO] [2290/8374] 处理: CineTemp (id=6738967033)
+2026-03-31 11:29:53,645 [INFO]   ✓ CineTemp | 价格: $7.99 | 类别: Photo & Video
+2026-03-31 11:29:59,341 [INFO] [2291/8374] 处理: BerryFilm - Korean Style Cam (id=6741474933)
+2026-03-31 11:29:59,445 [INFO]   ✓ BerryFilm - Korean Style Cam | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:30:04,628 [INFO] [2292/8374] 处理: Kino - Pro Video Camera (id=6472380172)
+2026-03-31 11:30:04,753 [INFO]   ✓ Kino - Pro Video Camera | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:30:10,589 [INFO] [2293/8374] 处理: Cadrage Director's Viewfinder (id=793232740)
+2026-03-31 11:30:10,780 [INFO]   ✓ Cadrage Director's Viewfinder | 价格: $19.99 | 类别: Photo & Video
+2026-03-31 11:30:16,321 [INFO] [2294/8374] 处理: Photo Scanner Plus (id=951627022)
+2026-03-31 11:30:16,492 [INFO]   ✓ Photo Scanner Plus | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:30:19,733 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:30:19,734 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:30:19,734 [INFO]   🔥 降价！共 6 项变动
+2026-03-31 11:30:19,734 [INFO]      [iap] Photomyne account: $47.99 → $39.99
+2026-03-31 11:30:19,735 [INFO]      [iap] Photomyne account: $47.99 → $9.99
+2026-03-31 11:30:19,735 [INFO]      [iap] Photomyne account: $47.99 → $17.99
+2026-03-31 11:30:19,735 [INFO]      [iap] Photomyne account: $47.99 → $1.99
+2026-03-31 11:30:19,735 [INFO]      [iap] Photomyne account: $47.99 → $17.99
+2026-03-31 11:30:19,735 [INFO]      [iap] Photomyne account: $47.99 → $19.99
+2026-03-31 11:30:21,911 [INFO] [2295/8374] 处理: NDI Camera: Easy Streaming (id=1477266080)
+2026-03-31 11:30:22,116 [INFO]   ✓ NDI Camera: Easy Streaming | 价格: $19.99 | 类别: Photo & Video
+2026-03-31 11:30:27,245 [INFO] [2296/8374] 处理: filmhwa - @hwa.min's filter (id=6443723657)
+2026-03-31 11:30:27,356 [INFO]   ✓ filmhwa - @hwa.min's filter | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:30:32,915 [INFO] [2297/8374] 处理: Superimpose X (id=1304177471)
+2026-03-31 11:30:33,026 [INFO]   ✓ Superimpose X | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:30:36,378 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 11:30:36,379 [INFO]   ✓ 内购: 3 项
+2026-03-31 11:30:38,761 [INFO] [2298/8374] 处理: SP Camera (id=603037910)
+2026-03-31 11:30:38,907 [INFO]   ✓ SP Camera | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:30:45,058 [INFO] [2299/8374] 处理: Massive Dev Chart Timer (id=402405770)
+2026-03-31 11:30:45,156 [INFO]   ✓ Massive Dev Chart Timer | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:30:49,947 [INFO] [2300/8374] 处理: 8mm Vintage Camera (id=406541444)
+2026-03-31 11:30:50,117 [INFO]   ✓ 8mm Vintage Camera | 价格: $3.99 | 类别: Photo & Video
+2026-03-31 11:30:52,319 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:30:52,320 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:30:52,320 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 11:30:52,320 [INFO]      [iap] 8mm Pro: $39.99 → $9.99
+2026-03-31 11:30:55,395 [INFO] [2301/8374] 处理: TinType by Hipstamatic (id=926177061)
+2026-03-31 11:30:55,494 [INFO]   ✓ TinType by Hipstamatic | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:31:00,985 [INFO] [2302/8374] 处理: Context Camera (id=662559044)
+2026-03-31 11:31:01,076 [INFO]   ✓ Context Camera | 价格: $5.99 | 类别: Photo & Video
+2026-03-31 11:31:06,714 [INFO] [2303/8374] 处理: WristShorts for YouTube (id=6739179322)
+2026-03-31 11:31:06,838 [INFO]   ✓ WristShorts for YouTube | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:31:11,963 [INFO] [2304/8374] 处理: Pixelmator Classic iOS (id=924695435)
+2026-03-31 11:31:12,063 [INFO]   ✓ Pixelmator Classic iOS | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:31:17,381 [INFO] [2305/8374] 处理: Artemis Director's Viewfinder (id=1164523253)
+2026-03-31 11:31:17,563 [INFO]   ✓ Artemis Director's Viewfinder | 价格: $29.99 | 类别: Photo & Video
+2026-03-31 11:31:23,841 [INFO] [2306/8374] 处理: ProShot (id=924438909)
+2026-03-31 11:31:23,935 [INFO]   ✓ ProShot | 价格: $7.99 | 类别: Photo & Video
+2026-03-31 11:31:27,174 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:31:27,175 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:31:27,175 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 11:31:27,175 [INFO]      [iap] Donation: $4.99 → $0.99
+2026-03-31 11:31:29,179 [INFO] [2307/8374] 处理: NotanIzer (id=1169086981)
+2026-03-31 11:31:29,396 [INFO]   ✓ NotanIzer | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:31:34,555 [INFO] [2308/8374] 处理: Pocket Light Meter (id=381698089)
+2026-03-31 11:31:34,690 [INFO]   ✓ Pocket Light Meter | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:31:38,227 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 11:31:38,228 [INFO]   ✓ 内购: 3 项
+2026-03-31 11:31:41,257 [INFO] [2309/8374] 处理: The Photographer's Ephemeris (id=366195670)
+2026-03-31 11:31:41,373 [INFO]   ✓ The Photographer's Ephemeris | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:31:45,101 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 11:31:45,102 [INFO]   ✓ 内购: 3 项
+2026-03-31 11:31:47,219 [INFO] [2310/8374] 处理: Beastcam - Pro Camera (id=1450650398)
+2026-03-31 11:31:47,423 [INFO]   ✓ Beastcam - Pro Camera | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:31:52,316 [INFO] [2311/8374] 处理: Bluetooth+ for Blackmagic (id=1376947780)
+2026-03-31 11:31:52,466 [INFO]   ✓ Bluetooth+ for Blackmagic | 价格: $5.99 | 类别: Photo & Video
+2026-03-31 11:31:54,420 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:31:54,421 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:31:56,783 [INFO] [2312/8374] 处理: TV Cast Pro for LG webOS (id=1126058329)
+2026-03-31 11:31:56,871 [INFO]   ✓ TV Cast Pro for LG webOS | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:32:02,551 [INFO] [2313/8374] 处理: Viewfinder Preview (id=1216484605)
+2026-03-31 11:32:02,656 [INFO]   ✓ Viewfinder Preview | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:32:07,784 [INFO] [2314/8374] 处理: Distressed FX : Photo Editor (id=585702631)
+2026-03-31 11:32:07,920 [INFO]   ✓ Distressed FX : Photo Editor | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:32:10,160 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:32:10,162 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:32:11,875 [INFO] [2315/8374] 处理: Cute CUT Pro (id=618790117)
+2026-03-31 11:32:12,014 [INFO]   ✓ Cute CUT Pro | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:32:15,575 [INFO] [2316/8374] 处理: WristTube+ Player for YouTube (id=6698876690)
+2026-03-31 11:32:15,661 [INFO]   ✓ WristTube+ Player for YouTube | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:32:20,070 [INFO] [2317/8374] 处理: TV Cast Pro for Sony TV (id=1198515341)
+2026-03-31 11:32:20,206 [INFO]   ✓ TV Cast Pro for Sony TV | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:32:26,049 [INFO] [2318/8374] 处理: FACEinHOLE® (id=320636131)
+2026-03-31 11:32:26,195 [INFO]   ✓ FACEinHOLE® | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:32:30,091 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 11:32:30,093 [INFO]   ✓ 内购: 10 项
+2026-03-31 11:32:32,568 [INFO] [2319/8374] 处理: kirakira+ (id=955687901)
+2026-03-31 11:32:32,663 [INFO]   ✓ kirakira+ | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:32:37,994 [INFO] [2320/8374] 处理: iLightningCam 2 (id=1016445476)
+2026-03-31 11:32:38,139 [INFO]   ✓ iLightningCam 2 | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:32:43,495 [INFO] [2321/8374] 处理: Spherium (id=1502130060)
+2026-03-31 11:32:43,652 [INFO]   ✓ Spherium | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:32:48,714 [INFO] [2322/8374] 处理: ShutterCount Mobile (id=1084325249)
+2026-03-31 11:32:48,814 [INFO]   ✓ ShutterCount Mobile | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:32:52,585 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:32:52,587 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:32:55,529 [INFO] [2323/8374] 处理: Face Swap Live (id=1042987645)
+2026-03-31 11:32:55,661 [INFO]   ✓ Face Swap Live | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:33:01,949 [INFO] [2324/8374] 处理: Timestamp Photo and Video pro (id=926015463)
+2026-03-31 11:33:02,099 [INFO]   ✓ Timestamp Photo and Video pro | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:33:07,111 [INFO] [2325/8374] 处理: TV Cast Pro for Samsung TV (id=878642174)
+2026-03-31 11:33:07,245 [INFO]   ✓ TV Cast Pro for Samsung TV | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:33:12,821 [INFO] [2326/8374] 处理: Wallpaper Expert Pro (id=1555397838)
+2026-03-31 11:33:12,967 [INFO]   ✓ Wallpaper Expert Pro | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:33:18,960 [INFO] [2327/8374] 处理: Sun Surveyor (Sun & Moon) (id=525176875)
+2026-03-31 11:33:19,115 [INFO]   ✓ Sun Surveyor (Sun & Moon) | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:33:24,374 [INFO] [2328/8374] 处理: Aquarium Camera (id=1279335875)
+2026-03-31 11:33:24,474 [INFO]   ✓ Aquarium Camera | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:33:29,988 [INFO] [2329/8374] 处理: Timestamp Camera Pro (id=832390059)
+2026-03-31 11:33:30,087 [INFO]   ✓ Timestamp Camera Pro | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:33:35,496 [INFO] [2330/8374] 处理: ViewExif (id=945320815)
+2026-03-31 11:33:35,654 [INFO]   ✓ ViewExif | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:33:40,223 [INFO] [2331/8374] 处理: Litchi for DJI Drones (id=1059218666)
+2026-03-31 11:33:40,372 [INFO]   ✓ Litchi for DJI Drones | 价格: $24.99 | 类别: Photo & Video
+2026-03-31 11:33:45,467 [INFO] [2332/8374] 处理: Camera Remote Watch (id=1348597095)
+2026-03-31 11:33:45,604 [INFO]   ✓ Camera Remote Watch | 价格: $2.49 | 类别: Photo & Video
+2026-03-31 11:33:50,024 [INFO] [2333/8374] 处理: Distressed FX : Plus (id=1441905750)
+2026-03-31 11:33:50,162 [INFO]   ✓ Distressed FX : Plus | 价格: $19.99 | 类别: Photo & Video
+2026-03-31 11:33:55,732 [INFO] [2334/8374] 处理: Face & Body Photo editor (id=414469628)
+2026-03-31 11:33:55,862 [INFO]   ✓ Face & Body Photo editor | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:34:02,715 [INFO] [2335/8374] 处理: B.ROLL - Youth Filter Camera (id=6504192378)
+2026-03-31 11:34:02,938 [INFO]   ✓ B.ROLL - Youth Filter Camera | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:34:08,442 [INFO] [2336/8374] 处理: DotPress (id=6760323750)
+2026-03-31 11:34:08,544 [INFO]   ✓ DotPress | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:34:14,500 [INFO] [2337/8374] 处理: Average Camera Pro (id=415577873)
+2026-03-31 11:34:14,609 [INFO]   ✓ Average Camera Pro | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:34:21,073 [INFO] [2338/8374] 处理: Alpha Remote Controller (id=6448733047)
+2026-03-31 11:34:21,353 [INFO]   ✓ Alpha Remote Controller | 价格: $5.99 | 类别: Photo & Video
+2026-03-31 11:34:28,060 [INFO] [2339/8374] 处理: Beep - Censor videos easily (id=1103906352)
+2026-03-31 11:34:28,452 [INFO]   ✓ Beep - Censor videos easily | 价格: $7.99 | 类别: Photo & Video
+2026-03-31 11:34:33,775 [INFO] [2340/8374] 处理: Gudak Cam (id=1237692856)
+2026-03-31 11:34:33,938 [INFO]   ✓ Gudak Cam | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:34:36,119 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:34:36,120 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:34:37,956 [INFO] [2341/8374] 处理: Reciprocity Timer (id=459691262)
+2026-03-31 11:34:38,107 [INFO]   ✓ Reciprocity Timer | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:34:41,282 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:34:41,284 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:34:44,339 [INFO] [2342/8374] 处理: EE35 Film Camera (id=1313164055)
+2026-03-31 11:34:44,534 [INFO]   ✓ EE35 Film Camera | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:34:50,539 [INFO] [2343/8374] 处理: ProMovie Recorder + (id=1184204602)
+2026-03-31 11:34:50,695 [INFO]   ✓ ProMovie Recorder + | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:34:57,942 [INFO] [2344/8374] 处理: Color Splash (id=304871603)
+2026-03-31 11:34:58,161 [INFO]   ✓ Color Splash | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:35:03,890 [INFO] [2345/8374] 处理: Promptus (id=6752399792)
+2026-03-31 11:35:04,143 [INFO]   ✓ Promptus | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:35:09,776 [INFO] [2346/8374] 处理: TV Cast Pro for Fire TV (id=1125003546)
+2026-03-31 11:35:09,929 [INFO]   ✓ TV Cast Pro for Fire TV | 价格: $9.99 | 类别: Photo & Video
+2026-03-31 11:35:16,514 [INFO] [2347/8374] 处理: Action Control (id=6458733064)
+2026-03-31 11:35:16,777 [INFO]   ✓ Action Control | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:35:22,583 [INFO] [2348/8374] 处理: White Balance Meter AI - KEV (id=1494197457)
+2026-03-31 11:35:22,747 [INFO]   ✓ White Balance Meter AI - KEV | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:35:27,642 [INFO] [2349/8374] 处理: Photo Manager Pro (id=1076480192)
+2026-03-31 11:35:27,740 [INFO]   ✓ Photo Manager Pro | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:35:33,929 [INFO] [2350/8374] 处理: Vintage Scene (id=382686992)
+2026-03-31 11:35:34,083 [INFO]   ✓ Vintage Scene | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:35:39,549 [INFO] [2351/8374] 处理: PXL2000 - 80s Pixelvision Cam (id=1044865876)
+2026-03-31 11:35:39,646 [INFO]   ✓ PXL2000 - 80s Pixelvision Cam | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:35:45,035 [INFO] [2352/8374] 处理: TruFilm (id=6757341215)
+2026-03-31 11:35:45,121 [INFO]   ✓ TruFilm | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:35:52,179 [INFO] [2353/8374] 处理: TesCam Studio (id=6756801027)
+2026-03-31 11:35:52,337 [INFO]   ✓ TesCam Studio | 价格: $5.99 | 类别: Photo & Video
+2026-03-31 11:35:57,881 [INFO] [2354/8374] 处理: SpatialCamera (id=6450244530)
+2026-03-31 11:35:58,021 [INFO]   ✓ SpatialCamera | 价格: $3.99 | 类别: Photo & Video
+2026-03-31 11:36:03,849 [INFO] [2355/8374] 处理: Alpha Focus Bracketing (id=6504301194)
+2026-03-31 11:36:03,955 [INFO]   ✓ Alpha Focus Bracketing | 价格: $29.99 | 类别: Photo & Video
+2026-03-31 11:36:10,129 [INFO] [2356/8374] 处理: iWatermark - Watermark Photos (id=357577420)
+2026-03-31 11:36:10,220 [INFO]   ✓ iWatermark - Watermark Photos | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:36:16,022 [INFO] [2357/8374] 处理: Photoblend Pro blend your pics (id=734258457)
+2026-03-31 11:36:16,214 [INFO]   ✓ Photoblend Pro blend your pics | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:36:21,692 [INFO] [2358/8374] 处理: iFocus Stacking (id=6752693470)
+2026-03-31 11:36:21,806 [INFO]   ✓ iFocus Stacking | 价格: $34.99 | 类别: Photo & Video
+2026-03-31 11:36:27,360 [INFO] [2359/8374] 处理: CameraBag 2 (id=582697694)
+2026-03-31 11:36:27,489 [INFO]   ✓ CameraBag 2 | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:36:33,468 [INFO] [2360/8374] 处理: NDI PTZ Control (id=1665029565)
+2026-03-31 11:36:33,596 [INFO]   ✓ NDI PTZ Control | 价格: $19.99 | 类别: Photo & Video
+2026-03-31 11:36:40,641 [INFO] [2361/8374] 处理: Live Studio - All-in-One (id=1046360736)
+2026-03-31 11:36:40,739 [INFO]   ✓ Live Studio - All-in-One | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:36:47,161 [INFO] [2362/8374] 处理: Video Armor Body Camera for Police, Security, and Law Enforcement (id=910716672)
+2026-03-31 11:36:47,251 [INFO]   ✓ Video Armor Body Camera for Police, Security, and Law Enforcement | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:36:53,981 [INFO] [2363/8374] 处理: Flight Plan for DJI Drones (id=1076425143)
+2026-03-31 11:36:54,131 [INFO]   ✓ Flight Plan for DJI Drones | 价格: $13.99 | 类别: Photo & Video
+2026-03-31 11:36:58,701 [INFO] [2364/8374] 处理: Video Compressor - HD (id=1444905376)
+2026-03-31 11:36:58,853 [INFO]   ✓ Video Compressor - HD | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:37:04,735 [INFO] [2365/8374] 处理: Edge Lighting (id=1607070501)
+2026-03-31 11:37:04,912 [INFO]   ✓ Edge Lighting | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:37:09,043 [INFO] [2366/8374] 处理: Dubblr (id=6759396655)
+2026-03-31 11:37:09,194 [INFO]   ✓ Dubblr | 价格: $1.99 | 类别: Photo & Video
+2026-03-31 11:37:15,144 [INFO] [2367/8374] 处理: AirPly Camera (id=6759407576)
+2026-03-31 11:37:15,285 [INFO]   ✓ AirPly Camera | 价格: $4.99 | 类别: Photo & Video
+2026-03-31 11:37:21,920 [INFO] [2368/8374] 处理: Motion Extraction Camera (id=6741587545)
+2026-03-31 11:37:22,093 [INFO]   ✓ Motion Extraction Camera | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:37:27,900 [INFO] [2369/8374] 处理: Deep Movie - Pro Video Camera (id=1611565383)
+2026-03-31 11:37:28,037 [INFO]   ✓ Deep Movie - Pro Video Camera | 价格: $0.99 | 类别: Photo & Video
+2026-03-31 11:37:33,678 [INFO] [2370/8374] 处理: SlideCrop: Clean & Crop Slides (id=6759816828)
+2026-03-31 11:37:33,833 [INFO]   ✓ SlideCrop: Clean & Crop Slides | 价格: $2.99 | 类别: Photo & Video
+2026-03-31 11:37:35,864 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:37:35,866 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:37:38,804 [INFO] [2371/8374] 处理: Edits: Video Editor (id=6738967378)
+2026-03-31 11:37:38,902 [INFO]   ✓ Edits: Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:41,082 [INFO] [2372/8374] 处理: Twitch: Live Streaming (id=460177396)
+2026-03-31 11:37:41,231 [INFO]   ✓ Twitch: Live Streaming | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:44,679 [INFO] [2373/8374] 处理: AI Video - AI Video Generator (id=6478868302)
+2026-03-31 11:37:44,772 [INFO]   ✓ AI Video - AI Video Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:47,138 [INFO] [2374/8374] 处理: Picsart AI Photo Editor, Video (id=587366035)
+2026-03-31 11:37:47,285 [INFO]   ✓ Picsart AI Photo Editor, Video | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:50,460 [INFO] [2375/8374] 处理: KICK - Live Streaming (id=6446202561)
+2026-03-31 11:37:50,615 [INFO]   ✓ KICK - Live Streaming | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:52,551 [INFO] [2376/8374] 处理: Pose: AI Photo Video Generator (id=6737417022)
+2026-03-31 11:37:52,683 [INFO]   ✓ Pose: AI Photo Video Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:55,496 [INFO] [2377/8374] 处理: TikTok Studio (id=6478151677)
+2026-03-31 11:37:55,653 [INFO]   ✓ TikTok Studio | 价格: Free | 类别: Photo & Video
+2026-03-31 11:37:58,246 [INFO] [2378/8374] 处理: YouTube Studio (id=888530356)
+2026-03-31 11:37:58,402 [INFO]   ✓ YouTube Studio | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:00,395 [INFO] [2379/8374] 处理: Lightroom: AI Photo Editor (id=878783582)
+2026-03-31 11:38:00,524 [INFO]   ✓ Lightroom: AI Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:03,634 [INFO] [2380/8374] 处理: Canon PRINT (id=664425773)
+2026-03-31 11:38:03,769 [INFO]   ✓ Canon PRINT | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:06,353 [INFO] [2381/8374] 处理: InShot - Video Editor (id=997362197)
+2026-03-31 11:38:06,598 [INFO]   ✓ InShot - Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:08,440 [INFO] [2382/8374] 处理: Hypic - Photo Editor & AI Art (id=1644042837)
+2026-03-31 11:38:08,533 [INFO]   ✓ Hypic - Photo Editor & AI Art | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:10,169 [INFO] [2383/8374] 处理: Amazon Photos: Photo & Video (id=621574163)
+2026-03-31 11:38:10,309 [INFO]   ✓ Amazon Photos: Photo & Video | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:12,928 [INFO] [2384/8374] 处理: ism: digital camera & filter (id=1580668065)
+2026-03-31 11:38:13,110 [INFO]   ✓ ism: digital camera & filter | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:15,635 [INFO] [2385/8374] 处理: Dazz Cam - Vintage Camera (id=1422471180)
+2026-03-31 11:38:15,785 [INFO]   ✓ Dazz Cam - Vintage Camera | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:18,074 [INFO] [2386/8374] 处理: PhotoCircle (id=517539894)
+2026-03-31 11:38:18,231 [INFO]   ✓ PhotoCircle | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:21,049 [INFO] [2387/8374] 处理: Epson Smart Panel (id=1477796092)
+2026-03-31 11:38:21,247 [INFO]   ✓ Epson Smart Panel | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:22,907 [INFO] [2388/8374] 处理: Photoroom: AI Photo Editor (id=1455009060)
+2026-03-31 11:38:23,072 [INFO]   ✓ Photoroom: AI Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:25,522 [INFO] [2389/8374] 处理: Snapseed: Photo Editor (id=439438619)
+2026-03-31 11:38:25,782 [INFO]   ✓ Snapseed: Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:28,385 [INFO] [2390/8374] 处理: DJI Mimo (id=1431720653)
+2026-03-31 11:38:28,544 [INFO]   ✓ DJI Mimo | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:31,754 [INFO] [2391/8374] 处理: SCRL: Photo Collage Maker (id=1289057196)
+2026-03-31 11:38:31,927 [INFO]   ✓ SCRL: Photo Collage Maker | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:34,880 [INFO] [2392/8374] 处理: FaceLab: Face Age, Hair Filter (id=1530776865)
+2026-03-31 11:38:35,178 [INFO]   ✓ FaceLab: Face Age, Hair Filter | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:38,306 [INFO] [2393/8374] 处理: Meitu- AI Photo & Video Editor (id=416048305)
+2026-03-31 11:38:38,462 [INFO]   ✓ Meitu- AI Photo & Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:40,826 [INFO] [2394/8374] 处理: Adobe Premiere: Video Editor (id=6742757464)
+2026-03-31 11:38:40,977 [INFO]   ✓ Adobe Premiere: Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:44,431 [INFO] [2395/8374] 处理: Captions: AI Edits Your Video (id=1541407007)
+2026-03-31 11:38:44,570 [INFO]   ✓ Captions: AI Edits Your Video | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:46,920 [INFO] [2396/8374] 处理: FreePrints – Print Photos (id=518158653)
+2026-03-31 11:38:47,067 [INFO]   ✓ FreePrints – Print Photos | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:48,805 [INFO] [2397/8374] 处理: Remini - AI Photo Enhancer (id=1470373330)
+2026-03-31 11:38:48,966 [INFO]   ✓ Remini - AI Photo Enhancer | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:50,684 [INFO] [2398/8374] 处理: Blackmagic Camera (id=6449580241)
+2026-03-31 11:38:50,887 [INFO]   ✓ Blackmagic Camera | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:53,970 [INFO] [2399/8374] 处理: VideoGPT - AI Video Generator (id=6451396274)
+2026-03-31 11:38:54,062 [INFO]   ✓ VideoGPT - AI Video Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:55,929 [INFO] [2400/8374] 处理: Dance AI: AI Dance Video Maker (id=6758041184)
+2026-03-31 11:38:56,120 [INFO]   ✓ Dance AI: AI Dance Video Maker | 价格: Free | 类别: Photo & Video
+2026-03-31 11:38:58,364 [INFO] [2401/8374] 处理: Airbrush: Face Photo Editor (id=998411110)
+2026-03-31 11:38:58,525 [INFO]   ✓ Airbrush: Face Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:01,873 [INFO] [2402/8374] 处理: Skylight App (id=1438779037)
+2026-03-31 11:39:01,980 [INFO]   ✓ Skylight App | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:04,142 [INFO] [2403/8374] 处理: Retake AI Face & Selfie Editor (id=6466298983)
+2026-03-31 11:39:04,263 [INFO]   ✓ Retake AI Face & Selfie Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:07,072 [INFO] [2404/8374] 处理: VLC media player (id=650377962)
+2026-03-31 11:39:07,193 [INFO]   ✓ VLC media player | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:10,497 [INFO] [2405/8374] 处理: AI Photo Generator: ARTA (id=1642969698)
+2026-03-31 11:39:10,613 [INFO]   ✓ AI Photo Generator: ARTA | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:13,046 [INFO] [2406/8374] 处理: Canon Camera Connect (id=944097177)
+2026-03-31 11:39:13,196 [INFO]   ✓ Canon Camera Connect | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:14,801 [INFO] [2407/8374] 处理: ElevenLabs: AI Voice Generator (id=6743162587)
+2026-03-31 11:39:14,944 [INFO]   ✓ ElevenLabs: AI Voice Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:17,877 [INFO] [2408/8374] 处理: AI Maker: Photo Video Filters (id=6753982990)
+2026-03-31 11:39:18,111 [INFO]   ✓ AI Maker: Photo Video Filters | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:21,073 [INFO] [2409/8374] 处理: Adobe Photoshop: Photo Editor (id=1457771281)
+2026-03-31 11:39:21,220 [INFO]   ✓ Adobe Photoshop: Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:23,104 [INFO] [2410/8374] 处理: Prequel: Photo & Video Editor (id=1325756279)
+2026-03-31 11:39:23,303 [INFO]   ✓ Prequel: Photo & Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:26,501 [INFO] [2411/8374] 处理: AI Catch: AI Video Generator (id=6739276631)
+2026-03-31 11:39:26,858 [INFO]   ✓ AI Catch: AI Video Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:29,841 [INFO] [2412/8374] 处理: Frameo (id=1179744119)
+2026-03-31 11:39:29,980 [INFO]   ✓ Frameo | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:32,750 [INFO] [2413/8374] 处理: GIPHY: The GIF Search Engine (id=974748812)
+2026-03-31 11:39:32,918 [INFO]   ✓ GIPHY: The GIF Search Engine | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:35,544 [INFO] [2414/8374] 处理: AI Photo Video Editor, Enhance (id=6447604690)
+2026-03-31 11:39:35,687 [INFO]   ✓ AI Photo Video Editor, Enhance | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:37,672 [INFO] [2415/8374] 处理: EPIK - AI Photo & Video Editor (id=1577705074)
+2026-03-31 11:39:37,777 [INFO]   ✓ EPIK - AI Photo & Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:39,787 [INFO] [2416/8374] 处理: PicCollage: Magic Photo Editor (id=448639966)
+2026-03-31 11:39:39,890 [INFO]   ✓ PicCollage: Magic Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:41,867 [INFO] [2417/8374] 处理: Collage Maker - LiveCollage (id=530957474)
+2026-03-31 11:39:42,030 [INFO]   ✓ Collage Maker - LiveCollage | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:43,906 [INFO] [2418/8374] 处理: Toonapp: AI Photo & Video Art (id=1540719743)
+2026-03-31 11:39:44,053 [INFO]   ✓ Toonapp: AI Photo & Video Art | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:46,182 [INFO] [2419/8374] 处理: BeautyPlus-Selfie Photo Editor (id=622434129)
+2026-03-31 11:39:46,388 [INFO]   ✓ BeautyPlus-Selfie Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:48,952 [INFO] [2420/8374] 处理: Tezza: Aesthetic Photo Editor (id=1393061654)
+2026-03-31 11:39:49,053 [INFO]   ✓ Tezza: Aesthetic Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:51,515 [INFO] [2421/8374] 处理: Insta360 (id=1491299654)
+2026-03-31 11:39:51,669 [INFO]   ✓ Insta360 | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:53,878 [INFO] [2422/8374] 处理: Video Up! Video Editor & Maker (id=1585824635)
+2026-03-31 11:39:54,228 [INFO]   ✓ Video Up! Video Editor & Maker | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:55,753 [INFO] [2423/8374] 处理: invideo AI: AI Video Generator (id=6471394316)
+2026-03-31 11:39:55,895 [INFO]   ✓ invideo AI: AI Video Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:39:58,192 [INFO] [2424/8374] 处理: Photo Scan App by Photomyne (id=1037784828)
+2026-03-31 11:39:58,346 [INFO]   ✓ Photo Scan App by Photomyne | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:00,358 [INFO] [2425/8374] 处理: Aura Frames (id=990062908)
+2026-03-31 11:40:00,640 [INFO]   ✓ Aura Frames | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:03,049 [INFO] [2426/8374] 处理: VSCO: Photo Editor & Presets (id=588013838)
+2026-03-31 11:40:03,309 [INFO]   ✓ VSCO: Photo Editor & Presets | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:06,776 [INFO] [2427/8374] 处理: Wink: Video Enhancer & Editor (id=1594288016)
+2026-03-31 11:40:06,935 [INFO]   ✓ Wink: Video Enhancer & Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:10,406 [INFO] [2428/8374] 处理: DJI Fly (id=1479649251)
+2026-03-31 11:40:10,555 [INFO]   ✓ DJI Fly | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:12,060 [INFO] [2429/8374] 处理: Alight Motion (id=1459833443)
+2026-03-31 11:40:12,252 [INFO]   ✓ Alight Motion | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:15,575 [INFO] [2430/8374] 处理: RunwayML (id=1665024375)
+2026-03-31 11:40:15,755 [INFO]   ✓ RunwayML | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:18,872 [INFO] [2431/8374] 处理: Splice - Video Editor & Maker (id=409838725)
+2026-03-31 11:40:19,039 [INFO]   ✓ Splice - Video Editor & Maker | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:21,241 [INFO] [2432/8374] 处理: YouCam Perfect:AI Photo Editor (id=768469908)
+2026-03-31 11:40:21,399 [INFO]   ✓ YouCam Perfect:AI Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:24,012 [INFO] [2433/8374] 处理: GoPro Quik (id=561350520)
+2026-03-31 11:40:24,121 [INFO]   ✓ GoPro Quik | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:27,028 [INFO] [2434/8374] 处理: VN: AI Video Editor (id=1343581380)
+2026-03-31 11:40:27,138 [INFO]   ✓ VN: AI Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:29,937 [INFO] [2435/8374] 处理: Vids AI - Reels Video Editor (id=1634361180)
+2026-03-31 11:40:30,071 [INFO]   ✓ Vids AI - Reels Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:31,770 [INFO] [2436/8374] 处理: Esti: Aesthetic Photo Editor (id=6457366208)
+2026-03-31 11:40:31,865 [INFO]   ✓ Esti: Aesthetic Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:34,439 [INFO] [2437/8374] 处理: Viidure (id=1489090807)
+2026-03-31 11:40:34,525 [INFO]   ✓ Viidure | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:37,208 [INFO] [2438/8374] 处理: Cosmo: AI Editor, Hair Filters (id=6444848535)
+2026-03-31 11:40:37,347 [INFO]   ✓ Cosmo: AI Editor, Hair Filters | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:39,769 [INFO] [2439/8374] 处理: Video Lite (id=1598997500)
+2026-03-31 11:40:39,909 [INFO]   ✓ Video Lite | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:42,812 [INFO] [2440/8374] 处理: Photoshop Express Photo Editor (id=331975235)
+2026-03-31 11:40:42,939 [INFO]   ✓ Photoshop Express Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:46,194 [INFO] [2441/8374] 处理: Glowify - AI Hairstyle Try On (id=6751491972)
+2026-03-31 11:40:46,321 [INFO]   ✓ Glowify - AI Hairstyle Try On | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:49,655 [INFO] [2442/8374] 处理: Photo Collage Maker PicJointer (id=509987785)
+2026-03-31 11:40:49,863 [INFO]   ✓ Photo Collage Maker PicJointer | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:52,186 [INFO] [2443/8374] 处理: Fontmaker - Font Keyboard App (id=1573791613)
+2026-03-31 11:40:52,395 [INFO]   ✓ Fontmaker - Font Keyboard App | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:55,542 [INFO] [2444/8374] 处理: Chatlulu:Video&Photo Editor (id=6748627650)
+2026-03-31 11:40:55,652 [INFO]   ✓ Chatlulu:Video&Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:40:58,880 [INFO] [2445/8374] 处理: Cast Web Videos to TV - iWebTV (id=999462129)
+2026-03-31 11:40:59,024 [INFO]   ✓ Cast Web Videos to TV - iWebTV | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:01,295 [INFO] [2446/8374] 处理: Medal - Game Clipping (id=1518008441)
+2026-03-31 11:41:01,447 [INFO]   ✓ Medal - Game Clipping | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:04,336 [INFO] [2447/8374] 处理: Facelab: Face & Body Editor (id=1361012099)
+2026-03-31 11:41:04,490 [INFO]   ✓ Facelab: Face & Body Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:07,567 [INFO] [2448/8374] 处理: YouCam Makeup: Face Editor (id=863844475)
+2026-03-31 11:41:07,745 [INFO]   ✓ YouCam Makeup: Face Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:10,243 [INFO] [2449/8374] 处理: Citrus 1 Tap Photo Enhancer AI (id=1589210147)
+2026-03-31 11:41:10,397 [INFO]   ✓ Citrus 1 Tap Photo Enhancer AI | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:12,589 [INFO] [2450/8374] 处理: AI Mirror: AI Photo Editor (id=6444888896)
+2026-03-31 11:41:12,726 [INFO]   ✓ AI Mirror: AI Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:14,771 [INFO] [2451/8374] 处理: AirPlay Cast (id=1630699647)
+2026-03-31 11:41:14,876 [INFO]   ✓ AirPlay Cast | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:17,119 [INFO] [2452/8374] 处理: BeautyUp－AI Face & Body Editor (id=1671843069)
+2026-03-31 11:41:17,270 [INFO]   ✓ BeautyUp－AI Face & Body Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:18,932 [INFO] [2453/8374] 处理: Peachy - AI Face & Body Editor (id=1390423469)
+2026-03-31 11:41:19,109 [INFO]   ✓ Peachy - AI Face & Body Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:22,280 [INFO] [2454/8374] 处理: Rumble: Livestreams & Videos (id=1518427877)
+2026-03-31 11:41:22,386 [INFO]   ✓ Rumble: Livestreams & Videos | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:24,722 [INFO] [2455/8374] 处理: EseeCloud(IP Pro, VR Cam) (id=1032277907)
+2026-03-31 11:41:24,899 [INFO]   ✓ EseeCloud(IP Pro, VR Cam) | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:28,338 [INFO] [2456/8374] 处理: intoLive - Live Wallpapers (id=1061859052)
+2026-03-31 11:41:28,504 [INFO]   ✓ intoLive - Live Wallpapers | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:30,035 [INFO] [2457/8374] 处理: Glam AI: Video & Photo Editor (id=1545593132)
+2026-03-31 11:41:30,135 [INFO]   ✓ Glam AI: Video & Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:33,589 [INFO] [2458/8374] 处理: Hik-Connect - for End user (id=1087803190)
+2026-03-31 11:41:33,687 [INFO]   ✓ Hik-Connect - for End user | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:36,259 [INFO] [2459/8374] 处理: Halo AI: Photo & Video Editor (id=6740445587)
+2026-03-31 11:41:36,347 [INFO]   ✓ Halo AI: Photo & Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:38,217 [INFO] [2460/8374] 处理: Ageroom - AI Photo Generator (id=6754545016)
+2026-03-31 11:41:38,310 [INFO]   ✓ Ageroom - AI Photo Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:41,155 [INFO] [2461/8374] 处理: InstaSize: AI Photo Editor (id=576649830)
+2026-03-31 11:41:41,304 [INFO]   ✓ InstaSize: AI Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:44,588 [INFO] [2462/8374] 处理: Private Photo Vault - Pic Safe (id=417571834)
+2026-03-31 11:41:44,694 [INFO]   ✓ Private Photo Vault - Pic Safe | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:47,040 [INFO] [2463/8374] 处理: Videoleap: AI Video Editor (id=1255135442)
+2026-03-31 11:41:47,245 [INFO]   ✓ Videoleap: AI Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:48,792 [INFO] [2464/8374] 处理: Secret Photo Vault: Keepsafe (id=510873505)
+2026-03-31 11:41:48,934 [INFO]   ✓ Secret Photo Vault: Keepsafe | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:50,771 [INFO] [2465/8374] 处理: Instories: AI Photo & Video (id=1454762989)
+2026-03-31 11:41:50,870 [INFO]   ✓ Instories: AI Photo & Video | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:53,362 [INFO] [2466/8374] 处理: Bazaart AI Photo Editor Design (id=515094775)
+2026-03-31 11:41:53,480 [INFO]   ✓ Bazaart AI Photo Editor Design | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:56,055 [INFO] [2467/8374] 处理: Momo - AI Photo Generator (id=1658822260)
+2026-03-31 11:41:56,242 [INFO]   ✓ Momo - AI Photo Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:41:57,760 [INFO] [2468/8374] 处理: PhotoGrid: Video Collage Maker (id=543577420)
+2026-03-31 11:41:57,920 [INFO]   ✓ PhotoGrid: Video Collage Maker | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:00,912 [INFO] [2469/8374] 处理: Polycam 3D Scanner, LiDAR, 360 (id=1532482376)
+2026-03-31 11:42:01,014 [INFO]   ✓ Polycam 3D Scanner, LiDAR, 360 | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:03,730 [INFO] [2470/8374] 处理: Nixplay (id=977559373)
+2026-03-31 11:42:03,832 [INFO]   ✓ Nixplay | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:07,136 [INFO] [2471/8374] 处理: Visify: AI Photo Generator (id=6472172759)
+2026-03-31 11:42:07,242 [INFO]   ✓ Visify: AI Photo Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:09,950 [INFO] [2472/8374] 处理: HeyGen: AI Video Generator (id=6711356409)
+2026-03-31 11:42:10,052 [INFO]   ✓ HeyGen: AI Video Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:13,182 [INFO] [2473/8374] 处理: Cosplay: Future Baby Generator (id=1673241595)
+2026-03-31 11:42:13,277 [INFO]   ✓ Cosplay: Future Baby Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:16,106 [INFO] [2474/8374] 处理: Photo Collage - Collageable (id=1085652055)
+2026-03-31 11:42:16,304 [INFO]   ✓ Photo Collage - Collageable | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:18,430 [INFO] [2475/8374] 处理: SlideShow Maker Photo to Video (id=924826256)
+2026-03-31 11:42:18,808 [INFO]   ✓ SlideShow Maker Photo to Video | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:20,998 [INFO] [2476/8374] 处理: GIO - AI Photoshoot Generator (id=6449296449)
+2026-03-31 11:42:21,323 [INFO]   ✓ GIO - AI Photoshoot Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:24,663 [INFO] [2477/8374] 处理: Body Tune - Face Photo Editor (id=1222515036)
+2026-03-31 11:42:24,842 [INFO]   ✓ Body Tune - Face Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:27,502 [INFO] [2478/8374] 处理: Shots: AI Photo Video Creator (id=6745820631)
+2026-03-31 11:42:27,684 [INFO]   ✓ Shots: AI Photo Video Creator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:29,598 [INFO] [2479/8374] 处理: BIGVU Teleprompter Captions AI (id=1124958568)
+2026-03-31 11:42:29,695 [INFO]   ✓ BIGVU Teleprompter Captions AI | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:32,375 [INFO] [2480/8374] 处理: Likee - Video, Live, Chat (id=1251790681)
+2026-03-31 11:42:32,606 [INFO]   ✓ Likee - Video, Live, Chat | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:34,968 [INFO] [2481/8374] 处理: PrettyUp- AI Body Editor Video (id=1544211932)
+2026-03-31 11:42:35,071 [INFO]   ✓ PrettyUp-Portrait Editor Video | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:36,758 [INFO] [2482/8374] 处理: Reels Maker for Instagram BEAT (id=6443517019)
+2026-03-31 11:42:36,864 [INFO]   ✓ Reels Maker for Instagram BEAT | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:39,927 [INFO] [2483/8374] 处理: Persona: AI Beauty Editor (id=1561622206)
+2026-03-31 11:42:40,051 [INFO]   ✓ Persona: AI Beauty Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:41,568 [INFO] [2484/8374] 处理: OpusClip - AI video clipping (id=6743615403)
+2026-03-31 11:42:41,670 [INFO]   ✓ OpusClip - AI video clipping | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:44,677 [INFO] [2485/8374] 处理: Muse: Reels Video Editor (id=1638320348)
+2026-03-31 11:42:44,779 [INFO]   ✓ Muse: Reels Video Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:46,469 [INFO] [2486/8374] 处理: Photoleap: AI Photo Generator (id=1191337894)
+2026-03-31 11:42:46,571 [INFO]   ✓ Photoleap: AI Photo Generator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:48,251 [INFO] [2487/8374] 处理: Lensa AI: Photo Editor (id=1436732536)
+2026-03-31 11:42:48,357 [INFO]   ✓ Lensa AI: Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:51,775 [INFO] [2488/8374] 处理: Filmora: AI Video Editor&Maker (id=1019382747)
+2026-03-31 11:42:51,946 [INFO]   ✓ Filmora: AI Video Editor&Maker | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:54,393 [INFO] [2489/8374] 处理: Video Star (id=438596432)
+2026-03-31 11:42:54,488 [INFO]   ✓ Video Star | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:56,814 [INFO] [2490/8374] 处理: Celebs - Celebrity Look Alike (id=1488127870)
+2026-03-31 11:42:56,906 [INFO]   ✓ Celebs - Celebrity Look Alike | 价格: Free | 类别: Photo & Video
+2026-03-31 11:42:59,563 [INFO] [2491/8374] 处理: Hula AI: Photo & Video Creator (id=6739294055)
+2026-03-31 11:42:59,812 [INFO]   ✓ Hula AI: Photo & Video Creator | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:03,046 [INFO] [2492/8374] 处理: Photo Retouch-Object Removal (id=1230394683)
+2026-03-31 11:43:03,168 [INFO]   ✓ Photo Retouch-Object Removal | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:05,631 [INFO] [2493/8374] 处理: 快手 (id=440948110)
+2026-03-31 11:43:05,735 [INFO]   ✓ 快手 | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:07,716 [INFO] [2494/8374] 处理: Retouch Me: Face, Body Editor (id=830286763)
+2026-03-31 11:43:07,878 [INFO]   ✓ Retouch Me: Face, Body Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:11,084 [INFO] [2495/8374] 处理: AI Video Photo Generator Videa (id=6738990592)
+2026-03-31 11:43:11,188 [INFO]   ✓ AI Video Photo Generator Videa | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:14,672 [INFO] [2496/8374] 处理: iMemories (id=528388477)
+2026-03-31 11:43:14,820 [INFO]   ✓ iMemories | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:17,156 [INFO] [2497/8374] 处理: AI Video Generator - Reelina (id=6747765011)
+2026-03-31 11:43:17,255 [INFO]   ✓ AI Video Generator - Reelina | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:19,195 [INFO] [2498/8374] 处理: Spark Chat: AI Roleplay Freely (id=6755032059)
+2026-03-31 11:43:19,282 [INFO]   ✓ Spark Chat: AI Roleplay Freely | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:22,685 [INFO] [2499/8374] 处理: Lift: AI Video & Photo Editor (id=1505322988)
+2026-03-31 11:43:23,125 [INFO]   ✓ Lift: AI Video & Photo Editor | 价格: Free | 类别: Photo & Video
+2026-03-31 11:43:26,434 [INFO] [2500/8374] 处理: Current Reader (id=6758530974)
+2026-03-31 11:43:26,531 [INFO]   ✓ Current Reader | 价格: $9.99 | 类别: News
+2026-03-31 11:43:31,138 [INFO] [2501/8374] 处理: 911 Dispatch (id=597131756)
+2026-03-31 11:43:31,232 [INFO]   ✓ 911 Dispatch | 价格: $4.99 | 类别: News
+2026-03-31 11:43:36,162 [INFO] [2502/8374] 处理: GoodLinks (id=1474335294)
+2026-03-31 11:43:36,280 [INFO]   ✓ GoodLinks | 价格: $9.99 | 类别: News
+2026-03-31 11:43:40,368 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 11:43:40,370 [INFO]   ✓ 内购: 6 项
+2026-03-31 11:43:42,185 [INFO] [2503/8374] 处理: RIP VIP: The Death Alert App. (id=724226640)
+2026-03-31 11:43:42,277 [INFO]   ✓ RIP VIP: The Death Alert App. | 价格: $0.99 | 类别: News
+2026-03-31 11:43:48,860 [INFO] [2504/8374] 处理: Reeder Classic (id=1529445840)
+2026-03-31 11:43:48,953 [INFO]   ✓ Reeder Classic | 价格: $4.99 | 类别: News
+2026-03-31 11:43:54,602 [INFO] [2505/8374] 处理: Downcast (id=393858566)
+2026-03-31 11:43:54,704 [INFO]   ✓ Downcast | 价格: $2.99 | 类别: News
+2026-03-31 11:43:57,362 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:43:57,363 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:43:59,837 [INFO] [2506/8374] 处理: News Explorer (id=1032668306)
+2026-03-31 11:43:59,986 [INFO]   ✓ News Explorer | 价格: $4.99 | 类别: News
+2026-03-31 11:44:04,932 [INFO] [2507/8374] 处理: Podcast Alarm - Player & Alarm (id=1441890371)
+2026-03-31 11:44:05,074 [INFO]   ✓ Podcast Alarm - Player & Alarm | 价格: $2.99 | 类别: News
+2026-03-31 11:44:09,869 [INFO] [2508/8374] 处理: FredScanner Pro (id=688481023)
+2026-03-31 11:44:09,952 [INFO]   ✓ FredScanner Pro | 价格: $0.99 | 类别: News
+2026-03-31 11:44:14,615 [INFO] [2509/8374] 处理: Election Explorer: 2026 Map (id=6759520295)
+2026-03-31 11:44:14,752 [INFO]   ✓ Election Explorer: 2026 Map | 价格: $3.99 | 类别: News
+2026-03-31 11:44:21,328 [INFO] [2510/8374] 处理: Fire Finder - Wildfire Info (id=894228730)
+2026-03-31 11:44:21,520 [INFO]   ✓ Fire Finder - Wildfire Info | 价格: $0.99 | 类别: News
+2026-03-31 11:44:27,450 [INFO] [2511/8374] 处理: Hackers for Hacker News (id=6463075798)
+2026-03-31 11:44:27,581 [INFO]   ✓ Hackers for Hacker News | 价格: Free | 类别: News
+2026-03-31 11:44:30,141 [INFO] [2512/8374] 处理: 凤凰新闻(专业版)-头条新闻阅读平台 (id=1152396902)
+2026-03-31 11:44:30,242 [INFO]   ✓ 凤凰新闻(专业版)-头条新闻阅读平台 | 价格: $2.99 | 类别: News
+2026-03-31 11:44:32,298 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 11:44:32,300 [INFO]   ✓ 内购: 8 项
+2026-03-31 11:44:35,442 [INFO] [2513/8374] 处理: Simple RSS Push+ (id=711503013)
+2026-03-31 11:44:35,533 [INFO]   ✓ Simple RSS Push+ | 价格: $1.99 | 类别: News
+2026-03-31 11:44:41,058 [INFO] [2514/8374] 处理: claw: Unofficial Lobsters App (id=1531645542)
+2026-03-31 11:44:41,156 [INFO]   ✓ claw: Unofficial Lobsters App | 价格: $2.99 | 类别: News
+2026-03-31 11:44:43,140 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:44:43,141 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:44:46,492 [INFO] [2515/8374] 处理: Contacts Cleaner Pro ! (id=590254755)
+2026-03-31 11:44:46,716 [INFO]   ✓ Contacts Cleaner Pro ! | 价格: $1.99 | 类别: News
+2026-03-31 11:44:50,540 [INFO] [2516/8374] 处理: Hazumi for Hacker News (id=1670237209)
+2026-03-31 11:44:50,628 [INFO]   ✓ Hazumi for Hacker News | 价格: $0.99 | 类别: News
+2026-03-31 11:44:52,609 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:44:52,611 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:44:55,000 [INFO] [2517/8374] 处理: iCatcher! Podcast Player (id=414419105)
+2026-03-31 11:44:55,378 [INFO]   ✓ iCatcher! Podcast Player | 价格: $4.99 | 类别: News
+2026-03-31 11:44:58,519 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:44:58,520 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:45:00,101 [INFO] [2518/8374] 处理: ZAKER专业版 (id=1015225810)
+2026-03-31 11:45:00,283 [INFO]   ✓ ZAKER专业版 | 价格: $0.99 | 类别: News
+2026-03-31 11:45:05,975 [INFO] [2519/8374] 处理: Earthquake 3D (id=448638079)
+2026-03-31 11:45:06,069 [INFO]   ✓ Earthquake 3D | 价格: $6.99 | 类别: News
+2026-03-31 11:45:12,359 [INFO] [2520/8374] 处理: YourPods (id=6757721236)
+2026-03-31 11:45:12,517 [INFO]   ✓ YourPods: Podcast Player | 价格: $3.99 | 类别: News
+2026-03-31 11:45:18,423 [INFO] [2521/8374] 处理: lire: RSS Reader (id=1531976425)
+2026-03-31 11:45:18,557 [INFO]   ✓ lire: RSS Reader | 价格: $9.99 | 类别: News
+2026-03-31 11:45:22,045 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 11:45:22,046 [INFO]   ✓ 内购: 5 项
+2026-03-31 11:45:25,196 [INFO] [2522/8374] 处理: Hourly News (id=493859859)
+2026-03-31 11:45:25,337 [INFO]   ✓ Hourly News | 价格: $0.99 | 类别: News
+2026-03-31 11:45:28,263 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:45:28,265 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:45:29,965 [INFO] [2523/8374] 处理: Yesterday For Old Reddit (id=1603279883)
+2026-03-31 11:45:30,050 [INFO]   ✓ Yesterday For Old Reddit | 价格: $2.99 | 类别: News
+2026-03-31 11:45:35,781 [INFO] [2524/8374] 处理: The Aviation Herald (id=903637019)
+2026-03-31 11:45:35,939 [INFO]   ✓ The Aviation Herald | 价格: $12.99 | 类别: News
+2026-03-31 11:45:41,342 [INFO] [2525/8374] 处理: QuakeWatch (id=314600768)
+2026-03-31 11:45:41,471 [INFO]   ✓ QuakeWatch | 价格: $0.99 | 类别: News
+2026-03-31 11:45:46,845 [INFO] [2526/8374] 处理: World Newspapers - 200 countries (id=313147645)
+2026-03-31 11:45:47,027 [INFO]   ✓ World Newspapers - 200 countries | 价格: $0.99 | 类别: News
+2026-03-31 11:45:52,621 [INFO] [2527/8374] 处理: Electoral Map Maker 2024 (id=1039945866)
+2026-03-31 11:45:52,715 [INFO]   ✓ Electoral Map Maker 2024 | 价格: $3.99 | 类别: News
+2026-03-31 11:45:58,283 [INFO] [2528/8374] 处理: NewsTap (Usenet Newsreader) (id=292410356)
+2026-03-31 11:45:58,390 [INFO]   ✓ NewsTap (Usenet Newsreader) | 价格: $3.99 | 类别: News
+2026-03-31 11:46:03,926 [INFO] [2529/8374] 处理: Feeddler RSS Reader Pro (id=919056339)
+2026-03-31 11:46:04,244 [INFO]   ✓ Feeddler RSS Reader Pro | 价格: $4.99 | 类别: News
+2026-03-31 11:46:10,369 [INFO] [2530/8374] 处理: Deutsche Zeitungen - Nachricht (id=392776678)
+2026-03-31 11:46:10,464 [INFO]   ✓ Deutsche Zeitungen - Nachricht | 价格: $1.99 | 类别: News
+2026-03-31 11:46:14,221 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:46:14,222 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:46:17,050 [INFO] [2531/8374] 处理: Lottery (Thai) - ตรวจหวย (id=416339439)
+2026-03-31 11:46:17,147 [INFO]   ✓ Lottery (Thai) - ตรวจหวย | 价格: $0.99 | 类别: News
+2026-03-31 11:46:22,540 [INFO] [2532/8374] 处理: Police Scanner on Watch (id=1503490043)
+2026-03-31 11:46:22,643 [INFO]   ✓ Police Scanner on Watch | 价格: $4.99 | 类别: News
+2026-03-31 11:46:28,331 [INFO] [2533/8374] 处理: Pincase - A Pinboard.in client, that is simple, elegant and powerful, perfect for managing your daily discoveries. (id=698220406)
+2026-03-31 11:46:28,468 [INFO]   ✓ Pincase - A Pinboard.in client, that is simple, elegant and powerful, perfect for managing your daily discoveries. | 价格: $3.99 | 类别: News
+2026-03-31 11:46:33,848 [INFO] [2534/8374] 处理: Ballotics: Election Data & Map (id=1524713588)
+2026-03-31 11:46:34,015 [INFO]   ✓ Ballotics: Election Data & Map | 价格: $3.99 | 类别: News
+2026-03-31 11:46:40,754 [INFO] [2535/8374] 处理: NSW Fires (id=350111353)
+2026-03-31 11:46:40,845 [INFO]   ✓ NSW Fires | 价格: $0.99 | 类别: News
+2026-03-31 11:46:46,595 [INFO] [2536/8374] 处理: Mocast (id=897185985)
+2026-03-31 11:46:46,737 [INFO]   ✓ Mocast | 价格: $4.99 | 类别: News
+2026-03-31 11:46:52,091 [INFO] [2537/8374] 处理: Deep Web & Dark Web (id=1450659317)
+2026-03-31 11:46:52,251 [INFO]   ✓ Deep Web & Dark Web | 价格: $8.99 | 类别: News
+2026-03-31 11:46:54,878 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:46:54,879 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:46:57,838 [INFO] [2538/8374] 处理: HackerWeb - Hacker News client (id=1084209377)
+2026-03-31 11:46:57,981 [INFO]   ✓ HackerWeb - Hacker News client | 价格: $2.99 | 类别: News
+2026-03-31 11:47:04,497 [INFO] [2539/8374] 处理: Giornali Italiani - Notizie (id=388888617)
+2026-03-31 11:47:04,618 [INFO]   ✓ Giornali Italiani - Notizie | 价格: $1.99 | 类别: News
+2026-03-31 11:47:06,948 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:47:06,949 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:47:08,720 [INFO] [2540/8374] 处理: TextTV (id=323994185)
+2026-03-31 11:47:08,858 [INFO]   ✓ TextTV | 价格: $0.99 | 类别: News
+2026-03-31 11:47:14,967 [INFO] [2541/8374] 处理: Noticias de última hora España (id=390999336)
+2026-03-31 11:47:15,068 [INFO]   ✓ Noticias de última hora España | 价格: $1.99 | 类别: News
+2026-03-31 11:47:17,229 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:47:17,230 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:47:19,709 [INFO] [2542/8374] 处理: Canadian News - Newsstand CA (id=403298048)
+2026-03-31 11:47:19,802 [INFO]   ✓ Canadian News - Newsstand CA | 价格: $1.99 | 类别: News
+2026-03-31 11:47:21,820 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 11:47:21,821 [INFO]   ✓ 内购: 6 项
+2026-03-31 11:47:24,812 [INFO] [2543/8374] 处理: Jubilee25 (id=6590631281)
+2026-03-31 11:47:24,969 [INFO]   ✓ Jubilee25 | 价格: $1.99 | 类别: News
+2026-03-31 11:47:29,999 [INFO] [2544/8374] 处理: CCTV LIVE Camera & Player (id=1207200983)
+2026-03-31 11:47:30,183 [INFO]   ✓ CCTV LIVE Camera & Player | 价格: $0.99 | 类别: News
+2026-03-31 11:47:35,184 [INFO] [2545/8374] 处理: LIVE CCTV Camera :Sci-Fi Theme (id=1231701793)
+2026-03-31 11:47:35,322 [INFO]   ✓ LIVE CCTV Camera :Sci-Fi Theme | 价格: $1.99 | 类别: News
+2026-03-31 11:47:41,161 [INFO] [2546/8374] 处理: Sylfeed (id=403879490)
+2026-03-31 11:47:41,264 [INFO]   ✓ Sylfeed | 价格: $2.99 | 类别: News
+2026-03-31 11:47:45,421 [INFO] [2547/8374] 处理: CloudNews - Feed Reader (id=683859706)
+2026-03-31 11:47:45,571 [INFO]   ✓ CloudNews - Feed Reader | 价格: $1.99 | 类别: News
+2026-03-31 11:47:50,284 [INFO] [2548/8374] 处理: German TV (id=336902466)
+2026-03-31 11:47:50,371 [INFO]   ✓ German TV | 价格: $8.99 | 类别: News
+2026-03-31 11:47:53,353 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:47:53,354 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:47:56,621 [INFO] [2549/8374] 处理: WatchFeed - RSS for Feedly (id=1527233179)
+2026-03-31 11:47:56,711 [INFO]   ✓ WatchFeed - RSS for Feedly | 价格: $0.99 | 类别: News
+2026-03-31 11:48:03,503 [INFO] [2550/8374] 处理: Legi (RSS Feed Reader) (id=1279768116)
+2026-03-31 11:48:03,654 [INFO]   ✓ Legi (RSS Feed Reader) | 价格: $3.99 | 类别: News
+2026-03-31 11:48:08,546 [INFO] [2551/8374] 处理: Teletext - TextTV (id=317642402)
+2026-03-31 11:48:08,682 [INFO]   ✓ Teletext - TextTV | 价格: $0.99 | 类别: News
+2026-03-31 11:48:14,416 [INFO] [2552/8374] 处理: Keyboard Translator Pro (id=1081117281)
+2026-03-31 11:48:14,560 [INFO]   ✓ Keyboard Translator Pro | 价格: $0.99 | 类别: News
+2026-03-31 11:48:19,080 [INFO] [2553/8374] 处理: VIC Fires (id=348142406)
+2026-03-31 11:48:19,169 [INFO]   ✓ VIC Fires | 价格: $0.99 | 类别: News
+2026-03-31 11:48:23,590 [INFO] [2554/8374] 处理: BiH TV (id=337268548)
+2026-03-31 11:48:23,737 [INFO]   ✓ BiH TV | 价格: $9.99 | 类别: News
+2026-03-31 11:48:26,846 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:48:26,847 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:48:28,518 [INFO] [2555/8374] 处理: Italian TV Schedule (id=376534631)
+2026-03-31 11:48:28,673 [INFO]   ✓ Italian TV Schedule | 价格: $4.99 | 类别: News
+2026-03-31 11:48:31,906 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:48:31,907 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:48:34,690 [INFO] [2556/8374] 处理: Speak News - RSS news reader (id=1117146910)
+2026-03-31 11:48:34,817 [INFO]   ✓ Speak News - RSS news reader | 价格: $12.99 | 类别: News
+2026-03-31 11:48:40,661 [INFO] [2557/8374] 处理: Ruby – Curated News Reader (id=1522815729)
+2026-03-31 11:48:40,749 [INFO]   ✓ Ruby – Curated News Reader | 价格: $6.99 | 类别: News
+2026-03-31 11:48:43,463 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:48:43,465 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:48:46,935 [INFO] [2558/8374] 处理: Simple Backup Contacts Pro (id=1038892737)
+2026-03-31 11:48:47,154 [INFO]   ✓ Simple Backup Contacts Pro | 价格: $0.99 | 类别: News
+2026-03-31 11:48:53,316 [INFO] [2559/8374] 处理: Aussie News - Newsstand AU (id=421815259)
+2026-03-31 11:48:53,409 [INFO]   ✓ Aussie News - Newsstand AU | 价格: $1.99 | 类别: News
+2026-03-31 11:48:55,617 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:48:55,619 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:48:57,132 [INFO] [2560/8374] 处理: Voice Reader For Web Pro (id=1077353678)
+2026-03-31 11:48:57,277 [INFO]   ✓ Voice Reader For Web Pro | 价格: $0.99 | 类别: News
+2026-03-31 11:49:03,897 [INFO] [2561/8374] 处理: Feedibus — RSS Feed Reader (id=1585543362)
+2026-03-31 11:49:04,035 [INFO]   ✓ Feedibus — RSS Feed Reader | 价格: $3.99 | 类别: News
+2026-03-31 11:49:06,084 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:49:06,085 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:49:08,458 [INFO] [2562/8374] 处理: QLD Fires (id=576245922)
+2026-03-31 11:49:08,601 [INFO]   ✓ QLD Fires | 价格: $0.99 | 类别: News
+2026-03-31 11:49:13,257 [INFO] [2563/8374] 处理: Plinkr (id=1494221073)
+2026-03-31 11:49:13,407 [INFO]   ✓ Plinkr | 价格: $5.99 | 类别: News
+2026-03-31 11:49:16,675 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:49:16,676 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:49:18,940 [INFO] [2564/8374] 处理: New Zealand News Newsstand NZ (id=421818484)
+2026-03-31 11:49:19,055 [INFO]   ✓ New Zealand News Newsstand NZ | 价格: $1.99 | 类别: News
+2026-03-31 11:49:21,768 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:49:21,769 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:49:23,534 [INFO] [2565/8374] 处理: Serbian TV+ (id=943358739)
+2026-03-31 11:49:23,617 [INFO]   ✓ Serbian TV+ | 价格: $9.99 | 类别: News
+2026-03-31 11:49:25,789 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:49:25,790 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:49:28,390 [INFO] [2566/8374] 处理: Croatian TV+ (id=865369938)
+2026-03-31 11:49:28,522 [INFO]   ✓ Croatian TV+ | 价格: $12.99 | 类别: News
+2026-03-31 11:49:32,088 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:49:32,089 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:49:35,272 [INFO] [2567/8374] 处理: Den for RSS (id=1528917651)
+2026-03-31 11:49:35,792 [INFO]   ✓ Den for RSS | 价格: $4.99 | 类别: News
+2026-03-31 11:49:42,156 [INFO] [2568/8374] 处理: News: Astronomy Edition (id=609843622)
+2026-03-31 11:49:42,295 [INFO]   ✓ News: Astronomy Edition | 价格: $0.99 | 类别: News
+2026-03-31 11:49:49,411 [INFO] [2569/8374] 处理: UK News Latest - Newsstand UK (id=1008334541)
+2026-03-31 11:49:49,507 [INFO]   ✓ UK News Latest - Newsstand UK | 价格: $1.99 | 类别: News
+2026-03-31 11:49:52,467 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:49:52,468 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:49:54,368 [INFO] [2570/8374] 处理: Romanian TV Schedule (id=948897052)
+2026-03-31 11:49:54,473 [INFO]   ✓ Romanian TV Schedule | 价格: $9.99 | 类别: News
+2026-03-31 11:49:57,610 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:49:57,611 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:49:59,160 [INFO] [2571/8374] 处理: Journaux Français - Actualités (id=628068526)
+2026-03-31 11:49:59,327 [INFO]   ✓ Journaux Français - Actualités | 价格: $1.99 | 类别: News
+2026-03-31 11:50:02,649 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:50:02,650 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:50:05,505 [INFO] [2572/8374] 处理: TextTV II (id=723706796)
+2026-03-31 11:50:05,613 [INFO]   ✓ TextTV II | 价格: $0.99 | 类别: News
+2026-03-31 11:50:12,809 [INFO] [2573/8374] 处理: SA Fires (id=352740821)
+2026-03-31 11:50:12,930 [INFO]   ✓ SA Fires | 价格: $0.99 | 类别: News
+2026-03-31 11:50:17,632 [INFO] [2574/8374] 处理: TinyFeeds (id=1597838632)
+2026-03-31 11:50:17,740 [INFO]   ✓ TinyFeeds | 价格: $2.99 | 类别: News
+2026-03-31 11:50:22,620 [INFO] [2575/8374] 处理: ApergiaGR Plus (id=471239806)
+2026-03-31 11:50:22,761 [INFO]   ✓ ApergiaGR Plus | 价格: $0.99 | 类别: News
+2026-03-31 11:50:28,815 [INFO] [2576/8374] 处理: 华人头条(专业版)-海外华人新闻资讯生活平台 (id=1255399496)
+2026-03-31 11:50:28,961 [INFO]   ✓ 华人头条(专业版)-海外华人新闻资讯生活平台 | 价格: $0.99 | 类别: News
+2026-03-31 11:50:35,522 [INFO] [2577/8374] 处理: Türkçe Gazeteler - Haberler (id=640552560)
+2026-03-31 11:50:35,632 [INFO]   ✓ Türkçe Gazeteler - Haberler | 价格: $1.99 | 类别: News
+2026-03-31 11:50:38,784 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 11:50:38,786 [INFO]   ✓ 内购: 4 项
+2026-03-31 11:50:40,511 [INFO] [2578/8374] 处理: Tin nóng - Tin tức thời sự VN (id=380854677)
+2026-03-31 11:50:40,650 [INFO]   ✓ Tin nóng - Tin tức thời sự VN | 价格: $1.99 | 类别: News
+2026-03-31 11:50:42,721 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 11:50:42,723 [INFO]   ✓ 内购: 5 项
+2026-03-31 11:50:45,380 [INFO] [2579/8374] 处理: Cool Font Keyboard (id=1072769428)
+2026-03-31 11:50:45,518 [INFO]   ✓ Cool Font Keyboard | 价格: $0.99 | 类别: News
+2026-03-31 11:50:52,218 [INFO] [2580/8374] 处理: Crustacean for Lobsters (id=6742195107)
+2026-03-31 11:50:52,361 [INFO]   ✓ Crustacean for Lobsters | 价格: $1.99 | 类别: News
+2026-03-31 11:50:58,719 [INFO] [2581/8374] 处理: Hungarian TV+ (id=936262497)
+2026-03-31 11:50:58,876 [INFO]   ✓ Hungarian TV+ | 价格: $8.99 | 类别: News
+2026-03-31 11:51:01,769 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 11:51:01,770 [INFO]   ✓ 内购: 1 项
+2026-03-31 11:51:03,526 [INFO] [2582/8374] 处理: All Radio Pro - Radio App (id=6475071209)
+2026-03-31 11:51:03,704 [INFO]   ✓ All Radio Pro - Radio App | 价格: $8.99 | 类别: News
+2026-03-31 11:51:08,970 [INFO] [2583/8374] 处理: Slovak TV+ (id=946229250)
+2026-03-31 11:51:09,063 [INFO]   ✓ Slovak TV+ | 价格: $9.99 | 类别: News
+2026-03-31 11:51:11,766 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:51:11,767 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:51:13,347 [INFO] [2584/8374] 处理: Newsbin (id=6737723338)
+2026-03-31 11:51:13,444 [INFO]   ✓ Newsbin | 价格: Free | 类别: News
+2026-03-31 11:51:16,575 [INFO] [2585/8374] 处理: PDF Converter ! (id=965210551)
+2026-03-31 11:51:16,686 [INFO]   ✓ PDF Converter ! | 价格: $1.99 | 类别: News
+2026-03-31 11:51:21,854 [INFO] [2586/8374] 处理: World News 206・Translation (id=6752511428)
+2026-03-31 11:51:21,949 [INFO]   ✓ World News 206・Translation | 价格: $1.99 | 类别: News
+2026-03-31 11:51:27,592 [INFO] [2587/8374] 处理: Color Keys Keyboard Pro (id=1072795232)
+2026-03-31 11:51:27,704 [INFO]   ✓ Color Keys Keyboard Pro | 价格: $0.99 | 类别: News
+2026-03-31 11:51:32,296 [INFO] [2588/8374] 处理: NITAS - Doctor Who News Matrix (id=796812056)
+2026-03-31 11:51:32,394 [INFO]   ✓ NITAS - Doctor Who News Matrix | 价格: $1.99 | 类别: News
+2026-03-31 11:51:38,960 [INFO] [2589/8374] 处理: NewsFlash RSS (id=1487449663)
+2026-03-31 11:51:39,080 [INFO]   ✓ NewsFlash RSS | 价格: $0.99 | 类别: News
+2026-03-31 11:51:41,846 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 11:51:41,847 [INFO]   ✓ 内购: 3 项
+2026-03-31 11:51:43,670 [INFO] [2590/8374] 处理: TAS Fires (id=583228610)
+2026-03-31 11:51:43,786 [INFO]   ✓ TAS Fires | 价格: $0.99 | 类别: News
+2026-03-31 11:51:49,386 [INFO] [2591/8374] 处理: Happy Spot (id=6754841556)
+2026-03-31 11:51:49,518 [INFO]   ✓ Happy Spot | 价格: $1.19 | 类别: News
+2026-03-31 11:51:55,419 [INFO] [2592/8374] 处理: Mycorra App (id=6738691364)
+2026-03-31 11:51:55,513 [INFO]   ✓ Mycorra App | 价格: $0.99 | 类别: News
+2026-03-31 11:52:01,513 [INFO] [2593/8374] 处理: iDaily · 2014 年度别册 (id=946866439)
+2026-03-31 11:52:01,631 [INFO]   ✓ iDaily · 2014 年度别册 | 价格: $0.99 | 类别: News
+2026-03-31 11:52:07,066 [INFO] [2594/8374] 处理: Spatial Agents (id=6759275149)
+2026-03-31 11:52:07,205 [INFO]   ✓ Spatial Agents | 价格: Free | 类别: News
+2026-03-31 11:52:10,200 [INFO] [2595/8374] 处理: Headlines RSS (id=904059445)
+2026-03-31 11:52:10,335 [INFO]   ✓ Headlines RSS | 价格: $1.99 | 类别: News
+2026-03-31 11:52:15,193 [INFO] [2596/8374] 处理: Feedster: RSS Reader (id=1668579869)
+2026-03-31 11:52:15,321 [INFO]   ✓ Feedster: RSS Reader | 价格: $1.99 | 类别: News
+2026-03-31 11:52:18,305 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 11:52:18,306 [INFO]   ✓ 内购: 3 项
+2026-03-31 11:52:21,422 [INFO] [2597/8374] 处理: StudyFinds (id=6749248127)
+2026-03-31 11:52:21,838 [INFO]   ✓ StudyFinds | 价格: $17.99 | 类别: News
+2026-03-31 11:52:28,247 [INFO] [2598/8374] 处理: CrimeRadar Dispatch Audio (id=6746114452)
+2026-03-31 11:52:28,414 [INFO]   ✓ CrimeRadar Dispatch Audio | 价格: Free | 类别: News
+2026-03-31 11:52:30,793 [INFO] [2599/8374] 处理: Substack (id=1581650857)
+2026-03-31 11:52:30,883 [INFO]   ✓ Substack | 价格: Free | 类别: News
+2026-03-31 11:52:34,252 [INFO] [2600/8374] 处理: Reddit (id=1064216828)
+2026-03-31 11:52:34,642 [INFO]   ✓ Reddit | 价格: Free | 类别: News
+2026-03-31 11:52:36,792 [INFO] [2601/8374] 处理: Nextdoor: Neighborhood Network (id=640360962)
+2026-03-31 11:52:36,893 [INFO]   ✓ Nextdoor: Neighborhood Network | 价格: Free | 类别: News
+2026-03-31 11:52:39,105 [INFO] [2602/8374] 处理: Citizen: Protect The World (id=1039889567)
+2026-03-31 11:52:39,244 [INFO]   ✓ Citizen: Protect The World | 价格: Free | 类别: News
+2026-03-31 11:52:41,436 [INFO] [2603/8374] 处理: NewsBreak: Local News & Alerts (id=1132762804)
+2026-03-31 11:52:41,554 [INFO]   ✓ NewsBreak: Local News & Alerts | 价格: Free | 类别: News
+2026-03-31 11:52:43,126 [INFO] [2604/8374] 处理: Ground News (id=1324203419)
+2026-03-31 11:52:43,270 [INFO]   ✓ Ground News | 价格: Free | 类别: News
+2026-03-31 11:52:45,521 [INFO] [2605/8374] 处理: Police Scanner Radio & Fire (id=498405045)
+2026-03-31 11:52:45,608 [INFO]   ✓ Police Scanner Radio & Fire | 价格: Free | 类别: News
+2026-03-31 11:52:47,806 [INFO] [2606/8374] 处理: Watch Duty: Wildfire Maps (id=1574452924)
+2026-03-31 11:52:47,953 [INFO]   ✓ Watch Duty: Wildfire Maps | 价格: Free | 类别: News
+2026-03-31 11:52:49,554 [INFO] [2607/8374] 处理: Fizz: Your Authentic Community (id=1548207780)
+2026-03-31 11:52:49,664 [INFO]   ✓ Fizz: Your Authentic Community | 价格: Free | 类别: News
+2026-03-31 11:52:52,279 [INFO] [2608/8374] 处理: Police Scanner: Crime Radar (id=1075599309)
+2026-03-31 11:52:52,417 [INFO]   ✓ Police Scanner: Crime Radar | 价格: Free | 类别: News
+2026-03-31 11:52:54,907 [INFO] [2609/8374] 处理: 5-0 Radio Pro Police Scanner (id=341776037)
+2026-03-31 11:52:55,014 [INFO]   ✓ 5-0 Radio Pro Police Scanner | 价格: Free | 类别: News
+2026-03-31 11:52:57,787 [INFO] [2610/8374] 处理: TrueShort - Stream True Crime (id=6741782158)
+2026-03-31 11:52:57,908 [INFO]   ✓ TrueShort - Stream True Crime | 价格: Free | 类别: News
+2026-03-31 11:53:00,686 [INFO] [2611/8374] 处理: Police Scanner: Fire Radio (id=1477440076)
+2026-03-31 11:53:00,872 [INFO]   ✓ Police Scanner: Fire Radio | 价格: Free | 类别: News
+2026-03-31 11:53:02,458 [INFO] [2612/8374] 处理: Stocks.News－Market Investment (id=6476615803)
+2026-03-31 11:53:02,600 [INFO]   ✓ Stocks.News－Market Investment | 价格: Free | 类别: News
+2026-03-31 11:53:04,927 [INFO] [2613/8374] 处理: Neighbors by Ring (id=1218902777)
+2026-03-31 11:53:05,072 [INFO]   ✓ Neighbors by Ring | 价格: Free | 类别: News
+2026-03-31 11:53:06,622 [INFO] [2614/8374] 处理: KSTP 5 Minneapolis-St. Paul MN (id=546024067)
+2026-03-31 11:53:06,760 [INFO]   ✓ KSTP 5 Minneapolis-St. Paul MN | 价格: Free | 类别: News
+2026-03-31 11:53:08,937 [INFO] [2615/8374] 处理: Fox News: US & World Headlines (id=367623543)
+2026-03-31 11:53:09,072 [INFO]   ✓ Fox News: US & World Headlines | 价格: Free | 类别: News
+2026-03-31 11:53:12,305 [INFO] [2616/8374] 处理: AP News (id=364677107)
+2026-03-31 11:53:12,475 [INFO]   ✓ AP News | 价格: Free | 类别: News
+2026-03-31 11:53:14,601 [INFO] [2617/8374] 处理: Reuters - Breaking World News (id=602660809)
+2026-03-31 11:53:14,765 [INFO]   ✓ Reuters - Breaking World News | 价格: Free | 类别: News
+2026-03-31 11:53:17,503 [INFO] [2618/8374] 处理: Clubhouse (id=1503133294)
+2026-03-31 11:53:17,680 [INFO]   ✓ Clubhouse | 价格: Free | 类别: News
+2026-03-31 11:53:20,382 [INFO] [2619/8374] 处理: Podcast App (id=1199070742)
+2026-03-31 11:53:20,525 [INFO]   ✓ Podcast App | 价格: Free | 类别: News
+2026-03-31 11:53:23,638 [INFO] [2620/8374] 处理: BBC: World News & Stories (id=364147881)
+2026-03-31 11:53:23,751 [INFO]   ✓ BBC: World News & Stories | 价格: Free | 类别: News
+2026-03-31 11:53:26,251 [INFO] [2621/8374] 处理: CNN: Live & Breaking News (id=331786748)
+2026-03-31 11:53:26,390 [INFO]   ✓ CNN: Live & Breaking News | 价格: Free | 类别: News
+2026-03-31 11:53:29,492 [INFO] [2622/8374] 处理: The Wall Street Journal. News (id=364387007)
+2026-03-31 11:53:29,591 [INFO]   ✓ The Wall Street Journal. News | 价格: Free | 类别: News
+2026-03-31 11:53:32,467 [INFO] [2623/8374] 处理: Al Jazeera - الجزيرة (id=1534955972)
+2026-03-31 11:53:32,752 [INFO]   ✓ Al Jazeera - الجزيرة | 价格: Free | 类别: News
+2026-03-31 11:53:34,993 [INFO] [2624/8374] 处理: Google News (id=459182288)
+2026-03-31 11:53:35,136 [INFO]   ✓ Google News | 价格: Free | 类别: News
+2026-03-31 11:53:36,925 [INFO] [2625/8374] 处理: FOX LOCAL: Live News & Weather (id=6443995100)
+2026-03-31 11:53:37,058 [INFO]   ✓ FOX LOCAL: Live News & Weather | 价格: Free | 类别: News
+2026-03-31 11:53:39,161 [INFO] [2626/8374] 处理: Quora (id=456034437)
+2026-03-31 11:53:39,324 [INFO]   ✓ Quora | 价格: Free | 类别: News
+2026-03-31 11:53:42,215 [INFO] [2627/8374] 处理: NPR: National & Local News (id=324906251)
+2026-03-31 11:53:42,352 [INFO]   ✓ NPR: National & Local News | 价格: Free | 类别: News
+2026-03-31 11:53:44,825 [INFO] [2628/8374] 处理: Enigma: What’s that in the Sky (id=1548371173)
+2026-03-31 11:53:44,947 [INFO]   ✓ Enigma: What’s that in the Sky | 价格: Free | 类别: News
+2026-03-31 11:53:46,578 [INFO] [2629/8374] 处理: The Atlantic Magazine (id=397599894)
+2026-03-31 11:53:46,673 [INFO]   ✓ The Atlantic Magazine | 价格: Free | 类别: News
+2026-03-31 11:53:49,179 [INFO] [2630/8374] 处理: Medium: Read & Write Stories (id=828256236)
+2026-03-31 11:53:49,318 [INFO]   ✓ Medium: Read & Write Stories | 价格: Free | 类别: News
+2026-03-31 11:53:51,330 [INFO] [2631/8374] 处理: SmartNews: Breaking News (id=579581125)
+2026-03-31 11:53:51,423 [INFO]   ✓ SmartNews: Breaking News | 价格: Free | 类别: News
+2026-03-31 11:53:53,124 [INFO] [2632/8374] 处理: Fox Nation (id=1419779267)
+2026-03-31 11:53:53,343 [INFO]   ✓ Fox Nation | 价格: Free | 类别: News
+2026-03-31 11:53:55,817 [INFO] [2633/8374] 处理: Tzofar - Red Alert (id=1480129320)
+2026-03-31 11:53:55,950 [INFO]   ✓ Tzofar - Red Alert | 价格: Free | 类别: News
+2026-03-31 11:53:57,621 [INFO] [2634/8374] 处理: 10TV WBNS Columbus, Ohio (id=1500283731)
+2026-03-31 11:53:57,714 [INFO]   ✓ 10TV WBNS Columbus, Ohio | 价格: Free | 类别: News
+2026-03-31 11:54:00,941 [INFO] [2635/8374] 处理: Bloomberg: Business News Daily (id=281941097)
+2026-03-31 11:54:01,091 [INFO]   ✓ Bloomberg: Business News Daily | 价格: Free | 类别: News
+2026-03-31 11:54:04,310 [INFO] [2636/8374] 处理: Hydra - read, upvote, comment (id=6478089063)
+2026-03-31 11:54:04,630 [INFO]   ✓ Hydra - read, upvote, comment | 价格: Free | 类别: News
+2026-03-31 11:54:07,483 [INFO] [2637/8374] 处理: Spotify for Creators (id=1056182234)
+2026-03-31 11:54:07,629 [INFO]   ✓ Spotify for Creators | 价格: Free | 类别: News
+2026-03-31 11:54:09,664 [INFO] [2638/8374] 处理: The New Yorker (id=1081530898)
+2026-03-31 11:54:09,798 [INFO]   ✓ The New Yorker | 价格: Free | 类别: News
+2026-03-31 11:54:11,918 [INFO] [2639/8374] 处理: Podbean Podcast App & Player (id=973361050)
+2026-03-31 11:54:12,010 [INFO]   ✓ Podbean Podcast App & Player | 价格: Free | 类别: News
+2026-03-31 11:54:14,962 [INFO] [2640/8374] 处理: Integrity Index (id=6760370782)
+2026-03-31 11:54:15,176 [INFO]   ✓ Integrity Index | 价格: Free | 类别: News
+2026-03-31 11:54:17,629 [INFO] [2641/8374] 处理: CNBC: Stock Market & Business (id=398018310)
+2026-03-31 11:54:17,801 [INFO]   ✓ CNBC: Stock Market & Business | 价格: Free | 类别: News
+2026-03-31 11:54:19,742 [INFO] [2642/8374] 处理: The Guardian - US & World News (id=409128287)
+2026-03-31 11:54:19,901 [INFO]   ✓ The Guardian - US & World News | 价格: Free | 类别: News
+2026-03-31 11:54:23,006 [INFO] [2643/8374] 处理: Newsmax (id=878180850)
+2026-03-31 11:54:23,152 [INFO]   ✓ Newsmax | 价格: Free | 类别: News
+2026-03-31 11:54:24,978 [INFO] [2644/8374] 处理: Blue for Twitter (id=6472628197)
+2026-03-31 11:54:25,112 [INFO]   ✓ Blue for Twitter | 价格: Free | 类别: News
+2026-03-31 11:54:28,291 [INFO] [2645/8374] 处理: Washington Post (id=352509417)
+2026-03-31 11:54:28,397 [INFO]   ✓ Washington Post | 价格: Free | 类别: News
+2026-03-31 11:54:30,345 [INFO] [2646/8374] 处理: Al Jazeera English (id=504847776)
+2026-03-31 11:54:30,438 [INFO]   ✓ Al Jazeera English | 价格: Free | 类别: News
+2026-03-31 11:54:33,046 [INFO] [2647/8374] 处理: Noticias Caracol (id=594925561)
+2026-03-31 11:54:33,178 [INFO]   ✓ Noticias Caracol | 价格: Free | 类别: News
+2026-03-31 11:54:35,029 [INFO] [2648/8374] 处理: WBAL NewsRadio (id=386834691)
+2026-03-31 11:54:35,179 [INFO]   ✓ WBAL NewsRadio | 价格: Free | 类别: News
+2026-03-31 11:54:38,314 [INFO] [2649/8374] 处理: Police Scanner + (id=498408628)
+2026-03-31 11:54:38,486 [INFO]   ✓ Police Scanner + | 价格: Free | 类别: News
+2026-03-31 11:54:40,950 [INFO] [2650/8374] 处理: Crime&Mistery Short: Darkshort (id=6754759318)
+2026-03-31 11:54:41,081 [INFO]   ✓ Crime&Mistery Short: Darkshort | 价格: Free | 类别: News
+2026-03-31 11:54:43,882 [INFO] [2651/8374] 处理: NewsNation: Unbiased News (id=1512252180)
+2026-03-31 11:54:44,173 [INFO]   ✓ NewsNation: Unbiased News | 价格: Free | 类别: News
+2026-03-31 11:54:46,456 [INFO] [2652/8374] 处理: Narwhal for Reddit (id=845422455)
+2026-03-31 11:54:46,594 [INFO]   ✓ Narwhal for Reddit | 价格: Free | 类别: News
+2026-03-31 11:54:49,706 [INFO] [2653/8374] 处理: 中国领事 (id=1385502150)
+2026-03-31 11:54:49,796 [INFO]   ✓ 中国领事 | 价格: Free | 类别: News
+2026-03-31 11:54:51,357 [INFO] [2654/8374] 处理: WHIO News (id=728497462)
+2026-03-31 11:54:51,449 [INFO]   ✓ WHIO News | 价格: Free | 类别: News
+2026-03-31 11:54:54,191 [INFO] [2655/8374] 处理: NBC News: Breaking & US News (id=319740707)
+2026-03-31 11:54:54,326 [INFO]   ✓ NBC News: Breaking & US News | 价格: Free | 类别: News
+2026-03-31 11:54:56,527 [INFO] [2656/8374] 处理: Frontline Wildfire Tracker (id=1508096232)
+2026-03-31 11:54:56,677 [INFO]   ✓ Frontline Wildfire Tracker | 价格: Free | 类别: News
+2026-03-31 11:54:58,683 [INFO] [2657/8374] 处理: DailyWire+ (id=1477317200)
+2026-03-31 11:54:58,774 [INFO]   ✓ DailyWire+ | 价格: Free | 类别: News
+2026-03-31 11:55:01,172 [INFO] [2658/8374] 处理: MS NOW: Watch Live News (id=396885309)
+2026-03-31 11:55:01,505 [INFO]   ✓ MS NOW: Watch Live News | 价格: Free | 类别: News
+2026-03-31 11:55:04,359 [INFO] [2659/8374] 处理: Blind - Professional Community (id=737534965)
+2026-03-31 11:55:04,570 [INFO]   ✓ Blind - Professional Community | 价格: Free | 类别: News
+2026-03-31 11:55:07,634 [INFO] [2660/8374] 处理: ABC News: Live Breaking News (id=300255638)
+2026-03-31 11:55:07,801 [INFO]   ✓ ABC News: Live Breaking News | 价格: Free | 类别: News
+2026-03-31 11:55:09,906 [INFO] [2661/8374] 处理: KLIN 1400 AM (id=443014990)
+2026-03-31 11:55:10,026 [INFO]   ✓ KLIN 1400 AM | 价格: Free | 类别: News
+2026-03-31 11:55:12,917 [INFO] [2662/8374] 处理: FEED Mobile (id=1557536849)
+2026-03-31 11:55:13,002 [INFO]   ✓ FEED Mobile | 价格: Free | 类别: News
+2026-03-31 11:55:15,962 [INFO] [2663/8374] 处理: Cleveland News from WKYC (id=469396327)
+2026-03-31 11:55:16,047 [INFO]   ✓ Cleveland News from WKYC | 价格: Free | 类别: News
+2026-03-31 11:55:18,686 [INFO] [2664/8374] 处理: Local News -Breaking & Latest (id=6444199360)
+2026-03-31 11:55:18,867 [INFO]   ✓ Local News -Breaking & Latest | 价格: Free | 类别: News
+2026-03-31 11:55:21,052 [INFO] [2665/8374] 处理: Mortgage News Daily (id=1588959473)
+2026-03-31 11:55:21,145 [INFO]   ✓ Mortgage News Daily | 价格: Free | 类别: News
+2026-03-31 11:55:23,969 [INFO] [2666/8374] 处理: OpenMHz (id=6466666994)
+2026-03-31 11:55:24,060 [INFO]   ✓ OpenMHz | 价格: Free | 类别: News
+2026-03-31 11:55:25,976 [INFO] [2667/8374] 处理: CBS News: Live Breaking News (id=334256223)
+2026-03-31 11:55:26,070 [INFO]   ✓ CBS News: Live Breaking News | 价格: Free | 类别: News
+2026-03-31 11:55:29,560 [INFO] [2668/8374] 处理: NRA (id=6759682557)
+2026-03-31 11:55:29,785 [INFO]   ✓ NRA | 价格: Free | 类别: News
+2026-03-31 11:55:32,949 [INFO] [2669/8374] 处理: BBC World Service (id=1451694511)
+2026-03-31 11:55:33,041 [INFO]   ✓ BBC World Service | 价格: Free | 类别: News
+2026-03-31 11:55:34,977 [INFO] [2670/8374] 处理: Next Spaceflight (id=1448055760)
+2026-03-31 11:55:35,078 [INFO]   ✓ Next Spaceflight | 价格: Free | 类别: News
+2026-03-31 11:55:37,798 [INFO] [2671/8374] 处理: Financial Times: Business News (id=1200842933)
+2026-03-31 11:55:37,899 [INFO]   ✓ Financial Times: Business News | 价格: Free | 类别: News
+2026-03-31 11:55:40,759 [INFO] [2672/8374] 处理: FREECABLE TV: News & TV Shows (id=1152299107)
+2026-03-31 11:55:40,877 [INFO]   ✓ FREECABLE TV: News & TV Shows | 价格: Free | 类别: News
+2026-03-31 11:55:42,461 [INFO] [2673/8374] 处理: Spectrum News: Local Stories (id=740948885)
+2026-03-31 11:55:42,555 [INFO]   ✓ Spectrum News: Local Stories | 价格: Free | 类别: News
+2026-03-31 11:55:45,355 [INFO] [2674/8374] 处理: Very Local: News & Weather (id=1462779034)
+2026-03-31 11:55:45,484 [INFO]   ✓ Very Local: News & Weather | 价格: Free | 类别: News
+2026-03-31 11:55:47,883 [INFO] [2675/8374] 处理: Straight Arrow News | SAN (id=6449258793)
+2026-03-31 11:55:48,019 [INFO]   ✓ Straight Arrow News | SAN | 价格: Free | 类别: News
+2026-03-31 11:55:51,049 [INFO] [2676/8374] 处理: دراما لايف (id=6747519955)
+2026-03-31 11:55:51,188 [INFO]   ✓ دراما لايف | 价格: Free | 类别: News
+2026-03-31 11:55:53,032 [INFO] [2677/8374] 处理: Indianapolis News from 13 WTHR (id=1502629615)
+2026-03-31 11:55:53,196 [INFO]   ✓ Indianapolis News from 13 WTHR | 价格: Free | 类别: News
+2026-03-31 11:55:55,571 [INFO] [2678/8374] 处理: Pocket Casts: Podcast Player (id=414834813)
+2026-03-31 11:55:55,713 [INFO]   ✓ Pocket Casts: Podcast Player | 价格: Free | 类别: News
+2026-03-31 11:55:58,235 [INFO] [2679/8374] 处理: PressReader: News & Magazines (id=313904711)
+2026-03-31 11:55:58,337 [INFO]   ✓ PressReader: News & Magazines | 价格: Free | 类别: News
+2026-03-31 11:56:01,274 [INFO] [2680/8374] 处理: Al Mashhad - المشهد (id=1641702518)
+2026-03-31 11:56:01,377 [INFO]   ✓ Al Mashhad - المشهد | 价格: Free | 类别: News
+2026-03-31 11:56:03,839 [INFO] [2681/8374] 处理: BuzzFeed - Quiz, Trivia & News (id=352969997)
+2026-03-31 11:56:04,009 [INFO]   ✓ BuzzFeed - Quiz, Trivia & News | 价格: Free | 类别: News
+2026-03-31 11:56:06,747 [INFO] [2682/8374] 处理: Space Launch Schedule (id=1024681892)
+2026-03-31 11:56:06,836 [INFO]   ✓ Space Launch Schedule | 价格: Free | 类别: News
+2026-03-31 11:56:08,998 [INFO] [2683/8374] 处理: Space Coast Launches (id=6449440459)
+2026-03-31 11:56:09,084 [INFO]   ✓ Space Coast Launches | 价格: Free | 类别: News
+2026-03-31 11:56:11,237 [INFO] [2684/8374] 处理: Podcast App & Player - Castbox (id=1243410543)
+2026-03-31 11:56:11,371 [INFO]   ✓ Podcast App & Player - Castbox | 价格: Free | 类别: News
+2026-03-31 11:56:13,021 [INFO] [2685/8374] 处理: MSN (id=945416273)
+2026-03-31 11:56:13,123 [INFO]   ✓ MSN | 价格: Free | 类别: News
+2026-03-31 11:56:16,382 [INFO] [2686/8374] 处理: Yahoo News: Daily News For You (id=304158842)
+2026-03-31 11:56:16,547 [INFO]   ✓ Yahoo News: Daily News For You | 价格: Free | 类别: News
+2026-03-31 11:56:19,209 [INFO] [2687/8374] 处理: TODAY Show (id=416357699)
+2026-03-31 11:56:19,340 [INFO]   ✓ TODAY Show | 价格: Free | 类别: News
+2026-03-31 11:56:21,074 [INFO] [2688/8374] 处理: 620 WTMJ Radio (id=1445950553)
+2026-03-31 11:56:21,218 [INFO]   ✓ 620 WTMJ Radio | 价格: Free | 类别: News
+2026-03-31 11:56:24,645 [INFO] [2689/8374] 处理: Kiki: Local Chat & People Near (id=6499032288)
+2026-03-31 11:56:24,816 [INFO]   ✓ Kiki: Local Chat & People Near | 价格: Free | 类别: News
+2026-03-31 11:56:27,314 [INFO] [2690/8374] 处理: Local News & Weather: Haystack (id=829825445)
+2026-03-31 11:56:27,462 [INFO]   ✓ Local News & Weather: Haystack | 价格: Free | 类别: News
+2026-03-31 11:56:29,138 [INFO] [2691/8374] 处理: NBC4 Columbus (id=380703612)
+2026-03-31 11:56:29,225 [INFO]   ✓ NBC4 Columbus | 价格: Free | 类别: News
+2026-03-31 11:56:32,295 [INFO] [2692/8374] 处理: Live From Studio 6B (id=6759072620)
+2026-03-31 11:56:32,381 [INFO]   ✓ Live From Studio 6B | 价格: Free | 类别: News
+2026-03-31 11:56:34,154 [INFO] [2693/8374] 处理: Police Scanner + Fire Radio (id=482833772)
+2026-03-31 11:56:34,247 [INFO]   ✓ Police Scanner + Fire Radio | 价格: Free | 类别: News
+2026-03-31 11:56:36,270 [INFO] [2694/8374] 处理: Feedly - Smart News Reader (id=396069556)
+2026-03-31 11:56:36,409 [INFO]   ✓ Feedly - Smart News Reader | 价格: Free | 类别: News
+2026-03-31 11:56:38,631 [INFO] [2695/8374] 处理: Epoch Times: Live & Breaking (id=670443321)
+2026-03-31 11:56:38,726 [INFO]   ✓ Epoch Times: Live & Breaking | 价格: Free | 类别: News
+2026-03-31 11:56:40,955 [INFO] [2696/8374] 处理: Daily Mail: Breaking News (id=384101264)
+2026-03-31 11:56:41,101 [INFO]   ✓ Daily Mail: Breaking News | 价格: Free | 类别: News
+2026-03-31 11:56:43,678 [INFO] [2697/8374] 处理: BlazeTV: Pro-America (id=1080655620)
+2026-03-31 11:56:43,788 [INFO]   ✓ BlazeTV: Pro-America | 价格: Free | 类别: News
+2026-03-31 11:56:45,620 [INFO] [2698/8374] 处理: LA Times (id=373238146)
+2026-03-31 11:56:45,840 [INFO]   ✓ LA Times | 价格: Free | 类别: News
+2026-03-31 11:56:48,313 [INFO] [2699/8374] 处理: Wondery: Must-Hear Podcasts (id=1485913772)
+2026-03-31 11:56:48,437 [INFO]   ✓ Wondery: Must-Hear Podcasts | 价格: Free | 类别: News
+2026-03-31 11:56:50,298 [INFO] [2700/8374] 处理: Barron’s - Investing Insights (id=409882593)
+2026-03-31 11:56:50,432 [INFO]   ✓ Barron’s - Investing Insights | 价格: Free | 类别: News
+2026-03-31 11:56:52,123 [INFO] [2701/8374] 处理: USA TODAY: US & Breaking News (id=504631398)
+2026-03-31 11:56:52,234 [INFO]   ✓ USA TODAY: US & Breaking News | 价格: Free | 类别: News
+2026-03-31 11:56:55,171 [INFO] [2702/8374] 处理: The San Francisco Chronicle (id=423260205)
+2026-03-31 11:56:55,303 [INFO]   ✓ The San Francisco Chronicle | 价格: Free | 类别: News
+2026-03-31 11:56:58,581 [INFO] [2703/8374] 处理: Business Insider (id=554260576)
+2026-03-31 11:56:58,690 [INFO]   ✓ Business Insider | 价格: Free | 类别: News
+2026-03-31 11:57:00,761 [INFO] [2704/8374] 处理: The Philadelphia Inquirer (id=577251728)
+2026-03-31 11:57:00,908 [INFO]   ✓ The Philadelphia Inquirer | 价格: Free | 类别: News
+2026-03-31 11:57:03,235 [INFO] [2705/8374] 处理: Le Monde, Live News (id=294047850)
+2026-03-31 11:57:03,383 [INFO]   ✓ Le Monde, Live News | 价格: Free | 类别: News
+2026-03-31 11:57:06,431 [INFO] [2706/8374] 处理: The Information: Tech News (id=1485459932)
+2026-03-31 11:57:06,576 [INFO]   ✓ The Information: Tech News | 价格: Free | 类别: News
+2026-03-31 11:57:08,968 [INFO] [2707/8374] 处理: Detroit Free Press: Freep (id=904023476)
+2026-03-31 11:57:09,071 [INFO]   ✓ Detroit Free Press: Freep | 价格: Free | 类别: News
+2026-03-31 11:57:12,000 [INFO] [2708/8374] 处理: AL.com (id=419876008)
+2026-03-31 11:57:12,131 [INFO]   ✓ AL.com | 价格: Free | 类别: News
+2026-03-31 11:57:14,181 [INFO] [2709/8374] 处理: Overcast (id=888422857)
+2026-03-31 11:57:14,308 [INFO]   ✓ Overcast | 价格: Free | 类别: News
+2026-03-31 11:57:15,988 [INFO] [2710/8374] 处理: The Boston Globe (id=632761100)
+2026-03-31 11:57:16,104 [INFO]   ✓ The Boston Globe | 价格: Free | 类别: News
+2026-03-31 11:57:19,601 [INFO] [2711/8374] 处理: The Telegraph: UK & World News (id=388947468)
+2026-03-31 11:57:19,745 [INFO]   ✓ The Telegraph: UK & World News | 价格: Free | 类别: News
+2026-03-31 11:57:22,033 [INFO] [2712/8374] 处理: Chicago Tribune (id=383137151)
+2026-03-31 11:57:22,126 [INFO]   ✓ Chicago Tribune | 价格: Free | 类别: News
+2026-03-31 11:57:25,387 [INFO] [2713/8374] 处理: The Minnesota Star Tribune (id=476107280)
+2026-03-31 11:57:25,482 [INFO]   ✓ The Minnesota Star Tribune | 价格: Free | 类别: News
+2026-03-31 11:57:28,889 [INFO] [2714/8374] 处理: The Detroit News: Local News (id=904391210)
+2026-03-31 11:57:29,041 [INFO]   ✓ The Detroit News: Local News | 价格: Free | 类别: News
+2026-03-31 11:57:31,217 [INFO] [2715/8374] 处理: Haaretz - Israel News (id=504537897)
+2026-03-31 11:57:31,314 [INFO]   ✓ Haaretz - Israel News | 价格: Free | 类别: News
+2026-03-31 11:57:33,085 [INFO] [2716/8374] 处理: The Baltimore Sun (id=496681035)
+2026-03-31 11:57:33,232 [INFO]   ✓ The Baltimore Sun | 价格: Free | 类别: News
+2026-03-31 11:57:35,577 [INFO] [2717/8374] 处理: 日本経済新聞 電子版 - ビジネス・政治・金融・経済ニュース (id=396855834)
+2026-03-31 11:57:35,990 [INFO]   ✓ 日本経済新聞 電子版 - ビジネス・政治・金融・経済ニュース | 价格: Free | 类别: News
+2026-03-31 11:57:38,280 [INFO] [2718/8374] 处理: Foreign Policy News & Analysis (id=1034756405)
+2026-03-31 11:57:38,369 [INFO]   ✓ Foreign Policy News & Analysis | 价格: Free | 类别: News
+2026-03-31 11:57:40,207 [INFO] [2719/8374] 处理: syracuse.com (id=419888786)
+2026-03-31 11:57:40,315 [INFO]   ✓ syracuse.com | 价格: Free | 类别: News
+2026-03-31 11:57:42,401 [INFO] [2720/8374] 处理: El Nuevo Día (id=459481464)
+2026-03-31 11:57:42,489 [INFO]   ✓ El Nuevo Día | 价格: Free | 类别: News
+2026-03-31 11:57:45,731 [INFO] [2721/8374] 处理: Newsday (id=358571317)
+2026-03-31 11:57:45,862 [INFO]   ✓ Newsday | 价格: Free | 类别: News
+2026-03-31 11:57:48,859 [INFO] [2722/8374] 处理: Houston Chronicle (id=453564805)
+2026-03-31 11:57:48,999 [INFO]   ✓ Houston Chronicle | 价格: Free | 类别: News
+2026-03-31 11:57:51,935 [INFO] [2723/8374] 处理: NOLA.com (id=419878345)
+2026-03-31 11:57:52,047 [INFO]   ✓ NOLA.com | 价格: Free | 类别: News
+2026-03-31 11:57:55,185 [INFO] [2724/8374] 处理: Coast to Coast AM Insider (id=330213424)
+2026-03-31 11:57:55,342 [INFO]   ✓ Coast to Coast AM Insider | 价格: Free | 类别: News
+2026-03-31 11:57:56,953 [INFO] [2725/8374] 处理: Orlando Sentinel (id=402223551)
+2026-03-31 11:57:57,063 [INFO]   ✓ Orlando Sentinel | 价格: Free | 类别: News
+2026-03-31 11:57:58,806 [INFO] [2726/8374] 处理: REFORMA (id=322385772)
+2026-03-31 11:57:58,940 [INFO]   ✓ REFORMA | 价格: Free | 类别: News
+2026-03-31 11:58:01,900 [INFO] [2727/8374] 处理: Columbus Dispatch: Local News (id=1072821501)
+2026-03-31 11:58:02,004 [INFO]   ✓ Columbus Dispatch: Local News | 价格: Free | 类别: News
+2026-03-31 11:58:04,930 [INFO] [2728/8374] 处理: הארץ - חדשות | Haaretz (id=521559643)
+2026-03-31 11:58:05,063 [INFO]   ✓ הארץ - חדשות | Haaretz | 价格: Free | 类别: News
+2026-03-31 11:58:07,343 [INFO] [2729/8374] 处理: Cincinnati.com: The Enquirer (id=814555930)
+2026-03-31 11:58:07,471 [INFO]   ✓ Cincinnati.com: The Enquirer | 价格: Free | 类别: News
+2026-03-31 11:58:09,608 [INFO] [2730/8374] 处理: NJ.com (id=419202474)
+2026-03-31 11:58:09,748 [INFO]   ✓ NJ.com | 价格: Free | 类别: News
+2026-03-31 11:58:12,161 [INFO] [2731/8374] 处理: Seattle Times Mobile (id=329502124)
+2026-03-31 11:58:12,291 [INFO]   ✓ Seattle Times Mobile | 价格: Free | 类别: News
+2026-03-31 11:58:15,651 [INFO] [2732/8374] 处理: Milwaukee Journal Sentinel (id=526882300)
+2026-03-31 11:58:15,744 [INFO]   ✓ Milwaukee Journal Sentinel | 价格: Free | 类别: News
+2026-03-31 11:58:17,978 [INFO] [2733/8374] 处理: IndyStar: Indianapolis Star (id=331907339)
+2026-03-31 11:58:18,363 [INFO]   ✓ IndyStar: Indianapolis Star | 价格: Free | 类别: News
+2026-03-31 11:58:20,079 [INFO] [2734/8374] 处理: azcentral (id=815248536)
+2026-03-31 11:58:20,218 [INFO]   ✓ azcentral | 价格: Free | 类别: News
+2026-03-31 11:58:22,870 [INFO] [2735/8374] 处理: Naples Daily News (id=1119322983)
+2026-03-31 11:58:23,083 [INFO]   ✓ Naples Daily News | 价格: Free | 类别: News
+2026-03-31 11:58:25,829 [INFO] [2736/8374] 处理: St. Louis Post-Dispatch (id=398032168)
+2026-03-31 11:58:26,001 [INFO]   ✓ St. Louis Post-Dispatch | 价格: Free | 类别: News
+2026-03-31 11:58:28,853 [INFO] [2737/8374] 处理: AJC News (id=414120752)
+2026-03-31 11:58:28,988 [INFO]   ✓ AJC News | 价格: Free | 类别: News
+2026-03-31 11:58:31,599 [INFO] [2738/8374] 处理: South China Morning Post: News (id=623201967)
+2026-03-31 11:58:31,734 [INFO]   ✓ South China Morning Post: News | 价格: Free | 类别: News
+2026-03-31 11:58:33,601 [INFO] [2739/8374] 处理: The Irish Times (id=365544593)
+2026-03-31 11:58:33,807 [INFO]   ✓ The Irish Times | 价格: Free | 类别: News
+2026-03-31 11:58:36,655 [INFO] [2740/8374] 处理: New York Daily News (id=354730788)
+2026-03-31 11:58:37,355 [INFO]   ✓ New York Daily News | 价格: Free | 类别: News
+2026-03-31 11:58:40,731 [INFO] [2741/8374] 处理: The Morning Call (id=501096172)
+2026-03-31 11:58:40,869 [INFO]   ✓ The Morning Call | 价格: Free | 类别: News
+2026-03-31 11:58:42,459 [INFO] [2742/8374] 处理: 2nd1st - Truth, News & Social (id=1466169815)
+2026-03-31 11:58:42,552 [INFO]   ✓ 2nd1st - Truth, News & Social | 价格: Free | 类别: News
+2026-03-31 11:58:45,458 [INFO] [2743/8374] 处理: Sun Sentinel (id=402230662)
+2026-03-31 11:58:45,551 [INFO]   ✓ Sun Sentinel | 价格: Free | 类别: News
+2026-03-31 11:58:47,211 [INFO] [2744/8374] 处理: lohud (id=518390835)
+2026-03-31 11:58:47,306 [INFO]   ✓ lohud | 价格: Free | 类别: News
+2026-03-31 11:58:49,165 [INFO] [2745/8374] 处理: Slate.com (id=357555242)
+2026-03-31 11:58:49,301 [INFO]   ✓ Slate.com | 价格: Free | 类别: News
+2026-03-31 11:58:52,078 [INFO] [2746/8374] 处理: Delaware Online (id=493545272)
+2026-03-31 11:58:52,214 [INFO]   ✓ Delaware Online | 价格: Free | 类别: News
+2026-03-31 11:58:55,597 [INFO] [2747/8374] 处理: OREGONLIVE.COM (id=394812078)
+2026-03-31 11:58:55,817 [INFO]   ✓ OREGONLIVE.COM | 价格: Free | 类别: News
+2026-03-31 11:58:58,994 [INFO] [2748/8374] 处理: Le Figaro Actualités en direct (id=319557427)
+2026-03-31 11:58:59,145 [INFO]   ✓ Le Figaro Actualités en direct | 价格: Free | 类别: News
+2026-03-31 11:59:02,610 [INFO] [2749/8374] 处理: The Repository - Canton, OH (id=421898726)
+2026-03-31 11:59:02,741 [INFO]   ✓ The Repository - Canton, OH | 价格: Free | 类别: News
+2026-03-31 11:59:05,346 [INFO] [2750/8374] 处理: Des Moines Register (id=524153305)
+2026-03-31 11:59:05,434 [INFO]   ✓ Des Moines Register | 价格: Free | 类别: News
+2026-03-31 11:59:07,084 [INFO] [2751/8374] 处理: Espresso from The Economist (id=896628003)
+2026-03-31 11:59:07,228 [INFO]   ✓ Espresso from The Economist | 价格: Free | 类别: News
+2026-03-31 11:59:09,091 [INFO] [2752/8374] 处理: Snopes (id=6747533069)
+2026-03-31 11:59:09,226 [INFO]   ✓ Snopes | 价格: Free | 类别: News
+2026-03-31 11:59:12,513 [INFO] [2753/8374] 处理: Austin American Statesman (id=445643104)
+2026-03-31 11:59:12,605 [INFO]   ✓ Austin American Statesman | 价格: Free | 类别: News
+2026-03-31 11:59:15,447 [INFO] [2754/8374] 处理: Miami Herald News (id=366466705)
+2026-03-31 11:59:15,578 [INFO]   ✓ Miami Herald News | 价格: Free | 类别: News
+2026-03-31 11:59:17,595 [INFO] [2755/8374] 处理: Worcester Telegram & Gazette (id=1038708742)
+2026-03-31 11:59:17,710 [INFO]   ✓ Worcester Telegram & Gazette | 价格: Free | 类别: News
+2026-03-31 11:59:20,521 [INFO] [2756/8374] 处理: cleveland.com (id=394810586)
+2026-03-31 11:59:20,629 [INFO]   ✓ cleveland.com | 价格: Free | 类别: News
+2026-03-31 11:59:22,710 [INFO] [2757/8374] 处理: North Jersey: Record & Herald (id=446490632)
+2026-03-31 11:59:22,834 [INFO]   ✓ North Jersey: Record & Herald | 价格: Free | 类别: News
+2026-03-31 11:59:25,862 [INFO] [2758/8374] 处理: Tallahassee Democrat (id=508520875)
+2026-03-31 11:59:26,037 [INFO]   ✓ Tallahassee Democrat | 价格: Free | 类别: News
+2026-03-31 11:59:28,425 [INFO] [2759/8374] 处理: DER SPIEGEL - Nachrichten (id=424881832)
+2026-03-31 11:59:28,522 [INFO]   ✓ DER SPIEGEL - Nachrichten | 价格: Free | 类别: News
+2026-03-31 11:59:31,504 [INFO] [2760/8374] 处理: The Oklahoman News (id=1455423658)
+2026-03-31 11:59:31,641 [INFO]   ✓ The Oklahoman News | 价格: Free | 类别: News
+2026-03-31 11:59:33,148 [INFO] [2761/8374] 处理: Sporty's E6B Flight Computer (id=371817955)
+2026-03-31 11:59:33,259 [INFO]   ✓ Sporty's E6B Flight Computer | 价格: $9.99 | 类别: Navigation
+2026-03-31 11:59:39,756 [INFO] [2762/8374] 处理: Blitzer.de PRO (id=498732510)
+2026-03-31 11:59:39,952 [INFO]   ✓ Blitzer.de PRO | 价格: $0.49 | 类别: Navigation
+2026-03-31 11:59:42,916 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 11:59:42,917 [INFO]   ✓ 内购: 2 项
+2026-03-31 11:59:45,057 [INFO] [2763/8374] 处理: Sun Seeker - Sunlight Tracker (id=330247123)
+2026-03-31 11:59:45,200 [INFO]   ✓ Sun Seeker - Sunlight Tracker | 价格: $11.99 | 类别: Navigation
+2026-03-31 11:59:51,495 [INFO] [2764/8374] 处理: الخلاوي (id=6747026274)
+2026-03-31 11:59:51,603 [INFO]   ✓ الخلاوي | 价格: $9.99 | 类别: Navigation
+2026-03-31 11:59:58,327 [INFO] [2765/8374] 处理: Theodolite (id=339393884)
+2026-03-31 11:59:58,549 [INFO]   ✓ Theodolite | 价格: $8.99 | 类别: Navigation
+2026-03-31 12:00:02,408 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 12:00:02,409 [INFO]   ✓ 内购: 8 项
+2026-03-31 12:00:05,170 [INFO] [2766/8374] 处理: Tactical NAV (id=412650650)
+2026-03-31 12:00:05,320 [INFO]   ✓ Tactical NAV | 价格: $8.99 | 类别: Navigation
+2026-03-31 12:00:08,977 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 12:00:08,978 [INFO]   ✓ 内购: 5 项
+2026-03-31 12:00:12,342 [INFO] [2767/8374] 处理: Ship Finder (id=363360636)
+2026-03-31 12:00:12,502 [INFO]   ✓ Ship Finder | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:00:16,993 [INFO] [2768/8374] 处理: Exit Strategy NYC Subway Map (id=320946370)
+2026-03-31 12:00:17,144 [INFO]   ✓ Exit Strategy NYC Subway Map | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:00:23,623 [INFO] [2769/8374] 处理: Speedometer 55 Pro. GPS kit. (id=530829008)
+2026-03-31 12:00:23,785 [INFO]   ✓ Speedometer 55 Pro. GPS kit. | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:00:26,185 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 12:00:26,187 [INFO]   ✓ 内购: 1 项
+2026-03-31 12:00:28,507 [INFO] [2770/8374] 处理: Cachly - Geocaching (id=645384141)
+2026-03-31 12:00:28,658 [INFO]   ✓ Cachly - Geocaching | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:00:32,422 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 12:00:32,423 [INFO]   ✓ 内购: 9 项
+2026-03-31 12:00:35,565 [INFO] [2771/8374] 处理: Arrow GPS Offline (id=6760430781)
+2026-03-31 12:00:35,710 [INFO]   ✓ Arrow GPS Offline | 价格: $8.99 | 类别: Navigation
+2026-03-31 12:00:41,002 [INFO] [2772/8374] 处理: aprs.fi (id=922155038)
+2026-03-31 12:00:41,210 [INFO]   ✓ aprs.fi | 价格: $6.99 | 类别: Navigation
+2026-03-31 12:00:45,154 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 12:00:45,155 [INFO]   ✓ 内购: 3 项
+2026-03-31 12:00:47,476 [INFO] [2773/8374] 处理: GoSkyWatch Planetarium (id=284980812)
+2026-03-31 12:00:47,579 [INFO]   ✓ GoSkyWatch Planetarium | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:00:54,400 [INFO] [2774/8374] 处理: BLM Public Lands Map Guide USA (id=1546176021)
+2026-03-31 12:00:54,624 [INFO]   ✓ BLM Public Lands Map Guide USA | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:01:01,504 [INFO] [2775/8374] 处理: Holding Pattern Trainer (id=456327713)
+2026-03-31 12:01:01,613 [INFO]   ✓ Holding Pattern Trainer | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:01:06,075 [INFO] [2776/8374] 处理: Find93 (id=6742754602)
+2026-03-31 12:01:06,421 [INFO]   ✓ Find93 | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:01:12,307 [INFO] [2777/8374] 处理: NavRules (id=423125556)
+2026-03-31 12:01:12,396 [INFO]   ✓ NavRules | 价格: $15.99 | 类别: Navigation
+2026-03-31 12:01:18,212 [INFO] [2778/8374] 处理: Altimeter+ (id=417204570)
+2026-03-31 12:01:18,328 [INFO]   ✓ Altimeter+ | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:01:24,534 [INFO] [2779/8374] 处理: GPX Viewer PRO (id=1497379822)
+2026-03-31 12:01:24,676 [INFO]   ✓ GPX Viewer PRO | 价格: $6.99 | 类别: Navigation
+2026-03-31 12:01:28,552 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 12:01:28,554 [INFO]   ✓ 内购: 1 项
+2026-03-31 12:01:31,873 [INFO] [2780/8374] 处理: Los Angeles Zoo - LA ZooMap (id=1620618057)
+2026-03-31 12:01:31,981 [INFO]   ✓ Los Angeles Zoo - LA ZooMap | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:01:37,832 [INFO] [2781/8374] 处理: NZ Topo50 South Island (id=605676156)
+2026-03-31 12:01:37,969 [INFO]   ✓ NZ Topo50 South Island | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:01:41,025 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 12:01:41,027 [INFO]   ✓ 内购: 2 项
+2026-03-31 12:01:43,615 [INFO] [2782/8374] 处理: Topographic Maps & Trails (id=1440944902)
+2026-03-31 12:01:43,843 [INFO]   ✓ Topographic Maps & Trails | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:01:50,899 [INFO] [2783/8374] 处理: 13:20:Sync (id=384363262)
+2026-03-31 12:01:51,056 [INFO]   ✓ 13:20:Sync | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:01:54,858 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 12:01:54,859 [INFO]   ✓ 内购: 4 项
+2026-03-31 12:01:57,985 [INFO] [2784/8374] 处理: iLocation+: Here! (id=650008859)
+2026-03-31 12:01:58,115 [INFO]   ✓ iLocation+: Here! | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:02:03,597 [INFO] [2785/8374] 处理: World Tides 2026 (id=6755918173)
+2026-03-31 12:02:03,707 [INFO]   ✓ World Tides 2026 | 价格: $5.99 | 类别: Navigation
+2026-03-31 12:02:09,764 [INFO] [2786/8374] 处理: LeadNav GPS (id=708869281)
+2026-03-31 12:02:09,880 [INFO]   ✓ LeadNav GPS | 价格: $19.99 | 类别: Navigation
+2026-03-31 12:02:11,858 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 12:02:11,859 [INFO]   ✓ 内购: 10 项
+2026-03-31 12:02:13,501 [INFO] [2787/8374] 处理: StarPilot (id=359071446)
+2026-03-31 12:02:13,680 [INFO]   ✓ StarPilot | 价格: $49.99 | 类别: Navigation
+2026-03-31 12:02:20,900 [INFO] [2788/8374] 处理: Pinbox - Map Your World (id=733144754)
+2026-03-31 12:02:21,030 [INFO]   ✓ Pinbox - Map Your World | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:02:25,104 [INFO] [2789/8374] 处理: C&O Canal Explorer (id=1242529905)
+2026-03-31 12:02:25,199 [INFO]   ✓ C&O Canal Explorer | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:02:31,432 [INFO] [2790/8374] 处理: CoNav (id=1456729642)
+2026-03-31 12:02:31,574 [INFO]   ✓ CoNav | 价格: $6.99 | 类别: Navigation
+2026-03-31 12:02:36,885 [INFO] [2791/8374] 处理: ShroomLoop (id=6758688006)
+2026-03-31 12:02:37,030 [INFO]   ✓ ShroomLoop | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:02:42,671 [INFO] [2792/8374] 处理: Rule Master (id=1617543595)
+2026-03-31 12:02:42,783 [INFO]   ✓ Rule Master | 价格: $9.99 | 类别: Navigation
+2026-03-31 12:02:48,778 [INFO] [2793/8374] 处理: Altimeter & Precision - Simple (id=956232336)
+2026-03-31 12:02:48,927 [INFO]   ✓ Altimeter & Precision - Simple | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:02:54,371 [INFO] [2794/8374] 处理: ZTL (id=926415425)
+2026-03-31 12:02:54,475 [INFO]   ✓ ZTL | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:02:59,205 [INFO] [2795/8374] 处理: MilGPS PRO (id=6760237050)
+2026-03-31 12:02:59,378 [INFO]   ✓ MilGPS PRO | 价格: $9.99 | 类别: Navigation
+2026-03-31 12:03:05,912 [INFO] [2796/8374] 处理: Visual Traffic Pattern (id=917517114)
+2026-03-31 12:03:06,429 [INFO]   ✓ Visual Traffic Pattern | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:03:10,925 [INFO] [2797/8374] 处理: LAT-LONG2MGRS (id=6739938875)
+2026-03-31 12:03:11,045 [INFO]   ✓ LAT-LONG2MGRS | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:03:16,729 [INFO] [2798/8374] 处理: Milano Malpensa MXP Airport (id=6761145190)
+2026-03-31 12:03:16,834 [INFO]   ✓ Milano Malpensa MXP Airport | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:03:21,964 [INFO] [2799/8374] 处理: Find My Car: Tap, Select, Go (id=6457022457)
+2026-03-31 12:03:22,084 [INFO]   ✓ Find My Car: Tap, Select, Go | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:03:27,519 [INFO] [2800/8374] 处理: Light Pollution Map (id=1530464858)
+2026-03-31 12:03:27,625 [INFO]   ✓ Light Pollution Map | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:03:34,378 [INFO] [2801/8374] 处理: BlindSquare (id=500557255)
+2026-03-31 12:03:34,513 [INFO]   ✓ BlindSquare | 价格: $39.99 | 类别: Navigation
+2026-03-31 12:03:40,027 [INFO] [2802/8374] 处理: San Diego Intl SAN Airport (id=6761055102)
+2026-03-31 12:03:40,131 [INFO]   ✓ San Diego Intl SAN Airport | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:03:44,953 [INFO] [2803/8374] 处理: GPS Diagnostic: Satellite Test (id=1020967894)
+2026-03-31 12:03:45,041 [INFO]   ✓ GPS Diagnostic: Satellite Test | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:03:50,743 [INFO] [2804/8374] 处理: Omaha Zoo - ZooMap (id=6462419325)
+2026-03-31 12:03:50,835 [INFO]   ✓ Omaha Zoo - ZooMap | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:03:57,418 [INFO] [2805/8374] 处理: Sacramento Intl SMF Airport (id=6760977747)
+2026-03-31 12:03:57,511 [INFO]   ✓ Sacramento Intl SMF Airport | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:04:02,415 [INFO] [2806/8374] 处理: Float LKN (id=6503627248)
+2026-03-31 12:04:02,598 [INFO]   ✓ Float LKN | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:04:05,519 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 12:04:05,520 [INFO]   ✓ 内购: 2 项
+2026-03-31 12:04:07,191 [INFO] [2807/8374] 处理: GPS 2 IP (id=408625926)
+2026-03-31 12:04:07,357 [INFO]   ✓ GPS 2 IP | 价格: $7.99 | 类别: Navigation
+2026-03-31 12:04:11,496 [INFO] [2808/8374] 处理: KickMap NYC (id=285668269)
+2026-03-31 12:04:11,588 [INFO]   ✓ KickMap NYC | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:04:17,316 [INFO] [2809/8374] 处理: Illinois 511 Traffic Cameras (id=6446608392)
+2026-03-31 12:04:17,406 [INFO]   ✓ Illinois 511 Traffic Cameras | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:04:24,035 [INFO] [2810/8374] 处理: Nav Camera (id=865293820)
+2026-03-31 12:04:24,176 [INFO]   ✓ Nav Camera | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:04:27,246 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 12:04:27,247 [INFO]   ✓ 内购: 1 项
+2026-03-31 12:04:30,186 [INFO] [2811/8374] 处理: MagVar (id=1670958717)
+2026-03-31 12:04:30,659 [INFO]   ✓ MagVar | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:04:36,187 [INFO] [2812/8374] 处理: Jacksonville Zoo - ZooMap (id=1584508266)
+2026-03-31 12:04:36,321 [INFO]   ✓ Jacksonville Zoo - ZooMap | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:04:42,811 [INFO] [2813/8374] 处理: الدليلة (id=526746047)
+2026-03-31 12:04:42,914 [INFO]   ✓ الدليلة | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:04:50,183 [INFO] [2814/8374] 处理: SledNH 2026 (id=6752256823)
+2026-03-31 12:04:50,291 [INFO]   ✓ SledNH 2026 | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:04:54,070 [INFO] [2815/8374] 处理: Tide Graph Pro (id=721000562)
+2026-03-31 12:04:54,414 [INFO]   ✓ Tide Graph Pro | 价格: $5.99 | 类别: Navigation
+2026-03-31 12:05:00,258 [INFO] [2816/8374] 处理: Topo Map & Hiking Tracker (id=1451500304)
+2026-03-31 12:05:00,356 [INFO]   ✓ Topo Map & Hiking Tracker | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:05:05,842 [INFO] [2817/8374] 处理: eMap SML : Smith Mountain Lake (id=903948724)
+2026-03-31 12:05:05,990 [INFO]   ✓ eMap SML : Smith Mountain Lake | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:05:11,187 [INFO] [2818/8374] 处理: Nautical Charts & Maps (id=1420774597)
+2026-03-31 12:05:11,298 [INFO]   ✓ Nautical Charts & Maps | 价格: $8.99 | 类别: Navigation
+2026-03-31 12:05:16,483 [INFO] [2819/8374] 处理: AyeTides (id=287316432)
+2026-03-31 12:05:16,580 [INFO]   ✓ AyeTides | 价格: $7.99 | 类别: Navigation
+2026-03-31 12:05:22,937 [INFO] [2820/8374] 处理: Louisiana 511 Traffic Cameras (id=6448687840)
+2026-03-31 12:05:23,094 [INFO]   ✓ Louisiana 511 Traffic Cameras | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:05:29,725 [INFO] [2821/8374] 处理: KnockBuddy (id=1598780516)
+2026-03-31 12:05:30,002 [INFO]   ✓ KnockBuddy | 价格: $9.99 | 类别: Navigation
+2026-03-31 12:05:36,762 [INFO] [2822/8374] 处理: MapOut (id=477094081)
+2026-03-31 12:05:36,926 [INFO]   ✓ MapOut | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:05:42,797 [INFO] [2823/8374] 处理: 511 Georgia Traffic Cameras (id=6446435307)
+2026-03-31 12:05:42,965 [INFO]   ✓ 511 Georgia Traffic Cameras | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:05:47,579 [INFO] [2824/8374] 处理: WakeWatch (id=1061101684)
+2026-03-31 12:05:47,821 [INFO]   ✓ WakeWatch | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:05:55,043 [INFO] [2825/8374] 处理: NZ Topo50 North Island (id=602524763)
+2026-03-31 12:05:55,179 [INFO]   ✓ NZ Topo50 North Island | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:05:57,249 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 12:05:57,250 [INFO]   ✓ 内购: 2 项
+2026-03-31 12:06:00,722 [INFO] [2826/8374] 处理: Pro Altimeter - Barometric+GPS (id=926603602)
+2026-03-31 12:06:00,880 [INFO]   ✓ Pro Altimeter - Barometric+GPS | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:06:06,646 [INFO] [2827/8374] 处理: Cruzero (id=1158164502)
+2026-03-31 12:06:06,768 [INFO]   ✓ Cruzero | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:06:13,523 [INFO] [2828/8374] 处理: Hawaii Ocean Map (id=6755807546)
+2026-03-31 12:06:13,783 [INFO]   ✓ Hawaii Ocean Map | 价格: $9.99 | 类别: Navigation
+2026-03-31 12:06:19,257 [INFO] [2829/8374] 处理: Achilleus 3D Tactical Map (id=946169237)
+2026-03-31 12:06:19,381 [INFO]   ✓ Achilleus 3D Tactical Map | 价格: $14.99 | 类别: Navigation
+2026-03-31 12:06:23,215 [INFO] [2830/8374] 处理: Boat Beacon (id=494877039)
+2026-03-31 12:06:23,366 [INFO]   ✓ Boat Beacon | 价格: $14.99 | 类别: Navigation
+2026-03-31 12:06:26,309 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 12:06:26,311 [INFO]   ✓ 内购: 6 项
+2026-03-31 12:06:28,722 [INFO] [2831/8374] 处理: Pinellas Trail (id=6759459817)
+2026-03-31 12:06:28,823 [INFO]   ✓ Pinellas Trail | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:06:35,655 [INFO] [2832/8374] 处理: Speedometer Speed Box (id=286677125)
+2026-03-31 12:06:35,750 [INFO]   ✓ Speedometer Speed Box | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:06:40,413 [INFO] [2833/8374] 处理: Bathroom Scout (id=581657578)
+2026-03-31 12:06:40,502 [INFO]   ✓ Bathroom Scout | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:06:47,029 [INFO] [2834/8374] 处理: Pro Altimeter for Watch (id=1481738048)
+2026-03-31 12:06:47,259 [INFO]   ✓ Pro Altimeter for Watch | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:06:52,419 [INFO] [2835/8374] 处理: Tactical Gps. Offline Map (id=1532775654)
+2026-03-31 12:06:52,569 [INFO]   ✓ Tactical Gps. Offline Map | 价格: $5.99 | 类别: Navigation
+2026-03-31 12:06:56,244 [INFO] [2836/8374] 处理: FlinkSpeedometer (id=6461213733)
+2026-03-31 12:06:56,371 [INFO]   ✓ FlinkSpeedometer | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:07:01,883 [INFO] [2837/8374] 处理: Matchy Maps (id=6759603627)
+2026-03-31 12:07:02,015 [INFO]   ✓ Matchy Maps | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:07:07,638 [INFO] [2838/8374] 处理: MagnetMeter (id=346516607)
+2026-03-31 12:07:07,869 [INFO]   ✓ MagnetMeter | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:07:13,298 [INFO] [2839/8374] 处理: Peachtree City Cart Paths (id=348581444)
+2026-03-31 12:07:13,397 [INFO]   ✓ Peachtree City Cart Paths | 价格: $4.99 | 类别: Navigation
+2026-03-31 12:07:18,046 [INFO] [2840/8374] 处理: Alignment Viewer (id=1334623383)
+2026-03-31 12:07:18,126 [WARNING]   ⚠ 获取失败，跳过
+2026-03-31 12:07:19,655 [INFO] [2841/8374] 处理: Caltrain Commuter (id=6451088085)
+2026-03-31 12:07:19,766 [INFO]   ✓ Caltrain Commuter | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:07:23,578 [INFO] [2842/8374] 处理: Rome on Foot : Offline Map (id=642387280)
+2026-03-31 12:07:23,670 [INFO]   ✓ Rome on Foot : Offline Map | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:07:28,343 [INFO] [2843/8374] 处理: Holding Pattern Computer (id=1093542620)
+2026-03-31 12:07:28,437 [INFO]   ✓ Holding Pattern Computer | 价格: $11.99 | 类别: Navigation
+2026-03-31 12:07:33,875 [INFO] [2844/8374] 处理: BEIDO MAP-Satellite Streetview (id=1574502941)
+2026-03-31 12:07:34,023 [INFO]   ✓ BEIDO MAP-Satellite Streetview | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:07:39,842 [INFO] [2845/8374] 处理: Maps n Trax - Offline Maps, GPS Tracks & Waypoints (id=550937509)
+2026-03-31 12:07:40,019 [INFO]   ✓ Maps n Trax - Offline Maps, GPS Tracks & Waypoints | 价格: $6.99 | 类别: Navigation
+2026-03-31 12:07:42,885 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 12:07:42,886 [INFO]   ✓ 内购: 1 项
+2026-03-31 12:07:45,007 [INFO] [2846/8374] 处理: What Street? (id=1537629838)
+2026-03-31 12:07:45,104 [INFO]   ✓ What Street? | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:07:50,543 [INFO] [2847/8374] 处理: A-EFIS Pro (id=977144283)
+2026-03-31 12:07:50,682 [INFO]   ✓ A-EFIS Pro | 价格: $54.99 | 类别: Navigation
+2026-03-31 12:07:56,737 [INFO] [2848/8374] 处理: Current Road (id=6738353737)
+2026-03-31 12:07:56,877 [INFO]   ✓ Current Road | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:08:01,956 [INFO] [2849/8374] 处理: Metro Nagasaki Map (id=6760612194)
+2026-03-31 12:08:02,098 [INFO]   ✓ Metro Nagasaki Map | 价格: $0.99 | 类别: Navigation
+2026-03-31 12:08:06,903 [INFO] [2850/8374] 处理: Carry-Aware (id=6759115305)
+2026-03-31 12:08:07,046 [INFO]   ✓ Carry-Aware | 价格: Free | 类别: Navigation
+2026-03-31 12:08:08,676 [INFO] [2851/8374] 处理: Pro Compass (id=517739197)
+2026-03-31 12:08:08,780 [INFO]   ✓ Pro Compass | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:08:10,854 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 12:08:10,856 [INFO]   ✓ 内购: 1 项
+2026-03-31 12:08:12,436 [INFO] [2852/8374] 处理: John Wayne SNA Airport (id=6760942166)
+2026-03-31 12:08:12,525 [INFO]   ✓ John Wayne SNA Airport | 价格: $1.99 | 类别: Navigation
+2026-03-31 12:08:17,468 [INFO] [2853/8374] 处理: iSailGPS : NOAA USA RNC Charts (id=433950540)
+2026-03-31 12:08:17,614 [INFO]   ✓ iSailGPS : NOAA USA RNC Charts | 价格: $7.99 | 类别: Navigation
+2026-03-31 12:08:24,484 [INFO] [2854/8374] 处理: Maps 3D PRO - Hike & Bike (id=391304000)
+2026-03-31 12:08:24,637 [INFO]   ✓ Maps 3D PRO - Hike & Bike | 价格: $3.99 | 类别: Navigation
+2026-03-31 12:08:28,444 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 12:08:28,445 [INFO]   ✓ 内购: 2 项
+2026-03-31 12:08:31,699 [INFO] [2855/8374] 处理: Montana 511 Traffic Cameras (id=6475734279)
+2026-03-31 12:08:31,842 [INFO]   ✓ Montana 511 Traffic Cameras | 价格: $2.99 | 类别: Navigation
+2026-03-31 12:08:37,158 [INFO] [2856/8374] 处理: Waze Navigation & Live Traffic (id=323229106)
+2026-03-31 12:08:37,349 [INFO]   ✓ Waze Navigation & Live Traffic | 价格: Free | 类别: Navigation
+2026-03-31 12:08:40,403 [INFO] [2857/8374] 处理: ParkMobile: Park. Pay. Go. (id=365399299)
+2026-03-31 12:08:40,499 [INFO]   ✓ ParkMobile: Park. Pay. Go. | 价格: Free | 类别: Navigation
+2026-03-31 12:08:42,521 [INFO] [2858/8374] 处理: Transit • Subway & Bus Times (id=498151501)
+2026-03-31 12:08:42,670 [INFO]   ✓ Transit • Subway & Bus Times | 价格: Free | 类别: Navigation
+2026-03-31 12:08:45,313 [INFO] [2859/8374] 处理: earnify (id=6502012127)
+2026-03-31 12:08:45,556 [INFO]   ✓ earnify | 价格: Free | 类别: Navigation
+2026-03-31 12:08:48,307 [INFO] [2860/8374] 处理: Shell: Fuel, Charge & More (id=1410234033)
+2026-03-31 12:08:48,445 [INFO]   ✓ Shell: Fuel, Charge & More | 价格: Free | 类别: Navigation
+2026-03-31 12:08:50,926 [INFO] [2861/8374] 处理: SpotHero: #1 Rated Parking App (id=499097243)
+2026-03-31 12:08:51,031 [INFO]   ✓ SpotHero: #1 Rated Parking App | 价格: Free | 类别: Navigation
+2026-03-31 12:08:52,752 [INFO] [2862/8374] 处理: ParkWhiz - #1 Parking App (id=595743376)
+2026-03-31 12:08:52,857 [INFO]   ✓ ParkWhiz - #1 Parking App | 价格: Free | 类别: Navigation
+2026-03-31 12:08:55,754 [INFO] [2863/8374] 处理: MTA TrainTime (id=1104885987)
+2026-03-31 12:08:55,981 [INFO]   ✓ MTA TrainTime | 价格: Free | 类别: Navigation
+2026-03-31 12:08:58,489 [INFO] [2864/8374] 处理: Speedometer Simple (id=939507215)
+2026-03-31 12:08:58,653 [INFO]   ✓ Speedometer Simple | 价格: Free | 类别: Navigation
+2026-03-31 12:09:01,487 [INFO] [2865/8374] 处理: Metropolis: Remarkable Parking (id=1556970037)
+2026-03-31 12:09:01,628 [INFO]   ✓ Metropolis: Remarkable Parking | 价格: Free | 类别: Navigation
+2026-03-31 12:09:04,682 [INFO] [2866/8374] 处理: Geocaching® (id=329541503)
+2026-03-31 12:09:04,815 [INFO]   ✓ Geocaching® | 价格: Free | 类别: Navigation
+2026-03-31 12:09:08,015 [INFO] [2867/8374] 处理: MapQuest GPS Navigation & Maps (id=316126557)
+2026-03-31 12:09:08,178 [INFO]   ✓ MapQuest GPS Navigation & Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:09:10,769 [INFO] [2868/8374] 处理: onX Offroad: Trail Maps & GPS (id=1475112177)
+2026-03-31 12:09:10,915 [INFO]   ✓ onX Offroad: Trail Maps & GPS | 价格: Free | 类别: Navigation
+2026-03-31 12:09:13,593 [INFO] [2869/8374] 处理: ChargePoint® (id=356866743)
+2026-03-31 12:09:13,732 [INFO]   ✓ ChargePoint® | 价格: Free | 类别: Navigation
+2026-03-31 12:09:16,406 [INFO] [2870/8374] 处理: Organic Maps・Maps & Navigation (id=1567437057)
+2026-03-31 12:09:16,513 [INFO]   ✓ Organic Maps・Maps & Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:09:19,565 [INFO] [2871/8374] 处理: MapXplorer: Map Radar Navigate (id=6463052823)
+2026-03-31 12:09:19,709 [INFO]   ✓ MapXplorer: Map Radar Navigate | 价格: Free | 类别: Navigation
+2026-03-31 12:09:22,167 [INFO] [2872/8374] 处理: Exxon Mobil Rewards+ (id=668175318)
+2026-03-31 12:09:22,263 [INFO]   ✓ Exxon Mobil Rewards+ | 价格: Free | 类别: Navigation
+2026-03-31 12:09:24,381 [INFO] [2873/8374] 处理: Citymapper: All Live Transit (id=469463298)
+2026-03-31 12:09:24,499 [INFO]   ✓ Citymapper: All Live Transit | 价格: Free | 类别: Navigation
+2026-03-31 12:09:26,570 [INFO] [2874/8374] 处理: Trucker Path: Truck GPS & Fuel (id=782746890)
+2026-03-31 12:09:26,664 [INFO]   ✓ Trucker Path: Truck GPS & Fuel | 价格: Free | 类别: Navigation
+2026-03-31 12:09:29,779 [INFO] [2875/8374] 处理: NAVER Maps, Navigation (id=311867728)
+2026-03-31 12:09:29,946 [INFO]   ✓ NAVER Maps, Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:09:32,850 [INFO] [2876/8374] 处理: EVgo - Find a Fast EV Charger (id=1281660968)
+2026-03-31 12:09:32,999 [INFO]   ✓ EVgo - Find a Fast EV Charger | 价格: Free | 类别: Navigation
+2026-03-31 12:09:35,084 [INFO] [2877/8374] 处理: AMap Global (id=461703208)
+2026-03-31 12:09:35,267 [INFO]   ✓ AMap Global | 价格: Free | 类别: Navigation
+2026-03-31 12:09:37,826 [INFO] [2878/8374] 处理: Marathon ARCO Rewards (id=6443502704)
+2026-03-31 12:09:38,018 [INFO]   ✓ Marathon ARCO Rewards | 价格: Free | 类别: Navigation
+2026-03-31 12:09:40,449 [INFO] [2879/8374] 处理: PlugShare: Charging Stations (id=421788217)
+2026-03-31 12:09:40,614 [INFO]   ✓ PlugShare: Charging Stations | 价格: Free | 类别: Navigation
+2026-03-31 12:09:42,215 [INFO] [2880/8374] 处理: Moovit: Bus & Transit Tracker (id=498477945)
+2026-03-31 12:09:42,366 [INFO]   ✓ Moovit: Bus & Transit Tracker | 价格: Free | 类别: Navigation
+2026-03-31 12:09:45,837 [INFO] [2881/8374] 处理: Garmin Messenger™ (id=1550351929)
+2026-03-31 12:09:45,979 [INFO]   ✓ Garmin Messenger™ | 价格: Free | 类别: Navigation
+2026-03-31 12:09:48,320 [INFO] [2882/8374] 处理: Electrify America (id=1458030456)
+2026-03-31 12:09:48,492 [INFO]   ✓ Electrify America | 价格: Free | 类别: Navigation
+2026-03-31 12:09:51,859 [INFO] [2883/8374] 处理: Citi Bike (id=641194843)
+2026-03-31 12:09:51,987 [INFO]   ✓ Citi Bike | 价格: Free | 类别: Navigation
+2026-03-31 12:09:54,005 [INFO] [2884/8374] 处理: Mudflap (id=1488815024)
+2026-03-31 12:09:54,140 [INFO]   ✓ Mudflap | 价格: Free | 类别: Navigation
+2026-03-31 12:09:56,579 [INFO] [2885/8374] 处理: Randonautica (id=1493743521)
+2026-03-31 12:09:56,671 [INFO]   ✓ Randonautica | 价格: Free | 类别: Navigation
+2026-03-31 12:09:58,458 [INFO] [2886/8374] 处理: Game Maps IRL (id=6742728012)
+2026-03-31 12:09:58,599 [INFO]   ✓ Game Maps IRL | 价格: Free | 类别: Navigation
+2026-03-31 12:10:02,079 [INFO] [2887/8374] 处理: Île-de-France Mobilités (id=484527651)
+2026-03-31 12:10:02,214 [INFO]   ✓ Île-de-France Mobilités | 价格: Free | 类别: Navigation
+2026-03-31 12:10:04,026 [INFO] [2888/8374] 处理: 10-4 by WEX (id=6461532828)
+2026-03-31 12:10:04,170 [INFO]   ✓ 10-4 by WEX | 价格: Free | 类别: Navigation
+2026-03-31 12:10:07,014 [INFO] [2889/8374] 处理: Bonjour RATP (id=507107090)
+2026-03-31 12:10:07,187 [INFO]   ✓ Bonjour RATP | 价格: Free | 类别: Navigation
+2026-03-31 12:10:10,203 [INFO] [2890/8374] 处理: JOLT Electric Vehicle Charging (id=1536466079)
+2026-03-31 12:10:10,362 [INFO]   ✓ JOLT Electric Vehicle Charging | 价格: Free | 类别: Navigation
+2026-03-31 12:10:13,831 [INFO] [2891/8374] 处理: Avenza Maps: Offline Mapping (id=388424049)
+2026-03-31 12:10:13,975 [INFO]   ✓ Avenza Maps: Offline Mapping | 价格: Free | 类别: Navigation
+2026-03-31 12:10:16,908 [INFO] [2892/8374] 处理: Japan Travel - Smart Transit (id=686373726)
+2026-03-31 12:10:17,072 [INFO]   ✓ Japan Travel - Smart Transit | 价格: Free | 类别: Navigation
+2026-03-31 12:10:19,382 [INFO] [2893/8374] 处理: Gaia GPS: Mobile Trail Maps (id=1201979492)
+2026-03-31 12:10:19,562 [INFO]   ✓ Gaia GPS: Mobile Trail Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:10:21,903 [INFO] [2894/8374] 处理: Blink Charging Mobile App (id=1612678852)
+2026-03-31 12:10:22,001 [INFO]   ✓ Blink Charging Mobile App | 价格: Free | 类别: Navigation
+2026-03-31 12:10:25,409 [INFO] [2895/8374] 处理: KakaoMap - Korea No.1 Map (id=304608425)
+2026-03-31 12:10:25,498 [INFO]   ✓ KakaoMap - Korea No.1 Map | 价格: Free | 类别: Navigation
+2026-03-31 12:10:28,198 [INFO] [2896/8374] 处理: onX Backcountry: Trail GPS App (id=1529165366)
+2026-03-31 12:10:28,295 [INFO]   ✓ onX Backcountry: Trail GPS App | 价格: Free | 类别: Navigation
+2026-03-31 12:10:30,838 [INFO] [2897/8374] 处理: Yandex Maps & Navigator (id=313877526)
+2026-03-31 12:10:30,937 [INFO]   ✓ Yandex Maps & Navigator | 价格: Free | 类别: Navigation
+2026-03-31 12:10:32,910 [INFO] [2898/8374] 处理: Speedometer» (id=518469483)
+2026-03-31 12:10:33,045 [INFO]   ✓ Speedometer» | 价格: Free | 类别: Navigation
+2026-03-31 12:10:35,402 [INFO] [2899/8374] 处理: LandGlide: Find Property Lines (id=560902465)
+2026-03-31 12:10:35,524 [INFO]   ✓ LandGlide: Find Property Lines | 价格: Free | 类别: Navigation
+2026-03-31 12:10:37,064 [INFO] [2900/8374] 处理: SpotAngels Parking & Gas (id=897809583)
+2026-03-31 12:10:37,222 [INFO]   ✓ SpotAngels Parking & Gas | 价格: Free | 类别: Navigation
+2026-03-31 12:10:39,520 [INFO] [2901/8374] 处理: TripShot (id=1007192056)
+2026-03-31 12:10:39,719 [INFO]   ✓ TripShot | 价格: Free | 类别: Navigation
+2026-03-31 12:10:41,469 [INFO] [2902/8374] 处理: TruckMap - Truck GPS Routes (id=1198422047)
+2026-03-31 12:10:41,602 [INFO]   ✓ TruckMap - Truck GPS Routes | 价格: Free | 类别: Navigation
+2026-03-31 12:10:43,621 [INFO] [2903/8374] 处理: 百度地图-路线规划,出行必备 (id=452186370)
+2026-03-31 12:10:43,761 [INFO]   ✓ 百度地图-路线规划,出行必备 | 价格: Free | 类别: Navigation
+2026-03-31 12:10:46,415 [INFO] [2904/8374] 处理: Premium Parking (id=725224274)
+2026-03-31 12:10:46,529 [INFO]   ✓ Premium Parking | 价格: Free | 类别: Navigation
+2026-03-31 12:10:49,124 [INFO] [2905/8374] 处理: what3words: Navigation & Maps (id=657878530)
+2026-03-31 12:10:49,242 [INFO]   ✓ what3words: Navigation & Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:10:52,219 [INFO] [2906/8374] 处理: TroutRoutes: Fly Fishing App (id=1423989574)
+2026-03-31 12:10:52,312 [INFO]   ✓ TroutRoutes: Fly Fishing App | 价格: Free | 类别: Navigation
+2026-03-31 12:10:54,814 [INFO] [2907/8374] 处理: MBTA Go — Official (id=6472726821)
+2026-03-31 12:10:55,228 [INFO]   ✓ MBTA Go — Official | 价格: Free | 类别: Navigation
+2026-03-31 12:10:57,629 [INFO] [2908/8374] 处理: DINOPAY - Sinclair Oil (id=445248886)
+2026-03-31 12:10:57,777 [INFO]   ✓ DINOPAY - Sinclair Oil | 价格: Free | 类别: Navigation
+2026-03-31 12:11:01,178 [INFO] [2909/8374] 处理: Passio GO (id=1203861956)
+2026-03-31 12:11:01,324 [INFO]   ✓ Passio GO | 价格: Free | 类别: Navigation
+2026-03-31 12:11:03,863 [INFO] [2910/8374] 处理: RideMETRO (id=532621754)
+2026-03-31 12:11:03,993 [INFO]   ✓ RideMETRO | 价格: Free | 类别: Navigation
+2026-03-31 12:11:06,145 [INFO] [2911/8374] 处理: EV Connect (id=1197712470)
+2026-03-31 12:11:06,300 [INFO]   ✓ EV Connect | 价格: Free | 类别: Navigation
+2026-03-31 12:11:08,166 [INFO] [2912/8374] 处理: Parking.com - Find Parking Now (id=1414389805)
+2026-03-31 12:11:08,257 [INFO]   ✓ Parking.com - Find Parking Now | 价格: Free | 类别: Navigation
+2026-03-31 12:11:11,177 [INFO] [2913/8374] 处理: Wavve Boating: Marine Boat GPS (id=1241140495)
+2026-03-31 12:11:11,313 [INFO]   ✓ Wavve Boating: Marine Boat GPS | 价格: Free | 类别: Navigation
+2026-03-31 12:11:14,788 [INFO] [2914/8374] 处理: Drive Smarter (id=1498075222)
+2026-03-31 12:11:14,929 [INFO]   ✓ Drive Smarter | 价格: Free | 类别: Navigation
+2026-03-31 12:11:18,243 [INFO] [2915/8374] 处理: LAZ Parking (id=1424112234)
+2026-03-31 12:11:18,354 [INFO]   ✓ LAZ Parking | 价格: Free | 类别: Navigation
+2026-03-31 12:11:21,595 [INFO] [2916/8374] 处理: GOHUNT: Research & Maps (id=1500630352)
+2026-03-31 12:11:21,691 [INFO]   ✓ GOHUNT: Research & Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:11:23,928 [INFO] [2917/8374] 处理: onX Fish: Midwest Fishing Maps (id=6466307868)
+2026-03-31 12:11:24,079 [INFO]   ✓ onX Fish: Midwest Fishing Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:11:26,256 [INFO] [2918/8374] 处理: Garmin Drive™ (id=1276198893)
+2026-03-31 12:11:26,408 [INFO]   ✓ Garmin Drive™ | 价格: Free | 类别: Navigation
+2026-03-31 12:11:28,157 [INFO] [2919/8374] 处理: Footpath Route Planner (id=634845718)
+2026-03-31 12:11:28,299 [INFO]   ✓ Footpath Route Planner | 价格: Free | 类别: Navigation
+2026-03-31 12:11:29,893 [INFO] [2920/8374] 处理: DC Metro and Bus (id=578496721)
+2026-03-31 12:11:30,030 [INFO]   ✓ DC Metro and Bus | 价格: Free | 类别: Navigation
+2026-03-31 12:11:33,265 [INFO] [2921/8374] 处理: TripRank - Speed Tracker (id=6757245082)
+2026-03-31 12:11:33,405 [INFO]   ✓ TripRank - Speed Tracker | 价格: Free | 类别: Navigation
+2026-03-31 12:11:36,462 [INFO] [2922/8374] 处理: TfL Go: Plan, Pay, Travel (id=1419541638)
+2026-03-31 12:11:36,652 [INFO]   ✓ TfL Go: Plan, Pay, Travel | 价格: Free | 类别: Navigation
+2026-03-31 12:11:40,017 [INFO] [2923/8374] 处理: myStop Mobile (id=591959423)
+2026-03-31 12:11:40,129 [INFO]   ✓ myStop Mobile | 价格: Free | 类别: Navigation
+2026-03-31 12:11:41,720 [INFO] [2924/8374] 处理: A Better Routeplanner (ABRP) (id=1490860521)
+2026-03-31 12:11:41,898 [INFO]   ✓ A Better Routeplanner (ABRP) | 价格: Free | 类别: Navigation
+2026-03-31 12:11:44,579 [INFO] [2925/8374] 处理: MTM Link Member (id=1534737345)
+2026-03-31 12:11:44,773 [INFO]   ✓ MTM Link Member | 价格: Free | 类别: Navigation
+2026-03-31 12:11:46,290 [INFO] [2926/8374] 处理: Garmin Explore™ (id=1276675721)
+2026-03-31 12:11:46,490 [INFO]   ✓ Garmin Explore™ | 价格: Free | 类别: Navigation
+2026-03-31 12:11:48,828 [INFO] [2927/8374] 处理: Navionics® Boating (id=744920098)
+2026-03-31 12:11:48,925 [INFO]   ✓ Navionics® Boating | 价格: Free | 类别: Navigation
+2026-03-31 12:11:51,213 [INFO] [2928/8374] 处理: Sunoco (id=1145943301)
+2026-03-31 12:11:51,304 [INFO]   ✓ Sunoco | 价格: Free | 类别: Navigation
+2026-03-31 12:11:53,238 [INFO] [2929/8374] 处理: Spoke (Circuit) Route Planner (id=1198232244)
+2026-03-31 12:11:53,398 [INFO]   ✓ Spoke (Circuit) Route Planner | 价格: Free | 类别: Navigation
+2026-03-31 12:11:56,347 [INFO] [2930/8374] 处理: Trailforks: Offline Bike Maps (id=987986743)
+2026-03-31 12:11:56,539 [INFO]   ✓ Trailforks: Offline Bike Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:11:58,930 [INFO] [2931/8374] 处理: Radarbot: Speed Cameras | GPS (id=1099797635)
+2026-03-31 12:11:59,109 [INFO]   ✓ Radarbot: Speed Cameras | GPS | 价格: Free | 类别: Navigation
+2026-03-31 12:12:01,648 [INFO] [2932/8374] 处理: ActiveCaptain® (id=1116089313)
+2026-03-31 12:12:01,794 [INFO]   ✓ ActiveCaptain® | 价格: Free | 类别: Navigation
+2026-03-31 12:12:04,503 [INFO] [2933/8374] 处理: Hammer: Truck GPS & Maps (id=1478863996)
+2026-03-31 12:12:04,656 [INFO]   ✓ Hammer: Truck GPS & Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:12:06,502 [INFO] [2934/8374] 处理: ParkHouston (id=1216341009)
+2026-03-31 12:12:06,663 [INFO]   ✓ ParkHouston | 价格: Free | 类别: Navigation
+2026-03-31 12:12:10,133 [INFO] [2935/8374] 处理: Spartan Forge: Hunt (id=1562873100)
+2026-03-31 12:12:10,334 [INFO]   ✓ Spartan Forge: Hunt | 价格: Free | 类别: Navigation
+2026-03-31 12:12:11,955 [INFO] [2936/8374] 处理: LandMap Property Line Finder (id=6473603624)
+2026-03-31 12:12:12,064 [INFO]   ✓ LandMap Property Line Finder | 价格: Free | 类别: Navigation
+2026-03-31 12:12:14,613 [INFO] [2937/8374] 处理: Polaris® (id=493558794)
+2026-03-31 12:12:14,709 [INFO]   ✓ Polaris® | 价格: Free | 类别: Navigation
+2026-03-31 12:12:17,563 [INFO] [2938/8374] 处理: Speedometer: GPS Navigation (id=6746191399)
+2026-03-31 12:12:17,732 [INFO]   ✓ Speedometer: GPS Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:12:20,457 [INFO] [2939/8374] 处理: Pango Parking (id=1155906621)
+2026-03-31 12:12:20,632 [INFO]   ✓ Pango Parking | 价格: Free | 类别: Navigation
+2026-03-31 12:12:23,899 [INFO] [2940/8374] 处理: iParkit Garage Parking (id=1047779264)
+2026-03-31 12:12:24,044 [INFO]   ✓ iParkit Garage Parking | 价格: Free | 类别: Navigation
+2026-03-31 12:12:26,277 [INFO] [2941/8374] 处理: CalTopo: Backcountry Mapping (id=1460038458)
+2026-03-31 12:12:26,430 [INFO]   ✓ CalTopo: Backcountry Mapping | 价格: Free | 类别: Navigation
+2026-03-31 12:12:28,791 [INFO] [2942/8374] 处理: Detecht - Motorcycle App & GPS (id=1373032762)
+2026-03-31 12:12:28,929 [INFO]   ✓ Detecht - Motorcycle App & GPS | 价格: Free | 类别: Navigation
+2026-03-31 12:12:30,840 [INFO] [2943/8374] 处理: Savvy Navvy Boating Navigation (id=1479182650)
+2026-03-31 12:12:30,947 [INFO]   ✓ Savvy Navvy Boating Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:12:32,907 [INFO] [2944/8374] 处理: ChargeHub EV Charge Point Map (id=548640732)
+2026-03-31 12:12:33,008 [INFO]   ✓ ChargeHub EV Charge Point Map | 价格: Free | 类别: Navigation
+2026-03-31 12:12:34,856 [INFO] [2945/8374] 处理: Club CITGO - Gas Rewards (id=783482580)
+2026-03-31 12:12:34,968 [INFO]   ✓ Club CITGO - Gas Rewards | 价格: Free | 类别: Navigation
+2026-03-31 12:12:36,542 [INFO] [2946/8374] 处理: GPS Speedometer HUD - SpeedAce (id=6737472826)
+2026-03-31 12:12:36,698 [INFO]   ✓ GPS Speedometer HUD - SpeedAce | 价格: Free | 类别: Navigation
+2026-03-31 12:12:38,582 [INFO] [2947/8374] 处理: Tractor GPS - Field Guidance (id=1661207294)
+2026-03-31 12:12:38,735 [INFO]   ✓ Tractor GPS - Field Guidance | 价格: Free | 类别: Navigation
+2026-03-31 12:12:41,276 [INFO] [2948/8374] 处理: Qibla Finder 100% اتجاه القبلة (id=1444860666)
+2026-03-31 12:12:41,456 [INFO]   ✓ Qibla Finder 100% اتجاه القبلة | 价格: Free | 类别: Navigation
+2026-03-31 12:12:44,952 [INFO] [2949/8374] 处理: New York Subway MTA Map NYC (id=369691844)
+2026-03-31 12:12:45,060 [INFO]   ✓ New York Subway MTA Map NYC | 价格: Free | 类别: Navigation
+2026-03-31 12:12:48,475 [INFO] [2950/8374] 处理: Touge - Drive Tracker (id=6760924539)
+2026-03-31 12:12:48,571 [WARNING]   ⚠ 获取失败，跳过
+2026-03-31 12:12:51,504 [INFO] [2951/8374] 处理: LUUP - RIDE YOUR CITY (id=1445630390)
+2026-03-31 12:12:51,696 [INFO]   ✓ LUUP - RIDE YOUR CITY | 价格: Free | 类别: Navigation
+2026-03-31 12:12:54,061 [INFO] [2952/8374] 处理: HonkMobile (id=816255029)
+2026-03-31 12:12:54,205 [INFO]   ✓ HonkMobile | 价格: Free | 类别: Navigation
+2026-03-31 12:12:57,072 [INFO] [2953/8374] 处理: Phone Locator 360: Find Family (id=6469478654)
+2026-03-31 12:12:57,235 [INFO]   ✓ Phone Locator 360: Find Family | 价格: Free | 类别: Navigation
+2026-03-31 12:12:58,816 [INFO] [2954/8374] 处理: HuntWise: A Better Hunting App (id=645518545)
+2026-03-31 12:12:58,962 [INFO]   ✓ HuntWise: A Better Hunting App | 价格: Free | 类别: Navigation
+2026-03-31 12:13:01,825 [INFO] [2955/8374] 处理: Wellsite Navigator (id=594298510)
+2026-03-31 12:13:01,984 [INFO]   ✓ Wellsite Navigator | 价格: Free | 类别: Navigation
+2026-03-31 12:13:04,537 [INFO] [2956/8374] 处理: Drivewyze (id=555769428)
+2026-03-31 12:13:04,683 [INFO]   ✓ Drivewyze | 价格: Free | 类别: Navigation
+2026-03-31 12:13:06,644 [INFO] [2957/8374] 处理: Famio: Find My Family, Friends (id=1491200353)
+2026-03-31 12:13:06,815 [INFO]   ✓ Famio: Find My Family, Friends | 价格: Free | 类别: Navigation
+2026-03-31 12:13:09,823 [INFO] [2958/8374] 处理: RoadWarrior Route Planner (id=959621658)
+2026-03-31 12:13:09,928 [INFO]   ✓ RoadWarrior Route Planner | 价格: Free | 类别: Navigation
+2026-03-31 12:13:13,116 [INFO] [2959/8374] 处理: Route4Me Route Planner (id=349853799)
+2026-03-31 12:13:13,270 [INFO]   ✓ Route4Me Route Planner | 价格: Free | 类别: Navigation
+2026-03-31 12:13:15,623 [INFO] [2960/8374] 处理: FarOut: Hike, Bike, Paddle (id=605447532)
+2026-03-31 12:13:15,786 [INFO]   ✓ FarOut: Hike, Bike, Paddle | 价格: Free | 类别: Navigation
+2026-03-31 12:13:17,849 [INFO] [2961/8374] 处理: Find my Phone - Family Locator (id=588364107)
+2026-03-31 12:13:18,023 [INFO]   ✓ Find my Phone - Family Locator | 价格: Free | 类别: Navigation
+2026-03-31 12:13:19,728 [INFO] [2962/8374] 处理: One-Boat Network (id=1527821908)
+2026-03-31 12:13:19,885 [INFO]   ✓ One-Boat Network | 价格: Free | 类别: Navigation
+2026-03-31 12:13:21,492 [INFO] [2963/8374] 处理: Number tracker: Phone Location (id=1668035109)
+2026-03-31 12:13:21,637 [INFO]   ✓ Number tracker: Phone Location | 价格: Free | 类别: Navigation
+2026-03-31 12:13:24,075 [INFO] [2964/8374] 处理: BaseMap: Hunting GPS Maps (id=1305237481)
+2026-03-31 12:13:24,176 [INFO]   ✓ BaseMap: Hunting GPS Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:13:27,147 [INFO] [2965/8374] 处理: Find My Friends Phone - iMapp (id=886626229)
+2026-03-31 12:13:27,286 [INFO]   ✓ Find My Friends Phone - iMapp | 价格: Free | 类别: Navigation
+2026-03-31 12:13:30,013 [INFO] [2966/8374] 处理: CoPilot GPS Navigation (id=504677517)
+2026-03-31 12:13:30,424 [INFO]   ✓ CoPilot GPS Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:13:32,527 [INFO] [2967/8374] 处理: GPS Speedometer: Speed Tracker (id=1542016762)
+2026-03-31 12:13:32,620 [INFO]   ✓ GPS Speedometer: Speed Tracker | 价格: Free | 类别: Navigation
+2026-03-31 12:13:35,974 [INFO] [2968/8374] 处理: inRoute - Intelligent Routing (id=703796787)
+2026-03-31 12:13:36,123 [INFO]   ✓ inRoute - Intelligent Routing | 价格: Free | 类别: Navigation
+2026-03-31 12:13:37,789 [INFO] [2969/8374] 处理: Lowrance: app for anglers (id=1463931486)
+2026-03-31 12:13:37,987 [INFO]   ✓ Lowrance: app for anglers | 价格: Free | 类别: Navigation
+2026-03-31 12:13:40,530 [INFO] [2970/8374] 处理: REVER - Motorcycle GPS & Rides (id=975571447)
+2026-03-31 12:13:40,673 [INFO]   ✓ REVER - Motorcycle GPS & Rides | 价格: Free | 类别: Navigation
+2026-03-31 12:13:44,101 [INFO] [2971/8374] 处理: Traffie Navigation & Traffic (id=1217865434)
+2026-03-31 12:13:44,218 [INFO]   ✓ Traffie Navigation & Traffic | 价格: Free | 类别: Navigation
+2026-03-31 12:13:46,729 [INFO] [2972/8374] 处理: calimoto motorcycle routes (id=1209129603)
+2026-03-31 12:13:46,877 [INFO]   ✓ calimoto Motorcycle Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:13:48,685 [INFO] [2973/8374] 处理: Route Planner, Delivery, MyWay (id=1557014712)
+2026-03-31 12:13:48,865 [INFO]   ✓ Route Planner, Delivery, MyWay | 价格: Free | 类别: Navigation
+2026-03-31 12:13:51,503 [INFO] [2974/8374] 处理: Spoten Phone Location Tracker (id=1395979668)
+2026-03-31 12:13:51,670 [INFO]   ✓ Spoten Phone Location Tracker | 价格: Free | 类别: Navigation
+2026-03-31 12:13:54,022 [INFO] [2975/8374] 处理: Trucker Guide: Truck GPS Maps (id=1614144883)
+2026-03-31 12:13:54,158 [INFO]   ✓ Trucker Guide: Truck GPS Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:13:56,456 [INFO] [2976/8374] 处理: Petro Path (id=1069529633)
+2026-03-31 12:13:56,602 [INFO]   ✓ Petro Path | 价格: Free | 类别: Navigation
+2026-03-31 12:13:59,971 [INFO] [2977/8374] 处理: onWater: Fishing Spots Map (id=1551861363)
+2026-03-31 12:14:00,157 [INFO]   ✓ onWater: Fishing Spots Map | 价格: Free | 类别: Navigation
+2026-03-31 12:14:03,182 [INFO] [2978/8374] 处理: Trails Offroad: Offline Maps (id=1545278645)
+2026-03-31 12:14:03,366 [INFO]   ✓ Trails Offroad: Offline Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:14:05,014 [INFO] [2979/8374] 处理: Topo Maps+: Topographic Maps (id=672246353)
+2026-03-31 12:14:05,217 [INFO]   ✓ Topo Maps+: Topographic Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:14:06,912 [INFO] [2980/8374] 处理: Optiway Multi Stop Planner (id=1641843155)
+2026-03-31 12:14:07,462 [INFO]   ✓ Optiway Multi Stop Planner | 价格: Free | 类别: Navigation
+2026-03-31 12:14:09,694 [INFO] [2981/8374] 处理: PlaceMaker Route Planner (id=951375734)
+2026-03-31 12:14:09,848 [INFO]   ✓ PlaceMaker Route Planner | 价格: Free | 类别: Navigation
+2026-03-31 12:14:11,975 [INFO] [2982/8374] 处理: Ski Tracks (id=365724094)
+2026-03-31 12:14:12,094 [INFO]   ✓ Ski Tracks | 价格: Free | 类别: Navigation
+2026-03-31 12:14:13,847 [INFO] [2983/8374] 处理: i-Boating: Marine Charts & Gps (id=994992062)
+2026-03-31 12:14:14,010 [INFO]   ✓ i-Boating: Marine Charts & Gps | 价格: Free | 类别: Navigation
+2026-03-31 12:14:16,084 [INFO] [2984/8374] 处理: Aqua Map Boating (id=919552329)
+2026-03-31 12:14:16,194 [INFO]   ✓ Aqua Map Boating | 价格: Free | 类别: Navigation
+2026-03-31 12:14:18,374 [INFO] [2985/8374] 处理: Simrad: Companion for Boaters (id=1476822749)
+2026-03-31 12:14:18,491 [INFO]   ✓ Simrad: Companion for Boaters | 价格: Free | 类别: Navigation
+2026-03-31 12:14:20,745 [INFO] [2986/8374] 处理: GPS Speedometer MPH Tracker (id=901574501)
+2026-03-31 12:14:20,891 [INFO]   ✓ GPS Speedometer MPH Tracker | 价格: Free | 类别: Navigation
+2026-03-31 12:14:22,913 [INFO] [2987/8374] 处理: TZ iBoat – Marine Navigation (id=1312769833)
+2026-03-31 12:14:23,048 [INFO]   ✓ TZ iBoat – Marine Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:14:25,803 [INFO] [2988/8374] 处理: Open Road: Drive Tracker (id=6755834573)
+2026-03-31 12:14:25,948 [INFO]   ✓ Open Road: Drive Tracker | 价格: Free | 类别: Navigation
+2026-03-31 12:14:28,233 [INFO] [2989/8374] 处理: iNavX: Marine Navigation (id=286616280)
+2026-03-31 12:14:28,372 [INFO]   ✓ iNavX: Marine Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:14:31,078 [INFO] [2990/8374] 处理: Trail X Trail (id=6755943536)
+2026-03-31 12:14:31,184 [INFO]   ✓ Trail X Trail | 价格: Free | 类别: Navigation
+2026-03-31 12:14:33,711 [INFO] [2991/8374] 处理: GPS Tracks (id=425589565)
+2026-03-31 12:14:33,965 [INFO]   ✓ GPS Tracks | 价格: Free | 类别: Navigation
+2026-03-31 12:14:37,076 [INFO] [2992/8374] 处理: Argo - Boating Navigation (id=1463869636)
+2026-03-31 12:14:37,220 [INFO]   ✓ Argo - Boating Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:14:40,488 [INFO] [2993/8374] 处理: Supercharger map for Tesla (id=1471481469)
+2026-03-31 12:14:40,634 [INFO]   ✓ Supercharger map for Tesla | 价格: Free | 类别: Navigation
+2026-03-31 12:14:42,790 [INFO] [2994/8374] 处理: Hunting Points: GPS & Hunt App (id=1345594447)
+2026-03-31 12:14:42,985 [INFO]   ✓ Hunting Points: GPS & Hunt App | 价格: Free | 类别: Navigation
+2026-03-31 12:14:45,616 [INFO] [2995/8374] 处理: Lost Riders (id=1627279681)
+2026-03-31 12:14:45,775 [INFO]   ✓ Lost Riders | 价格: Free | 类别: Navigation
+2026-03-31 12:14:48,707 [INFO] [2996/8374] 处理: Bikemap: Bicycle Tracker & GPS (id=625759466)
+2026-03-31 12:14:48,887 [INFO]   ✓ Bikemap: Bicycle Tracker & GPS | 价格: Free | 类别: Navigation
+2026-03-31 12:14:51,742 [INFO] [2997/8374] 处理: RISER - Motorcycle App (id=1087005682)
+2026-03-31 12:14:51,931 [INFO]   ✓ RISER - Motorcycle App | 价格: Free | 类别: Navigation
+2026-03-31 12:14:54,879 [INFO] [2998/8374] 处理: Sygic GPS Navigation & Maps (id=585193266)
+2026-03-31 12:14:55,066 [INFO]   ✓ Sygic GPS Navigation & Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:14:57,153 [INFO] [2999/8374] 处理: Route 66 Navigation (id=1271779151)
+2026-03-31 12:14:57,269 [INFO]   ✓ Route 66 Navigation | 价格: Free | 类别: Navigation
+2026-03-31 12:14:59,708 [INFO] [3000/8374] 处理: Detector Maps (id=6741421159)
+2026-03-31 12:14:59,802 [INFO]   ✓ Detector Maps | 价格: Free | 类别: Navigation
+2026-03-31 12:15:02,210 [INFO] 历史价格已保存: 8868 条记录（本次新增/更新: 998）
+2026-03-31 12:15:02,210 [INFO] 📌 进度已保存：下次从第 3001 个 App 开始（共 8374 个）
+2026-03-31 12:15:02,295 [INFO] HTML 已生成: index.html (8868 个 App)
+2026-03-31 12:15:02,297 [INFO] ============================================================
+2026-03-31 12:15:02,297 [INFO] 运行完成 | 成功: 998 | 失败: 2 | 降价: 10 项
+2026-03-31 12:15:02,297 [INFO] 本次降价汇总:
+2026-03-31 12:15:02,297 [INFO]   [iap] CamScanner + | OCR Scanner - CamScanner Premium: $49.99 → $4.99
+2026-03-31 12:15:02,298 [INFO]   [iap] iWebTV PRO - Premium Services: $9.99 → $0.99
+2026-03-31 12:15:02,298 [INFO]   [iap] Photo Scanner Plus - Photomyne account: $47.99 → $39.99
+2026-03-31 12:15:02,298 [INFO]   [iap] Photo Scanner Plus - Photomyne account: $47.99 → $9.99
+2026-03-31 12:15:02,298 [INFO]   [iap] Photo Scanner Plus - Photomyne account: $47.99 → $17.99
+2026-03-31 12:15:02,298 [INFO]   [iap] Photo Scanner Plus - Photomyne account: $47.99 → $1.99
+2026-03-31 12:15:02,298 [INFO]   [iap] Photo Scanner Plus - Photomyne account: $47.99 → $17.99
+2026-03-31 12:15:02,298 [INFO]   [iap] Photo Scanner Plus - Photomyne account: $47.99 → $19.99
+2026-03-31 12:15:02,298 [INFO]   [iap] 8mm Vintage Camera - 8mm Pro: $39.99 → $9.99
+2026-03-31 12:15:02,298 [INFO]   [iap] ProShot - Donation: $4.99 → $0.99
+2026-03-31 12:15:02,298 [INFO] ============================================================
