@@ -34766,3 +34766,2243 @@
 2026-03-31 00:02:29,812 [INFO]   [iap] Big 2 - Pusoy Dos (Deluxe) - US: $99.9 → $9.99
 2026-03-31 00:02:29,812 [INFO]   [iap] Trivia Crack Premium Quiz Game - Right Answer Pack: $9.99 → $1.99
 2026-03-31 00:02:29,812 [INFO] ============================================================
+2026-03-31 03:30:33,560 [INFO] ============================================================
+2026-03-31 03:30:33,560 [INFO] App Store 价格监控 启动 - 2026-03-31 03:30:33
+2026-03-31 03:30:33,560 [INFO] ============================================================
+2026-03-31 03:30:33,573 [INFO] 监控列表: 共 8374 个 App，本次处理 [7001~8000]，批大小: 1000
+2026-03-31 03:30:33,573 [INFO] 国家: us，内购抓取: True
+2026-03-31 03:30:33,643 [INFO] [7001/8374] 处理: Malody (id=989630809)
+2026-03-31 03:30:33,802 [INFO]   ✓ Malody | 价格: $2.99 | 类别: Games
+2026-03-31 03:30:37,599 [INFO] [7002/8374] 处理: Bass Cat - Read Music (id=553988462)
+2026-03-31 03:30:37,708 [INFO]   ✓ Bass Cat - Read Music | 价格: $7.99 | 类别: Games
+2026-03-31 03:30:42,618 [INFO] [7003/8374] 处理: Giraffe's PreSchool Playground (id=314894121)
+2026-03-31 03:30:42,752 [INFO]   ✓ Giraffe's PreSchool Playground | 价格: $0.99 | 类别: Games
+2026-03-31 03:30:49,790 [INFO] [7004/8374] 处理: M.A.S.H. (id=303732806)
+2026-03-31 03:30:49,932 [INFO]   ✓ M.A.S.H. | 价格: $0.99 | 类别: Games
+2026-03-31 03:30:54,492 [INFO] [7005/8374] 处理: har•mo•ny (id=686313581)
+2026-03-31 03:30:54,629 [INFO]   ✓ har•mo•ny | 价格: $0.99 | 类别: Games
+2026-03-31 03:30:56,864 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:30:56,866 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:30:59,302 [INFO] [7006/8374] 处理: ELOH (id=1406382064)
+2026-03-31 03:30:59,465 [INFO]   ✓ ELOH | 价格: $2.99 | 类别: Games
+2026-03-31 03:31:04,590 [INFO] [7007/8374] 处理: Piano Notes!  -  Learn To Read Music (id=463880788)
+2026-03-31 03:31:04,792 [INFO]   ✓ Piano Notes!  -  Learn To Read Music | 价格: $2.99 | 类别: Games
+2026-03-31 03:31:11,570 [INFO] [7008/8374] 处理: Lanota - Music game with story (id=1050535507)
+2026-03-31 03:31:11,653 [INFO]   ✓ Lanota - Music game with story | 价格: $1.99 | 类别: Games
+2026-03-31 03:31:14,148 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:31:14,149 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:31:17,375 [INFO] [7009/8374] 处理: Bounden (id=850456491)
+2026-03-31 03:31:17,546 [INFO]   ✓ Bounden | 价格: $2.99 | 类别: Games
+2026-03-31 03:31:23,811 [INFO] [7010/8374] 处理: LONER (id=1180916723)
+2026-03-31 03:31:23,994 [INFO]   ✓ LONER | 价格: $1.99 | 类别: Games
+2026-03-31 03:31:29,739 [INFO] [7011/8374] 处理: har•mo•ny 3 (id=982805507)
+2026-03-31 03:31:29,893 [INFO]   ✓ har•mo•ny 3 | 价格: $2.99 | 类别: Games
+2026-03-31 03:31:32,630 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 03:31:32,631 [INFO]   ✓ 内购: 9 项
+2026-03-31 03:31:34,841 [INFO] [7012/8374] 处理: Isle of Tune Mobile (id=430845597)
+2026-03-31 03:31:34,979 [INFO]   ✓ Isle of Tune Mobile | 价格: $2.99 | 类别: Games
+2026-03-31 03:31:40,016 [INFO] [7013/8374] 处理: inReverse Party Game (id=409009761)
+2026-03-31 03:31:40,195 [INFO]   ✓ inReverse Party Game | 价格: $0.99 | 类别: Games
+2026-03-31 03:31:44,666 [INFO] [7014/8374] 处理: Wheels on the Bus! (id=777318981)
+2026-03-31 03:31:44,742 [INFO]   ✓ Wheels on the Bus! | 价格: $4.99 | 类别: Games
+2026-03-31 03:31:49,785 [INFO] [7015/8374] 处理: Piano Master (id=562184149)
+2026-03-31 03:31:49,919 [INFO]   ✓ Piano Master | 价格: $5.99 | 类别: Games
+2026-03-31 03:31:53,863 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:31:53,865 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:31:56,829 [INFO] [7016/8374] 处理: SmallestViolin (id=699702173)
+2026-03-31 03:31:56,964 [INFO]   ✓ SmallestViolin | 价格: $0.99 | 类别: Games
+2026-03-31 03:32:02,552 [INFO] [7017/8374] 处理: iSong Quiz (id=320744929)
+2026-03-31 03:32:02,626 [INFO]   ✓ iSong Quiz | 价格: $5.99 | 类别: Games
+2026-03-31 03:32:08,481 [INFO] [7018/8374] 处理: Melody Jams (id=1094833642)
+2026-03-31 03:32:08,558 [INFO]   ✓ Melody Jams | 价格: $2.99 | 类别: Games
+2026-03-31 03:32:14,524 [INFO] [7019/8374] 处理: Neon Beats (id=1527569581)
+2026-03-31 03:32:14,607 [INFO]   ✓ Neon Beats | 价格: $2.99 | 类别: Games
+2026-03-31 03:32:21,582 [INFO] [7020/8374] 处理: Nursery Rhymes Old MacDonald 2+ (id=580148722)
+2026-03-31 03:32:21,656 [INFO]   ✓ Nursery Rhymes Old MacDonald 2+ | 价格: $4.99 | 类别: Games
+2026-03-31 03:32:27,683 [INFO] [7021/8374] 处理: Rhythm Cat - Read Music (id=583711348)
+2026-03-31 03:32:27,827 [INFO]   ✓ Rhythm Cat - Read Music | 价格: $7.99 | 类别: Games
+2026-03-31 03:32:33,403 [INFO] [7022/8374] 处理: Sensory Sound Box (id=548622567)
+2026-03-31 03:32:33,543 [INFO]   ✓ Sensory Sound Box | 价格: $2.99 | 类别: Games
+2026-03-31 03:32:39,461 [INFO] [7023/8374] 处理: Lethe (id=1166097026)
+2026-03-31 03:32:39,607 [INFO]   ✓ Lethe | 价格: $0.99 | 类别: Games
+2026-03-31 03:32:43,367 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 03:32:43,369 [INFO]   ✓ 内购: 1 项
+2026-03-31 03:32:46,312 [INFO] [7024/8374] 处理: A Musical Story (id=1584362594)
+2026-03-31 03:32:46,454 [INFO]   ✓ A Musical Story | 价格: $4.99 | 类别: Games
+2026-03-31 03:32:52,413 [INFO] [7025/8374] 处理: Beat Hazard 2 (id=1488616604)
+2026-03-31 03:32:52,679 [INFO]   ✓ Beat Hazard 2 | 价格: $4.99 | 类别: Games
+2026-03-31 03:32:57,395 [INFO] [7026/8374] 处理: Marching Band Simulator (id=6443487813)
+2026-03-31 03:32:57,530 [INFO]   ✓ Marching Band Simulator | 价格: $2.99 | 类别: Games
+2026-03-31 03:33:01,596 [INFO] [7027/8374] 处理: Jungle Jam - Child Friendly (id=480933872)
+2026-03-31 03:33:01,689 [INFO]   ✓ Jungle Jam - Child Friendly | 价格: $0.99 | 类别: Games
+2026-03-31 03:33:06,891 [INFO] [7028/8374] 处理: One Hand Clapping - OHC (id=1524426643)
+2026-03-31 03:33:06,973 [INFO]   ✓ One Hand Clapping - OHC | 价格: $9.99 | 类别: Games
+2026-03-31 03:33:14,402 [INFO] [7029/8374] 处理: Dark Witch: Music Episode -Rudymical- Rhythm Fun Meow! (id=1121531428)
+2026-03-31 03:33:14,502 [INFO]   ✓ Dark Witch: Music Episode -Rudymical- Rhythm Fun Meow! | 价格: $2.99 | 类别: Games
+2026-03-31 03:33:20,057 [INFO] [7030/8374] 处理: Perfect Pitch. (id=1360803347)
+2026-03-31 03:33:20,153 [INFO]   ✓ Perfect Pitch. | 价格: $0.99 | 类别: Games
+2026-03-31 03:33:25,640 [INFO] [7031/8374] 处理: Magic Fractals & Shapes 3D (id=1376284040)
+2026-03-31 03:33:25,777 [INFO]   ✓ Magic Fractals & Shapes 3D | 价格: $1.99 | 类别: Games
+2026-03-31 03:33:31,772 [INFO] [7032/8374] 处理: Baby Phone For Kids and Babies (id=1048609768)
+2026-03-31 03:33:31,844 [INFO]   ✓ Baby Phone For Kids and Babies | 价格: $0.99 | 类别: Games
+2026-03-31 03:33:36,654 [INFO] [7033/8374] 处理: Wonder Parade (id=1272469707)
+2026-03-31 03:33:36,756 [INFO]   ✓ Wonder Parade | 价格: $2.99 | 类别: Games
+2026-03-31 03:33:41,315 [INFO] [7034/8374] 处理: Pass the Parcel (id=944803208)
+2026-03-31 03:33:41,471 [INFO]   ✓ Pass the Parcel | 价格: $0.99 | 类别: Games
+2026-03-31 03:33:47,289 [INFO] [7035/8374] 处理: Vectronom (id=1479211065)
+2026-03-31 03:33:47,363 [INFO]   ✓ Vectronom | 价格: $2.99 | 类别: Games
+2026-03-31 03:33:54,792 [INFO] [7036/8374] 处理: Blue Wednesday (id=6472153069)
+2026-03-31 03:33:54,928 [INFO]   ✓ Blue Wednesday | 价格: $2.99 | 类别: Games
+2026-03-31 03:33:59,258 [INFO] [7037/8374] 处理: Hot Potato - family game (id=1672785108)
+2026-03-31 03:33:59,429 [INFO]   ✓ Hot Potato - family game | 价格: $0.99 | 类别: Games
+2026-03-31 03:34:04,000 [INFO] [7038/8374] 处理: KAMITSUBAKI CITY ENSEMBLE (id=6474530345)
+2026-03-31 03:34:04,234 [INFO]   ✓ KAMITSUBAKI CITY ENSEMBLE | 价格: $3.99 | 类别: Games
+2026-03-31 03:34:08,287 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:34:08,288 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:34:10,201 [INFO] [7039/8374] 处理: The Longest Road On Earth (id=1538591290)
+2026-03-31 03:34:10,363 [INFO]   ✓ The Longest Road On Earth | 价格: $3.99 | 类别: Games
+2026-03-31 03:34:14,495 [INFO] [7040/8374] 处理: Rhythm Cat 2 (id=1203856938)
+2026-03-31 03:34:14,612 [INFO]   ✓ Rhythm Cat 2 | 价格: $7.99 | 类别: Games
+2026-03-31 03:34:20,335 [INFO] [7041/8374] 处理: Lyrica: Drunken Moon (id=1286609624)
+2026-03-31 03:34:20,483 [INFO]   ✓ Lyrica: Drunken Moon | 价格: $1.99 | 类别: Games
+2026-03-31 03:34:23,781 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:34:23,782 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:34:26,852 [INFO] [7042/8374] 处理: Kalimba Royal (id=1459382070)
+2026-03-31 03:34:27,013 [INFO]   ✓ Kalimba Royal | 价格: $9.99 | 类别: Games
+2026-03-31 03:34:33,595 [INFO] [7043/8374] 处理: Animal Sounds!! (id=1213995369)
+2026-03-31 03:34:33,678 [INFO]   ✓ Animal Sounds!! | 价格: $1.99 | 类别: Games
+2026-03-31 03:34:39,809 [INFO] [7044/8374] 处理: Grow Recycling : Kids Games (id=663552636)
+2026-03-31 03:34:39,958 [INFO]   ✓ Grow Recycling : Kids Games | 价格: $3.99 | 类别: Games
+2026-03-31 03:34:46,983 [INFO] [7045/8374] 处理: Bear Went Over the Mountain (id=590411607)
+2026-03-31 03:34:47,169 [INFO]   ✓ Bear Went Over the Mountain | 价格: $0.99 | 类别: Games
+2026-03-31 03:34:53,195 [INFO] [7046/8374] 处理: Piano Dash (id=1632441647)
+2026-03-31 03:34:53,312 [INFO]   ✓ Piano Dash | 价格: $0.99 | 类别: Games
+2026-03-31 03:34:58,496 [INFO] [7047/8374] 处理: Cat Translator Deluxe (id=1165888459)
+2026-03-31 03:34:58,590 [INFO]   ✓ Cat Translator Deluxe | 价格: $2.99 | 类别: Games
+2026-03-31 03:35:02,561 [INFO] [7048/8374] 处理: WAVEAT ReLIGHT ウェビートリライト - 音ゲー (id=1329844282)
+2026-03-31 03:35:02,663 [INFO]   ✓ WAVEAT ReLIGHT ウェビートリライト - 音ゲー | 价格: $0.29 | 类别: Games
+2026-03-31 03:35:06,327 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 03:35:06,329 [INFO]   ✓ 内购: 9 项
+2026-03-31 03:35:07,971 [INFO] [7049/8374] 处理: Piano Cube ! (id=1415542820)
+2026-03-31 03:35:08,060 [INFO]   ✓ Piano Cube ! | 价格: $2.99 | 类别: Games
+2026-03-31 03:35:13,312 [INFO] [7050/8374] 处理: BarWhat? 10000+ Trivia Game (id=918869416)
+2026-03-31 03:35:13,386 [INFO]   ✓ BarWhat? 10000+ Trivia Game | 价格: $1.99 | 类别: Games
+2026-03-31 03:35:20,073 [INFO] [7051/8374] 处理: Note Fighter (id=975553899)
+2026-03-31 03:35:20,204 [INFO]   ✓ Note Fighter | 价格: $1.99 | 类别: Games
+2026-03-31 03:35:25,767 [INFO] [7052/8374] 处理: BeatX Rhythm Game (id=1561528826)
+2026-03-31 03:35:25,931 [INFO]   ✓ BeatX Rhythm Game | 价格: $0.99 | 类别: Games
+2026-03-31 03:35:30,880 [INFO] [7053/8374] 处理: Sleep Bug Kids (id=776190893)
+2026-03-31 03:35:31,063 [INFO]   ✓ Sleep Bug Kids | 价格: $0.99 | 类别: Games
+2026-03-31 03:35:37,581 [INFO] [7054/8374] 处理: The Forest Quartet (id=6714474409)
+2026-03-31 03:35:37,649 [INFO]   ✓ The Forest Quartet | 价格: $5.99 | 类别: Games
+2026-03-31 03:35:45,031 [INFO] [7055/8374] 处理: Beat Workers (id=1549524051)
+2026-03-31 03:35:45,125 [INFO]   ✓ Beat Workers | 价格: $2.99 | 类别: Games
+2026-03-31 03:35:50,734 [INFO] [7056/8374] 处理: Ole' Timey Turkey Tunes (id=577451164)
+2026-03-31 03:35:50,861 [INFO]   ✓ Ole' Timey Turkey Tunes | 价格: $0.99 | 类别: Games
+2026-03-31 03:35:56,300 [INFO] [7057/8374] 处理: AudioRoids: Audio Shooter (id=6740243875)
+2026-03-31 03:35:56,373 [INFO]   ✓ AudioRoids: Audio Shooter | 价格: $1.99 | 类别: Games
+2026-03-31 03:36:03,773 [INFO] [7058/8374] 处理: Santoor PRO (id=914925250)
+2026-03-31 03:36:03,870 [INFO]   ✓ Santoor PRO | 价格: $249.99 | 类别: Games
+2026-03-31 03:36:06,427 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 03:36:06,429 [INFO]   ✓ 内购: 1 项
+2026-03-31 03:36:08,466 [INFO] [7059/8374] 处理: Kalimba Connect (id=1446142323)
+2026-03-31 03:36:08,597 [INFO]   ✓ Kalimba Connect | 价格: $2.99 | 类别: Games
+2026-03-31 03:36:11,450 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 03:36:11,451 [INFO]   ✓ 内购: 2 项
+2026-03-31 03:36:14,082 [INFO] [7060/8374] 处理: Rhythm Fighter (id=1578453566)
+2026-03-31 03:36:14,180 [INFO]   ✓ Rhythm Fighter | 价格: $1.99 | 类别: Games
+2026-03-31 03:36:20,056 [INFO] [7061/8374] 处理: Musical Maze (id=1548185534)
+2026-03-31 03:36:20,304 [INFO]   ✓ Musical Maze | 价格: $2.99 | 类别: Games
+2026-03-31 03:36:27,122 [INFO] [7062/8374] 处理: Guitar Sight Reading Workout (id=587576974)
+2026-03-31 03:36:27,208 [INFO]   ✓ Guitar Sight Reading Workout | 价格: $2.99 | 类别: Games
+2026-03-31 03:36:32,609 [INFO] [7063/8374] 处理: Sounds of Music (id=631935759)
+2026-03-31 03:36:32,751 [INFO]   ✓ Sounds of Music | 价格: $0.99 | 类别: Games
+2026-03-31 03:36:38,038 [INFO] [7064/8374] 处理: RattleBand! (id=468369504)
+2026-03-31 03:36:38,177 [INFO]   ✓ RattleBand! | 价格: $0.99 | 类别: Games
+2026-03-31 03:36:43,276 [INFO] [7065/8374] 处理: Bass Sight Reading Workout (id=616091403)
+2026-03-31 03:36:43,429 [INFO]   ✓ Bass Sight Reading Workout | 价格: $2.99 | 类别: Games
+2026-03-31 03:36:48,947 [INFO] [7066/8374] 处理: Piano Pop: Music Game Tiles (id=6479046092)
+2026-03-31 03:36:49,022 [INFO]   ✓ Piano Pop: Music Game Tiles | 价格: Free | 类别: Games
+2026-03-31 03:36:50,677 [INFO] [7067/8374] 处理: Geometry Dash SubZero (id=1324044770)
+2026-03-31 03:36:50,810 [INFO]   ✓ Geometry Dash SubZero | 价格: Free | 类别: Games
+2026-03-31 03:36:53,134 [INFO] [7068/8374] 处理: Beat Stage - Battle Duel (id=6743152985)
+2026-03-31 03:36:53,250 [INFO]   ✓ Beat Stage - Battle Duel | 价格: Free | 类别: Games
+2026-03-31 03:36:55,525 [INFO] [7069/8374] 处理: Tiles Hop: Music Ball Clash (id=1344702806)
+2026-03-31 03:36:55,681 [INFO]   ✓ Tiles Hop: Music Ball Clash | 价格: Free | 类别: Games
+2026-03-31 03:36:57,785 [INFO] [7070/8374] 处理: Geometry Dash Meltdown (id=1045901853)
+2026-03-31 03:36:57,997 [INFO]   ✓ Geometry Dash Meltdown | 价格: Free | 类别: Games
+2026-03-31 03:36:59,885 [INFO] [7071/8374] 处理: Geometry Dash World (id=1112307917)
+2026-03-31 03:36:59,957 [INFO]   ✓ Geometry Dash World | 价格: Free | 类别: Games
+2026-03-31 03:37:02,261 [INFO] [7072/8374] 处理: My Singing Monsters (id=521671873)
+2026-03-31 03:37:02,445 [INFO]   ✓ My Singing Monsters | 价格: Free | 类别: Games
+2026-03-31 03:37:04,062 [INFO] [7073/8374] 处理: Sonolus (id=1637055220)
+2026-03-31 03:37:04,228 [INFO]   ✓ Sonolus | 价格: Free | 类别: Games
+2026-03-31 03:37:06,990 [INFO] [7074/8374] 处理: Rhythm Hive (id=1537758048)
+2026-03-31 03:37:07,069 [INFO]   ✓ Rhythm Hive | 价格: Free | 类别: Games
+2026-03-31 03:37:10,287 [INFO] [7075/8374] 处理: Cyber Surfer: EDM & Skateboard (id=1550224130)
+2026-03-31 03:37:10,379 [INFO]   ✓ Cyber Surfer: EDM & Skateboard | 价格: Free | 类别: Games
+2026-03-31 03:37:12,761 [INFO] [7076/8374] 处理: Just Dance Now (id=833517462)
+2026-03-31 03:37:12,845 [INFO]   ✓ Just Dance Now | 价格: Free | 类别: Games
+2026-03-31 03:37:14,744 [INFO] [7077/8374] 处理: HITSTER (id=1621483628)
+2026-03-31 03:37:14,896 [INFO]   ✓ HITSTER | 价格: Free | 类别: Games
+2026-03-31 03:37:16,625 [INFO] [7078/8374] 处理: Just Dance Controller (id=1634629424)
+2026-03-31 03:37:16,750 [INFO]   ✓ Just Dance Controller | 价格: Free | 类别: Games
+2026-03-31 03:37:18,654 [INFO] [7079/8374] 处理: Dog Translator - Games for Dog (id=1561965563)
+2026-03-31 03:37:18,792 [INFO]   ✓ Dog Translator - Games for Dog | 价格: Free | 类别: Games
+2026-03-31 03:37:21,892 [INFO] [7080/8374] 处理: Rolling Sky (id=1036661603)
+2026-03-31 03:37:22,037 [INFO]   ✓ Rolling Sky | 价格: Free | 类别: Games
+2026-03-31 03:37:24,687 [INFO] [7081/8374] 处理: Piano Star - Tap Your Music (id=1633015266)
+2026-03-31 03:37:24,812 [INFO]   ✓ Piano Star - Tap Your Music | 价格: Free | 类别: Games
+2026-03-31 03:37:26,458 [INFO] [7082/8374] 处理: Piano Tiles 2™: Fun Piano Game (id=1027688889)
+2026-03-31 03:37:26,543 [INFO]   ✓ Piano Tiles 2™: Fun Piano Game | 价格: Free | 类别: Games
+2026-03-31 03:37:28,107 [INFO] [7083/8374] 处理: iDaft Jamming (id=308712434)
+2026-03-31 03:37:28,277 [INFO]   ✓ iDaft Jamming | 价格: Free | 类别: Games
+2026-03-31 03:37:30,064 [INFO] [7084/8374] 处理: Bandle: Guess The Song Game (id=6471419531)
+2026-03-31 03:37:30,207 [INFO]   ✓ Bandle: Guess The Song Game | 价格: Free | 类别: Games
+2026-03-31 03:37:32,505 [INFO] [7085/8374] 处理: Duet Cats: Rhythm Meow Game (id=1658687701)
+2026-03-31 03:37:32,589 [INFO]   ✓ Duet Cats: Rhythm Meow Game | 价格: Free | 类别: Games
+2026-03-31 03:37:35,806 [INFO] [7086/8374] 处理: Cat Dash: Music Games (id=6748813520)
+2026-03-31 03:37:35,943 [INFO]   ✓ Cat Dash: Music Games | 价格: Free | 类别: Games
+2026-03-31 03:37:38,324 [INFO] [7087/8374] 处理: Wave Dash : Geometry Arrow (id=6748525220)
+2026-03-31 03:37:38,479 [INFO]   ✓ Wave Dash : Geometry Arrow | 价格: Free | 类别: Games
+2026-03-31 03:37:40,723 [INFO] [7088/8374] 处理: Kpop Music Beat: Piano Game (id=6751177175)
+2026-03-31 03:37:40,860 [INFO]   ✓ Kpop Music Beat: Piano Game | 价格: Free | 类别: Games
+2026-03-31 03:37:42,525 [INFO] [7089/8374] 处理: Dancing Road Color Match & Hop (id=1447924266)
+2026-03-31 03:37:42,701 [INFO]   ✓ Dancing Road Color Match & Hop | 价格: Free | 类别: Games
+2026-03-31 03:37:44,290 [INFO] [7090/8374] 处理: Piano Cat Tiles (id=1527040660)
+2026-03-31 03:37:44,423 [INFO]   ✓ Piano Cat Tiles | 价格: Free | 类别: Games
+2026-03-31 03:37:47,660 [INFO] [7091/8374] 处理: Beat Tiles: Music Game (id=6445803857)
+2026-03-31 03:37:47,778 [INFO]   ✓ Beat Tiles: Music Game | 价格: Free | 类别: Games
+2026-03-31 03:37:50,571 [INFO] [7092/8374] 处理: Spooky Beats Maker: Horror Mix (id=6738488635)
+2026-03-31 03:37:50,683 [INFO]   ✓ Spooky Beats Maker: Horror Mix | 价格: Free | 类别: Games
+2026-03-31 03:37:52,514 [INFO] [7093/8374] 处理: Looper! (id=1370475630)
+2026-03-31 03:37:52,679 [INFO]   ✓ Looper! | 价格: Free | 类别: Games
+2026-03-31 03:37:56,015 [INFO] [7094/8374] 处理: Soundmap: Find Your Songs (id=6476420863)
+2026-03-31 03:37:56,177 [INFO]   ✓ Soundmap: Find Your Songs | 价格: Free | 类别: Games
+2026-03-31 03:37:58,333 [INFO] [7095/8374] 处理: Guitar Band: Rock Battle (id=1155657778)
+2026-03-31 03:37:58,448 [INFO]   ✓ Guitar Band: Rock Battle | 价格: Free | 类别: Games
+2026-03-31 03:38:00,975 [INFO] [7096/8374] 处理: Like A Dino! (id=1527726706)
+2026-03-31 03:38:01,075 [INFO]   ✓ Like A Dino! | 价格: Free | 类别: Games
+2026-03-31 03:38:02,777 [INFO] [7097/8374] 处理: Magic Cats Rush: Music Games (id=6741554654)
+2026-03-31 03:38:02,897 [INFO]   ✓ Magic Cats Rush: Music Games | 价格: Free | 类别: Games
+2026-03-31 03:38:05,485 [INFO] [7098/8374] 处理: Piano Tiles ™ (id=848160327)
+2026-03-31 03:38:05,662 [INFO]   ✓ Piano Tiles ™ | 价格: Free | 类别: Games
+2026-03-31 03:38:08,554 [INFO] [7099/8374] 处理: Twisty Arrow: Bow Game (id=1086379636)
+2026-03-31 03:38:08,646 [INFO]   ✓ Twisty Arrow: Bow Game | 价格: Free | 类别: Games
+2026-03-31 03:38:11,737 [INFO] [7100/8374] 处理: Gacha Nox - Nebula Mod (id=6478878827)
+2026-03-31 03:38:11,811 [INFO]   ✓ Gacha Nox - Nebula Mod | 价格: Free | 类别: Games
+2026-03-31 03:38:14,171 [INFO] [7101/8374] 处理: Music Tiles 2 - Fun Piano Game (id=1445343575)
+2026-03-31 03:38:14,277 [INFO]   ✓ Music Tiles 2 - Fun Piano Game | 价格: Free | 类别: Games
+2026-03-31 03:38:16,830 [INFO] [7102/8374] 处理: SongPop® - Guess The Song (id=1528066727)
+2026-03-31 03:38:16,928 [INFO]   ✓ SongPop® - Guess The Song | 价格: Free | 类别: Games
+2026-03-31 03:38:19,819 [INFO] [7103/8374] 处理: SongPop Classic - Music Trivia (id=975364678)
+2026-03-31 03:38:19,905 [INFO]   ✓ SongPop Classic - Music Trivia | 价格: Free | 类别: Games
+2026-03-31 03:38:22,419 [INFO] [7104/8374] 处理: Music Hop: Rhythm & Ball Game (id=6755371603)
+2026-03-31 03:38:22,503 [INFO]   ✓ Music Hop: Rhythm & Ball Game | 价格: Free | 类别: Games
+2026-03-31 03:38:24,043 [INFO] [7105/8374] 处理: Monster Design: Music Beat Box (id=6738555889)
+2026-03-31 03:38:24,152 [INFO]   ✓ Monster Design: Music Beat Box | 价格: Free | 类别: Games
+2026-03-31 03:38:26,853 [INFO] [7106/8374] 处理: Saturn Slalom (id=6752789906)
+2026-03-31 03:38:26,936 [INFO]   ✓ Saturn Slalom | 价格: Free | 类别: Games
+2026-03-31 03:38:28,954 [INFO] [7107/8374] 处理: Just Dance 2016-22 Controller (id=913545185)
+2026-03-31 03:38:29,088 [INFO]   ✓ Just Dance 2016-22 Controller | 价格: Free | 类别: Games
+2026-03-31 03:38:32,260 [INFO] [7108/8374] 处理: Beat Duet (id=6447661755)
+2026-03-31 03:38:32,327 [INFO]   ✓ Beat Duet | 价格: Free | 类别: Games
+2026-03-31 03:38:34,189 [INFO] [7109/8374] 处理: Magic Dream Tiles: Piano Game (id=1508864310)
+2026-03-31 03:38:34,322 [INFO]   ✓ Magic Dream Tiles: Piano Game | 价格: Free | 类别: Games
+2026-03-31 03:38:37,807 [INFO] [7110/8374] 处理: Beat Racing (id=1541780798)
+2026-03-31 03:38:37,930 [INFO]   ✓ Beat Racing | 价格: Free | 类别: Games
+2026-03-31 03:38:40,158 [INFO] [7111/8374] 处理: SUPERSTAR JYPNATION (id=1086866467)
+2026-03-31 03:38:40,298 [INFO]   ✓ SUPERSTAR JYPNATION | 价格: Free | 类别: Games
+2026-03-31 03:38:41,934 [INFO] [7112/8374] 处理: Hideaways Wonders (id=6474877832)
+2026-03-31 03:38:42,065 [INFO]   ✓ Hideaways Wonders | 价格: Free | 类别: Games
+2026-03-31 03:38:43,871 [INFO] [7113/8374] 处理: Weekend Games (id=1345558380)
+2026-03-31 03:38:44,004 [INFO]   ✓ Weekend Games | 价格: Free | 类别: Games
+2026-03-31 03:38:46,957 [INFO] [7114/8374] 处理: Piano Fire 2 (id=6597632825)
+2026-03-31 03:38:47,059 [INFO]   ✓ Piano Fire 2 | 价格: Free | 类别: Games
+2026-03-31 03:38:49,172 [INFO] [7115/8374] 处理: Dancing Line - Music Game (id=1177953618)
+2026-03-31 03:38:49,404 [INFO]   ✓ Dancing Line - Music Game | 价格: Free | 类别: Games
+2026-03-31 03:38:50,908 [INFO] [7116/8374] 处理: Cat Dash: Cute Cat Music Game (id=6745498566)
+2026-03-31 03:38:50,985 [INFO]   ✓ Cat Dash: Cute Cat Music Game | 价格: Free | 类别: Games
+2026-03-31 03:38:53,167 [INFO] [7117/8374] 处理: osu!stream (id=436952197)
+2026-03-31 03:38:53,300 [INFO]   ✓ osu!stream | 价格: Free | 类别: Games
+2026-03-31 03:38:56,090 [INFO] [7118/8374] 处理: Kpop Music DIY: Mix Beats (id=6449069509)
+2026-03-31 03:38:56,170 [INFO]   ✓ Kpop Music DIY: Mix Beats | 价格: Free | 类别: Games
+2026-03-31 03:38:59,264 [INFO] [7119/8374] 处理: Stick Tuber: Punch Fight Dance (id=6503271738)
+2026-03-31 03:38:59,403 [INFO]   ✓ Stick Tuber: Punch Fight Dance | 价格: Free | 类别: Games
+2026-03-31 03:39:00,972 [INFO] [7120/8374] 处理: Piano StarTuber (id=6740177168)
+2026-03-31 03:39:01,054 [INFO]   ✓ Piano StarTuber | 价格: Free | 类别: Games
+2026-03-31 03:39:02,568 [INFO] [7121/8374] 处理: Smash Colors 3D 2025 (id=1521619518)
+2026-03-31 03:39:02,709 [INFO]   ✓ Smash Colors 3D 2025 | 价格: Free | 类别: Games
+2026-03-31 03:39:05,586 [INFO] [7122/8374] 处理: Window Garden - Lofi Idle Game (id=6473402739)
+2026-03-31 03:39:05,730 [INFO]   ✓ Window Garden - Lofi Idle Game | 价格: Free | 类别: Games
+2026-03-31 03:39:08,870 [INFO] [7123/8374] 处理: Sprunki Life Sim Cute vs Scary (id=6740579074)
+2026-03-31 03:39:09,002 [INFO]   ✓ Sprunki Life Sim Cute vs Scary | 价格: Free | 类别: Games
+2026-03-31 03:39:11,320 [INFO] [7124/8374] 处理: Tap Tap Music-Pop Songs (id=1437596370)
+2026-03-31 03:39:11,472 [INFO]   ✓ Tap Tap Music-Pop Songs | 价格: Free | 类别: Games
+2026-03-31 03:39:14,453 [INFO] [7125/8374] 处理: Arcaea (id=1205999125)
+2026-03-31 03:39:14,588 [INFO]   ✓ Arcaea | 价格: Free | 类别: Games
+2026-03-31 03:39:16,948 [INFO] [7126/8374] 处理: My Singing Monsters DawnOfFire (id=1010739052)
+2026-03-31 03:39:17,127 [INFO]   ✓ My Singing Monsters DawnOfFire | 价格: Free | 类别: Games
+2026-03-31 03:39:20,117 [INFO] [7127/8374] 处理: Catch Tiles - Piano Game (id=1551114773)
+2026-03-31 03:39:20,312 [INFO]   ✓ Catch Tiles - Piano Game | 价格: Free | 类别: Games
+2026-03-31 03:39:21,948 [INFO] [7128/8374] 处理: Actor Star Movie Simulator (id=6759260877)
+2026-03-31 03:39:22,044 [INFO]   ✓ Actor Star Movie Simulator | 价格: Free | 类别: Games
+2026-03-31 03:39:24,684 [INFO] [7129/8374] 处理: Musician Career Simulator (id=6757577129)
+2026-03-31 03:39:24,767 [INFO]   ✓ Musician Career Simulator | 价格: Free | 类别: Games
+2026-03-31 03:39:26,819 [INFO] [7130/8374] 处理: Impossible Jump 3d : 3dash (id=6736825300)
+2026-03-31 03:39:26,906 [INFO]   ✓ Impossible Jump 3d : 3dash | 价格: Free | 类别: Games
+2026-03-31 03:39:28,823 [INFO] [7131/8374] 处理: Rapper Life Simulator (id=6749636755)
+2026-03-31 03:39:28,896 [INFO]   ✓ Rapper Life Simulator | 价格: Free | 类别: Games
+2026-03-31 03:39:30,596 [INFO] [7132/8374] 处理: Cute Monster Band (id=6745003625)
+2026-03-31 03:39:30,751 [INFO]   ✓ Cute Monster Band | 价格: Free | 类别: Games
+2026-03-31 03:39:32,985 [INFO] [7133/8374] 处理: Dancing Dress (id=6444786633)
+2026-03-31 03:39:33,070 [INFO]   ✓ Dancing Dress | 价格: Free | 类别: Games
+2026-03-31 03:39:36,102 [INFO] [7134/8374] 处理: Fun Clicker Game (id=6752017533)
+2026-03-31 03:39:36,171 [INFO]   ✓ Fun Clicker Game | 价格: Free | 类别: Games
+2026-03-31 03:39:38,124 [INFO] [7135/8374] 处理: White Tiles 4: Piano Master 2 (id=1146128499)
+2026-03-31 03:39:38,252 [INFO]   ✓ White Tiles 4: Piano Master 2 | 价格: Free | 类别: Games
+2026-03-31 03:39:41,575 [INFO] [7136/8374] 处理: Phigros (id=1454809109)
+2026-03-31 03:39:41,665 [INFO]   ✓ Phigros | 价格: Free | 类别: Games
+2026-03-31 03:39:43,997 [INFO] [7137/8374] 处理: Music Hop EDM Rush (id=6468901726)
+2026-03-31 03:39:44,080 [INFO]   ✓ Music Hop EDM Rush | 价格: Free | 类别: Games
+2026-03-31 03:39:47,473 [INFO] [7138/8374] 处理: Beat Tiles 3D: Music Game (id=1498222593)
+2026-03-31 03:39:47,581 [INFO]   ✓ Beat Tiles 3D: Music Game | 价格: Free | 类别: Games
+2026-03-31 03:39:49,472 [INFO] [7139/8374] 处理: Piano : Video Game music songs (id=1456786551)
+2026-03-31 03:39:49,653 [INFO]   ✓ Piano : Video Game music songs | 价格: Free | 类别: Games
+2026-03-31 03:39:51,911 [INFO] [7140/8374] 处理: بيانو المحترف ~ أورغ شرقي (id=1197094040)
+2026-03-31 03:39:52,060 [INFO]   ✓ بيانو المحترف ~ أورغ شرقي | 价格: Free | 类别: Games
+2026-03-31 03:39:54,099 [INFO] [7141/8374] 处理: Cat Cute Tiles: Rhythm Games (id=6738115805)
+2026-03-31 03:39:54,179 [INFO]   ✓ Cat Cute Tiles: Rhythm Games | 价格: Free | 类别: Games
+2026-03-31 03:39:56,603 [INFO] [7142/8374] 处理: BARRY'S PRISON RUN : Roblox (id=6593660120)
+2026-03-31 03:39:56,776 [INFO]   ✓ BARRY'S PRISON RUN : Roblox | 价格: Free | 类别: Games
+2026-03-31 03:39:58,869 [INFO] [7143/8374] 处理: Piano Music Tiles: Anime & Pop (id=1169979118)
+2026-03-31 03:39:58,984 [INFO]   ✓ Piano Music Tiles: Anime & Pop | 价格: Free | 类别: Games
+2026-03-31 03:40:01,190 [INFO] [7144/8374] 处理: K-Pop Academy (id=1627015599)
+2026-03-31 03:40:01,362 [INFO]   ✓ K-Pop Academy | 价格: Free | 类别: Games
+2026-03-31 03:40:04,761 [INFO] [7145/8374] 处理: Music Story Mod V2 Madness (id=1645554455)
+2026-03-31 03:40:04,847 [INFO]   ✓ Music Story Mod V2 Madness | 价格: Free | 类别: Games
+2026-03-31 03:40:07,182 [INFO] [7146/8374] 处理: Tap Music 3D (id=1471591534)
+2026-03-31 03:40:07,334 [INFO]   ✓ Tap Music 3D | 价格: Free | 类别: Games
+2026-03-31 03:40:08,851 [INFO] [7147/8374] 处理: PhaseAllMods Horrorr (id=6738539174)
+2026-03-31 03:40:09,149 [INFO]   ✓ PhaseAllMods Horrorr | 价格: Free | 类别: Games
+2026-03-31 03:40:12,245 [INFO] [7148/8374] 处理: Duet Tiles - Dual Vocal Game (id=6450888216)
+2026-03-31 03:40:12,384 [INFO]   ✓ Duet Tiles - Dual Vocal Game | 价格: Free | 类别: Games
+2026-03-31 03:40:13,908 [INFO] [7149/8374] 处理: Sprunked Mix Beats Full Mods (id=6737550112)
+2026-03-31 03:40:14,040 [INFO]   ✓ Sprunked Mix Beats Full Mods | 价格: Free | 类别: Games
+2026-03-31 03:40:16,425 [INFO] [7150/8374] 处理: My Voice Zoo App (id=6759680248)
+2026-03-31 03:40:16,504 [INFO]   ✓ My Voice Zoo App | 价格: Free | 类别: Games
+2026-03-31 03:40:19,448 [INFO] [7151/8374] 处理: Spotiguess : Quiz for Spotify (id=6754511325)
+2026-03-31 03:40:19,519 [INFO]   ✓ Spotiguess : Quiz for Spotify | 价格: Free | 类别: Games
+2026-03-31 03:40:21,232 [INFO] [7152/8374] 处理: I Am Crazy Taxi Driving Game (id=6757604081)
+2026-03-31 03:40:21,301 [INFO]   ✓ I Am Crazy Taxi Driving Game | 价格: Free | 类别: Games
+2026-03-31 03:40:23,598 [INFO] [7153/8374] 处理: Finish The Lyrics (id=1342877846)
+2026-03-31 03:40:23,695 [INFO]   ✓ Finish The Lyrics | 价格: Free | 类别: Games
+2026-03-31 03:40:27,186 [INFO] [7154/8374] 处理: Music Star - Life Simulator (id=6443602573)
+2026-03-31 03:40:27,258 [INFO]   ✓ Music Star - Life Simulator | 价格: Free | 类别: Games
+2026-03-31 03:40:29,217 [INFO] [7155/8374] 处理: BanG Dream! Girls Band Party! (id=1335529760)
+2026-03-31 03:40:29,288 [INFO]   ✓ BanG Dream! Girls Band Party! | 价格: Free | 类别: Games
+2026-03-31 03:40:31,136 [INFO] [7156/8374] 处理: Music Character Player (id=6737849969)
+2026-03-31 03:40:31,207 [INFO]   ✓ Music Character Player | 价格: Free | 类别: Games
+2026-03-31 03:40:33,363 [INFO] [7157/8374] 处理: Dream Notes - Cute Music Game (id=6477348394)
+2026-03-31 03:40:33,484 [INFO]   ✓ Dream Notes - Cute Music Game | 价格: Free | 类别: Games
+2026-03-31 03:40:36,284 [INFO] [7158/8374] 处理: SUPERSTAR ATEEZ (id=1571479814)
+2026-03-31 03:40:36,356 [INFO]   ✓ SUPERSTAR ATEEZ | 价格: Free | 类别: Games
+2026-03-31 03:40:38,374 [INFO] [7159/8374] 处理: Obey Me! NB (id=1638272826)
+2026-03-31 03:40:38,474 [INFO]   ✓ Obey Me! NB | 价格: Free | 类别: Games
+2026-03-31 03:40:41,400 [INFO] [7160/8374] 处理: Loog Guitar (id=1642770945)
+2026-03-31 03:40:41,547 [INFO]   ✓ Loog Guitar | 价格: Free | 类别: Games
+2026-03-31 03:40:45,020 [INFO] [7161/8374] 处理: BingeCherry-Meet Novels Here (id=6590616349)
+2026-03-31 03:40:45,088 [INFO]   ✓ BingeCherry-Meet Novels Here | 价格: Free | 类别: Games
+2026-03-31 03:40:48,315 [INFO] [7162/8374] 处理: Sweet Dance (id=1488439985)
+2026-03-31 03:40:48,413 [INFO]   ✓ Sweet Dance | 价格: Free | 类别: Games
+2026-03-31 03:40:51,313 [INFO] [7163/8374] 处理: Ensemble Stars Music (id=1624693630)
+2026-03-31 03:40:51,443 [INFO]   ✓ Ensemble Stars Music | 价格: Free | 类别: Games
+2026-03-31 03:40:54,360 [INFO] [7164/8374] 处理: Hollywood Movie Star Life Sim (id=6445923456)
+2026-03-31 03:40:54,466 [INFO]   ✓ Hollywood Movie Star Life Sim | 价格: Free | 类别: Games
+2026-03-31 03:40:56,669 [INFO] [7165/8374] 处理: Music Wars Rockstar: Rap Life (id=1623455289)
+2026-03-31 03:40:56,750 [INFO]   ✓ Music Wars Rockstar: Rap Life | 价格: Free | 类别: Games
+2026-03-31 03:40:59,599 [INFO] [7166/8374] 处理: Rap Star - Music Simulator (id=6749179432)
+2026-03-31 03:40:59,671 [INFO]   ✓ Rap Star - Music Simulator | 价格: Free | 类别: Games
+2026-03-31 03:41:01,372 [INFO] [7167/8374] 处理: Loog Piano (id=6737065951)
+2026-03-31 03:41:01,438 [INFO]   ✓ Loog Piano | 价格: Free | 类别: Games
+2026-03-31 03:41:03,003 [INFO] [7168/8374] 处理: D4DJ Groovy Mix (id=1550248186)
+2026-03-31 03:41:03,139 [INFO]   ✓ D4DJ Groovy Mix | 价格: Free | 类别: Games
+2026-03-31 03:41:06,030 [INFO] [7169/8374] 处理: Music Star Life Sim – Charted (id=6744414147)
+2026-03-31 03:41:06,104 [INFO]   ✓ Music Star Life Sim – Charted | 价格: Free | 类别: Games
+2026-03-31 03:41:08,171 [INFO] [7170/8374] 处理: ActorLife-Actor Life Simulator (id=6749524777)
+2026-03-31 03:41:08,239 [INFO]   ✓ ActorLife-Actor Life Simulator | 价格: Free | 类别: Games
+2026-03-31 03:41:10,778 [INFO] [7171/8374] 处理: Magic Starㅤ (id=1579005361)
+2026-03-31 03:41:10,916 [INFO]   ✓ Magic Starㅤ | 价格: Free | 类别: Games
+2026-03-31 03:41:13,242 [INFO] [7172/8374] 处理: Groove Journey (id=6736345547)
+2026-03-31 03:41:13,413 [INFO]   ✓ Groove Journey | 价格: Free | 类别: Games
+2026-03-31 03:41:16,801 [INFO] [7173/8374] 处理: BeStar: The Music Game (id=6749171927)
+2026-03-31 03:41:16,944 [INFO]   ✓ BeStar: The Music Game | 价格: Free | 类别: Games
+2026-03-31 03:41:19,223 [INFO] [7174/8374] 处理: Life Simulator Podcast Star (id=6743173832)
+2026-03-31 03:41:19,361 [INFO]   ✓ Life Simulator Podcast Star | 价格: Free | 类别: Games
+2026-03-31 03:41:21,354 [INFO] [7175/8374] 处理: StageStar (id=6745702548)
+2026-03-31 03:41:21,491 [INFO]   ✓ StageStar | 价格: Free | 类别: Games
+2026-03-31 03:41:23,965 [INFO] [7176/8374] 处理: Tiles Pop - Music Game (id=6749160196)
+2026-03-31 03:41:24,037 [INFO]   ✓ Tiles Pop - Music Game | 价格: Free | 类别: Games
+2026-03-31 03:41:25,913 [INFO] [7177/8374] 处理: Story Star Life Simulator Game (id=6475015577)
+2026-03-31 03:41:25,990 [INFO]   ✓ Story Star Life Simulator Game | 价格: Free | 类别: Games
+2026-03-31 03:41:28,486 [INFO] [7178/8374] 处理: Hi Beatz (id=6738951508)
+2026-03-31 03:41:28,570 [INFO]   ✓ Hi Beatz | 价格: Free | 类别: Games
+2026-03-31 03:41:30,362 [INFO] [7179/8374] 处理: SUPERSTAR WAKEONE (id=6523424185)
+2026-03-31 03:41:30,432 [INFO]   ✓ SUPERSTAR WAKEONE | 价格: Free | 类别: Games
+2026-03-31 03:41:33,705 [INFO] [7180/8374] 处理: Tap Tap Hero: Be a Music Hero (id=1149208385)
+2026-03-31 03:41:33,864 [INFO]   ✓ Tap Tap Hero: Be a Music Hero | 价格: Free | 类别: Games
+2026-03-31 03:41:37,293 [INFO] [7181/8374] 处理: Guitar Flash (id=1039643229)
+2026-03-31 03:41:37,391 [INFO]   ✓ Guitar Flash | 价格: Free | 类别: Games
+2026-03-31 03:41:39,681 [INFO] [7182/8374] 处理: Basketball Agent Manager Star (id=6755743091)
+2026-03-31 03:41:39,813 [INFO]   ✓ Basketball Agent Manager Star | 价格: Free | 类别: Games
+2026-03-31 03:41:42,864 [INFO] [7183/8374] 处理: SUPERSTAR STARSHIP (id=1480181152)
+2026-03-31 03:41:42,956 [INFO]   ✓ SUPERSTAR STARSHIP | 价格: Free | 类别: Games
+2026-03-31 03:41:45,385 [INFO] [7184/8374] 处理: VOEZ (id=1007929736)
+2026-03-31 03:41:45,535 [INFO]   ✓ VOEZ | 价格: Free | 类别: Games
+2026-03-31 03:41:48,798 [INFO] [7185/8374] 处理: Guess The Song Pop Music Games (id=1297896111)
+2026-03-31 03:41:48,948 [INFO]   ✓ Guess The Song Pop Music Games | 价格: Free | 类别: Games
+2026-03-31 03:41:50,555 [INFO] [7186/8374] 处理: Piano Kids - Baby Music Games (id=6449966721)
+2026-03-31 03:41:50,694 [INFO]   ✓ Piano Kids - Baby Music Games | 价格: Free | 类别: Games
+2026-03-31 03:41:52,221 [INFO] [7187/8374] 处理: Music Band Manager Simulator (id=6523436544)
+2026-03-31 03:41:52,396 [INFO]   ✓ Music Band Manager Simulator | 价格: Free | 类别: Games
+2026-03-31 03:41:55,193 [INFO] [7188/8374] 处理: KPop Idol Queens Production (id=1571083536)
+2026-03-31 03:41:55,355 [INFO]   ✓ KPop Idol Queens Production | 价格: Free | 类别: Games
+2026-03-31 03:41:57,128 [INFO] [7189/8374] 处理: Beat Galaxy: Dash Music Game (id=6474588725)
+2026-03-31 03:41:57,225 [INFO]   ✓ Beat Galaxy: Dash Music Game | 价格: Free | 类别: Games
+2026-03-31 03:41:59,978 [INFO] [7190/8374] 处理: Rhythm Control 2 Rebirth (id=6743504282)
+2026-03-31 03:42:00,119 [INFO]   ✓ Rhythm Control 2 Rebirth | 价格: Free | 类别: Games
+2026-03-31 03:42:03,194 [INFO] [7191/8374] 处理: Bleap (id=6744604397)
+2026-03-31 03:42:03,267 [INFO]   ✓ Bleap | 价格: Free | 类别: Games
+2026-03-31 03:42:05,839 [INFO] [7192/8374] 处理: Pixel Ride - Jump to the Beat (id=6651840920)
+2026-03-31 03:42:05,966 [INFO]   ✓ Pixel Ride - Jump to the Beat | 价格: Free | 类别: Games
+2026-03-31 03:42:08,248 [INFO] [7193/8374] 处理: Kids Piano Fun: Music Games (id=1479186644)
+2026-03-31 03:42:08,389 [INFO]   ✓ Kids Piano Fun: Music Games | 价格: Free | 类别: Games
+2026-03-31 03:42:10,429 [INFO] [7194/8374] 处理: Magic Dream Tiles (id=1454330654)
+2026-03-31 03:42:10,510 [INFO]   ✓ Magic Dream Tiles | 价格: Free | 类别: Games
+2026-03-31 03:42:13,078 [INFO] [7195/8374] 处理: NOISZ STARLIVHT (id=1582334373)
+2026-03-31 03:42:13,219 [INFO]   ✓ NOISZ STARLIVHT | 价格: Free | 类别: Games
+2026-03-31 03:42:16,436 [INFO] [7196/8374] 处理: NextWave: Build Your Empire (id=6757384646)
+2026-03-31 03:42:16,513 [INFO]   ✓ NextWave: Build Your Empire | 价格: Free | 类别: Games
+2026-03-31 03:42:19,091 [INFO] [7197/8374] 处理: Shuffle Music Bingo - Game (id=1553670738)
+2026-03-31 03:42:19,174 [INFO]   ✓ Shuffle Music Bingo - Game | 价格: Free | 类别: Games
+2026-03-31 03:42:22,041 [INFO] [7198/8374] 处理: Beat Blader 3D (id=1495142212)
+2026-03-31 03:42:22,179 [INFO]   ✓ Beat Blader 3D | 价格: Free | 类别: Games
+2026-03-31 03:42:24,362 [INFO] [7199/8374] 处理: Rap Quest 2 (id=1132834652)
+2026-03-31 03:42:24,522 [INFO]   ✓ Rap Quest 2 | 价格: Free | 类别: Games
+2026-03-31 03:42:26,335 [INFO] [7200/8374] 处理: Essential Popstar Life Sim (id=6744975376)
+2026-03-31 03:42:26,404 [INFO]   ✓ Essential Popstar Life Sim | 价格: Free | 类别: Games
+2026-03-31 03:42:29,701 [INFO] [7201/8374] 处理: Beat Jumper - EDM Rush up! (id=1443249551)
+2026-03-31 03:42:29,777 [INFO]   ✓ Beat Jumper - EDM Rush up! | 价格: Free | 类别: Games
+2026-03-31 03:42:33,123 [INFO] [7202/8374] 处理: Popscene (Music Industry Sim) (id=808129130)
+2026-03-31 03:42:33,264 [INFO]   ✓ Popscene (Music Industry Sim) | 价格: Free | 类别: Games
+2026-03-31 03:42:35,963 [INFO] [7203/8374] 处理: Scribblenauts Remix (id=444844790)
+2026-03-31 03:42:36,038 [INFO]   ✓ Scribblenauts Remix | 价格: $0.99 | 类别: Games
+2026-03-31 03:42:39,076 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 03:42:39,078 [INFO]   ✓ 内购: 8 项
+2026-03-31 03:42:40,838 [INFO] [7204/8374] 处理: Almost Out of Mana (id=6757761741)
+2026-03-31 03:42:40,982 [INFO]   ✓ Almost Out of Mana | 价格: $2.99 | 类别: Games
+2026-03-31 03:42:48,051 [INFO] [7205/8374] 处理: Baba Is You (id=1517281887)
+2026-03-31 03:42:48,137 [INFO]   ✓ Baba Is You | 价格: $6.99 | 类别: Games
+2026-03-31 03:42:53,159 [INFO] [7206/8374] 处理: Illusion Bowling (id=6744579956)
+2026-03-31 03:42:53,345 [INFO]   ✓ Illusion Bowling | 价格: $3.99 | 类别: Games
+2026-03-31 03:42:59,158 [INFO] [7207/8374] 处理: Tetris Arcade (id=6737151554)
+2026-03-31 03:42:59,234 [INFO]   ✓ Tetris Arcade | 价格: $0.99 | 类别: Games
+2026-03-31 03:43:04,588 [INFO] [7208/8374] 处理: Poly Bridge (id=1197552569)
+2026-03-31 03:43:04,722 [INFO]   ✓ Poly Bridge | 价格: $1.99 | 类别: Games
+2026-03-31 03:43:10,138 [INFO] [7209/8374] 处理: dotio: Pips Domino Puzzles (id=6757383411)
+2026-03-31 03:43:10,337 [INFO]   ✓ dotio: Pips Domino Puzzles | 价格: $3.99 | 类别: Games
+2026-03-31 03:43:14,846 [INFO] [7210/8374] 处理: Moncage (id=1587860402)
+2026-03-31 03:43:14,935 [INFO]   ✓ Moncage | 价格: $3.99 | 类别: Games
+2026-03-31 03:43:18,938 [INFO] [7211/8374] 处理: Slayaway Camp (id=1123828832)
+2026-03-31 03:43:19,106 [INFO]   ✓ Slayaway Camp | 价格: $2.99 | 类别: Games
+2026-03-31 03:43:21,657 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 03:43:21,659 [INFO]   ✓ 内购: 2 项
+2026-03-31 03:43:24,618 [INFO] [7212/8374] 处理: Legacy - Reawakening (id=6741156650)
+2026-03-31 03:43:24,759 [INFO]   ✓ Legacy - Reawakening | 价格: $3.99 | 类别: Games
+2026-03-31 03:43:29,643 [INFO] [7213/8374] 处理: Mini Escapes: Infinity Pool (id=6759793209)
+2026-03-31 03:43:29,728 [INFO]   ✓ Mini Escapes: Infinity Pool | 价格: $2.99 | 类别: Games
+2026-03-31 03:43:35,057 [INFO] [7214/8374] 处理: The House of Da Vinci (id=1062515791)
+2026-03-31 03:43:35,142 [INFO]   ✓ The House of Da Vinci | 价格: $3.99 | 类别: Games
+2026-03-31 03:43:41,724 [INFO] [7215/8374] 处理: The White Door (id=1472184189)
+2026-03-31 03:43:41,909 [INFO]   ✓ The White Door | 价格: $2.99 | 类别: Games
+2026-03-31 03:43:47,129 [INFO] [7216/8374] 处理: Slayaway Camp 2: Puzzle Horror (id=6745909143)
+2026-03-31 03:43:47,351 [INFO]   ✓ Slayaway Camp 2: Puzzle Horror | 价格: $2.99 | 类别: Games
+2026-03-31 03:43:53,286 [INFO] [7217/8374] 处理: The House of Da Vinci 3 (id=1469235524)
+2026-03-31 03:43:53,375 [INFO]   ✓ The House of Da Vinci 3 | 价格: $5.99 | 类别: Games
+2026-03-31 03:43:59,107 [INFO] [7218/8374] 处理: Meridian 157: Chapter 3 (id=1576148500)
+2026-03-31 03:43:59,240 [INFO]   ✓ Meridian 157: Chapter 3 | 价格: $3.99 | 类别: Games
+2026-03-31 03:44:04,786 [INFO] [7219/8374] 处理: Meridian 157: Chapter 2 (id=1512282997)
+2026-03-31 03:44:04,868 [INFO]   ✓ Meridian 157: Chapter 2 | 价格: $2.99 | 类别: Games
+2026-03-31 03:44:10,003 [INFO] [7220/8374] 处理: The Girl in the Window (id=6758857094)
+2026-03-31 03:44:10,206 [INFO]   ✓ The Girl in the Window | 价格: $1.99 | 类别: Games
+2026-03-31 03:44:15,799 [INFO] [7221/8374] 处理: Rusty Lake Hotel (id=1059911569)
+2026-03-31 03:44:15,882 [INFO]   ✓ Rusty Lake Hotel | 价格: $1.99 | 类别: Games
+2026-03-31 03:44:21,367 [INFO] [7222/8374] 处理: Rusty Lake: Roots (id=1142016085)
+2026-03-31 03:44:21,529 [INFO]   ✓ Rusty Lake: Roots | 价格: $2.99 | 类别: Games
+2026-03-31 03:44:27,123 [INFO] [7223/8374] 处理: Machinarium (id=459189186)
+2026-03-31 03:44:27,215 [INFO]   ✓ Machinarium | 价格: $9.99 | 类别: Games
+2026-03-31 03:44:32,846 [INFO] [7224/8374] 处理: The Darkside Detective 2: FITD (id=6473550059)
+2026-03-31 03:44:32,995 [INFO]   ✓ The Darkside Detective 2: FITD | 价格: $3.99 | 类别: Games
+2026-03-31 03:44:39,418 [INFO] [7225/8374] 处理: Layton: Curious Village in HD (id=1361524540)
+2026-03-31 03:44:39,608 [INFO]   ✓ Layton: Curious Village in HD | 价格: $9.99 | 类别: Games
+2026-03-31 03:44:45,082 [INFO] [7226/8374] 处理: Lode Runner Classic (id=582864706)
+2026-03-31 03:44:45,161 [INFO]   ✓ Lode Runner Classic | 价格: $2.99 | 类别: Games
+2026-03-31 03:44:51,680 [INFO] [7227/8374] 处理: Smart Baby Shapes: Learning games for toddler kids (id=1057556336)
+2026-03-31 03:44:51,808 [INFO]   ✓ Smart Baby Shapes: Learning games for toddler kids | 价格: $2.99 | 类别: Games
+2026-03-31 03:44:55,916 [INFO] [7228/8374] 处理: Fran Bow (id=6445911052)
+2026-03-31 03:44:56,078 [INFO]   ✓ Fran Bow | 价格: $9.99 | 类别: Games
+2026-03-31 03:45:01,742 [INFO] [7229/8374] 处理: Escape from the Shadows (id=6758867557)
+2026-03-31 03:45:01,888 [INFO]   ✓ Escape from the Shadows | 价格: $1.99 | 类别: Games
+2026-03-31 03:45:06,861 [INFO] [7230/8374] 处理: Zombie Night Terror (id=1450635907)
+2026-03-31 03:45:06,990 [INFO]   ✓ Zombie Night Terror | 价格: $6.99 | 类别: Games
+2026-03-31 03:45:11,761 [INFO] [7231/8374] 处理: The Darkside Detective (id=6473466126)
+2026-03-31 03:45:11,836 [INFO]   ✓ The Darkside Detective | 价格: $3.99 | 类别: Games
+2026-03-31 03:45:17,581 [INFO] [7232/8374] 处理: Sushi Cat (id=379937581)
+2026-03-31 03:45:17,750 [INFO]   ✓ Sushi Cat | 价格: $0.99 | 类别: Games
+2026-03-31 03:45:22,120 [INFO] [7233/8374] 处理: Birth! (id=6748316143)
+2026-03-31 03:45:22,197 [INFO]   ✓ Birth! | 价格: $4.99 | 类别: Games
+2026-03-31 03:45:28,162 [INFO] [7234/8374] 处理: Poly Bridge 2 (id=1524371466)
+2026-03-31 03:45:28,337 [INFO]   ✓ Poly Bridge 2 | 价格: $1.99 | 类别: Games
+2026-03-31 03:45:32,976 [INFO] [7235/8374] 处理: bloxorz (id=591301867)
+2026-03-31 03:45:33,113 [INFO]   ✓ bloxorz | 价格: $0.99 | 类别: Games
+2026-03-31 03:45:39,049 [INFO] [7236/8374] 处理: The Journey Down: Chapter One (id=580486267)
+2026-03-31 03:45:39,187 [INFO]   ✓ The Journey Down: Chapter One | 价格: $4.99 | 类别: Games
+2026-03-31 03:45:45,390 [INFO] [7237/8374] 处理: The House of Da Vinci 2 (id=1331393380)
+2026-03-31 03:45:45,565 [INFO]   ✓ The House of Da Vinci 2 | 价格: $4.99 | 类别: Games
+2026-03-31 03:45:51,020 [INFO] [7238/8374] 处理: Hexa Away (id=6504324020)
+2026-03-31 03:45:51,152 [INFO]   ✓ Hexa Away | 价格: Free | 类别: Games
+2026-03-31 03:45:54,061 [INFO] [7239/8374] 处理: Word Search Explorer® (id=1602508478)
+2026-03-31 03:45:54,206 [INFO]   ✓ Word Search Explorer® | 价格: Free | 类别: Games
+2026-03-31 03:45:57,197 [INFO] [7240/8374] 处理: Crossword Go! (id=6739069151)
+2026-03-31 03:45:57,276 [INFO]   ✓ Crossword Go! | 价格: Free | 类别: Games
+2026-03-31 03:45:58,841 [INFO] [7241/8374] 处理: Wordscapes - Word Game (id=1207472156)
+2026-03-31 03:45:58,915 [INFO]   ✓ Wordscapes - Word Game | 价格: Free | 类别: Games
+2026-03-31 03:46:00,634 [INFO] [7242/8374] 处理: Crossword Master - Word Puzzle (id=6547858927)
+2026-03-31 03:46:00,787 [INFO]   ✓ Crossword Master - Word Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:46:03,574 [INFO] [7243/8374] 处理: NYT Games: Wordle & Crossword (id=307569751)
+2026-03-31 03:46:03,649 [INFO]   ✓ NYT Games: Wordle & Crossword | 价格: Free | 类别: Games
+2026-03-31 03:46:05,307 [INFO] [7244/8374] 处理: Tap Shift: Arrow Escape Puzzle (id=6756888081)
+2026-03-31 03:46:05,443 [INFO]   ✓ Tap Shift: Arrow Escape Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:46:08,188 [INFO] [7245/8374] 处理: Game is Hard (id=6748826648)
+2026-03-31 03:46:08,266 [INFO]   ✓ Game is Hard | 价格: Free | 类别: Games
+2026-03-31 03:46:11,740 [INFO] [7246/8374] 处理: PlaySimple Cryptogram (id=6741839590)
+2026-03-31 03:46:11,824 [INFO]   ✓ PlaySimple Cryptogram | 价格: Free | 类别: Games
+2026-03-31 03:46:14,890 [INFO] [7247/8374] 处理: Pair Pop: Solitaire Match (id=6755598466)
+2026-03-31 03:46:15,018 [INFO]   ✓ Pair Pop: Solitaire Match | 价格: Free | 类别: Games
+2026-03-31 03:46:16,582 [INFO] [7248/8374] 处理: Word Oasis: Calm Puzzle Game (id=6745003362)
+2026-03-31 03:46:16,736 [INFO]   ✓ Word Oasis: Calm Puzzle Game | 价格: Free | 类别: Games
+2026-03-31 03:46:18,785 [INFO] [7249/8374] 处理: Farm Loop: Harvest Puzzle (id=6758350202)
+2026-03-31 03:46:18,937 [INFO]   ✓ Farm Loop: Harvest Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:46:22,425 [INFO] [7250/8374] 处理: Sand Loop (id=6754363534)
+2026-03-31 03:46:22,503 [INFO]   ✓ Sand Loop | 价格: Free | 类别: Games
+2026-03-31 03:46:25,345 [INFO] [7251/8374] 处理: Cookingdom (id=6742222069)
+2026-03-31 03:46:25,542 [INFO]   ✓ Cookingdom | 价格: Free | 类别: Games
+2026-03-31 03:46:27,941 [INFO] [7252/8374] 处理: Color Shooter: Cube Sort (id=6755139034)
+2026-03-31 03:46:28,076 [INFO]   ✓ Color Shooter: Cube Sort | 价格: Free | 类别: Games
+2026-03-31 03:46:31,011 [INFO] [7253/8374] 处理: Daily Themed Crossword Puzzles (id=1197354394)
+2026-03-31 03:46:31,091 [INFO]   ✓ Daily Themed Crossword Puzzles | 价格: Free | 类别: Games
+2026-03-31 03:46:32,730 [INFO] [7254/8374] 处理: Cube Solver 3D (id=1673039373)
+2026-03-31 03:46:32,875 [INFO]   ✓ Cube Solver 3D | 价格: Free | 类别: Games
+2026-03-31 03:46:34,429 [INFO] [7255/8374] 处理: Truck Star (id=6476976929)
+2026-03-31 03:46:34,636 [INFO]   ✓ Truck Star | 价格: Free | 类别: Games
+2026-03-31 03:46:37,797 [INFO] [7256/8374] 处理: Wiggle Escape: Snake Puzzle (id=6751716734)
+2026-03-31 03:46:37,935 [INFO]   ✓ Wiggle Escape: Snake Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:46:40,717 [INFO] [7257/8374] 处理: That’s My Seat – Logic Puzzle (id=6532601126)
+2026-03-31 03:46:40,801 [INFO]   ✓ That’s My Seat – Logic Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:46:44,225 [INFO] [7258/8374] 处理: Bird Sort 2 Color Puzzle Game (id=6689494714)
+2026-03-31 03:46:44,436 [INFO]   ✓ Bird Sort 2 Color Puzzle Game | 价格: Free | 类别: Games
+2026-03-31 03:46:47,502 [INFO] [7259/8374] 处理: Offline Games no wifi internet (id=6470471626)
+2026-03-31 03:46:47,678 [INFO]   ✓ Offline Games no wifi internet | 价格: Free | 类别: Games
+2026-03-31 03:46:49,868 [INFO] [7260/8374] 处理: Foodstars: Merge & Cook (id=6753862216)
+2026-03-31 03:46:50,010 [INFO]   ✓ Foodstars: Merge & Cook | 价格: Free | 类别: Games
+2026-03-31 03:46:53,125 [INFO] [7261/8374] 处理: Water Sort Puzzle - Sort Color (id=1597897013)
+2026-03-31 03:46:53,275 [INFO]   ✓ Water Sort Puzzle - Sort Color | 价格: Free | 类别: Games
+2026-03-31 03:46:54,884 [INFO] [7262/8374] 处理: Mini Games: Calm & Chill (id=6737214802)
+2026-03-31 03:46:55,034 [INFO]   ✓ Mini Games: Calm & Chill | 价格: Free | 类别: Games
+2026-03-31 03:46:58,259 [INFO] [7263/8374] 处理: Hotpot Fever: Food Games (id=6757521372)
+2026-03-31 03:46:58,338 [INFO]   ✓ Hotpot Fever: Food Games | 价格: Free | 类别: Games
+2026-03-31 03:47:01,282 [INFO] [7264/8374] 处理: Block Puzzle - Brain Test Game (id=1515874052)
+2026-03-31 03:47:01,480 [INFO]   ✓ Block Puzzle - Brain Test Game | 价格: Free | 类别: Games
+2026-03-31 03:47:04,231 [INFO] [7265/8374] 处理: Project Makeover (id=1483058899)
+2026-03-31 03:47:04,302 [INFO]   ✓ Project Makeover | 价格: Free | 类别: Games
+2026-03-31 03:47:06,931 [INFO] [7266/8374] 处理: Triple Match City (id=6450110217)
+2026-03-31 03:47:07,063 [INFO]   ✓ Triple Match City | 价格: Free | 类别: Games
+2026-03-31 03:47:09,640 [INFO] [7267/8374] 处理: Merge Mansion: Puzzles & Story (id=1484442152)
+2026-03-31 03:47:09,710 [INFO]   ✓ Merge Mansion: Puzzles & Story | 价格: Free | 类别: Games
+2026-03-31 03:47:12,454 [INFO] [7268/8374] 处理: Tile Family®:Match Puzzle Game (id=6444056676)
+2026-03-31 03:47:12,603 [INFO]   ✓ Tile Family®:Match Puzzle Game | 价格: Free | 类别: Games
+2026-03-31 03:47:14,608 [INFO] [7269/8374] 处理: Piggy Kingdom - Match 3 Games (id=1635337354)
+2026-03-31 03:47:14,727 [INFO]   ✓ Piggy Kingdom - Match 3 Games | 价格: Free | 类别: Games
+2026-03-31 03:47:17,834 [INFO] [7270/8374] 处理: Puzzle & Dragons (English) (id=563474464)
+2026-03-31 03:47:17,903 [INFO]   ✓ Puzzle & Dragons (English) | 价格: Free | 类别: Games
+2026-03-31 03:47:19,707 [INFO] [7271/8374] 处理: Knit Out (id=6740406762)
+2026-03-31 03:47:19,801 [INFO]   ✓ Knit Out | 价格: Free | 类别: Games
+2026-03-31 03:47:21,918 [INFO] [7272/8374] 处理: Crowd Express: Boarding Puzzle (id=6477849277)
+2026-03-31 03:47:22,118 [INFO]   ✓ Crowd Express: Boarding Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:47:25,080 [INFO] [7273/8374] 处理: Beads Out (id=6745879781)
+2026-03-31 03:47:25,216 [INFO]   ✓ Beads Out | 价格: Free | 类别: Games
+2026-03-31 03:47:27,969 [INFO] [7274/8374] 处理: Dream Mania - Match 3 Games (id=1597696999)
+2026-03-31 03:47:28,086 [INFO]   ✓ Dream Mania - Match 3 Games | 价格: Free | 类别: Games
+2026-03-31 03:47:30,046 [INFO] [7275/8374] 处理: Zen Match - Relaxing Puzzle (id=1560124228)
+2026-03-31 03:47:30,197 [INFO]   ✓ Zen Match - Relaxing Puzzle | 价格: Free | 类别: Games
+2026-03-31 03:47:32,138 [INFO] [7276/8374] 处理: Game of Thrones: Legends - PVP (id=1575445835)
+2026-03-31 03:47:32,315 [INFO]   ✓ Game of Thrones: Legends - PVP | 价格: Free | 类别: Games
+2026-03-31 03:47:35,245 [INFO] [7277/8374] 处理: Hole People (id=6477853705)
+2026-03-31 03:47:35,378 [INFO]   ✓ Hole People | 价格: Free | 类别: Games
+2026-03-31 03:47:36,972 [INFO] [7278/8374] 处理: Cryptogram: Number & Word Game (id=6499306754)
+2026-03-31 03:47:37,057 [INFO]   ✓ Cryptogram: Number & Word Game | 价格: Free | 类别: Games
+2026-03-31 03:47:40,104 [INFO] [7279/8374] 处理: Wool Escape 3D (id=6746658019)
+2026-03-31 03:47:40,234 [INFO]   ✓ Wool Escape 3D | 价格: Free | 类别: Games
+2026-03-31 03:47:42,264 [INFO] [7280/8374] 处理: Modern Community (id=6447748647)
+2026-03-31 03:47:42,422 [INFO]   ✓ Modern Community | 价格: Free | 类别: Games
+2026-03-31 03:47:44,488 [INFO] [7281/8374] 处理: Color Block: Jam Puzzle 3D (id=6742537005)
+2026-03-31 03:47:44,564 [INFO]   ✓ Color Block: Jam Puzzle 3D | 价格: Free | 类别: Games
+2026-03-31 03:47:47,445 [INFO] [7282/8374] 处理: Jigsaw Block Sort (id=6754925146)
+2026-03-31 03:47:47,574 [INFO]   ✓ Jigsaw Block Sort | 价格: Free | 类别: Games
+2026-03-31 03:47:49,338 [INFO] [7283/8374] 处理: Match Masters (id=1138264921)
+2026-03-31 03:47:49,472 [INFO]   ✓ Match Masters | 价格: Free | 类别: Games
+2026-03-31 03:47:52,252 [INFO] [7284/8374] 处理: Merge Gardens (id=1464675244)
+2026-03-31 03:47:52,388 [INFO]   ✓ Merge Gardens | 价格: Free | 类别: Games
+2026-03-31 03:47:55,533 [INFO] [7285/8374] 处理: Hole Stars: Puzzle Game (id=6747028173)
+2026-03-31 03:47:55,610 [INFO]   ✓ Hole Stars: Puzzle Game | 价格: Free | 类别: Games
+2026-03-31 03:47:57,230 [INFO] [7286/8374] 处理: Clockmaker: Match 3 Puzzles (id=929195587)
+2026-03-31 03:47:57,369 [INFO]   ✓ Clockmaker: Match 3 Puzzles | 价格: Free | 类别: Games
+2026-03-31 03:48:00,778 [INFO] [7287/8374] 处理: Dirt Trackin 3 (id=1609683141)
+2026-03-31 03:48:00,912 [INFO]   ✓ Dirt Trackin 3 | 价格: $5.99 | 类别: Games
+2026-03-31 03:48:03,382 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 03:48:03,384 [INFO]   ✓ 内购: 2 项
+2026-03-31 03:48:06,184 [INFO] [7288/8374] 处理: Aerofly FS Global (id=6473001577)
+2026-03-31 03:48:06,313 [INFO]   ✓ Aerofly FS Global | 价格: $3.99 | 类别: Games
+2026-03-31 03:48:09,161 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:48:09,162 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:48:11,993 [INFO] [7289/8374] 处理: Monoposto (id=1262474519)
+2026-03-31 03:48:12,086 [INFO]   ✓ Monoposto | 价格: $3.49 | 类别: Games
+2026-03-31 03:48:17,594 [INFO] [7290/8374] 处理: Pulling USA 2 (id=1325193423)
+2026-03-31 03:48:17,668 [INFO]   ✓ Pulling USA 2 | 价格: $2.99 | 类别: Games
+2026-03-31 03:48:23,384 [INFO] [7291/8374] 处理: Overdrive 2.6 (id=1512032170)
+2026-03-31 03:48:23,456 [INFO]   ✓ Overdrive 2.6 | 价格: $2.99 | 类别: Games
+2026-03-31 03:48:29,682 [INFO] [7292/8374] 处理: GRID™ Legends: Deluxe Edition (id=6444311205)
+2026-03-31 03:48:29,764 [INFO]   ✓ GRID™ Legends: Deluxe Edition | 价格: $14.99 | 类别: Games
+2026-03-31 03:48:35,851 [INFO] [7293/8374] 处理: .000 Practice Tree (id=1636328426)
+2026-03-31 03:48:35,950 [INFO]   ✓ .000 Practice Tree | 价格: $0.99 | 类别: Games
+2026-03-31 03:48:41,531 [INFO] [7294/8374] 处理: Rush Rally 3 (id=1437096541)
+2026-03-31 03:48:41,644 [INFO]   ✓ Rush Rally 3 | 价格: $4.99 | 类别: Games
+2026-03-31 03:48:44,812 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 03:48:44,814 [INFO]   ✓ 内购: 4 项
+2026-03-31 03:48:46,607 [INFO] [7295/8374] 处理: Descenders (id=1604675493)
+2026-03-31 03:48:46,787 [INFO]   ✓ Descenders | 价格: $1.99 | 类别: Games
+2026-03-31 03:48:52,517 [INFO] [7296/8374] 处理: Sideways Drift (id=6756584101)
+2026-03-31 03:48:52,646 [INFO]   ✓ Sideways Drift | 价格: $2.99 | 类别: Games
+2026-03-31 03:48:56,800 [INFO] [7297/8374] 处理: Pulling USA (id=937255144)
+2026-03-31 03:48:56,930 [INFO]   ✓ Pulling USA | 价格: $1.99 | 类别: Games
+2026-03-31 03:49:03,313 [INFO] [7298/8374] 处理: GRID™ Autosport (id=1179421849)
+2026-03-31 03:49:03,489 [INFO]   ✓ GRID™ Autosport | 价格: $9.99 | 类别: Games
+2026-03-31 03:49:07,868 [INFO] [7299/8374] 处理: Ala Mobile (id=1403183441)
+2026-03-31 03:49:07,949 [INFO]   ✓ Ala Mobile | 价格: $1.99 | 类别: Games
+2026-03-31 03:49:12,763 [INFO] [7300/8374] 处理: Throttle Tactics: Racing RPG (id=6760553331)
+2026-03-31 03:49:12,896 [INFO]   ✓ Throttle Tactics: Racing RPG | 价格: $0.99 | 类别: Games
+2026-03-31 03:49:15,017 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 03:49:15,017 [INFO]      [app] Throttle Tactics: Racing RPG: $1.99 → $0.99
+2026-03-31 03:49:17,075 [INFO] [7301/8374] 处理: MudRunner Mobile (id=1465720386)
+2026-03-31 03:49:17,214 [INFO]   ✓ MudRunner Mobile | 价格: $5.99 | 类别: Games
+2026-03-31 03:49:20,851 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:49:20,853 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:49:22,735 [INFO] [7302/8374] 处理: RCS - Real Combat Simulator (id=6738282698)
+2026-03-31 03:49:22,829 [INFO]   ✓ RCS - Real Combat Simulator | 价格: $0.99 | 类别: Games
+2026-03-31 03:49:25,900 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 03:49:25,902 [INFO]   ✓ 内购: 3 项
+2026-03-31 03:49:28,335 [INFO] [7303/8374] 处理: Motorsport Manager 4 (id=6449251957)
+2026-03-31 03:49:28,437 [INFO]   ✓ Motorsport Manager 4 | 价格: $4.99 | 类别: Games
+2026-03-31 03:49:30,838 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:49:30,839 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:49:30,839 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 03:49:30,840 [INFO]      [iap] Bundle: $9.99 → $4.99
+2026-03-31 03:49:33,362 [INFO] [7304/8374] 处理: Driving Zone 2: Car Racing (id=1108479411)
+2026-03-31 03:49:33,498 [INFO]   ✓ Driving Zone 2: Car Racing | 价格: $0.49 | 类别: Games
+2026-03-31 03:49:35,713 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:49:35,714 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:49:38,344 [INFO] [7305/8374] 处理: Forklift Simulator 2023 (id=6474621557)
+2026-03-31 03:49:38,418 [INFO]   ✓ Forklift Simulator 2023 | 价格: $0.99 | 类别: Games
+2026-03-31 03:49:44,526 [INFO] [7306/8374] 处理: Riptide GP: Renegade (id=1090577736)
+2026-03-31 03:49:44,610 [INFO]   ✓ Riptide GP: Renegade | 价格: $2.99 | 类别: Games
+2026-03-31 03:49:49,745 [INFO] [7307/8374] 处理: Driving Zone: Germany Pro (id=1264608487)
+2026-03-31 03:49:49,876 [INFO]   ✓ Driving Zone: Germany Pro | 价格: $0.49 | 类别: Games
+2026-03-31 03:49:52,458 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 03:49:52,459 [INFO]   ✓ 内购: 7 项
+2026-03-31 03:49:54,071 [INFO] [7308/8374] 处理: Flight Sims Air Cavalry Pilots (id=791146945)
+2026-03-31 03:49:54,205 [INFO]   ✓ Flight Sims Air Cavalry Pilots | 价格: $5.99 | 类别: Games
+2026-03-31 03:49:58,957 [INFO] [7309/8374] 处理: Car Crash Simulator Extreme (id=6463210260)
+2026-03-31 03:49:59,100 [INFO]   ✓ Car Crash Simulator Extreme | 价格: $0.99 | 类别: Games
+2026-03-31 03:50:05,569 [INFO] [7310/8374] 处理: Motorsport Manager Mobile 3 (id=1346580540)
+2026-03-31 03:50:05,646 [INFO]   ✓ Motorsport Manager Mobile 3 | 价格: $1.99 | 类别: Games
+2026-03-31 03:50:09,739 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 03:50:09,741 [INFO]   ✓ 内购: 8 项
+2026-03-31 03:50:09,741 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 03:50:09,741 [INFO]      [iap] Bundle: $9.99 → $4.99
+2026-03-31 03:50:12,987 [INFO] [7311/8374] 处理: Dirt Trackin (id=940202798)
+2026-03-31 03:50:13,151 [INFO]   ✓ Dirt Trackin | 价格: $2.99 | 类别: Games
+2026-03-31 03:50:15,917 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:50:15,918 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:50:18,181 [INFO] [7312/8374] 处理: Mini Motor Racing (id=426860241)
+2026-03-31 03:50:18,343 [INFO]   ✓ Mini Motor Racing | 价格: $2.99 | 类别: Games
+2026-03-31 03:50:22,135 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:50:22,136 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:50:25,549 [INFO] [7313/8374] 处理: PAKO 2 (id=1317692806)
+2026-03-31 03:50:25,712 [INFO]   ✓ PAKO 2 | 价格: $1.99 | 类别: Games
+2026-03-31 03:50:32,127 [INFO] [7314/8374] 处理: Art of Rally (id=6459581344)
+2026-03-31 03:50:32,284 [INFO]   ✓ Art of Rally | 价格: $1.99 | 类别: Games
+2026-03-31 03:50:34,686 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 03:50:34,688 [INFO]   ✓ 内购: 1 项
+2026-03-31 03:50:37,819 [INFO] [7315/8374] 处理: Chameleon Run (id=1084860489)
+2026-03-31 03:50:37,960 [INFO]   ✓ Chameleon Run | 价格: $0.99 | 类别: Games
+2026-03-31 03:50:43,868 [INFO] [7316/8374] 处理: Offroad Legends (id=516875543)
+2026-03-31 03:50:43,936 [INFO]   ✓ Offroad Legends | 价格: $0.99 | 类别: Games
+2026-03-31 03:50:46,047 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 03:50:46,048 [INFO]   ✓ 内购: 4 项
+2026-03-31 03:50:48,423 [INFO] [7317/8374] 处理: Speed Demons (id=6478928745)
+2026-03-31 03:50:48,558 [INFO]   ✓ Speed Demons | 价格: $4.99 | 类别: Games
+2026-03-31 03:50:53,158 [INFO] [7318/8374] 处理: Rush Rally Origins (id=1557502285)
+2026-03-31 03:50:53,312 [INFO]   ✓ Rush Rally Origins | 价格: $4.99 | 类别: Games
+2026-03-31 03:50:56,623 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 03:50:56,624 [INFO]   ✓ 内购: 2 项
+2026-03-31 03:50:59,932 [INFO] [7319/8374] 处理: Carrier Landing HD (id=1176797391)
+2026-03-31 03:51:00,128 [INFO]   ✓ Carrier Landing HD | 价格: $1.99 | 类别: Games
+2026-03-31 03:51:04,294 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 03:51:04,295 [INFO]   ✓ 内购: 7 项
+2026-03-31 03:51:06,073 [INFO] [7320/8374] 处理: Reckless Getaway (id=447149103)
+2026-03-31 03:51:06,169 [INFO]   ✓ Reckless Getaway | 价格: $0.99 | 类别: Games
+2026-03-31 03:51:08,793 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 03:51:08,795 [INFO]   ✓ 内购: 2 项
+2026-03-31 03:51:10,887 [INFO] [7321/8374] 处理: Ricky Carmichael's Motocross Matchup Pro (id=463869460)
+2026-03-31 03:51:10,957 [INFO]   ✓ Ricky Carmichael's Motocross Matchup Pro | 价格: $0.99 | 类别: Games
+2026-03-31 03:51:14,566 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 03:51:14,567 [INFO]   ✓ 内购: 9 项
+2026-03-31 03:51:16,835 [INFO] [7322/8374] 处理: Pumped BMX 3 (id=1073129594)
+2026-03-31 03:51:17,456 [INFO]   ✓ Pumped BMX 3 | 价格: $2.99 | 类别: Games
+2026-03-31 03:51:22,850 [INFO] [7323/8374] 处理: Real Drift Car Racing (id=999623871)
+2026-03-31 03:51:22,934 [INFO]   ✓ Real Drift Car Racing | 价格: $0.99 | 类别: Games
+2026-03-31 03:51:25,274 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 03:51:25,275 [INFO]   ✓ 内购: 6 项
+2026-03-31 03:51:28,270 [INFO] [7324/8374] 处理: Sivar Race Ultimate (id=6755729021)
+2026-03-31 03:51:28,568 [INFO]   ✓ Sivar Race Ultimate | 价格: $2.99 | 类别: Games
+2026-03-31 03:51:35,514 [INFO] [7325/8374] 处理: Moto x3m (id=1001193844)
+2026-03-31 03:51:35,591 [INFO]   ✓ Moto x3m | 价格: $0.99 | 类别: Games
+2026-03-31 03:51:40,760 [INFO] [7326/8374] 处理: Drift - Skid & Chase (id=6758918345)
+2026-03-31 03:51:40,888 [INFO]   ✓ Drift - Skid & Chase | 价格: $1.49 | 类别: Games
+2026-03-31 03:51:45,344 [INFO] [7327/8374] 处理: SSR 2.0 - Super Sport Racers (id=1553665788)
+2026-03-31 03:51:45,488 [INFO]   ✓ SSR 2.0 - Super Sport Racers | 价格: $0.99 | 类别: Games
+2026-03-31 03:51:50,797 [INFO] [7328/8374] 处理: PAKO - Car Chase Simulator (id=903183877)
+2026-03-31 03:51:50,880 [INFO]   ✓ PAKO - Car Chase Simulator | 价格: $1.99 | 类别: Games
+2026-03-31 03:51:56,610 [INFO] [7329/8374] 处理: Unpossible (id=583577503)
+2026-03-31 03:51:56,791 [INFO]   ✓ Unpossible | 价格: $1.99 | 类别: Games
+2026-03-31 03:52:01,307 [INFO] [7330/8374] 处理: Absolute Drift (id=1356770278)
+2026-03-31 03:52:01,381 [INFO]   ✓ Absolute Drift | 价格: $2.99 | 类别: Games
+2026-03-31 03:52:05,824 [INFO] [7331/8374] 处理: Cro-Mag Rally (id=281747159)
+2026-03-31 03:52:05,935 [INFO]   ✓ Cro-Mag Rally | 价格: $1.99 | 类别: Games
+2026-03-31 03:52:13,528 [INFO] [7332/8374] 处理: Smash Cops (id=480956504)
+2026-03-31 03:52:13,671 [INFO]   ✓ Smash Cops | 价格: $4.99 | 类别: Games
+2026-03-31 03:52:17,297 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:52:17,299 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:52:20,328 [INFO] [7333/8374] 处理: ULTRA4 Offroad Racing (id=694695717)
+2026-03-31 03:52:20,466 [INFO]   ✓ ULTRA4 Offroad Racing | 价格: $1.99 | 类别: Games
+2026-03-31 03:52:26,083 [INFO] [7334/8374] 处理: Outlaws - Dirt Track Racing 3 (id=1465448200)
+2026-03-31 03:52:26,162 [INFO]   ✓ Outlaws - Dirt Track Racing 3 | 价格: $3.99 | 类别: Games
+2026-03-31 03:52:31,832 [INFO] [7335/8374] 处理: Hajwala cars (id=6450907867)
+2026-03-31 03:52:31,973 [INFO]   ✓ Hajwala cars | 价格: $0.29 | 类别: Games
+2026-03-31 03:52:37,964 [INFO] [7336/8374] 处理: Disc Drivin' (id=402379680)
+2026-03-31 03:52:38,177 [INFO]   ✓ Disc Drivin' | 价格: $2.99 | 类别: Games
+2026-03-31 03:52:41,048 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:52:41,049 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:52:44,072 [INFO] [7337/8374] 处理: Desert Bus (id=470288016)
+2026-03-31 03:52:44,151 [INFO]   ✓ Desert Bus | 价格: $0.99 | 类别: Games
+2026-03-31 03:52:49,140 [INFO] [7338/8374] 处理: Extreme Tux Racer (id=1522259097)
+2026-03-31 03:52:49,236 [INFO]   ✓ Extreme Tux Racer | 价格: $1.99 | 类别: Games
+2026-03-31 03:52:53,295 [INFO] [7339/8374] 处理: Neodori Forever Premium (id=6450178898)
+2026-03-31 03:52:53,453 [INFO]   ✓ Neodori Forever Premium | 价格: $2.99 | 类别: Games
+2026-03-31 03:53:00,478 [INFO] [7340/8374] 处理: the longest drift (id=1528304787)
+2026-03-31 03:53:00,648 [INFO]   ✓ the longest drift | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:07,520 [INFO] [7341/8374] 处理: Grid Ranger (id=6502348965)
+2026-03-31 03:53:07,666 [INFO]   ✓ Grid Ranger | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:12,264 [INFO] [7342/8374] 处理: Fire Truck Race & Rescue 2! (id=6474099569)
+2026-03-31 03:53:12,397 [INFO]   ✓ Fire Truck Race & Rescue 2! | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:18,495 [INFO] [7343/8374] 处理: 2XL MX Offroad (id=487272100)
+2026-03-31 03:53:18,562 [INFO]   ✓ 2XL MX Offroad | 价格: $4.99 | 类别: Games
+2026-03-31 03:53:21,044 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 03:53:21,045 [INFO]   ✓ 内购: 1 项
+2026-03-31 03:53:23,238 [INFO] [7344/8374] 处理: Etiket Tofask Online (id=6477356535)
+2026-03-31 03:53:23,370 [INFO]   ✓ Etiket Tofask Online | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:26,077 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 03:53:26,078 [INFO]   ✓ 内购: 1 项
+2026-03-31 03:53:28,438 [INFO] [7345/8374] 处理: F-Sim|Space Shuttle 2 (id=1546191619)
+2026-03-31 03:53:28,614 [INFO]   ✓ F-Sim|Space Shuttle 2 | 价格: $4.99 | 类别: Games
+2026-03-31 03:53:34,431 [INFO] [7346/8374] 处理: Offroad Legends 2 (id=888988372)
+2026-03-31 03:53:34,576 [INFO]   ✓ Offroad Legends 2 | 价格: $0.99 | 类别: Games
+2026-03-31 03:53:36,813 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:53:36,815 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:53:39,120 [INFO] [7347/8374] 处理: 2XL Supercross HD (id=388462078)
+2026-03-31 03:53:39,278 [INFO]   ✓ 2XL Supercross HD | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:43,879 [INFO] [7348/8374] 处理: Joe Danger (id=573859785)
+2026-03-31 03:53:44,047 [INFO]   ✓ Joe Danger | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:46,236 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:53:46,237 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:53:48,397 [INFO] [7349/8374] 处理: Athletics 2: Summer Sports (id=1007479011)
+2026-03-31 03:53:48,481 [INFO]   ✓ Athletics 2: Summer Sports | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:53,959 [INFO] [7350/8374] 处理: Jet Car Stunts (id=337866370)
+2026-03-31 03:53:54,104 [INFO]   ✓ Jet Car Stunts | 价格: $1.99 | 类别: Games
+2026-03-31 03:53:57,260 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 03:53:57,262 [INFO]   ✓ 内购: 1 项
+2026-03-31 03:53:58,910 [INFO] [7351/8374] 处理: Draw Rider Plus (id=629059031)
+2026-03-31 03:53:59,049 [INFO]   ✓ Draw Rider Plus | 价格: $0.99 | 类别: Games
+2026-03-31 03:54:02,754 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 03:54:02,756 [INFO]   ✓ 内购: 10 项
+2026-03-31 03:54:05,143 [INFO] [7352/8374] 处理: Hyperburner (id=982763237)
+2026-03-31 03:54:05,224 [INFO]   ✓ Hyperburner | 价格: $2.99 | 类别: Games
+2026-03-31 03:54:10,805 [INFO] [7353/8374] 处理: Hmmsim 2 - Train Simulator (id=1000884506)
+2026-03-31 03:54:10,884 [INFO]   ✓ Hmmsim 2 - Train Simulator | 价格: $1.99 | 类别: Games
+2026-03-31 03:54:17,625 [INFO] [7354/8374] 处理: Trail Boss BMX (id=1365575992)
+2026-03-31 03:54:17,702 [INFO]   ✓ Trail Boss BMX | 价格: $5.99 | 类别: Games
+2026-03-31 03:54:24,875 [INFO] [7355/8374] 处理: Blocky Roads (id=720725216)
+2026-03-31 03:54:24,950 [INFO]   ✓ Blocky Roads | 价格: $0.99 | 类别: Games
+2026-03-31 03:54:28,093 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 03:54:28,095 [INFO]   ✓ 内购: 2 项
+2026-03-31 03:54:29,934 [INFO] [7356/8374] 处理: Dirt Racing Mobile 3D (id=1024374740)
+2026-03-31 03:54:30,067 [INFO]   ✓ Dirt Racing Mobile 3D | 价格: $3.99 | 类别: Games
+2026-03-31 03:54:36,173 [INFO] [7357/8374] 处理: 2XL TROPHYLITE Rally HD (id=374938403)
+2026-03-31 03:54:36,321 [INFO]   ✓ 2XL TROPHYLITE Rally HD | 价格: $1.99 | 类别: Games
+2026-03-31 03:54:41,984 [INFO] [7358/8374] 处理: A Car That Turns (id=1604282227)
+2026-03-31 03:54:42,078 [INFO]   ✓ A Car That Turns | 价格: $1.99 | 类别: Games
+2026-03-31 03:54:45,729 [INFO] [7359/8374] 处理: Race The Sun (id=700227648)
+2026-03-31 03:54:45,874 [INFO]   ✓ Race The Sun | 价格: $4.99 | 类别: Games
+2026-03-31 03:54:52,532 [INFO] [7360/8374] 处理: Reckless Racing HD (id=386239683)
+2026-03-31 03:54:52,609 [INFO]   ✓ Reckless Racing HD | 价格: $0.99 | 类别: Games
+2026-03-31 03:54:58,096 [INFO] [7361/8374] 处理: Race Horses Champions for iPhone (id=474236235)
+2026-03-31 03:54:58,273 [INFO]   ✓ Race Horses Champions for iPhone | 价格: $0.99 | 类别: Games
+2026-03-31 03:55:02,156 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 03:55:02,157 [INFO]   ✓ 内购: 3 项
+2026-03-31 03:55:04,372 [INFO] [7362/8374] 处理: Comet Racer (id=350395769)
+2026-03-31 03:55:04,501 [INFO]   ✓ Comet Racer | 价格: $1.99 | 类别: Games
+2026-03-31 03:55:09,090 [INFO] [7363/8374] 处理: OutRun Racer (id=1591771531)
+2026-03-31 03:55:09,174 [INFO]   ✓ OutRun Racer | 价格: $0.99 | 类别: Games
+2026-03-31 03:55:14,870 [INFO] [7364/8374] 处理: Alpine Crawler Ultimate Champ (id=768684848)
+2026-03-31 03:55:14,956 [INFO]   ✓ Alpine Crawler Ultimate Champ | 价格: $0.29 | 类别: Games
+2026-03-31 03:55:19,449 [INFO] [7365/8374] 处理: German Road Racer Pro (id=1267834534)
+2026-03-31 03:55:19,605 [INFO]   ✓ German Road Racer Pro | 价格: $0.49 | 类别: Games
+2026-03-31 03:55:23,639 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:55:23,640 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:55:26,686 [INFO] [7366/8374] 处理: Reckless Racing 3 (id=882453590)
+2026-03-31 03:55:26,765 [INFO]   ✓ Reckless Racing 3 | 价格: $2.99 | 类别: Games
+2026-03-31 03:55:29,586 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 03:55:29,587 [INFO]   ✓ 内购: 5 项
+2026-03-31 03:55:32,914 [INFO] [7367/8374] 处理: StreetPro Racing (id=6670199903)
+2026-03-31 03:55:32,997 [INFO]   ✓ StreetPro Racing | 价格: $1.99 | 类别: Games
+2026-03-31 03:55:37,019 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 03:55:37,020 [INFO]   ✓ 内购: 4 项
+2026-03-31 03:55:39,359 [INFO] [7368/8374] 处理: Dog Sled Saga (id=1146552070)
+2026-03-31 03:55:39,536 [INFO]   ✓ Dog Sled Saga | 价格: $3.99 | 类别: Games
+2026-03-31 03:55:43,361 [INFO] [7369/8374] 处理: Athletics: Summer Sports Full (id=581906929)
+2026-03-31 03:55:43,495 [INFO]   ✓ Athletics: Summer Sports Full | 价格: $0.99 | 类别: Games
+2026-03-31 03:55:49,651 [INFO] [7370/8374] 处理: AR Cybertruck (id=1489641037)
+2026-03-31 03:55:49,727 [INFO]   ✓ AR Cybertruck | 价格: $1.99 | 类别: Games
+2026-03-31 03:55:54,714 [INFO] [7371/8374] 处理: Joe Danger Infinity (id=704484890)
+2026-03-31 03:55:54,865 [INFO]   ✓ Joe Danger Infinity | 价格: $1.99 | 类别: Games
+2026-03-31 03:55:57,013 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 03:55:57,015 [INFO]   ✓ 内购: 7 项
+2026-03-31 03:55:59,916 [INFO] [7372/8374] 处理: Motorsport Manager Mobile 2 (id=1194084699)
+2026-03-31 03:56:00,076 [INFO]   ✓ Motorsport Manager Mobile 2 | 价格: $1.99 | 类别: Games
+2026-03-31 03:56:03,050 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 03:56:03,052 [INFO]   ✓ 内购: 7 项
+2026-03-31 03:56:05,622 [INFO] [7373/8374] 处理: SovietCar: Premium (id=1549004988)
+2026-03-31 03:56:05,778 [INFO]   ✓ SovietCar: Premium | 价格: $0.99 | 类别: Games
+2026-03-31 03:56:10,556 [INFO] [7374/8374] 处理: AudioRace (id=6740482692)
+2026-03-31 03:56:10,754 [INFO]   ✓ AudioRace | 价格: $6.99 | 类别: Games
+2026-03-31 03:56:16,067 [INFO] [7375/8374] 处理: Highway Racer Pro (id=6741471925)
+2026-03-31 03:56:16,193 [INFO]   ✓ Highway Racer Pro | 价格: Free | 类别: Games
+2026-03-31 03:56:19,356 [INFO] [7376/8374] 处理: Sled Surfers (id=6744975195)
+2026-03-31 03:56:19,429 [INFO]   ✓ Sled Surfers | 价格: Free | 类别: Games
+2026-03-31 03:56:21,012 [INFO] [7377/8374] 处理: CSR 2 - Realistic Drag Racing (id=887947640)
+2026-03-31 03:56:21,197 [INFO]   ✓ CSR 2 - Realistic Drag Racing | 价格: Free | 类别: Games
+2026-03-31 03:56:24,041 [INFO] [7378/8374] 处理: Pocket Champs PVP Racing Games (id=1542776143)
+2026-03-31 03:56:24,121 [INFO]   ✓ Pocket Champs PVP Racing Games | 价格: Free | 类别: Games
+2026-03-31 03:56:27,543 [INFO] [7379/8374] 处理: No Limit Drag Racing 2 (id=1563031984)
+2026-03-31 03:56:27,694 [INFO]   ✓ No Limit Drag Racing 2 | 价格: Free | 类别: Games
+2026-03-31 03:56:30,820 [INFO] [7380/8374] 处理: Car Parking Multiplayer (id=1374868881)
+2026-03-31 03:56:30,903 [INFO]   ✓ Car Parking Multiplayer | 价格: Free | 类别: Games
+2026-03-31 03:56:33,215 [INFO] [7381/8374] 处理: Traffic Rider (id=951744068)
+2026-03-31 03:56:33,307 [INFO]   ✓ Traffic Rider | 价格: Free | 类别: Games
+2026-03-31 03:56:36,581 [INFO] [7382/8374] 处理: Need for Speed No Limits Game (id=883393043)
+2026-03-31 03:56:36,792 [INFO]   ✓ Need for Speed No Limits Game | 价格: Free | 类别: Games
+2026-03-31 03:56:39,185 [INFO] [7383/8374] 处理: Speed Stars (id=1573039936)
+2026-03-31 03:56:39,340 [INFO]   ✓ Speed Stars | 价格: Free | 类别: Games
+2026-03-31 03:56:41,907 [INFO] [7384/8374] 处理: Car Parking Multiplayer 2 (id=6514315118)
+2026-03-31 03:56:41,979 [INFO]   ✓ Car Parking Multiplayer 2 | 价格: Free | 类别: Games
+2026-03-31 03:56:44,402 [INFO] [7385/8374] 处理: Drive Mad (id=6738351841)
+2026-03-31 03:56:44,467 [INFO]   ✓ Drive Mad | 价格: Free | 类别: Games
+2026-03-31 03:56:47,157 [INFO] [7386/8374] 处理: Extreme Car Driving Simulator (id=959498315)
+2026-03-31 03:56:47,243 [INFO]   ✓ Extreme Car Driving Simulator | 价格: Free | 类别: Games
+2026-03-31 03:56:49,924 [INFO] [7387/8374] 处理: Pick Me Up 3D: Taxi Game (id=1492626683)
+2026-03-31 03:56:50,127 [INFO]   ✓ Pick Me Up 3D: Taxi Game | 价格: Free | 类别: Games
+2026-03-31 03:56:53,609 [INFO] [7388/8374] 处理: Car Driving School Simulator (id=1186801988)
+2026-03-31 03:56:53,716 [INFO]   ✓ Car Driving School Simulator | 价格: Free | 类别: Games
+2026-03-31 03:56:56,455 [INFO] [7389/8374] 处理: Asphalt Legends - Racing Game (id=805603214)
+2026-03-31 03:56:56,563 [INFO]   ✓ Asphalt Legends - Racing Game | 价格: Free | 类别: Games
+2026-03-31 03:56:59,952 [INFO] [7390/8374] 处理: CarX Street (id=1458863319)
+2026-03-31 03:57:00,236 [INFO]   ✓ CarX Street | 价格: Free | 类别: Games
+2026-03-31 03:57:02,451 [INFO] [7391/8374] 处理: Hell Escape : Firebound (id=6754279265)
+2026-03-31 03:57:02,612 [INFO]   ✓ Hell Escape : Firebound | 价格: Free | 类别: Games
+2026-03-31 03:57:05,662 [INFO] [7392/8374] 处理: Earn to Die Rogue (id=1564024870)
+2026-03-31 03:57:05,815 [INFO]   ✓ Earn to Die Rogue | 价格: Free | 类别: Games
+2026-03-31 03:57:09,262 [INFO] [7393/8374] 处理: Bike Race: Free Style Games (id=510461758)
+2026-03-31 03:57:09,338 [INFO]   ✓ Bike Race: Free Style Games | 价格: Free | 类别: Games
+2026-03-31 03:57:11,234 [INFO] [7394/8374] 处理: DriveCSX Car Crash Simulator (id=6736580540)
+2026-03-31 03:57:11,310 [INFO]   ✓ DriveCSX Car Crash Simulator | 价格: Free | 类别: Games
+2026-03-31 03:57:14,791 [INFO] [7395/8374] 处理: Car Driving 2026 : School Game (id=6443994440)
+2026-03-31 03:57:14,900 [INFO]   ✓ Car Driving 2026 : School Game | 价格: Free | 类别: Games
+2026-03-31 03:57:17,894 [INFO] [7396/8374] 处理: Car Driving Simulator Games (id=1247758515)
+2026-03-31 03:57:17,973 [INFO]   ✓ Car Driving Simulator Games | 价格: Free | 类别: Games
+2026-03-31 03:57:20,688 [INFO] [7397/8374] 处理: Ride Master: Car Builder Game (id=6449224139)
+2026-03-31 03:57:20,997 [INFO]   ✓ Ride Master: Car Builder Game | 价格: Free | 类别: Games
+2026-03-31 03:57:22,775 [INFO] [7398/8374] 处理: Car Parking - Driving School (id=1193550697)
+2026-03-31 03:57:22,859 [INFO]   ✓ Car Parking - Driving School | 价格: Free | 类别: Games
+2026-03-31 03:57:26,262 [INFO] [7399/8374] 处理: Beach Buggy Racing (id=882119723)
+2026-03-31 03:57:26,336 [INFO]   ✓ Beach Buggy Racing | 价格: Free | 类别: Games
+2026-03-31 03:57:28,101 [INFO] [7400/8374] 处理: Dr. Driving (id=639191551)
+2026-03-31 03:57:28,221 [INFO]   ✓ Dr. Driving | 价格: Free | 类别: Games
+2026-03-31 03:57:30,823 [INFO] [7401/8374] 处理: 3DTuning: Car Game & Simulator (id=898369939)
+2026-03-31 03:57:30,960 [INFO]   ✓ 3DTuning: Car Game & Simulator | 价格: Free | 类别: Games
+2026-03-31 03:57:34,042 [INFO] [7402/8374] 处理: Offroad Outlaws (id=1286538410)
+2026-03-31 03:57:34,115 [INFO]   ✓ Offroad Outlaws | 价格: Free | 类别: Games
+2026-03-31 03:57:36,957 [INFO] [7403/8374] 处理: Driving School Simulator 3D (id=1238658080)
+2026-03-31 03:57:37,033 [INFO]   ✓ Driving School Simulator 3D | 价格: Free | 类别: Games
+2026-03-31 03:57:39,208 [INFO] [7404/8374] 处理: Slow Mo' Run (id=6443659871)
+2026-03-31 03:57:39,353 [INFO]   ✓ Slow Mo' Run | 价格: Free | 类别: Games
+2026-03-31 03:57:42,741 [INFO] [7405/8374] 处理: Real Highway Car Driving games (id=6446430995)
+2026-03-31 03:57:42,979 [INFO]   ✓ Real Highway Car Driving games | 价格: Free | 类别: Games
+2026-03-31 03:57:45,663 [INFO] [7406/8374] 处理: Offroad Revolution (id=1597149055)
+2026-03-31 03:57:45,738 [INFO]   ✓ Offroad Revolution | 价格: Free | 类别: Games
+2026-03-31 03:57:48,760 [INFO] [7407/8374] 处理: Drive Zone: Car Simulator Game (id=6458189799)
+2026-03-31 03:57:48,912 [INFO]   ✓ Drive Zone: Car Simulator Game | 价格: Free | 类别: Games
+2026-03-31 03:57:51,129 [INFO] [7408/8374] 处理: Infinite Flight Simulator (id=471341991)
+2026-03-31 03:57:51,215 [INFO]   ✓ Infinite Flight Simulator | 价格: Free | 类别: Games
+2026-03-31 03:57:53,596 [INFO] [7409/8374] 处理: Happy Wheels (id=648668184)
+2026-03-31 03:57:53,668 [INFO]   ✓ Happy Wheels | 价格: Free | 类别: Games
+2026-03-31 03:57:55,957 [INFO] [7410/8374] 处理: Retro Racing (id=6758012340)
+2026-03-31 03:57:56,042 [INFO]   ✓ Retro Racing | 价格: Free | 类别: Games
+2026-03-31 03:57:58,670 [INFO] [7411/8374] 处理: Racing in Car 2021 (id=1570315891)
+2026-03-31 03:57:58,742 [INFO]   ✓ Racing in Car 2021 | 价格: Free | 类别: Games
+2026-03-31 03:58:00,391 [INFO] [7412/8374] 处理: Wheelie Life 3 (id=6478781395)
+2026-03-31 03:58:00,470 [INFO]   ✓ Wheelie Life 3 | 价格: Free | 类别: Games
+2026-03-31 03:58:02,893 [INFO] [7413/8374] 处理: Parking Master Multiplayer 2 (id=1604738089)
+2026-03-31 03:58:03,058 [INFO]   ✓ Parking Master Multiplayer 2 | 价格: Free | 类别: Games
+2026-03-31 03:58:04,754 [INFO] [7414/8374] 处理: Monster Demolition - Giants 3D (id=1658308218)
+2026-03-31 03:58:04,906 [INFO]   ✓ Monster Demolition - Giants 3D | 价格: Free | 类别: Games
+2026-03-31 03:58:07,027 [INFO] [7415/8374] 处理: CarX Drift Racing 3 (id=1569386864)
+2026-03-31 03:58:07,198 [INFO]   ✓ CarX Drift Racing 3 | 价格: Free | 类别: Games
+2026-03-31 03:58:10,338 [INFO] [7416/8374] 处理: F1 Clash - Official F1 Game (id=1434561536)
+2026-03-31 03:58:10,440 [INFO]   ✓ F1 Clash - Official F1 Game | 价格: Free | 类别: Games
+2026-03-31 03:58:13,603 [INFO] [7417/8374] 处理: Tall Man Run (id=1599121822)
+2026-03-31 03:58:13,686 [INFO]   ✓ Tall Man Run | 价格: Free | 类别: Games
+2026-03-31 03:58:16,001 [INFO] [7418/8374] 处理: BMX Playground (id=6756006950)
+2026-03-31 03:58:16,165 [INFO]   ✓ BMX Playground | 价格: Free | 类别: Games
+2026-03-31 03:58:18,781 [INFO] [7419/8374] 处理: Flex City RP: Online Car Game (id=1548335968)
+2026-03-31 03:58:19,070 [INFO]   ✓ Flex City RP: Online Car Game | 价格: Free | 类别: Games
+2026-03-31 03:58:21,363 [INFO] [7420/8374] 处理: Driving School Simulator : EVO (id=1075939556)
+2026-03-31 03:58:21,442 [INFO]   ✓ Driving School Simulator : EVO | 价格: Free | 类别: Games
+2026-03-31 03:58:23,582 [INFO] [7421/8374] 处理: Truck Simulator USA : Classic (id=1178960991)
+2026-03-31 03:58:23,708 [INFO]   ✓ Truck Simulator USA : Classic | 价格: Free | 类别: Games
+2026-03-31 03:58:26,308 [INFO] [7422/8374] 处理: Traffic Racer (id=547101139)
+2026-03-31 03:58:26,461 [INFO]   ✓ Traffic Racer | 价格: Free | 类别: Games
+2026-03-31 03:58:29,192 [INFO] [7423/8374] 处理: Real Car Driving - Racing City (id=6450103715)
+2026-03-31 03:58:29,346 [INFO]   ✓ Real Car Driving - Racing City | 价格: Free | 类别: Games
+2026-03-31 03:58:31,081 [INFO] [7424/8374] 处理: Revolver Rush (id=6463492243)
+2026-03-31 03:58:31,165 [INFO]   ✓ Revolver Rush | 价格: Free | 类别: Games
+2026-03-31 03:58:34,564 [INFO] [7425/8374] 处理: Paper Boy Race: Run & Rush 3D (id=1487826356)
+2026-03-31 03:58:34,657 [INFO]   ✓ Paper Boy Race: Run & Rush 3D | 价格: Free | 类别: Games
+2026-03-31 03:58:38,002 [INFO] [7426/8374] 处理: Wheelie Life (id=1645348694)
+2026-03-31 03:58:38,090 [INFO]   ✓ Wheelie Life | 价格: Free | 类别: Games
+2026-03-31 03:58:41,110 [INFO] [7427/8374] 处理: Traffic Driving Car Simulator (id=6447225389)
+2026-03-31 03:58:41,192 [INFO]   ✓ Traffic Driving Car Simulator | 价格: Free | 类别: Games
+2026-03-31 03:58:43,372 [INFO] [7428/8374] 处理: Disney Speedstorm (id=6449708682)
+2026-03-31 03:58:43,661 [INFO]   ✓ Disney Speedstorm | 价格: Free | 类别: Games
+2026-03-31 03:58:45,924 [INFO] [7429/8374] 处理: Stock Car Racing (id=575849081)
+2026-03-31 03:58:46,090 [INFO]   ✓ Stock Car Racing | 价格: Free | 类别: Games
+2026-03-31 03:58:48,842 [INFO] [7430/8374] 处理: Car Race Adventure (id=6463251779)
+2026-03-31 03:58:48,992 [INFO]   ✓ Car Race Adventure | 价格: Free | 类别: Games
+2026-03-31 03:58:50,578 [INFO] [7431/8374] 处理: Car Driving School Parking Sim (id=1480804805)
+2026-03-31 03:58:50,718 [INFO]   ✓ Car Driving School Parking Sim | 价格: Free | 类别: Games
+2026-03-31 03:58:52,465 [INFO] [7432/8374] 处理: ScaleMan: large and small (id=6443717821)
+2026-03-31 03:58:52,535 [INFO]   ✓ ScaleMan: large and small | 价格: Free | 类别: Games
+2026-03-31 03:58:55,739 [INFO] [7433/8374] 处理: Asphalt 8: Airborne (id=610391947)
+2026-03-31 03:58:55,818 [INFO]   ✓ Asphalt 8: Airborne | 价格: Free | 类别: Games
+2026-03-31 03:58:59,062 [INFO] [7434/8374] 处理: FR Legends (id=1435740083)
+2026-03-31 03:58:59,221 [INFO]   ✓ FR Legends | 价格: Free | 类别: Games
+2026-03-31 03:59:00,756 [INFO] [7435/8374] 处理: Car Driving Master:Police Race (id=6474173988)
+2026-03-31 03:59:00,892 [INFO]   ✓ Car Driving Master:Police Race | 价格: Free | 类别: Games
+2026-03-31 03:59:03,780 [INFO] [7436/8374] 处理: Police Simulator Cop Car Games (id=1588522848)
+2026-03-31 03:59:03,913 [INFO]   ✓ Police Simulator Cop Car Games | 价格: Free | 类别: Games
+2026-03-31 03:59:06,181 [INFO] [7437/8374] 处理: Race Arena - Fall Car Battle (id=1534304970)
+2026-03-31 03:59:06,308 [INFO]   ✓ Race Arena - Fall Car Battle | 价格: Free | 类别: Games
+2026-03-31 03:59:09,352 [INFO] [7438/8374] 处理: Real Car Driving: 3D Car City (id=6476911291)
+2026-03-31 03:59:09,494 [INFO]   ✓ Real Car Driving: 3D Car City | 价格: Free | 类别: Games
+2026-03-31 03:59:11,680 [INFO] [7439/8374] 处理: Bus Simulator : EVO (id=959865119)
+2026-03-31 03:59:11,839 [INFO]   ✓ Bus Simulator : EVO | 价格: Free | 类别: Games
+2026-03-31 03:59:14,768 [INFO] [7440/8374] 处理: Armed Air Forces - Jet Fighter (id=1538640580)
+2026-03-31 03:59:14,920 [INFO]   ✓ Armed Air Forces - Jet Fighter | 价格: Free | 类别: Games
+2026-03-31 03:59:17,562 [INFO] [7441/8374] 处理: Traffic Racer Russian Village (id=1638823663)
+2026-03-31 03:59:17,696 [INFO]   ✓ Traffic Racer Russian Village | 价格: Free | 类别: Games
+2026-03-31 03:59:19,361 [INFO] [7442/8374] 处理: Color Road! (id=1342468799)
+2026-03-31 03:59:19,451 [INFO]   ✓ Color Road! | 价格: Free | 类别: Games
+2026-03-31 03:59:21,030 [INFO] [7443/8374] 处理: Snake Run Race・3D Running Game (id=1658495567)
+2026-03-31 03:59:21,106 [INFO]   ✓ Snake Run Race・3D Running Game | 价格: Free | 类别: Games
+2026-03-31 03:59:24,253 [INFO] [7444/8374] 处理: Gran Velocita - Real Driving (id=6747034830)
+2026-03-31 03:59:24,390 [INFO]   ✓ Gran Velocita - Real Driving | 价格: Free | 类别: Games
+2026-03-31 03:59:27,559 [INFO] [7445/8374] 处理: FR3 - Multiplayer Games (id=1118878857)
+2026-03-31 03:59:27,752 [INFO]   ✓ FR3 - Multiplayer Games | 价格: Free | 类别: Games
+2026-03-31 03:59:30,293 [INFO] [7446/8374] 处理: Pixel Car Racer (id=1068808996)
+2026-03-31 03:59:30,393 [INFO]   ✓ Pixel Car Racer | 价格: Free | 类别: Games
+2026-03-31 03:59:32,404 [INFO] [7447/8374] 处理: Elite Auto Brasil : Moto Grau (id=6744178618)
+2026-03-31 03:59:32,548 [INFO]   ✓ Elite Auto Brasil : Moto Grau | 价格: Free | 类别: Games
+2026-03-31 03:59:34,558 [INFO] [7448/8374] 处理: Smashy Road: Wanted (id=1020119327)
+2026-03-31 03:59:34,715 [INFO]   ✓ Smashy Road: Wanted | 价格: Free | 类别: Games
+2026-03-31 03:59:37,285 [INFO] [7449/8374] 处理: Downhill Racer (id=6467385765)
+2026-03-31 03:59:37,416 [INFO]   ✓ Downhill Racer | 价格: Free | 类别: Games
+2026-03-31 03:59:39,085 [INFO] [7450/8374] 处理: Monoposto Lite (id=1108854781)
+2026-03-31 03:59:39,154 [INFO]   ✓ Monoposto Lite | 价格: Free | 类别: Games
+2026-03-31 03:59:41,611 [INFO] [7451/8374] 处理: CarX Drift Racing 2 (id=1198510863)
+2026-03-31 03:59:41,691 [INFO]   ✓ CarX Drift Racing 2 | 价格: Free | 类别: Games
+2026-03-31 03:59:44,391 [INFO] [7452/8374] 处理: Drive Ahead! - Fun Car Battles (id=964436963)
+2026-03-31 03:59:44,537 [INFO]   ✓ Drive Ahead! - Fun Car Battles | 价格: Free | 类别: Games
+2026-03-31 03:59:46,418 [INFO] [7453/8374] 处理: Driving Zone: Germany (id=1108482741)
+2026-03-31 03:59:46,504 [INFO]   ✓ Driving Zone: Germany | 价格: Free | 类别: Games
+2026-03-31 03:59:49,294 [INFO] [7454/8374] 处理: Urban Street Car Driver (id=6480371584)
+2026-03-31 03:59:49,505 [INFO]   ✓ Urban Street Car Driver | 价格: Free | 类别: Games
+2026-03-31 03:59:51,578 [INFO] [7455/8374] 处理: Reckless Getaway 2: Car Chase (id=1190553787)
+2026-03-31 03:59:51,722 [INFO]   ✓ Reckless Getaway 2: Car Chase | 价格: Free | 类别: Games
+2026-03-31 03:59:54,171 [INFO] [7456/8374] 处理: Snow Race 3D™: Fun Xmas Racing (id=6450210808)
+2026-03-31 03:59:54,389 [INFO]   ✓ Snow Race 3D™: Fun Xmas Racing | 价格: Free | 类别: Games
+2026-03-31 03:59:57,023 [INFO] [7457/8374] 处理: Dream Road: Online (id=6741928115)
+2026-03-31 03:59:57,101 [INFO]   ✓ Dream Road: Online | 价格: Free | 类别: Games
+2026-03-31 04:00:00,134 [INFO] [7458/8374] 处理: Hot Slide (id=1332599245)
+2026-03-31 04:00:00,332 [INFO]   ✓ Hot Slide | 价格: Free | 类别: Games
+2026-03-31 04:00:02,753 [INFO] [7459/8374] 处理: Xtreme Motorbikes (id=1547071668)
+2026-03-31 04:00:02,894 [WARNING]   HTTP 502 on attempt 1: https://itunes.apple.com/lookup
+2026-03-31 04:00:08,117 [INFO]   ✓ Xtreme Motorbikes | 价格: Free | 类别: Games
+2026-03-31 04:00:10,659 [INFO] [7460/8374] 处理: Beach Buggy Racing 2 (id=1399253988)
+2026-03-31 04:00:10,835 [INFO]   ✓ Beach Buggy Racing 2 | 价格: Free | 类别: Games
+2026-03-31 04:00:14,261 [INFO] [7461/8374] 处理: Bus Simulator Indonesia: Maleo (id=6756402226)
+2026-03-31 04:00:14,388 [INFO]   ✓ Bus Simulator Indonesia: Maleo | 价格: Free | 类别: Games
+2026-03-31 04:00:16,468 [INFO] [7462/8374] 处理: Rival Stars Horse Racing (id=1215477266)
+2026-03-31 04:00:16,610 [INFO]   ✓ Rival Stars Horse Racing | 价格: Free | 类别: Games
+2026-03-31 04:00:18,339 [INFO] [7463/8374] 处理: Top Drives - Car Race Battles (id=1069370674)
+2026-03-31 04:00:18,478 [INFO]   ✓ Top Drives - Car Race Battles | 价格: Free | 类别: Games
+2026-03-31 04:00:21,293 [INFO] [7464/8374] 处理: Bubble Novel-Striking eBooks (id=6479546248)
+2026-03-31 04:00:21,512 [INFO]   ✓ Bubble Novel-Striking eBooks | 价格: Free | 类别: Games
+2026-03-31 04:00:23,081 [INFO] [7465/8374] 处理: RosyFox - Read Love & Drama (id=6478570319)
+2026-03-31 04:00:23,180 [INFO]   ✓ RosyFox - Read Love & Drama | 价格: Free | 类别: Games
+2026-03-31 04:00:25,520 [INFO] [7466/8374] 处理: Rush Racing 2 - Drag Racing (id=1500177515)
+2026-03-31 04:00:25,643 [INFO]   ✓ Rush Racing 2 - Drag Racing | 价格: Free | 类别: Games
+2026-03-31 04:00:28,567 [INFO] [7467/8374] 处理: APEX Racer (id=1668705222)
+2026-03-31 04:00:28,646 [INFO]   ✓ APEX Racer | 价格: Free | 类别: Games
+2026-03-31 04:00:31,235 [INFO] [7468/8374] 处理: Angry Birds Transformers (id=869231055)
+2026-03-31 04:00:31,423 [INFO]   ✓ Angry Birds Transformers | 价格: Free | 类别: Games
+2026-03-31 04:00:33,480 [INFO] [7469/8374] 处理: 4x4 Mania (id=1087085679)
+2026-03-31 04:00:33,613 [INFO]   ✓ 4x4 Mania | 价格: Free | 类别: Games
+2026-03-31 04:00:36,557 [INFO] [7470/8374] 处理: CSR Racing (id=469369175)
+2026-03-31 04:00:36,700 [INFO]   ✓ CSR Racing | 价格: Free | 类别: Games
+2026-03-31 04:00:39,122 [INFO] [7471/8374] 处理: ChapterVerse-Explore Novels (id=6502671970)
+2026-03-31 04:00:39,268 [INFO]   ✓ ChapterVerse-Explore Novels | 价格: Free | 类别: Games
+2026-03-31 04:00:42,263 [INFO] [7472/8374] 处理: Motor World: Car Factory (id=580666714)
+2026-03-31 04:00:42,391 [INFO]   ✓ Motor World: Car Factory | 价格: Free | 类别: Games
+2026-03-31 04:00:44,839 [INFO] [7473/8374] 处理: Eggy Party (id=6443950173)
+2026-03-31 04:00:44,974 [INFO]   ✓ Eggy Party | 价格: Free | 类别: Games
+2026-03-31 04:00:46,507 [INFO] [7474/8374] 处理: CSR Classics (id=598603610)
+2026-03-31 04:00:46,636 [INFO]   ✓ CSR Classics | 价格: Free | 类别: Games
+2026-03-31 04:00:48,941 [INFO] [7475/8374] 处理: Offroad Outlaws Drag Racing (id=6472734424)
+2026-03-31 04:00:49,013 [INFO]   ✓ Offroad Outlaws Drag Racing | 价格: Free | 类别: Games
+2026-03-31 04:00:52,220 [INFO] [7476/8374] 处理: KartRider Rush+ (id=1466736988)
+2026-03-31 04:00:52,377 [INFO]   ✓ KartRider Rush+ | 价格: Free | 类别: Games
+2026-03-31 04:00:55,805 [INFO] [7477/8374] 处理: HASSLE ONLINE (id=1624507378)
+2026-03-31 04:00:55,887 [INFO]   ✓ HASSLE ONLINE | 价格: Free | 类别: Games
+2026-03-31 04:00:58,844 [INFO] [7478/8374] 处理: Rebel Racing (id=1321463207)
+2026-03-31 04:00:59,052 [INFO]   ✓ Rebel Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:01,520 [INFO] [7479/8374] 处理: Door Slammers 2 Drag Racing (id=1100571920)
+2026-03-31 04:01:01,693 [INFO]   ✓ Door Slammers 2 Drag Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:03,500 [INFO] [7480/8374] 处理: Mad Skills Rally X - Drifting! (id=1602375002)
+2026-03-31 04:01:03,599 [INFO]   ✓ Mad Skills Rally X - Drifting! | 价格: Free | 类别: Games
+2026-03-31 04:01:06,543 [INFO] [7481/8374] 处理: Horse Racing Solitaire (id=6478222248)
+2026-03-31 04:01:06,688 [INFO]   ✓ Horse Racing Solitaire | 价格: Free | 类别: Games
+2026-03-31 04:01:09,277 [INFO] [7482/8374] 处理: Mad Skills Motocross 2 (id=695531774)
+2026-03-31 04:01:09,428 [INFO]   ✓ Mad Skills Motocross 2 | 价格: Free | 类别: Games
+2026-03-31 04:01:12,033 [INFO] [7483/8374] 处理: iHorse™ GO: Rival Horse Racing (id=1152403575)
+2026-03-31 04:01:12,197 [INFO]   ✓ iHorse™ GO: Rival Horse Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:14,840 [INFO] [7484/8374] 处理: Tuning Club Online: Car Racing (id=1503788107)
+2026-03-31 04:01:14,920 [INFO]   ✓ Tuning Club Online: Car Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:17,341 [INFO] [7485/8374] 处理: Trucks Off Road (id=1486115426)
+2026-03-31 04:01:17,485 [INFO]   ✓ Trucks Off Road | 价格: Free | 类别: Games
+2026-03-31 04:01:20,220 [INFO] [7486/8374] 处理: Truck Simulator PRO USA (id=1537950098)
+2026-03-31 04:01:20,302 [INFO]   ✓ Truck Simulator PRO USA | 价格: Free | 类别: Games
+2026-03-31 04:01:22,821 [INFO] [7487/8374] 处理: Drag Sim: King Of The Racing (id=1581867693)
+2026-03-31 04:01:23,175 [INFO]   ✓ Drag Sim: King Of The Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:25,447 [INFO] [7488/8374] 处理: Hashiriya Drifter: Car Games (id=1467291840)
+2026-03-31 04:01:25,530 [INFO]   ✓ Hashiriya Drifter: Car Games | 价格: Free | 类别: Games
+2026-03-31 04:01:28,739 [INFO] [7489/8374] 处理: Monster Truck Games for Kids . (id=6749669408)
+2026-03-31 04:01:28,884 [INFO]   ✓ Monster Truck Games for Kids . | 价格: Free | 类别: Games
+2026-03-31 04:01:30,499 [INFO] [7490/8374] 处理: Drag Racing: Street Car Game (id=1613693382)
+2026-03-31 04:01:30,573 [INFO]   ✓ Drag Racing: Street Car Game | 价格: Free | 类别: Games
+2026-03-31 04:01:33,228 [INFO] [7491/8374] 处理: Offroad Zone (id=1629298764)
+2026-03-31 04:01:33,371 [INFO]   ✓ Offroad Zone | 价格: Free | 类别: Games
+2026-03-31 04:01:35,692 [INFO] [7492/8374] 处理: Racing Kingdom (id=6468027706)
+2026-03-31 04:01:35,776 [INFO]   ✓ Racing Kingdom | 价格: Free | 类别: Games
+2026-03-31 04:01:38,100 [INFO] [7493/8374] 处理: Torque Drift (id=1200357146)
+2026-03-31 04:01:38,248 [INFO]   ✓ Torque Drift | 价格: Free | 类别: Games
+2026-03-31 04:01:40,215 [INFO] [7494/8374] 处理: Off-Road Kings (id=1368444461)
+2026-03-31 04:01:40,283 [INFO]   ✓ Off-Road Kings | 价格: Free | 类别: Games
+2026-03-31 04:01:41,951 [INFO] [7495/8374] 处理: Nitro Nation: Drag Racing (id=985158853)
+2026-03-31 04:01:42,030 [INFO]   ✓ Nitro Nation: Drag Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:45,449 [INFO] [7496/8374] 处理: Climbing Sand Dune OFFROAD (id=886998934)
+2026-03-31 04:01:45,544 [INFO]   ✓ Climbing Sand Dune OFFROAD | 价格: Free | 类别: Games
+2026-03-31 04:01:47,131 [INFO] [7497/8374] 处理: NASCAR® Manager (id=6449228156)
+2026-03-31 04:01:47,215 [INFO]   ✓ NASCAR® Manager | 价格: Free | 类别: Games
+2026-03-31 04:01:49,773 [INFO] [7498/8374] 处理: Assoluto Racing (id=1055375459)
+2026-03-31 04:01:49,964 [INFO]   ✓ Assoluto Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:52,197 [INFO] [7499/8374] 处理: Big Win Racing 2020 (id=491595507)
+2026-03-31 04:01:52,329 [INFO]   ✓ Big Win Racing 2020 | 价格: Free | 类别: Games
+2026-03-31 04:01:54,213 [INFO] [7500/8374] 处理: Off The Road - OTR Mud Racing (id=1324024113)
+2026-03-31 04:01:54,361 [INFO]   ✓ Off The Road - OTR Mud Racing | 价格: Free | 类别: Games
+2026-03-31 04:01:57,063 [INFO] [7501/8374] 处理: Dirt Bike Unchained (id=1451177077)
+2026-03-31 04:01:57,145 [INFO]   ✓ Dirt Bike Unchained | 价格: Free | 类别: Games
+2026-03-31 04:01:59,603 [INFO] [7502/8374] 处理: Universal Truck Simulator (id=1632742662)
+2026-03-31 04:01:59,689 [INFO]   ✓ Universal Truck Simulator | 价格: Free | 类别: Games
+2026-03-31 04:02:02,675 [INFO] [7503/8374] 处理: RP Grand (id=6502263834)
+2026-03-31 04:02:02,841 [INFO]   ✓ RP Grand | 价格: Free | 类别: Games
+2026-03-31 04:02:05,443 [INFO] [7504/8374] 处理: Miraculous Ladybug & Cat Noir (id=1300500620)
+2026-03-31 04:02:05,550 [INFO]   ✓ Miraculous Ladybug & Cat Noir | 价格: Free | 类别: Games
+2026-03-31 04:02:08,637 [INFO] [7505/8374] 处理: Coffee Inc 2 (id=1573482724)
+2026-03-31 04:02:08,883 [INFO]   ✓ Coffee Inc 2 | 价格: $2.99 | 类别: Games
+2026-03-31 04:02:12,452 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:02:12,453 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:02:15,378 [INFO] [7506/8374] 处理: Demon Castle Story (id=6749560544)
+2026-03-31 04:02:15,475 [INFO]   ✓ Demon Castle Story | 价格: $6.99 | 类别: Games
+2026-03-31 04:02:21,647 [INFO] [7507/8374] 处理: CHRONO TRIGGER (Upgrade Ver.) (id=479431697)
+2026-03-31 04:02:21,738 [INFO]   ✓ CHRONO TRIGGER (Upgrade Ver.) | 价格: $9.99 | 类别: Games
+2026-03-31 04:02:27,618 [INFO] [7508/8374] 处理: FINAL FANTASY TACTICS :WotL (id=446760220)
+2026-03-31 04:02:27,692 [INFO]   ✓ FINAL FANTASY TACTICS :WotL | 价格: $13.99 | 类别: Games
+2026-03-31 04:02:32,464 [INFO] [7509/8374] 处理: My Child Lebensborn (id=1298544927)
+2026-03-31 04:02:32,539 [INFO]   ✓ My Child Lebensborn | 价格: $2.99 | 类别: Games
+2026-03-31 04:02:38,106 [INFO] [7510/8374] 处理: Kingdom Two Crowns (id=1477991646)
+2026-03-31 04:02:38,295 [INFO]   ✓ Kingdom Two Crowns | 价格: $6.99 | 类别: Games
+2026-03-31 04:02:42,447 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 04:02:42,448 [INFO]   ✓ 内购: 5 项
+2026-03-31 04:02:44,539 [INFO] [7511/8374] 处理: FINAL FANTASY VI (id=1492041539)
+2026-03-31 04:02:44,622 [INFO]   ✓ FINAL FANTASY VI | 价格: $14.99 | 类别: Games
+2026-03-31 04:02:51,240 [INFO] [7512/8374] 处理: Northgard (id=1533979882)
+2026-03-31 04:02:51,316 [INFO]   ✓ Northgard | 价格: $7.99 | 类别: Games
+2026-03-31 04:02:55,072 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:02:55,073 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:02:56,606 [INFO] [7513/8374] 处理: Dicey Dungeons (id=1368013995)
+2026-03-31 04:02:56,759 [INFO]   ✓ Dicey Dungeons | 价格: $4.99 | 类别: Games
+2026-03-31 04:03:03,305 [INFO] [7514/8374] 处理: Artillery Cars Riots Boys (id=6758349334)
+2026-03-31 04:03:03,491 [INFO]   ✓ Artillery Cars Riots Boys | 价格: $3.99 | 类别: Games
+2026-03-31 04:03:07,465 [INFO] [7515/8374] 处理: Nexomon (id=1254864644)
+2026-03-31 04:03:07,541 [INFO]   ✓ Nexomon | 价格: $0.99 | 类别: Games
+2026-03-31 04:03:11,421 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:03:11,422 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:03:13,730 [INFO] [7516/8374] 处理: Neo Monsters (id=983143183)
+2026-03-31 04:03:13,860 [INFO]   ✓ Neo Monsters | 价格: Free | 类别: Games
+2026-03-31 04:03:16,075 [INFO] [7517/8374] 处理: Battleheart 2 (id=1232791258)
+2026-03-31 04:03:16,191 [INFO]   ✓ Battleheart 2 | 价格: $3.99 | 类别: Games
+2026-03-31 04:03:22,381 [INFO] [7518/8374] 处理: Halls of Torment: Premium (id=6504841512)
+2026-03-31 04:03:22,530 [INFO]   ✓ Halls of Torment: Premium | 价格: $4.99 | 类别: Games
+2026-03-31 04:03:25,284 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 04:03:25,286 [INFO]   ✓ 内购: 2 项
+2026-03-31 04:03:26,870 [INFO] [7519/8374] 处理: FINAL FANTASY VIII Remastered (id=1326740784)
+2026-03-31 04:03:27,177 [INFO]   ✓ FINAL FANTASY VIII Remastered | 价格: $20.99 | 类别: Games
+2026-03-31 04:03:33,191 [INFO] [7520/8374] 处理: FINAL FANTASY Ⅸ (id=1041260001)
+2026-03-31 04:03:33,271 [INFO]   ✓ FINAL FANTASY Ⅸ | 价格: $20.99 | 类别: Games
+2026-03-31 04:03:40,277 [INFO] [7521/8374] 处理: Star Traders: Frontiers (id=1442583232)
+2026-03-31 04:03:40,359 [INFO]   ✓ Star Traders: Frontiers | 价格: $6.99 | 类别: Games
+2026-03-31 04:03:47,582 [INFO] [7522/8374] 处理: Death Road to Canada (id=1128464707)
+2026-03-31 04:03:47,680 [INFO]   ✓ Death Road to Canada | 价格: $14.99 | 类别: Games
+2026-03-31 04:03:52,571 [INFO] [7523/8374] 处理: DRAGON QUEST (id=911201894)
+2026-03-31 04:03:52,707 [INFO]   ✓ DRAGON QUEST | 价格: $2.99 | 类别: Games
+2026-03-31 04:03:59,688 [INFO] [7524/8374] 处理: Magic Research 2 (id=6478566840)
+2026-03-31 04:03:59,830 [INFO]   ✓ Magic Research 2 | 价格: $4.69 | 类别: Games
+2026-03-31 04:04:04,025 [INFO] [7525/8374] 处理: Dungeon Village 2 (id=1543161449)
+2026-03-31 04:04:04,189 [INFO]   ✓ Dungeon Village 2 | 价格: $5.99 | 类别: Games
+2026-03-31 04:04:09,226 [INFO] [7526/8374] 处理: Neverwinter Nights (id=1466096721)
+2026-03-31 04:04:09,376 [INFO]   ✓ Neverwinter Nights | 价格: $9.99 | 类别: Games
+2026-03-31 04:04:11,619 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:04:11,620 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:04:14,084 [INFO] [7527/8374] 处理: Graveyard Keeper (id=1461238719)
+2026-03-31 04:04:14,399 [INFO]   ✓ Graveyard Keeper | 价格: $9.99 | 类别: Games
+2026-03-31 04:04:18,325 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:04:18,326 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:04:20,168 [INFO] [7528/8374] 处理: DRAGON QUEST VIII (id=862972069)
+2026-03-31 04:04:20,300 [INFO]   ✓ DRAGON QUEST VIII | 价格: $19.99 | 类别: Games
+2026-03-31 04:04:25,976 [INFO] [7529/8374] 处理: Dungeons of Chaos REVAMPED ED. (id=1052556488)
+2026-03-31 04:04:26,114 [INFO]   ✓ Dungeons of Chaos REVAMPED ED. | 价格: $5.99 | 类别: Games
+2026-03-31 04:04:31,730 [INFO] [7530/8374] 处理: Battleheart Legacy (id=666508823)
+2026-03-31 04:04:31,831 [INFO]   ✓ Battleheart Legacy | 价格: $4.99 | 类别: Games
+2026-03-31 04:04:37,338 [INFO] [7531/8374] 处理: Beholder (id=1205486761)
+2026-03-31 04:04:37,433 [INFO]   ✓ Beholder | 价格: $4.99 | 类别: Games
+2026-03-31 04:04:41,279 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:04:41,280 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:04:44,299 [INFO] [7532/8374] 处理: The Enchanted Cave 2 (id=983868842)
+2026-03-31 04:04:44,552 [INFO]   ✓ The Enchanted Cave 2 | 价格: $5.99 | 类别: Games
+2026-03-31 04:04:49,375 [INFO] [7533/8374] 处理: Baldur's Gate (id=515114051)
+2026-03-31 04:04:49,456 [INFO]   ✓ Baldur's Gate | 价格: $9.99 | 类别: Games
+2026-03-31 04:04:51,829 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 04:04:51,830 [INFO]   ✓ 内购: 4 项
+2026-03-31 04:04:55,210 [INFO] [7534/8374] 处理: Afterplace (id=1539778232)
+2026-03-31 04:04:55,348 [INFO]   ✓ Afterplace | 价格: $6.99 | 类别: Games
+2026-03-31 04:05:02,544 [INFO] [7535/8374] 处理: Gunfire Reborn (id=1606703078)
+2026-03-31 04:05:02,625 [INFO]   ✓ Gunfire Reborn | 价格: $6.99 | 类别: Games
+2026-03-31 04:05:07,124 [INFO] [7536/8374] 处理: Baldeouj (id=6756420028)
+2026-03-31 04:05:07,305 [INFO]   ✓ Baldeouj | 价格: $2.99 | 类别: Games
+2026-03-31 04:05:12,250 [INFO] [7537/8374] 处理: WitchSpring (id=1047593494)
+2026-03-31 04:05:12,372 [INFO]   ✓ WitchSpring | 价格: $1.99 | 类别: Games
+2026-03-31 04:05:18,257 [INFO] [7538/8374] 处理: Cat Quest II (id=1636423328)
+2026-03-31 04:05:18,452 [INFO]   ✓ Cat Quest II | 价格: $4.99 | 类别: Games
+2026-03-31 04:05:23,868 [INFO] [7539/8374] 处理: Expelled! (id=6737900211)
+2026-03-31 04:05:24,037 [INFO]   ✓ Expelled! | 价格: $5.99 | 类别: Games
+2026-03-31 04:05:29,268 [INFO] [7540/8374] 处理: Crying Suns (id=1511788295)
+2026-03-31 04:05:29,346 [INFO]   ✓ Crying Suns | 价格: $8.99 | 类别: Games
+2026-03-31 04:05:34,052 [INFO] [7541/8374] 处理: Children of Morta (id=6474541983)
+2026-03-31 04:05:34,186 [INFO]   ✓ Children of Morta | 价格: $6.99 | 类别: Games
+2026-03-31 04:05:40,468 [INFO] [7542/8374] 处理: Caves of Lore (id=6449979034)
+2026-03-31 04:05:40,616 [INFO]   ✓ Caves of Lore | 价格: $7.99 | 类别: Games
+2026-03-31 04:05:45,589 [INFO] [7543/8374] 处理: Tale of Immortal (id=6742472194)
+2026-03-31 04:05:45,672 [INFO]   ✓ Tale of Immortal | 价格: $9.99 | 类别: Games
+2026-03-31 04:05:47,719 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 04:05:47,720 [INFO]   ✓ 内购: 2 项
+2026-03-31 04:05:50,087 [INFO] [7544/8374] 处理: Potion Permit (id=6450713964)
+2026-03-31 04:05:50,240 [INFO]   ✓ Potion Permit | 价格: $6.99 | 类别: Games
+2026-03-31 04:05:55,784 [INFO] [7545/8374] 处理: Lifeline... (id=982354972)
+2026-03-31 04:05:55,965 [INFO]   ✓ Lifeline... | 价格: $2.99 | 类别: Games
+2026-03-31 04:06:03,361 [INFO] [7546/8374] 处理: Yume Nikki (id=1453117329)
+2026-03-31 04:06:03,499 [INFO]   ✓ Yume Nikki | 价格: $2.99 | 类别: Games
+2026-03-31 04:06:09,685 [INFO] [7547/8374] 处理: Ultimate Bird Simulator (id=1063194066)
+2026-03-31 04:06:09,829 [INFO]   ✓ Ultimate Bird Simulator | 价格: $0.99 | 类别: Games
+2026-03-31 04:06:14,727 [INFO] [7548/8374] 处理: Baldur's Gate II: EE (id=633625517)
+2026-03-31 04:06:14,872 [INFO]   ✓ Baldur's Gate II: EE | 价格: $9.99 | 类别: Games
+2026-03-31 04:06:18,443 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 04:06:18,444 [INFO]   ✓ 内购: 4 项
+2026-03-31 04:06:21,468 [INFO] [7549/8374] 处理: My Time at Portia (id=1555184523)
+2026-03-31 04:06:21,649 [INFO]   ✓ My Time at Portia | 价格: $7.99 | 类别: Games
+2026-03-31 04:06:25,409 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:06:25,411 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:06:27,826 [INFO] [7550/8374] 处理: FINAL FANTASY II (id=1492041252)
+2026-03-31 04:06:28,011 [INFO]   ✓ FINAL FANTASY II | 价格: $9.99 | 类别: Games
+2026-03-31 04:06:35,157 [INFO] [7551/8374] 处理: Nocturnals (id=6740011391)
+2026-03-31 04:06:35,302 [INFO]   ✓ Nocturnals | 价格: $2.99 | 类别: Games
+2026-03-31 04:06:40,833 [INFO] [7552/8374] 处理: Cat Quest (id=1148385289)
+2026-03-31 04:06:40,963 [INFO]   ✓ Cat Quest | 价格: $4.99 | 类别: Games
+2026-03-31 04:06:47,563 [INFO] [7553/8374] 处理: Harvest Moon: Home Sweet Home (id=6458877203)
+2026-03-31 04:06:47,637 [INFO]   ✓ Harvest Moon: Home Sweet Home | 价格: $17.99 | 类别: Games
+2026-03-31 04:06:53,616 [INFO] [7554/8374] 处理: PrismScrollDM (id=1408372017)
+2026-03-31 04:06:53,786 [INFO]   ✓ PrismScrollDM | 价格: $2.99 | 类别: Games
+2026-03-31 04:06:59,025 [INFO] [7555/8374] 处理: Siralim Ultimate (id=1601114348)
+2026-03-31 04:06:59,172 [INFO]   ✓ Siralim Ultimate | 价格: $9.99 | 类别: Games
+2026-03-31 04:07:06,197 [INFO] [7556/8374] 处理: Pascal's Wager (id=1476649036)
+2026-03-31 04:07:06,322 [INFO]   ✓ Pascal's Wager | 价格: $4.99 | 类别: Games
+2026-03-31 04:07:09,652 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 04:07:09,653 [INFO]   ✓ 内购: 7 项
+2026-03-31 04:07:11,433 [INFO] [7557/8374] 处理: DRAGON QUEST V (id=933113994)
+2026-03-31 04:07:11,520 [INFO]   ✓ DRAGON QUEST V | 价格: $14.99 | 类别: Games
+2026-03-31 04:07:16,520 [INFO] [7558/8374] 处理: SIMULACRA 3 (id=1607060727)
+2026-03-31 04:07:16,643 [INFO]   ✓ SIMULACRA 3 | 价格: $7.99 | 类别: Games
+2026-03-31 04:07:21,138 [INFO] [7559/8374] 处理: Banner Saga (id=911006986)
+2026-03-31 04:07:21,363 [INFO]   ✓ Banner Saga | 价格: $9.99 | 类别: Games
+2026-03-31 04:07:28,112 [INFO] [7560/8374] 处理: RTS Siege Up! (id=1496107124)
+2026-03-31 04:07:28,269 [INFO]   ✓ RTS Siege Up! | 价格: $3.99 | 类别: Games
+2026-03-31 04:07:35,317 [INFO] [7561/8374] 处理: Titan Quest: Ultimate Edition (id=6455985208)
+2026-03-31 04:07:35,397 [INFO]   ✓ Titan Quest: Ultimate Edition | 价格: $24.99 | 类别: Games
+2026-03-31 04:07:40,180 [INFO] [7562/8374] 处理: Mountain (id=891528055)
+2026-03-31 04:07:40,340 [INFO]   ✓ Mountain | 价格: $0.99 | 类别: Games
+2026-03-31 04:07:45,287 [INFO] [7563/8374] 处理: The Sun: Origin (id=1296220190)
+2026-03-31 04:07:45,427 [INFO]   ✓ The Sun: Origin | 价格: $0.39 | 类别: Games
+2026-03-31 04:07:48,509 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:07:48,510 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:07:51,109 [INFO] [7564/8374] 处理: You are Hope (id=1386813914)
+2026-03-31 04:07:51,194 [INFO]   ✓ You are Hope | 价格: $4.99 | 类别: Games
+2026-03-31 04:07:53,569 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 04:07:53,570 [INFO]   ✓ 内购: 5 项
+2026-03-31 04:07:55,254 [INFO] [7565/8374] 处理: Ultimate Cat Simulator (id=1063194374)
+2026-03-31 04:07:55,338 [INFO]   ✓ Ultimate Cat Simulator | 价格: $0.99 | 类别: Games
+2026-03-31 04:07:59,403 [INFO] [7566/8374] 处理: FINAL FANTASY (id=1492041278)
+2026-03-31 04:07:59,616 [INFO]   ✓ FINAL FANTASY | 价格: $9.99 | 类别: Games
+2026-03-31 04:08:04,394 [INFO] [7567/8374] 处理: Adventure Bar Story (id=489454710)
+2026-03-31 04:08:04,497 [INFO]   ✓ Adventure Bar Story | 价格: $2.99 | 类别: Games
+2026-03-31 04:08:07,215 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 04:08:07,216 [INFO]   ✓ 内购: 7 项
+2026-03-31 04:08:09,129 [INFO] [7568/8374] 处理: Neon Chrome (id=981035758)
+2026-03-31 04:08:09,243 [INFO]   ✓ Neon Chrome | 价格: $6.99 | 类别: Games
+2026-03-31 04:08:12,882 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:08:12,884 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:08:15,833 [INFO] [7569/8374] 处理: Dungeon Tracer (id=6502634839)
+2026-03-31 04:08:16,000 [INFO]   ✓ Dungeon Tracer | 价格: $2.99 | 类别: Games
+2026-03-31 04:08:21,627 [INFO] [7570/8374] 处理: Black Border 2 (id=6504453094)
+2026-03-31 04:08:21,734 [INFO]   ✓ Black Border 2 | 价格: $0.49 | 类别: Games
+2026-03-31 04:08:27,370 [INFO] [7571/8374] 处理: OneState RP: Role Play Online (id=1597760047)
+2026-03-31 04:08:27,489 [INFO]   ✓ OneState RP: Role Play Online | 价格: Free | 类别: Games
+2026-03-31 04:08:29,896 [INFO] [7572/8374] 处理: Lamar - Idle Vlogger (id=1595314851)
+2026-03-31 04:08:30,335 [INFO]   ✓ Lamar - Idle Vlogger | 价格: Free | 类别: Games
+2026-03-31 04:08:32,604 [INFO] [7573/8374] 处理: Tiles Survive! (id=6738109752)
+2026-03-31 04:08:32,783 [INFO]   ✓ Tiles Survive! | 价格: Free | 类别: Games
+2026-03-31 04:08:35,453 [INFO] [7574/8374] 处理: BitLife - Life Simulator (id=1374403536)
+2026-03-31 04:08:35,688 [INFO]   ✓ BitLife - Life Simulator | 价格: Free | 类别: Games
+2026-03-31 04:08:39,110 [INFO] [7575/8374] 处理: I Am Taxi Driver (id=6757801241)
+2026-03-31 04:08:39,251 [INFO]   ✓ I Am Taxi Driver | 价格: Free | 类别: Games
+2026-03-31 04:08:41,626 [INFO] [7576/8374] 处理: Woodturning 3D (id=1492451796)
+2026-03-31 04:08:41,779 [INFO]   ✓ Woodturning 3D | 价格: Free | 类别: Games
+2026-03-31 04:08:44,288 [INFO] [7577/8374] 处理: Flop House (id=6504540166)
+2026-03-31 04:08:44,377 [INFO]   ✓ Flop House | 价格: Free | 类别: Games
+2026-03-31 04:08:46,676 [INFO] [7578/8374] 处理: Pawn to Don Mafia Crime Story (id=6755805872)
+2026-03-31 04:08:46,832 [INFO]   ✓ Pawn to Don Mafia Crime Story | 价格: Free | 类别: Games
+2026-03-31 04:08:48,811 [INFO] [7579/8374] 处理: Fallout Shelter (id=991153141)
+2026-03-31 04:08:48,887 [INFO]   ✓ Fallout Shelter | 价格: Free | 类别: Games
+2026-03-31 04:08:51,752 [INFO] [7580/8374] 处理: Avatar World ® (id=1635318586)
+2026-03-31 04:08:51,891 [INFO]   ✓ Avatar World ® | 价格: Free | 类别: Games
+2026-03-31 04:08:54,118 [INFO] [7581/8374] 处理: Block Craft 3D: Building Games (id=981633844)
+2026-03-31 04:08:54,261 [INFO]   ✓ Block Craft 3D: Building Games | 价格: Free | 类别: Games
+2026-03-31 04:08:57,151 [INFO] [7582/8374] 处理: My Talking Tom (id=657500465)
+2026-03-31 04:08:57,282 [INFO]   ✓ My Talking Tom | 价格: Free | 类别: Games
+2026-03-31 04:08:59,309 [INFO] [7583/8374] 处理: Voidpet Dungeon (id=6733247800)
+2026-03-31 04:08:59,412 [INFO]   ✓ Voidpet Dungeon | 价格: Free | 类别: Games
+2026-03-31 04:09:02,047 [INFO] [7584/8374] 处理: Episode - Choose Your Story (id=656971078)
+2026-03-31 04:09:02,201 [INFO]   ✓ Episode - Choose Your Story | 价格: Free | 类别: Games
+2026-03-31 04:09:05,264 [INFO] [7585/8374] 处理: Rise of Kingdoms (id=1354260888)
+2026-03-31 04:09:05,371 [INFO]   ✓ Rise of Kingdoms | 价格: Free | 类别: Games
+2026-03-31 04:09:08,357 [INFO] [7586/8374] 处理: Episode: Reality Stars (id=1604253094)
+2026-03-31 04:09:08,510 [INFO]   ✓ Episode: Reality Stars | 价格: Free | 类别: Games
+2026-03-31 04:09:11,612 [INFO] [7587/8374] 处理: Doomsday: Last Survivors (id=1552206075)
+2026-03-31 04:09:11,708 [INFO]   ✓ Doomsday: Last Survivors | 价格: Free | 类别: Games
+2026-03-31 04:09:13,425 [INFO] [7588/8374] 处理: I Am Monkey - original game (id=6752769771)
+2026-03-31 04:09:13,566 [INFO]   ✓ I Am Monkey - original game | 价格: Free | 类别: Games
+2026-03-31 04:09:16,081 [INFO] [7589/8374] 处理: Car Sales Simulator 25 (id=6464597212)
+2026-03-31 04:09:16,168 [INFO]   ✓ Car Sales Simulator 25 | 价格: Free | 类别: Games
+2026-03-31 04:09:19,522 [INFO] [7590/8374] 处理: MLB Perfect Inning 26 (id=1616808239)
+2026-03-31 04:09:19,771 [INFO]   ✓ MLB Perfect Inning 26 | 价格: Free | 类别: Games
+2026-03-31 04:09:21,895 [INFO] [7591/8374] 处理: Top War: Battle Game (id=1479198816)
+2026-03-31 04:09:21,980 [INFO]   ✓ Top War: Battle Game | 价格: Free | 类别: Games
+2026-03-31 04:09:25,435 [INFO] [7592/8374] 处理: Evony (id=1098157959)
+2026-03-31 04:09:25,605 [INFO]   ✓ Evony | 价格: Free | 类别: Games
+2026-03-31 04:09:27,169 [INFO] [7593/8374] 处理: RAID: Shadow Legends (id=1371565796)
+2026-03-31 04:09:27,363 [INFO]   ✓ RAID: Shadow Legends | 价格: Free | 类别: Games
+2026-03-31 04:09:29,285 [INFO] [7594/8374] 处理: My Talking Angela 2 (id=1536584509)
+2026-03-31 04:09:29,425 [INFO]   ✓ My Talking Angela 2 | 价格: Free | 类别: Games
+2026-03-31 04:09:32,473 [INFO] [7595/8374] 处理: CookieRun: Kingdom (id=1509450845)
+2026-03-31 04:09:32,584 [INFO]   ✓ CookieRun: Kingdom | 价格: Free | 类别: Games
+2026-03-31 04:09:34,654 [INFO] [7596/8374] 处理: My Talking Tom 2 (id=1337578317)
+2026-03-31 04:09:34,807 [INFO]   ✓ My Talking Tom 2 | 价格: Free | 类别: Games
+2026-03-31 04:09:37,980 [INFO] [7597/8374] 处理: Puzzles & Chaos: Frozen Castle (id=6446389130)
+2026-03-31 04:09:38,153 [INFO]   ✓ Puzzles & Chaos: Frozen Castle | 价格: Free | 类别: Games
+2026-03-31 04:09:40,638 [INFO] [7598/8374] 处理: Puzzles & Survival (id=1517980891)
+2026-03-31 04:09:40,743 [INFO]   ✓ Puzzles & Survival | 价格: Free | 类别: Games
+2026-03-31 04:09:42,998 [INFO] [7599/8374] 处理: Money Empire - Idle Game (id=6752869195)
+2026-03-31 04:09:43,173 [INFO]   ✓ Money Empire - Idle Game | 价格: Free | 类别: Games
+2026-03-31 04:09:45,286 [INFO] [7600/8374] 处理: Love Island: The Game (id=1522699215)
+2026-03-31 04:09:45,483 [INFO]   ✓ Love Island: The Game | 价格: Free | 类别: Games
+2026-03-31 04:09:47,716 [INFO] [7601/8374] 处理: My Talking Tom Friends (id=1473424857)
+2026-03-31 04:09:47,884 [INFO]   ✓ My Talking Tom Friends | 价格: Free | 类别: Games
+2026-03-31 04:09:49,599 [INFO] [7602/8374] 处理: Evo Defense (id=6755173751)
+2026-03-31 04:09:49,732 [INFO]   ✓ Evo Defense | 价格: Free | 类别: Games
+2026-03-31 04:09:52,043 [INFO] [7603/8374] 处理: Dragon City: Battle Adventure! (id=561941526)
+2026-03-31 04:09:52,120 [INFO]   ✓ Dragon City: Battle Adventure! | 价格: Free | 类别: Games
+2026-03-31 04:09:54,181 [INFO] [7604/8374] 处理: Gacha Life (id=1440430680)
+2026-03-31 04:09:54,321 [INFO]   ✓ Gacha Life | 价格: Free | 类别: Games
+2026-03-31 04:09:57,056 [INFO] [7605/8374] 处理: Foundation: Galactic Frontier (id=6737595599)
+2026-03-31 04:09:57,645 [INFO]   ✓ Foundation: Galactic Frontier | 价格: Free | 类别: Games
+2026-03-31 04:09:59,472 [INFO] [7606/8374] 处理: Phone Case DIY (id=1539408727)
+2026-03-31 04:09:59,652 [INFO]   ✓ Phone Case DIY | 价格: Free | 类别: Games
+2026-03-31 04:10:02,324 [INFO] [7607/8374] 处理: Monkey Student: School Prank (id=6757172065)
+2026-03-31 04:10:02,410 [INFO]   ✓ Monkey Student: School Prank | 价格: Free | 类别: Games
+2026-03-31 04:10:05,332 [INFO] [7608/8374] 处理: StarSavior (id=6443597557)
+2026-03-31 04:10:05,411 [INFO]   ✓ StarSavior | 价格: Free | 类别: Games
+2026-03-31 04:10:07,007 [INFO] [7609/8374] 处理: Drill & Collect: idle mine dig (id=1642304873)
+2026-03-31 04:10:07,196 [INFO]   ✓ Drill & Collect: idle mine dig | 价格: Free | 类别: Games
+2026-03-31 04:10:10,395 [INFO] [7610/8374] 处理: High Seas Hero: Dig & Build (id=6621220868)
+2026-03-31 04:10:10,611 [INFO]   ✓ High Seas Hero: Dig & Build | 价格: Free | 类别: Games
+2026-03-31 04:10:12,276 [INFO] [7611/8374] 处理: Suzy's Food Restaurant Game (id=6478958700)
+2026-03-31 04:10:12,384 [INFO]   ✓ Suzy's Food Restaurant Game | 价格: Free | 类别: Games
+2026-03-31 04:10:14,068 [INFO] [7612/8374] 处理: Urban Heat: FPS (id=1611003698)
+2026-03-31 04:10:14,252 [INFO]   ✓ Urban Heat: FPS | 价格: Free | 类别: Games
+2026-03-31 04:10:17,673 [INFO] [7613/8374] 处理: WorldBox - God Sandbox (id=1450941371)
+2026-03-31 04:10:17,765 [INFO]   ✓ WorldBox - God Sandbox | 价格: Free | 类别: Games
+2026-03-31 04:10:20,730 [INFO] [7614/8374] 处理: Shadow Fight 2 (id=696565994)
+2026-03-31 04:10:20,820 [INFO]   ✓ Shadow Fight 2 | 价格: Free | 类别: Games
+2026-03-31 04:10:22,909 [INFO] [7615/8374] 处理: Dragon Traveler (id=6751086804)
+2026-03-31 04:10:22,982 [INFO]   ✓ Dragon Traveler | 价格: Free | 类别: Games
+2026-03-31 04:10:26,111 [INFO] [7616/8374] 处理: Acrylic Nails! (id=1526638009)
+2026-03-31 04:10:26,249 [INFO]   ✓ Acrylic Nails! | 价格: Free | 类别: Games
+2026-03-31 04:10:29,648 [INFO] [7617/8374] 处理: I Am Airport Security (id=6755672171)
+2026-03-31 04:10:29,790 [INFO]   ✓ I Am Airport Security | 价格: Free | 类别: Games
+2026-03-31 04:10:31,934 [INFO] [7618/8374] 处理: DREST: Fashion Dress Up Game (id=1630969055)
+2026-03-31 04:10:32,028 [INFO]   ✓ DREST: Fashion Dress Up Game | 价格: Free | 类别: Games
+2026-03-31 04:10:35,430 [INFO] [7619/8374] 处理: Sculpt People (id=1539324945)
+2026-03-31 04:10:35,610 [INFO]   ✓ Sculpt People | 价格: Free | 类别: Games
+2026-03-31 04:10:37,489 [INFO] [7620/8374] 处理: Gacha Life 2 (id=6468838207)
+2026-03-31 04:10:37,633 [INFO]   ✓ Gacha Life 2 | 价格: Free | 类别: Games
+2026-03-31 04:10:39,376 [INFO] [7621/8374] 处理: I Am Bird - original game (id=6755595667)
+2026-03-31 04:10:39,507 [INFO]   ✓ I Am Bird - original game | 价格: Free | 类别: Games
+2026-03-31 04:10:42,493 [INFO] [7622/8374] 处理: SuitU: Fashion Avatar Dress UP (id=1663749627)
+2026-03-31 04:10:42,646 [INFO]   ✓ SuitU: Fashion Avatar Dress UP | 价格: Free | 类别: Games
+2026-03-31 04:10:45,904 [INFO] [7623/8374] 处理: Chapters: Interactive Stories (id=1277029359)
+2026-03-31 04:10:45,992 [INFO]   ✓ Chapters: Interactive Stories | 价格: Free | 类别: Games
+2026-03-31 04:10:48,806 [INFO] [7624/8374] 处理: Chat Master! (id=1522899035)
+2026-03-31 04:10:48,912 [INFO]   ✓ Chat Master! | 价格: Free | 类别: Games
+2026-03-31 04:10:51,975 [INFO] [7625/8374] 处理: Call of Dragons (id=1605558677)
+2026-03-31 04:10:52,108 [INFO]   ✓ Call of Dragons | 价格: Free | 类别: Games
+2026-03-31 04:10:54,681 [INFO] [7626/8374] 处理: Magicmon: World (id=6752015542)
+2026-03-31 04:10:54,801 [INFO]   ✓ Magicmon: World | 价格: Free | 类别: Games
+2026-03-31 04:10:57,953 [INFO] [7627/8374] 处理: Monster Legends - Battle Game (id=653508448)
+2026-03-31 04:10:58,054 [INFO]   ✓ Monster Legends - Battle Game | 价格: Free | 类别: Games
+2026-03-31 04:10:59,583 [INFO] [7628/8374] 处理: Last Stronghold: Idle Survival (id=6670743431)
+2026-03-31 04:10:59,772 [INFO]   ✓ Last Stronghold: Idle Survival | 价格: Free | 类别: Games
+2026-03-31 04:11:01,713 [INFO] [7629/8374] 处理: Soulplay - Romance AI Roleplay (id=6501972568)
+2026-03-31 04:11:01,845 [INFO]   ✓ Soulplay - AI Roleplay | 价格: Free | 类别: Games
+2026-03-31 04:11:04,668 [INFO] [7630/8374] 处理: BagMaster Isekai – Bag Battle (id=6760184819)
+2026-03-31 04:11:04,826 [INFO]   ✓ BagMaster Isekai – Bag Battle | 价格: Free | 类别: Games
+2026-03-31 04:11:06,944 [INFO] [7631/8374] 处理: Tie Dye (id=1514604864)
+2026-03-31 04:11:07,131 [INFO]   ✓ Tie Dye | 价格: Free | 类别: Games
+2026-03-31 04:11:09,625 [INFO] [7632/8374] 处理: Gacha Club (id=1527025761)
+2026-03-31 04:11:09,804 [INFO]   ✓ Gacha Club | 价格: Free | 类别: Games
+2026-03-31 04:11:12,467 [INFO] [7633/8374] 处理: Lords Mobile: Kingdom Wars (id=1071976327)
+2026-03-31 04:11:12,637 [INFO]   ✓ Lords Mobile: Kingdom Wars | 价格: Free | 类别: Games
+2026-03-31 04:11:16,026 [INFO] [7634/8374] 处理: Burger Please! (id=1668713081)
+2026-03-31 04:11:16,189 [INFO]   ✓ Burger Please! | 价格: Free | 类别: Games
+2026-03-31 04:11:19,089 [INFO] [7635/8374] 处理: My Talking Tom Friends 2 (id=6737511163)
+2026-03-31 04:11:19,222 [INFO]   ✓ My Talking Tom Friends 2 | 价格: Free | 类别: Games
+2026-03-31 04:11:22,077 [INFO] [7636/8374] 处理: AI Chat 18+ (id=6755920311)
+2026-03-31 04:11:22,274 [INFO]   ✓ AI Chat 18+ | 价格: Free | 类别: Games
+2026-03-31 04:11:24,439 [INFO] [7637/8374] 处理: Cursed house Multiplayer(GMM) (id=6743131179)
+2026-03-31 04:11:24,522 [INFO]   ✓ Cursed house Multiplayer(GMM) | 价格: Free | 类别: Games
+2026-03-31 04:11:26,220 [INFO] [7638/8374] 处理: Jujutsu Kaisen Phantom Parade (id=6475925341)
+2026-03-31 04:11:26,409 [INFO]   ✓ Jujutsu Kaisen Phantom Parade | 价格: Free | 类别: Games
+2026-03-31 04:11:29,037 [INFO] [7639/8374] 处理: Hide Online: Prop Hunt (id=1408624516)
+2026-03-31 04:11:29,108 [INFO]   ✓ Hide Online: Prop Hunt | 价格: Free | 类别: Games
+2026-03-31 04:11:30,610 [INFO] [7640/8374] 处理: Summoners War X The LOTR (id=852912420)
+2026-03-31 04:11:30,883 [INFO]   ✓ Summoners War | 价格: Free | 类别: Games
+2026-03-31 04:11:33,553 [INFO] [7641/8374] 处理: Star Wars™: Galaxy of Heroes (id=921022358)
+2026-03-31 04:11:33,641 [INFO]   ✓ Star Wars™: Galaxy of Heroes | 价格: Free | 类别: Games
+2026-03-31 04:11:35,613 [INFO] [7642/8374] 处理: Game of Thrones: Conquest ™ (id=1035712810)
+2026-03-31 04:11:35,802 [INFO]   ✓ Game of Thrones: Conquest ™ | 价格: Free | 类别: Games
+2026-03-31 04:11:38,969 [INFO] [7643/8374] 处理: King's Choice (id=1545893395)
+2026-03-31 04:11:39,098 [INFO]   ✓ King's Choice | 价格: Free | 类别: Games
+2026-03-31 04:11:42,579 [INFO] [7644/8374] 处理: Guns of Glory: Lost Island (id=1274354704)
+2026-03-31 04:11:42,664 [INFO]   ✓ Guns of Glory: Lost Island | 价格: Free | 类别: Games
+2026-03-31 04:11:44,204 [INFO] [7645/8374] 处理: Forge Master – Idle RPG (id=6746636289)
+2026-03-31 04:11:44,337 [INFO]   ✓ Forge Master – Idle RPG | 价格: Free | 类别: Games
+2026-03-31 04:11:47,385 [INFO] [7646/8374] 处理: Game of Vampires: Twilight Sun (id=6469515429)
+2026-03-31 04:11:47,536 [INFO]   ✓ Game of Vampires: Twilight Sun | 价格: Free | 类别: Games
+2026-03-31 04:11:50,203 [INFO] [7647/8374] 处理: Idle Heroes - Idle Games (id=1153461915)
+2026-03-31 04:11:50,291 [INFO]   ✓ Idle Heroes - Idle Games | 价格: Free | 类别: Games
+2026-03-31 04:11:51,905 [INFO] [7648/8374] 处理: Rise of Castles: Fire and War (id=1411917616)
+2026-03-31 04:11:51,992 [INFO]   ✓ Rise of Castles: Fire and War | 价格: Free | 类别: Games
+2026-03-31 04:11:54,881 [INFO] [7649/8374] 处理: Highrise: Dress Up Avatar Game (id=924589795)
+2026-03-31 04:11:55,069 [INFO]   ✓ Highrise: Dress Up Avatar Game | 价格: Free | 类别: Games
+2026-03-31 04:11:57,767 [INFO] [7650/8374] 处理: State of Survival: Zombie War (id=1452474937)
+2026-03-31 04:11:57,903 [INFO]   ✓ State of Survival: Zombie War | 价格: Free | 类别: Games
+2026-03-31 04:12:00,817 [INFO] [7651/8374] 处理: Star Trek Fleet Command (id=1427744264)
+2026-03-31 04:12:01,020 [INFO]   ✓ Star Trek Fleet Command | 价格: Free | 类别: Games
+2026-03-31 04:12:03,588 [INFO] [7652/8374] 处理: Isekai:Slow Life (id=6449289088)
+2026-03-31 04:12:03,738 [INFO]   ✓ Isekai:Slow Life | 价格: Free | 类别: Games
+2026-03-31 04:12:06,235 [INFO] [7653/8374] 处理: Last Shelter: Survival (id=1342290011)
+2026-03-31 04:12:06,318 [INFO]   ✓ Last Shelter: Survival | 价格: Free | 类别: Games
+2026-03-31 04:12:07,848 [INFO] [7654/8374] 处理: Frost & Flame: King of Avalon (id=1084930849)
+2026-03-31 04:12:08,053 [INFO]   ✓ Frost & Flame: King of Avalon | 价格: Free | 类别: Games
+2026-03-31 04:12:11,366 [INFO] [7655/8374] 处理: BrownDust2 - Full Burst RPG (id=6450099588)
+2026-03-31 04:12:11,535 [INFO]   ✓ BrownDust2 - Full Burst RPG | 价格: Free | 类别: Games
+2026-03-31 04:12:13,130 [INFO] [7656/8374] 处理: Warhammer 40,000: Tacticus ™ (id=1599937506)
+2026-03-31 04:12:13,207 [INFO]   ✓ Warhammer 40,000: Tacticus ™ | 价格: Free | 类别: Games
+2026-03-31 04:12:15,350 [INFO] [7657/8374] 处理: MapleStory M: Fantasy MMORPG (id=1290086677)
+2026-03-31 04:12:15,474 [INFO]   ✓ MapleStory M: Fantasy MMORPG | 价格: Free | 类别: Games
+2026-03-31 04:12:17,971 [INFO] [7658/8374] 处理: Overmortal-Idle RPG (id=6450879111)
+2026-03-31 04:12:18,093 [INFO]   ✓ Overmortal-Idle RPG | 价格: Free | 类别: Games
+2026-03-31 04:12:21,175 [INFO] [7659/8374] 处理: Influencer Story: Rise to Fame (id=6593673337)
+2026-03-31 04:12:21,355 [INFO]   ✓ Influencer Story: Rise to Fame | 价格: Free | 类别: Games
+2026-03-31 04:12:23,771 [INFO] [7660/8374] 处理: Fire Emblem Heroes (id=1181774280)
+2026-03-31 04:12:23,952 [INFO]   ✓ Fire Emblem Heroes | 价格: Free | 类别: Games
+2026-03-31 04:12:27,169 [INFO] [7661/8374] 处理: Choices: Stories You Play (id=1071310449)
+2026-03-31 04:12:27,379 [INFO]   ✓ Choices: Stories You Play | 价格: Free | 类别: Games
+2026-03-31 04:12:30,301 [INFO] [7662/8374] 处理: Epic Seven (id=1322399438)
+2026-03-31 04:12:30,380 [INFO]   ✓ Epic Seven | 价格: Free | 类别: Games
+2026-03-31 04:12:33,438 [INFO] [7663/8374] 处理: Avakin Life: 3D Avatar Creator (id=740737088)
+2026-03-31 04:12:33,610 [INFO]   ✓ Avakin Life: 3D Avatar Creator | 价格: Free | 类别: Games
+2026-03-31 04:12:35,564 [INFO] [7664/8374] 处理: Lootfiend: Idle Dungeons (id=6751641922)
+2026-03-31 04:12:35,724 [INFO]   ✓ Lootfiend: Idle Dungeons | 价格: Free | 类别: Games
+2026-03-31 04:12:37,301 [INFO] [7665/8374] 处理: Viking Rise (id=6443577184)
+2026-03-31 04:12:37,447 [INFO]   ✓ Viking Rise | 价格: Free | 类别: Games
+2026-03-31 04:12:39,823 [INFO] [7666/8374] 处理: Reverse: 1999 (id=1672933190)
+2026-03-31 04:12:39,992 [INFO]   ✓ Reverse: 1999 | 价格: Free | 类别: Games
+2026-03-31 04:12:42,406 [INFO] [7667/8374] 处理: Covet Fashion: Dress Up Game (id=620112416)
+2026-03-31 04:12:42,550 [INFO]   ✓ Covet Fashion: Dress Up Game | 价格: Free | 类别: Games
+2026-03-31 04:12:44,635 [INFO] [7668/8374] 处理: LUDUS・Strategy PvP Card Battle (id=6446642912)
+2026-03-31 04:12:44,775 [INFO]   ✓ LUDUS・Strategy PvP Card Battle | 价格: Free | 类别: Games
+2026-03-31 04:12:47,216 [INFO] [7669/8374] 处理: Wasteland Life: Survival Idle (id=6469495213)
+2026-03-31 04:12:47,372 [INFO]   ✓ Wasteland Life: Survival Idle | 价格: Free | 类别: Games
+2026-03-31 04:12:50,451 [INFO] [7670/8374] 处理: Pixel Rumble (id=6751221730)
+2026-03-31 04:12:50,596 [INFO]   ✓ Pixel Rumble | 价格: Free | 类别: Games
+2026-03-31 04:12:52,345 [INFO] [7671/8374] 处理: Shop Titans: Crafting Tycoon (id=1361253233)
+2026-03-31 04:12:52,551 [INFO]   ✓ Shop Titans: Crafting Tycoon | 价格: Free | 类别: Games
+2026-03-31 04:12:55,829 [INFO] [7672/8374] 处理: Clash of Kings - CoK (id=945274928)
+2026-03-31 04:12:55,959 [INFO]   ✓ Clash of Kings - CoK | 价格: Free | 类别: Games
+2026-03-31 04:12:59,379 [INFO] [7673/8374] 处理: Grand Summoners - Anime RPG (id=1329917539)
+2026-03-31 04:12:59,454 [INFO]   ✓ Grand Summoners - Anime RPG | 价格: Free | 类别: Games
+2026-03-31 04:13:01,391 [INFO] [7674/8374] 处理: Heroes of History: Epic Empire (id=6468993261)
+2026-03-31 04:13:01,527 [INFO]   ✓ Heroes of History: Epic Empire | 价格: Free | 类别: Games
+2026-03-31 04:13:03,566 [INFO] [7675/8374] 处理: Papa's Donuteria To Go! (id=1462324486)
+2026-03-31 04:13:03,656 [INFO]   ✓ Papa's Donuteria To Go! | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:07,369 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:13:07,371 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:13:10,362 [INFO] [7676/8374] 处理: Papa's Cluckeria To Go! (id=1591627945)
+2026-03-31 04:13:10,490 [INFO]   ✓ Papa's Cluckeria To Go! | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:12,801 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:13:12,802 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:13:16,095 [INFO] [7677/8374] 处理: Papa's Cheeseria To Go! (id=1477229754)
+2026-03-31 04:13:16,239 [INFO]   ✓ Papa's Cheeseria To Go! | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:19,912 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:13:19,913 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:13:22,348 [INFO] [7678/8374] 处理: Papa's Bakeria To Go! (id=1491196899)
+2026-03-31 04:13:22,476 [INFO]   ✓ Papa's Bakeria To Go! | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:26,412 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:13:26,413 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:13:28,602 [INFO] [7679/8374] 处理: Papa's Hot Doggeria To Go! (id=1292787392)
+2026-03-31 04:13:28,821 [INFO]   ✓ Papa's Hot Doggeria To Go! | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:32,943 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:13:32,944 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:13:35,421 [INFO] [7680/8374] 处理: Farming Simulator 23 Mobile (id=6444400410)
+2026-03-31 04:13:35,503 [INFO]   ✓ Farming Simulator 23 Mobile | 价格: $7.99 | 类别: Games
+2026-03-31 04:13:37,792 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:13:37,794 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:13:40,680 [INFO] [7681/8374] 处理: Rebel Inc. (id=1439187947)
+2026-03-31 04:13:40,821 [INFO]   ✓ Rebel Inc. | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:44,012 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:13:44,013 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:13:47,208 [INFO] [7682/8374] 处理: American Farming (id=1626202774)
+2026-03-31 04:13:47,302 [INFO]   ✓ American Farming | 价格: $7.99 | 类别: Games
+2026-03-31 04:13:49,374 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:13:49,375 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:13:52,057 [INFO] [7683/8374] 处理: Papa's Pastaria To Go! (id=1518055618)
+2026-03-31 04:13:52,214 [INFO]   ✓ Papa's Pastaria To Go! | 价格: $1.99 | 类别: Games
+2026-03-31 04:13:55,234 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 04:13:55,235 [INFO]   ✓ 内购: 6 项
+2026-03-31 04:13:58,127 [INFO] [7684/8374] 处理: Mini Metro (id=837860959)
+2026-03-31 04:13:58,210 [INFO]   ✓ Mini Metro | 价格: $3.99 | 类别: Games
+2026-03-31 04:14:03,180 [INFO] [7685/8374] 处理: RollerCoaster Tycoon® Classic (id=1113736426)
+2026-03-31 04:14:03,269 [INFO]   ✓ RollerCoaster Tycoon® Classic | 价格: $5.99 | 类别: Games
+2026-03-31 04:14:07,126 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 04:14:07,128 [INFO]   ✓ 内购: 3 项
+2026-03-31 04:14:10,348 [INFO] [7686/8374] 处理: Universal Paperclips™ (id=1300634274)
+2026-03-31 04:14:10,443 [INFO]   ✓ Universal Paperclips™ | 价格: $1.99 | 类别: Games
+2026-03-31 04:14:15,271 [INFO] [7687/8374] 处理: FNaF 6: Pizzeria Simulator (id=1455781522)
+2026-03-31 04:14:15,457 [INFO]   ✓ FNaF 6: Pizzeria Simulator | 价格: $2.99 | 类别: Games
+2026-03-31 04:14:17,640 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:14:17,641 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:14:19,799 [INFO] [7688/8374] 处理: Pocket City 2 (id=1533709428)
+2026-03-31 04:14:19,902 [INFO]   ✓ Pocket City 2 | 价格: $4.99 | 类别: Games
+2026-03-31 04:14:25,116 [INFO] [7689/8374] 处理: Pocket City (id=1330451888)
+2026-03-31 04:14:25,279 [INFO]   ✓ Pocket City | 价格: $2.99 | 类别: Games
+2026-03-31 04:14:30,432 [INFO] [7690/8374] 处理: Pocket GM 3: Football Sim (id=1645791169)
+2026-03-31 04:14:30,538 [INFO]   ✓ Pocket GM 3: Football Sim | 价格: $2.99 | 类别: Games
+2026-03-31 04:14:36,453 [INFO] [7691/8374] 处理: Age of History II (id=1453838527)
+2026-03-31 04:14:36,569 [INFO]   ✓ Age of History II | 价格: $4.99 | 类别: Games
+2026-03-31 04:14:42,390 [INFO] [7692/8374] 处理: OOTP Baseball 26 Go! (id=6466976437)
+2026-03-31 04:14:42,551 [INFO]   ✓ OOTP Baseball 26 Go! | 价格: $9.99 | 类别: Games
+2026-03-31 04:14:45,800 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:14:45,802 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:14:48,098 [INFO] [7693/8374] 处理: Skyship Quest Story (id=6752695239)
+2026-03-31 04:14:48,186 [INFO]   ✓ Skyship Quest Story | 价格: $6.99 | 类别: Games
+2026-03-31 04:14:52,232 [INFO] [7694/8374] 处理: SimplePlanes (id=823869162)
+2026-03-31 04:14:52,373 [INFO]   ✓ SimplePlanes | 价格: $5.99 | 类别: Games
+2026-03-31 04:14:58,695 [INFO] [7695/8374] 处理: ROME: Total War (id=1106831630)
+2026-03-31 04:14:58,900 [INFO]   ✓ ROME: Total War | 价格: $9.99 | 类别: Games
+2026-03-31 04:15:04,520 [INFO] [7696/8374] 处理: Escapists 2: Pocket Breakout (id=1356167732)
+2026-03-31 04:15:04,669 [INFO]   ✓ Escapists 2: Pocket Breakout | 价格: $6.99 | 类别: Games
+2026-03-31 04:15:11,147 [INFO] [7697/8374] 处理: Game Dev Tycoon (id=1162580001)
+2026-03-31 04:15:11,271 [INFO]   ✓ Game Dev Tycoon | 价格: $4.99 | 类别: Games
+2026-03-31 04:15:15,792 [INFO] [7698/8374] 处理: Age of History 3 (id=6686394372)
+2026-03-31 04:15:15,932 [INFO]   ✓ Age of History 3 | 价格: $6.99 | 类别: Games
+2026-03-31 04:15:23,103 [INFO] [7699/8374] 处理: Final Outpost: Definitive (id=6740482160)
+2026-03-31 04:15:23,191 [INFO]   ✓ Final Outpost: Definitive | 价格: $4.99 | 类别: Games
+2026-03-31 04:15:30,333 [INFO] [7700/8374] 处理: Boxing Career Simulator (id=6759349792)
+2026-03-31 04:15:30,473 [INFO]   ✓ Boxing Career Simulator | 价格: $0.79 | 类别: Games
+2026-03-31 04:15:34,920 [INFO] [7701/8374] 处理: Game Dev Story (id=396085661)
+2026-03-31 04:15:35,010 [INFO]   ✓ Game Dev Story | 价格: $4.99 | 类别: Games
+2026-03-31 04:15:41,455 [INFO] [7702/8374] 处理: Pocket GM: Basketball Sim (id=6476059372)
+2026-03-31 04:15:41,528 [INFO]   ✓ Pocket GM: Basketball Sim | 价格: $2.99 | 类别: Games
+2026-03-31 04:15:47,155 [INFO] [7703/8374] 处理: Tropico (id=1264531625)
+2026-03-31 04:15:47,308 [INFO]   ✓ Tropico | 价格: $12.99 | 类别: Games
+2026-03-31 04:15:51,128 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:15:51,129 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:15:53,127 [INFO] [7704/8374] 处理: Kittens Game (id=1198099725)
+2026-03-31 04:15:53,202 [INFO]   ✓ Kittens Game | 价格: $2.99 | 类别: Games
+2026-03-31 04:15:59,280 [INFO] [7705/8374] 处理: Atlantic Fleet (id=992425516)
+2026-03-31 04:15:59,497 [INFO]   ✓ Atlantic Fleet | 价格: $9.99 | 类别: Games
+2026-03-31 04:16:05,216 [INFO] [7706/8374] 处理: 8 Ball Pool™ (id=543186831)
+2026-03-31 04:16:05,373 [INFO]   ✓ 8 Ball Pool™ | 价格: Free | 类别: Games
+2026-03-31 04:16:07,430 [INFO] [7707/8374] 处理: Snake Clash! (id=6449243946)
+2026-03-31 04:16:07,598 [INFO]   ✓ Snake Clash! | 价格: Free | 类别: Games
+2026-03-31 04:16:10,441 [INFO] [7708/8374] 处理: Business Empire: RichMan (id=6451208928)
+2026-03-31 04:16:10,522 [INFO]   ✓ Business Empire: RichMan | 价格: Free | 类别: Games
+2026-03-31 04:16:12,665 [INFO] [7709/8374] 处理: EA SPORTS FC™ Mobile Soccer 26 (id=1094930513)
+2026-03-31 04:16:12,745 [INFO]   ✓ EA SPORTS FC™ Mobile Soccer 26 | 价格: Free | 类别: Games
+2026-03-31 04:16:15,277 [INFO] [7710/8374] 处理: Melon: Sandbox (id=1610874732)
+2026-03-31 04:16:15,407 [INFO]   ✓ Melon: Sandbox | 价格: Free | 类别: Games
+2026-03-31 04:16:18,271 [INFO] [7711/8374] 处理: Hoop Land (id=1605197976)
+2026-03-31 04:16:18,423 [INFO]   ✓ Hoop Land | 价格: Free | 类别: Games
+2026-03-31 04:16:20,637 [INFO] [7712/8374] 处理: Palmon: Survival (id=6739345737)
+2026-03-31 04:16:20,776 [INFO]   ✓ Palmon: Survival | 价格: Free | 类别: Games
+2026-03-31 04:16:23,438 [INFO] [7713/8374] 处理: Idle Miner Tycoon: Gold digger (id=1116645064)
+2026-03-31 04:16:23,527 [INFO]   ✓ Idle Miner Tycoon: Gold digger | 价格: Free | 类别: Games
+2026-03-31 04:16:26,383 [INFO] [7714/8374] 处理: My Leisure Time (id=6754582466)
+2026-03-31 04:16:26,456 [INFO]   ✓ My Leisure Time | 价格: Free | 类别: Games
+2026-03-31 04:16:28,062 [INFO] [7715/8374] 处理: YoYa Sparkle: Style Pop (id=6751027552)
+2026-03-31 04:16:28,159 [INFO]   ✓ YoYa Sparkle: Style Pop | 价格: Free | 类别: Games
+2026-03-31 04:16:30,019 [INFO] [7716/8374] 处理: Last Asylum: Plague (id=6756989323)
+2026-03-31 04:16:30,168 [INFO]   ✓ Last Asylum: Plague | 价格: Free | 类别: Games
+2026-03-31 04:16:31,922 [INFO] [7717/8374] 处理: Dreamy Room (id=6742221896)
+2026-03-31 04:16:31,998 [INFO]   ✓ Dreamy Room | 价格: Free | 类别: Games
+2026-03-31 04:16:35,096 [INFO] [7718/8374] 处理: Dream League Soccer 2026 (id=1462911602)
+2026-03-31 04:16:35,272 [INFO]   ✓ Dream League Soccer 2026 | 价格: Free | 类别: Games
+2026-03-31 04:16:37,117 [INFO] [7719/8374] 处理: Perfect Tidy (id=6689516283)
+2026-03-31 04:16:37,254 [INFO]   ✓ Perfect Tidy | 价格: Free | 类别: Games
+2026-03-31 04:16:39,203 [INFO] [7720/8374] 处理: MLB 9 Innings 26 (id=1059665257)
+2026-03-31 04:16:39,363 [INFO]   ✓ MLB 9 Innings 26 | 价格: Free | 类别: Games
+2026-03-31 04:16:42,580 [INFO] [7721/8374] 处理: Good Pizza, Great Pizza (id=911121200)
+2026-03-31 04:16:42,656 [INFO]   ✓ Good Pizza, Great Pizza | 价格: Free | 类别: Games
+2026-03-31 04:16:46,143 [INFO] [7722/8374] 处理: Teacher Simulator: Study Time! (id=1523627747)
+2026-03-31 04:16:46,237 [INFO]   ✓ Teacher Simulator: Study Time! | 价格: Free | 类别: Games
+2026-03-31 04:16:47,891 [INFO] [7723/8374] 处理: Design Family Life (id=6746701133)
+2026-03-31 04:16:47,970 [INFO]   ✓ Design Family Life | 价格: Free | 类别: Games
+2026-03-31 04:16:50,222 [INFO] [7724/8374] 处理: Last Furry: Survival (id=6756764667)
+2026-03-31 04:16:50,446 [INFO]   ✓ Last Furry: Survival | 价格: Free | 类别: Games
+2026-03-31 04:16:53,172 [INFO] [7725/8374] 处理: Vehicle Masters (id=6444705312)
+2026-03-31 04:16:53,361 [INFO]   ✓ Vehicle Masters | 价格: Free | 类别: Games
+2026-03-31 04:16:56,341 [INFO] [7726/8374] 处理: Rent Please! Landlord Sim (id=1645842987)
+2026-03-31 04:16:56,485 [INFO]   ✓ Rent Please! Landlord Sim | 价格: Free | 类别: Games
+2026-03-31 04:16:58,824 [INFO] [7727/8374] 处理: Golf Inc. Tycoon (id=1456108225)
+2026-03-31 04:16:59,058 [INFO]   ✓ Golf Inc. Tycoon | 价格: Free | 类别: Games
+2026-03-31 04:17:01,619 [INFO] [7728/8374] 处理: Retro Bowl (id=1478902583)
+2026-03-31 04:17:01,845 [INFO]   ✓ Retro Bowl | 价格: Free | 类别: Games
+2026-03-31 04:17:03,783 [INFO] [7729/8374] 处理: Makeup Stylist -DIY Salon game (id=1619719913)
+2026-03-31 04:17:03,858 [INFO]   ✓ Makeup Stylist -DIY Salon game | 价格: Free | 类别: Games
+2026-03-31 04:17:06,866 [INFO] [7730/8374] 处理: Good Coffee, Great Coffee (id=1603584945)
+2026-03-31 04:17:06,941 [INFO]   ✓ Good Coffee, Great Coffee | 价格: Free | 类别: Games
+2026-03-31 04:17:10,200 [INFO] [7731/8374] 处理: Roadside Empire: Gas station (id=6673911988)
+2026-03-31 04:17:10,384 [INFO]   ✓ Roadside Empire: Gas station | 价格: Free | 类别: Games
+2026-03-31 04:17:13,421 [INFO] [7732/8374] 处理: My Sticker Room - Decor Game (id=6743738094)
+2026-03-31 04:17:13,491 [INFO]   ✓ My Sticker Room - Decor Game | 价格: Free | 类别: Games
+2026-03-31 04:17:15,824 [INFO] [7733/8374] 处理: Train Ride (id=6479373224)
+2026-03-31 04:17:15,976 [INFO]   ✓ Train Ride | 价格: Free | 类别: Games
+2026-03-31 04:17:18,193 [INFO] [7734/8374] 处理: Happy Citizens - Mayor Sim (id=6745251520)
+2026-03-31 04:17:18,344 [INFO]   ✓ Happy Citizens - Mayor Sim | 价格: Free | 类别: Games
+2026-03-31 04:17:19,977 [INFO] [7735/8374] 处理: Solar Smash (id=1495723103)
+2026-03-31 04:17:20,105 [INFO]   ✓ Solar Smash | 价格: Free | 类别: Games
+2026-03-31 04:17:22,853 [INFO] [7736/8374] 处理: Madden NFL 26 Mobile Football (id=1512265589)
+2026-03-31 04:17:22,942 [INFO]   ✓ Madden NFL 26 Mobile Football | 价格: Free | 类别: Games
+2026-03-31 04:17:24,663 [INFO] [7737/8374] 处理: Traffic Cop 3D (id=1579072255)
+2026-03-31 04:17:24,862 [INFO]   ✓ Traffic Cop 3D | 价格: Free | 类别: Games
+2026-03-31 04:17:27,515 [INFO] [7738/8374] 处理: Cosplaydom (id=6755667284)
+2026-03-31 04:17:27,592 [INFO]   ✓ Cosplaydom | 价格: Free | 类别: Games
+2026-03-31 04:17:29,447 [INFO] [7739/8374] 处理: Love and Deepspace (id=6443467666)
+2026-03-31 04:17:29,519 [INFO]   ✓ Love and Deepspace | 价格: Free | 类别: Games
+2026-03-31 04:17:31,312 [INFO] [7740/8374] 处理: Golf Clash - Golfing Simulator (id=1089225191)
+2026-03-31 04:17:31,652 [INFO]   ✓ Golf Clash - Golfing Simulator | 价格: Free | 类别: Games
+2026-03-31 04:17:33,313 [INFO] [7741/8374] 处理: DC: Dark Legion™ (id=6479020757)
+2026-03-31 04:17:33,410 [INFO]   ✓ DC: Dark Legion™ | 价格: Free | 类别: Games
+2026-03-31 04:17:35,948 [INFO] [7742/8374] 处理: War and Order (id=1071744151)
+2026-03-31 04:17:36,022 [INFO]   ✓ War and Order | 价格: Free | 类别: Games
+2026-03-31 04:17:38,395 [INFO] [7743/8374] 处理: Sea War: Uboat Raid (id=6447612873)
+2026-03-31 04:17:38,465 [INFO]   ✓ Sea War: Uboat Raid | 价格: Free | 类别: Games
+2026-03-31 04:17:40,728 [INFO] [7744/8374] 处理: Lands of Jail (id=6738469826)
+2026-03-31 04:17:40,894 [INFO]   ✓ Lands of Jail | 价格: Free | 类别: Games
+2026-03-31 04:17:42,921 [INFO] [7745/8374] 处理: Infinity Kingdom (id=1487451427)
+2026-03-31 04:17:43,055 [INFO]   ✓ Infinity Kingdom | 价格: Free | 类别: Games
+2026-03-31 04:17:44,828 [INFO] [7746/8374] 处理: Supremacy: World War 3 (id=1510997559)
+2026-03-31 04:17:44,986 [INFO]   ✓ Supremacy: World War 3 | 价格: Free | 类别: Games
+2026-03-31 04:17:47,694 [INFO] [7747/8374] 处理: The Battle Cats (id=850057092)
+2026-03-31 04:17:47,826 [INFO]   ✓ The Battle Cats | 价格: Free | 类别: Games
+2026-03-31 04:17:49,366 [INFO] [7748/8374] 处理: Golf Rival - Multiplayer Game (id=1354796403)
+2026-03-31 04:17:49,459 [INFO]   ✓ Golf Rival - Multiplayer Game | 价格: Free | 类别: Games
+2026-03-31 04:17:51,132 [INFO] [7749/8374] 处理: Last Fortress: Underground (id=1540557475)
+2026-03-31 04:17:51,211 [INFO]   ✓ Last Fortress: Underground | 价格: Free | 类别: Games
+2026-03-31 04:17:53,738 [INFO] [7750/8374] 处理: Resident Evil Survival Unit (id=6744668327)
+2026-03-31 04:17:53,814 [INFO]   ✓ Resident Evil Survival Unit | 价格: Free | 类别: Games
+2026-03-31 04:17:56,242 [INFO] [7751/8374] 处理: Sea of Conquest: Pirate War (id=6463715971)
+2026-03-31 04:17:56,313 [INFO]   ✓ Sea of Conquest: Pirate War | 价格: Free | 类别: Games
+2026-03-31 04:17:58,010 [INFO] [7752/8374] 处理: West Game (id=1453356737)
+2026-03-31 04:17:58,092 [INFO]   ✓ West Game | 价格: Free | 类别: Games
+2026-03-31 04:18:01,056 [INFO] [7753/8374] 处理: Kingdom Clash：Medieval Defense (id=1611722542)
+2026-03-31 04:18:01,134 [INFO]   ✓ Kingdom Clash：Medieval Defense | 价格: Free | 类别: Games
+2026-03-31 04:18:03,541 [INFO] [7754/8374] 处理: Football Head Coach 26 - FHC (id=1566854514)
+2026-03-31 04:18:03,685 [INFO]   ✓ Football Head Coach 26 - FHC | 价格: Free | 类别: Games
+2026-03-31 04:18:05,360 [INFO] [7755/8374] 处理: SimCity BuildIt (id=913292932)
+2026-03-31 04:18:05,439 [INFO]   ✓ SimCity BuildIt | 价格: Free | 类别: Games
+2026-03-31 04:18:07,991 [INFO] [7756/8374] 处理: West Game II (id=6751625353)
+2026-03-31 04:18:08,075 [INFO]   ✓ West Game II | 价格: Free | 类别: Games
+2026-03-31 04:18:10,191 [INFO] [7757/8374] 处理: Idle Lumber Empire - Wood Game (id=1552153525)
+2026-03-31 04:18:10,340 [INFO]   ✓ Idle Lumber Empire - Wood Game | 价格: Free | 类别: Games
+2026-03-31 04:18:12,742 [INFO] [7758/8374] 处理: The Tower - Idle Tower Defense (id=1575590830)
+2026-03-31 04:18:12,997 [INFO]   ✓ The Tower - Idle Tower Defense | 价格: Free | 类别: Games
+2026-03-31 04:18:15,883 [INFO] [7759/8374] 处理: Ultimate Golf! (id=1475163222)
+2026-03-31 04:18:16,002 [INFO]   ✓ Ultimate Golf! | 价格: Free | 类别: Games
+2026-03-31 04:18:18,666 [INFO] [7760/8374] 处理: MeChat - Interactive Stories (id=1536157979)
+2026-03-31 04:18:18,816 [INFO]   ✓ MeChat - Interactive Stories | 价格: Free | 类别: Games
+2026-03-31 04:18:20,435 [INFO] [7761/8374] 处理: WGT Golf: Realistic Golf Game (id=672828590)
+2026-03-31 04:18:20,515 [INFO]   ✓ WGT Golf: Realistic Golf Game | 价格: Free | 类别: Games
+2026-03-31 04:18:23,665 [INFO] [7762/8374] 处理: The Walking Dead: Survivors (id=1514546586)
+2026-03-31 04:18:23,814 [INFO]   ✓ The Walking Dead: Survivors | 价格: Free | 类别: Games
+2026-03-31 04:18:26,462 [INFO] [7763/8374] 处理: The Ants: Underground Kingdom (id=1568415097)
+2026-03-31 04:18:26,590 [INFO]   ✓ The Ants: Underground Kingdom | 价格: Free | 类别: Games
+2026-03-31 04:18:29,569 [INFO] [7764/8374] 处理: Egg, Inc. (id=993492744)
+2026-03-31 04:18:29,708 [INFO]   ✓ Egg, Inc. | 价格: Free | 类别: Games
+2026-03-31 04:18:32,035 [INFO] [7765/8374] 处理: MLB 9 Innings Rivals 26 (id=1580691683)
+2026-03-31 04:18:32,114 [INFO]   ✓ MLB 9 Innings Rivals 26 | 价格: Free | 类别: Games
+2026-03-31 04:18:33,795 [INFO] [7766/8374] 处理: Game of Kings:The Blood Throne (id=1071673198)
+2026-03-31 04:18:33,874 [INFO]   ✓ Game of Kings:The Blood Throne | 价格: Free | 类别: Games
+2026-03-31 04:18:37,163 [INFO] [7767/8374] 处理: My Home My World™: Clean ASMR (id=1538377416)
+2026-03-31 04:18:37,243 [INFO]   ✓ My Home My World™: Clean ASMR | 价格: Free | 类别: Games
+2026-03-31 04:18:39,247 [INFO] [7768/8374] 处理: Pokémon Sleep (id=1579464667)
+2026-03-31 04:18:39,391 [INFO]   ✓ Pokémon Sleep | 价格: Free | 类别: Games
+2026-03-31 04:18:42,135 [INFO] [7769/8374] 处理: Merge Fables® (id=1564248355)
+2026-03-31 04:18:42,313 [INFO]   ✓ Merge Fables® | 价格: Free | 类别: Games
+2026-03-31 04:18:45,761 [INFO] [7770/8374] 处理: Venue: Relaxing Design Game (id=6443802883)
+2026-03-31 04:18:45,908 [INFO]   ✓ Venue: Relaxing Design Game | 价格: Free | 类别: Games
+2026-03-31 04:18:49,316 [INFO] [7771/8374] 处理: Merge County (id=1586279379)
+2026-03-31 04:18:49,475 [INFO]   ✓ Merge County | 价格: Free | 类别: Games
+2026-03-31 04:18:51,378 [INFO] [7772/8374] 处理: Top Eleven Be a Soccer Manager (id=459035295)
+2026-03-31 04:18:51,489 [INFO]   ✓ Top Eleven Be a Soccer Manager | 价格: Free | 类别: Games
+2026-03-31 04:18:54,965 [INFO] [7773/8374] 处理: Hospital Mania - Zoo Story (id=6736935683)
+2026-03-31 04:18:55,086 [INFO]   ✓ Hospital Mania - Zoo Story | 价格: Free | 类别: Games
+2026-03-31 04:18:57,420 [INFO] [7774/8374] 处理: YouRiding - Surf and Bodyboard (id=1586421941)
+2026-03-31 04:18:57,563 [INFO]   ✓ YouRiding - Surf and Bodyboard | 价格: $5.99 | 类别: Games
+2026-03-31 04:19:02,555 [INFO] [7775/8374] 处理: College Lacrosse 2019 (id=1323113803)
+2026-03-31 04:19:02,650 [INFO]   ✓ College Lacrosse 2019 | 价格: $4.99 | 类别: Games
+2026-03-31 04:19:06,832 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 04:19:06,833 [INFO]   ✓ 内购: 5 项
+2026-03-31 04:19:08,989 [INFO] [7776/8374] 处理: VelociDrone (id=1612444734)
+2026-03-31 04:19:09,118 [INFO]   ✓ VelociDrone | 价格: $7.99 | 类别: Games
+2026-03-31 04:19:15,433 [INFO] [7777/8374] 处理: Clay Hunt PRO (id=1170778553)
+2026-03-31 04:19:15,507 [INFO]   ✓ Clay Hunt PRO | 价格: $4.99 | 类别: Games
+2026-03-31 04:19:21,889 [INFO] [7778/8374] 处理: Cozy Golf (id=6744902829)
+2026-03-31 04:19:21,972 [INFO]   ✓ Cozy Golf | 价格: $1.99 | 类别: Games
+2026-03-31 04:19:26,718 [INFO] [7779/8374] 处理: Pocket GM 2: Football Sim (id=1530940107)
+2026-03-31 04:19:26,853 [INFO]   ✓ Pocket GM 2: Football Sim | 价格: $0.99 | 类别: Games
+2026-03-31 04:19:33,302 [INFO] [7780/8374] 处理: Boxing Gym Story (id=1538900393)
+2026-03-31 04:19:33,505 [INFO]   ✓ Boxing Gym Story | 价格: $6.99 | 类别: Games
+2026-03-31 04:19:38,146 [INFO] [7781/8374] 处理: Golf Peaks (id=1419542293)
+2026-03-31 04:19:38,304 [INFO]   ✓ Golf Peaks | 价格: $2.99 | 类别: Games
+2026-03-31 04:19:42,842 [INFO] [7782/8374] 处理: Pixel Cup Soccer - Ultimate (id=6452803093)
+2026-03-31 04:19:42,995 [INFO]   ✓ Pixel Cup Soccer - Ultimate | 价格: $4.99 | 类别: Games
+2026-03-31 04:19:48,047 [INFO] [7783/8374] 处理: Super Stickman Golf 2 (id=585259203)
+2026-03-31 04:19:48,121 [INFO]   ✓ Super Stickman Golf 2 | 价格: $0.99 | 类别: Games
+2026-03-31 04:19:51,150 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 04:19:51,151 [INFO]   ✓ 内购: 7 项
+2026-03-31 04:19:53,778 [INFO] [7784/8374] 处理: Basketball Club Story (id=1471323296)
+2026-03-31 04:19:53,849 [INFO]   ✓ Basketball Club Story | 价格: $5.99 | 类别: Games
+2026-03-31 04:19:59,645 [INFO] [7785/8374] 处理: Pro Wrestler Story (id=6505046490)
+2026-03-31 04:19:59,794 [INFO]   ✓ Pro Wrestler Story | 价格: $6.99 | 类别: Games
+2026-03-31 04:20:06,258 [INFO] [7786/8374] 处理: Backflip Madness 2 (id=1460431748)
+2026-03-31 04:20:06,347 [INFO]   ✓ Backflip Madness 2 | 价格: $1.99 | 类别: Games
+2026-03-31 04:20:13,658 [INFO] [7787/8374] 处理: LEATHER® (id=1467906167)
+2026-03-31 04:20:13,786 [INFO]   ✓ LEATHER® | 价格: $4.99 | 类别: Games
+2026-03-31 04:20:18,774 [INFO] [7788/8374] 处理: Prode Mundial 2026 (id=6759921952)
+2026-03-31 04:20:18,922 [INFO]   ✓ Prode Mundial 2026 | 价格: $0.99 | 类别: Games
+2026-03-31 04:20:24,552 [INFO] [7789/8374] 处理: Skating Rink Story (id=6738371720)
+2026-03-31 04:20:24,701 [INFO]   ✓ Skating Rink Story | 价格: $6.99 | 类别: Games
+2026-03-31 04:20:31,461 [INFO] [7790/8374] 处理: Concentration Grid (id=1066366174)
+2026-03-31 04:20:31,629 [INFO]   ✓ Concentration Grid | 价格: $0.99 | 类别: Games
+2026-03-31 04:20:38,027 [INFO] [7791/8374] 处理: Football Referee Simulator (id=1581640677)
+2026-03-31 04:20:38,102 [INFO]   ✓ Football Referee Simulator | 价格: $0.99 | 类别: Games
+2026-03-31 04:20:43,572 [INFO] [7792/8374] 处理: Par 1 Golf 6 (id=1551375836)
+2026-03-31 04:20:43,792 [INFO]   ✓ Par 1 Golf 6 | 价格: $0.99 | 类别: Games
+2026-03-31 04:20:48,233 [INFO] [7793/8374] 处理: Golfing Over It (id=1356172905)
+2026-03-31 04:20:48,535 [INFO]   ✓ Golfing Over It | 价格: $1.99 | 类别: Games
+2026-03-31 04:20:52,728 [INFO] [7794/8374] 处理: Zamboni Challenge (id=428592958)
+2026-03-31 04:20:52,848 [INFO]   ✓ Zamboni Challenge | 价格: $2.99 | 类别: Games
+2026-03-31 04:20:59,925 [INFO] [7795/8374] 处理: Real Badminton (id=580008932)
+2026-03-31 04:21:00,006 [INFO]   ✓ Real Badminton | 价格: $2.99 | 类别: Games
+2026-03-31 04:21:06,598 [INFO] [7796/8374] 处理: Punch Club (id=1024951378)
+2026-03-31 04:21:06,683 [INFO]   ✓ Punch Club | 价格: $4.99 | 类别: Games
+2026-03-31 04:21:12,972 [INFO] [7797/8374] 处理: Football Chairman Pro 2 (id=6499549945)
+2026-03-31 04:21:13,086 [INFO]   ✓ Football Chairman Pro 2 | 价格: $3.99 | 类别: Games
+2026-03-31 04:21:16,345 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 04:21:16,346 [INFO]   ✓ 内购: 5 项
+2026-03-31 04:21:18,992 [INFO] [7798/8374] 处理: PushSB (id=6737590049)
+2026-03-31 04:21:19,082 [INFO]   ✓ PushSB | 价格: $4.99 | 类别: Games
+2026-03-31 04:21:26,294 [INFO] [7799/8374] 处理: 10 Pin Shuffle Pro Bowling (id=316227296)
+2026-03-31 04:21:26,426 [INFO]   ✓ 10 Pin Shuffle Pro Bowling | 价格: $3.99 | 类别: Games
+2026-03-31 04:21:32,357 [INFO] [7800/8374] 处理: Air Hockey Black (id=1231966046)
+2026-03-31 04:21:32,497 [INFO]   ✓ Air Hockey Black | 价格: $0.99 | 类别: Games
+2026-03-31 04:21:37,463 [INFO] [7801/8374] 处理: Clash Caddie (id=1388535114)
+2026-03-31 04:21:37,601 [INFO]   ✓ Clash Caddie | 价格: $5.99 | 类别: Games
+2026-03-31 04:21:40,042 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 04:21:40,042 [INFO]   ✓ 内购: 7 项
+2026-03-31 04:21:41,935 [INFO] [7802/8374] 处理: Pixel Bowling (id=6759185988)
+2026-03-31 04:21:42,006 [INFO]   ✓ Pixel Bowling | 价格: $0.99 | 类别: Games
+2026-03-31 04:21:48,133 [INFO] [7803/8374] 处理: Pro Strategy Football 2025 (id=6729877429)
+2026-03-31 04:21:48,307 [INFO]   ✓ Pro Strategy Football 2025 | 价格: $9.99 | 类别: Games
+2026-03-31 04:21:54,423 [INFO] [7804/8374] 处理: Golf On Mars (id=1509500916)
+2026-03-31 04:21:54,523 [INFO]   ✓ Golf On Mars | 价格: $2.99 | 类别: Games
+2026-03-31 04:21:59,250 [INFO] [7805/8374] 处理: Shopping Cart Hero 5 (id=1160808427)
+2026-03-31 04:21:59,321 [INFO]   ✓ Shopping Cart Hero 5 | 价格: $3.99 | 类别: Games
+2026-03-31 04:22:01,577 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:22:01,578 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:22:04,485 [INFO] [7806/8374] 处理: Flick Golf! (id=400882072)
+2026-03-31 04:22:04,559 [INFO]   ✓ Flick Golf! | 价格: $0.99 | 类别: Games
+2026-03-31 04:22:06,774 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:22:06,775 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:22:10,203 [INFO] [7807/8374] 处理: Forest Golf Planner (id=1596204004)
+2026-03-31 04:22:10,274 [INFO]   ✓ Forest Golf Planner | 价格: $5.99 | 类别: Games
+2026-03-31 04:22:17,100 [INFO] [7808/8374] 处理: Ice Fishing Derby Premium (id=652138155)
+2026-03-31 04:22:17,238 [INFO]   ✓ Ice Fishing Derby Premium | 价格: $3.99 | 类别: Games
+2026-03-31 04:22:22,909 [INFO] [7809/8374] 处理: Absolute RC Plane Simulator (id=526919779)
+2026-03-31 04:22:22,983 [INFO]   ✓ Absolute RC Plane Simulator | 价格: $2.99 | 类别: Games
+2026-03-31 04:22:26,158 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:22:26,159 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:22:28,177 [INFO] [7810/8374] 处理: BIG TOURNAMENT GOLF ACA NEOGEO (id=1599004068)
+2026-03-31 04:22:28,360 [INFO]   ✓ BIG TOURNAMENT GOLF ACA NEOGEO | 价格: $3.99 | 类别: Games
+2026-03-31 04:22:33,903 [INFO] [7811/8374] 处理: Freediving Hunter Adrenaline (id=1444528905)
+2026-03-31 04:22:33,972 [INFO]   ✓ Freediving Hunter Adrenaline | 价格: $4.99 | 类别: Games
+2026-03-31 04:22:37,119 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 04:22:37,120 [INFO]   ✓ 内购: 3 项
+2026-03-31 04:22:39,617 [INFO] [7812/8374] 处理: Starters Orders horse racing (id=1604381144)
+2026-03-31 04:22:39,862 [INFO]   ✓ Starters Orders horse racing | 价格: $9.99 | 类别: Games
+2026-03-31 04:22:43,495 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 04:22:43,496 [INFO]   ✓ 内购: 4 项
+2026-03-31 04:22:46,192 [INFO] [7813/8374] 处理: Punch Out Mini (id=6756781168)
+2026-03-31 04:22:46,271 [INFO]   ✓ Punch Out Mini | 价格: $0.99 | 类别: Games
+2026-03-31 04:22:53,427 [INFO] [7814/8374] 处理: Deluxe Track&Field (id=542332532)
+2026-03-31 04:22:53,608 [INFO]   ✓ Deluxe Track&Field | 价格: $0.99 | 类别: Games
+2026-03-31 04:22:59,665 [INFO] [7815/8374] 处理: Retro Basketball Coach 2023 (id=6443587726)
+2026-03-31 04:22:59,941 [INFO]   ✓ Retro Basketball Coach 2023 | 价格: $1.99 | 类别: Games
+2026-03-31 04:23:06,593 [INFO] [7816/8374] 处理: Swiftly Soccer (id=1610108857)
+2026-03-31 04:23:06,693 [INFO]   ✓ Swiftly Soccer | 价格: $4.99 | 类别: Games
+2026-03-31 04:23:12,305 [INFO] [7817/8374] 处理: Timerball (id=6448892216)
+2026-03-31 04:23:12,462 [INFO]   ✓ Timerball | 价格: $0.99 | 类别: Games
+2026-03-31 04:23:16,919 [INFO] [7818/8374] 处理: WrestleVerse: Pro Wrestling GM (id=6502738747)
+2026-03-31 04:23:16,997 [INFO]   ✓ WrestleVerse: Pro Wrestling GM | 价格: $9.99 | 类别: Games
+2026-03-31 04:23:22,912 [INFO] [7819/8374] 处理: DiveChamp2 (id=1457275655)
+2026-03-31 04:23:23,041 [INFO]   ✓ DiveChamp2 | 价格: $0.99 | 类别: Games
+2026-03-31 04:23:25,655 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 04:23:25,656 [INFO]   ✓ 内购: 2 项
+2026-03-31 04:23:27,641 [INFO] [7820/8374] 处理: GL Golf (id=289559287)
+2026-03-31 04:23:27,778 [INFO]   ✓ GL Golf | 价格: $4.99 | 类别: Games
+2026-03-31 04:23:31,114 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:23:31,115 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:23:33,298 [INFO] [7821/8374] 处理: Flick Champions Classic (id=454741113)
+2026-03-31 04:23:33,368 [INFO]   ✓ Flick Champions Classic | 价格: $1.99 | 类别: Games
+2026-03-31 04:23:35,849 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:23:35,850 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:23:37,829 [INFO] [7822/8374] 处理: Summer Games 3D (id=431229633)
+2026-03-31 04:23:37,981 [INFO]   ✓ Summer Games 3D | 价格: $0.99 | 类别: Games
+2026-03-31 04:23:42,771 [INFO] [7823/8374] 处理: Cliff Diving Champ (id=582431926)
+2026-03-31 04:23:42,841 [INFO]   ✓ Cliff Diving Champ | 价格: $0.99 | 类别: Games
+2026-03-31 04:23:46,807 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 04:23:46,807 [INFO]   ✓ 内购: 3 项
+2026-03-31 04:23:48,904 [INFO] [7824/8374] 处理: Duck Life 1,2,3: Retro Pack (id=990157917)
+2026-03-31 04:23:49,028 [INFO]   ✓ Duck Life 1,2,3: Retro Pack | 价格: $2.99 | 类别: Games
+2026-03-31 04:23:54,213 [INFO] [7825/8374] 处理: PLL Top Shelf (id=1561636732)
+2026-03-31 04:23:54,401 [INFO]   ✓ PLL Top Shelf | 价格: $0.99 | 类别: Games
+2026-03-31 04:23:56,506 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 04:23:56,507 [INFO]   ✓ 内购: 3 项
+2026-03-31 04:23:58,114 [INFO] [7826/8374] 处理: College BBALL Coach (id=1182969424)
+2026-03-31 04:23:58,202 [INFO]   ✓ College BBALL Coach | 价格: $0.99 | 类别: Games
+2026-03-31 04:24:01,892 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 04:24:01,893 [INFO]   ✓ 内购: 9 项
+2026-03-31 04:24:03,794 [INFO] [7827/8374] 处理: In-Flight Assistant (id=1180642964)
+2026-03-31 04:24:03,872 [INFO]   ✓ In-Flight Assistant | 价格: $4.99 | 类别: Games
+2026-03-31 04:24:06,808 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 04:24:06,810 [INFO]   ✓ 内购: 4 项
+2026-03-31 04:24:08,361 [INFO] [7828/8374] 处理: Crux: The Great Outdoors (id=1590750590)
+2026-03-31 04:24:08,474 [INFO]   ✓ Crux: The Great Outdoors | 价格: $3.99 | 类别: Games
+2026-03-31 04:24:14,053 [INFO] [7829/8374] 处理: Chop Chop Soccer (id=382675103)
+2026-03-31 04:24:14,126 [INFO]   ✓ Chop Chop Soccer | 价格: $1.99 | 类别: Games
+2026-03-31 04:24:16,515 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 04:24:16,516 [INFO]   ✓ 内购: 5 项
+2026-03-31 04:24:18,190 [INFO] [7830/8374] 处理: Jumpy Horse Show Jumping (id=794884903)
+2026-03-31 04:24:18,359 [INFO]   ✓ Jumpy Horse Show Jumping | 价格: $9.99 | 类别: Games
+2026-03-31 04:24:22,657 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:24:22,658 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:24:24,896 [INFO] [7831/8374] 处理: Vegas Bowling Watch (id=1446771177)
+2026-03-31 04:24:25,105 [INFO]   ✓ Vegas Bowling Watch | 价格: $4.99 | 类别: Games
+2026-03-31 04:24:31,114 [INFO] [7832/8374] 处理: Where's The Play? (id=6642695702)
+2026-03-31 04:24:31,274 [INFO]   ✓ Where's The Play? | 价格: $1.99 | 类别: Games
+2026-03-31 04:24:36,166 [INFO] [7833/8374] 处理: Between The Ropes (id=6757284588)
+2026-03-31 04:24:36,309 [INFO]   ✓ Between The Ropes | 价格: $2.99 | 类别: Games
+2026-03-31 04:24:41,985 [INFO] [7834/8374] 处理: Home Run High (id=1232097854)
+2026-03-31 04:24:42,119 [INFO]   ✓ Home Run High | 价格: $4.99 | 类别: Games
+2026-03-31 04:24:46,814 [INFO] [7835/8374] 处理: Beach Games (id=668551961)
+2026-03-31 04:24:46,915 [INFO]   ✓ Beach Games | 价格: $0.99 | 类别: Games
+2026-03-31 04:24:50,055 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 04:24:50,056 [INFO]   ✓ 内购: 4 项
+2026-03-31 04:24:52,135 [INFO] [7836/8374] 处理: BASEBALL 9 (id=1340866223)
+2026-03-31 04:24:52,211 [INFO]   ✓ BASEBALL 9 | 价格: Free | 类别: Games
+2026-03-31 04:24:53,909 [INFO] [7837/8374] 处理: MLB The Show Companion App (id=1537657167)
+2026-03-31 04:24:54,053 [INFO]   ✓ MLB The Show Companion App | 价格: Free | 类别: Games
+2026-03-31 04:24:56,477 [INFO] [7838/8374] 处理: Archery Clash! (id=6458097001)
+2026-03-31 04:24:56,624 [INFO]   ✓ Archery Clash! | 价格: Free | 类别: Games
+2026-03-31 04:24:59,521 [INFO] [7839/8374] 处理: NBA 2K26 MyTEAM (id=6746614437)
+2026-03-31 04:24:59,721 [INFO]   ✓ NBA 2K26 MyTEAM | 价格: Free | 类别: Games
+2026-03-31 04:25:02,972 [INFO] [7840/8374] 处理: MLB Clutch Hit Baseball 26 (id=1660693132)
+2026-03-31 04:25:03,133 [INFO]   ✓ MLB Clutch Hit Baseball 26 | 价格: Free | 类别: Games
+2026-03-31 04:25:06,340 [INFO] [7841/8374] 处理: Head Ball 2 - Soccer Game (id=1193933380)
+2026-03-31 04:25:06,429 [INFO]   ✓ Head Ball 2 - Soccer Game | 价格: Free | 类别: Games
+2026-03-31 04:25:08,557 [INFO] [7842/8374] 处理: Basketball Stars™: Multiplayer (id=976173170)
+2026-03-31 04:25:08,728 [INFO]   ✓ Basketball Stars™: Multiplayer | 价格: Free | 类别: Games
+2026-03-31 04:25:10,307 [INFO] [7843/8374] 处理: Stickman Hook (id=1435807944)
+2026-03-31 04:25:10,443 [INFO]   ✓ Stickman Hook | 价格: Free | 类别: Games
+2026-03-31 04:25:13,118 [INFO] [7844/8374] 处理: Beach Volley Clash (id=6448185657)
+2026-03-31 04:25:13,188 [INFO]   ✓ Beach Volley Clash | 价格: Free | 类别: Games
+2026-03-31 04:25:16,477 [INFO] [7845/8374] 处理: Block Blast - Puzzle Game 2026 (id=6756108727)
+2026-03-31 04:25:16,543 [INFO]   ✓ Block Blast - Puzzle Game 2026 | 价格: Free | 类别: Games
+2026-03-31 04:25:19,731 [INFO] [7846/8374] 处理: Score! Hero (id=847492141)
+2026-03-31 04:25:19,873 [INFO]   ✓ Score! Hero | 价格: Free | 类别: Games
+2026-03-31 04:25:23,244 [INFO] [7847/8374] 处理: Darts Club: PvP Multiplayer (id=1389760587)
+2026-03-31 04:25:23,392 [INFO]   ✓ Darts Club: PvP Multiplayer | 价格: Free | 类别: Games
+2026-03-31 04:25:25,490 [INFO] [7848/8374] 处理: Mini Golf Club PvP Multiplayer (id=6741755675)
+2026-03-31 04:25:25,761 [INFO]   ✓ Mini Golf Club PvP Multiplayer | 价格: Free | 类别: Games
+2026-03-31 04:25:28,448 [INFO] [7849/8374] 处理: Skyline Bowling (id=6450975412)
+2026-03-31 04:25:28,613 [INFO]   ✓ Skyline Bowling | 价格: Free | 类别: Games
+2026-03-31 04:25:31,042 [INFO] [7850/8374] 处理: Dribble Hoops (id=1489188581)
+2026-03-31 04:25:31,220 [INFO]   ✓ Dribble Hoops | 价格: Free | 类别: Games
+2026-03-31 04:25:33,839 [INFO] [7851/8374] 处理: Flip Diving (id=1045516045)
+2026-03-31 04:25:33,927 [INFO]   ✓ Flip Diving | 价格: Free | 类别: Games
+2026-03-31 04:25:35,792 [INFO] [7852/8374] 处理: Golf Dreams (id=1551178669)
+2026-03-31 04:25:35,938 [INFO]   ✓ Golf Dreams | 价格: Free | 类别: Games
+2026-03-31 04:25:39,366 [INFO] [7853/8374] 处理: EA SPORTS™ NBA LIVE Mobile (id=1055502792)
+2026-03-31 04:25:39,442 [INFO]   ✓ EA SPORTS™ NBA LIVE Mobile | 价格: Free | 类别: Games
+2026-03-31 04:25:42,529 [INFO] [7854/8374] 处理: Super Goal: Fun Soccer Game (id=1612182545)
+2026-03-31 04:25:42,654 [INFO]   ✓ Super Goal: Fun Soccer Game | 价格: Free | 类别: Games
+2026-03-31 04:25:44,580 [INFO] [7855/8374] 处理: Basketball Arena - Sports Game (id=1491198695)
+2026-03-31 04:25:44,658 [INFO]   ✓ Basketball Arena - Sports Game | 价格: Free | 类别: Games
+2026-03-31 04:25:47,080 [INFO] [7856/8374] 处理: SkeeBoost: Ball Arcade Game (id=6449432839)
+2026-03-31 04:25:47,246 [INFO]   ✓ SkeeBoost: Ball Arcade Game | 价格: Free | 类别: Games
+2026-03-31 04:25:50,067 [INFO] [7857/8374] 处理: The Real Juggle: Soccer 2026 (id=1454567241)
+2026-03-31 04:25:50,136 [INFO]   ✓ The Real Juggle: Soccer 2026 | 价格: Free | 类别: Games
+2026-03-31 04:25:52,366 [INFO] [7858/8374] 处理: Bowling Crew — 3D Sport Game (id=1490240246)
+2026-03-31 04:25:52,510 [INFO]   ✓ Bowling Crew — 3D Sport Game | 价格: Free | 类别: Games
+2026-03-31 04:25:55,422 [INFO] [7859/8374] 处理: Touchgrind BMX 2 (id=1313179105)
+2026-03-31 04:25:55,510 [INFO]   ✓ Touchgrind BMX 2 | 价格: Free | 类别: Games
+2026-03-31 04:25:57,784 [INFO] [7860/8374] 处理: Fun Race 3D: Running & Parkour (id=1462556579)
+2026-03-31 04:25:57,865 [INFO]   ✓ Fun Race 3D: Running & Parkour | 价格: Free | 类别: Games
+2026-03-31 04:26:00,613 [INFO] [7861/8374] 处理: Golf Battle (id=1422866002)
+2026-03-31 04:26:00,690 [INFO]   ✓ Golf Battle | 价格: Free | 类别: Games
+2026-03-31 04:26:02,578 [INFO] [7862/8374] 处理: 8 Ball Strike: Play to Win (id=6755983977)
+2026-03-31 04:26:02,732 [INFO]   ✓ 8 Ball Strike: Play to Win | 价格: Free | 类别: Games
+2026-03-31 04:26:05,420 [INFO] [7863/8374] 处理: Real Boxing 2 (id=932779605)
+2026-03-31 04:26:05,575 [INFO]   ✓ Real Boxing 2 | 价格: Free | 类别: Games
+2026-03-31 04:26:08,806 [INFO] [7864/8374] 处理: Pool Tour - Pocket Billiards (id=1551772472)
+2026-03-31 04:26:08,881 [INFO]   ✓ Pool Tour - Pocket Billiards | 价格: Free | 类别: Games
+2026-03-31 04:26:12,141 [INFO] [7865/8374] 处理: Fishing Clash: Sport Simulator (id=1151811380)
+2026-03-31 04:26:12,235 [INFO]   ✓ Fishing Clash: Sport Simulator | 价格: Free | 类别: Games
+2026-03-31 04:26:14,307 [INFO] [7866/8374] 处理: Football Manager 26 Mobile (id=6446123740)
+2026-03-31 04:26:14,439 [INFO]   ✓ Football Manager 26 Mobile | 价格: Free | 类别: Games
+2026-03-31 04:26:17,476 [INFO] [7867/8374] 处理: Pooking - Billiards City (id=1299421779)
+2026-03-31 04:26:17,607 [INFO]   ✓ Pooking - Billiards City | 价格: Free | 类别: Games
+2026-03-31 04:26:20,471 [INFO] [7868/8374] 处理: Football Strike (id=1240162700)
+2026-03-31 04:26:20,555 [INFO]   ✓ Football Strike | 价格: Free | 类别: Games
+2026-03-31 04:26:22,827 [INFO] [7869/8374] 处理: RocketGoal.io - Soccer League (id=6756840716)
+2026-03-31 04:26:23,045 [INFO]   ✓ RocketGoal.io - Soccer League | 价格: Free | 类别: Games
+2026-03-31 04:26:26,221 [INFO] [7870/8374] 处理: Boss Fight. (id=6466986289)
+2026-03-31 04:26:26,311 [INFO]   ✓ Boss Fight. | 价格: Free | 类别: Games
+2026-03-31 04:26:28,503 [INFO] [7871/8374] 处理: Basketball Master: Slam Hero (id=6744168445)
+2026-03-31 04:26:28,585 [INFO]   ✓ Basketball Master: Slam Hero | 价格: Free | 类别: Games
+2026-03-31 04:26:30,117 [INFO] [7872/8374] 处理: Retro Bowl College (id=1632904520)
+2026-03-31 04:26:30,192 [INFO]   ✓ Retro Bowl College | 价格: Free | 类别: Games
+2026-03-31 04:26:32,755 [INFO] [7873/8374] 处理: Mini Soccer Star 2026 (id=1636072966)
+2026-03-31 04:26:32,846 [INFO]   ✓ Mini Soccer Star 2026 | 价格: Free | 类别: Games
+2026-03-31 04:26:34,945 [INFO] [7874/8374] 处理: Baseball Rising Star (id=6743102148)
+2026-03-31 04:26:35,161 [INFO]   ✓ Baseball Rising Star | 价格: Free | 类别: Games
+2026-03-31 04:26:37,557 [INFO] [7875/8374] 处理: Hockey All Stars 24 (id=6443469257)
+2026-03-31 04:26:37,637 [INFO]   ✓ Hockey All Stars 24 | 价格: Free | 类别: Games
+2026-03-31 04:26:39,413 [INFO] [7876/8374] 处理: Pixel Pro Baseball (id=1552219662)
+2026-03-31 04:26:39,504 [INFO]   ✓ Pixel Pro Baseball | 价格: Free | 类别: Games
+2026-03-31 04:26:41,085 [INFO] [7877/8374] 处理: Billipool-Ball Shooting (id=1489272834)
+2026-03-31 04:26:41,237 [INFO]   ✓ Billipool-Ball Shooting | 价格: Free | 类别: Games
+2026-03-31 04:26:43,880 [INFO] [7878/8374] 处理: Cornhole League (id=1534740597)
+2026-03-31 04:26:44,019 [INFO]   ✓ Cornhole League | 价格: Free | 类别: Games
+2026-03-31 04:26:47,167 [INFO] [7879/8374] 处理: Bitball Baseball (id=6563151595)
+2026-03-31 04:26:47,320 [INFO]   ✓ Bitball Baseball | 价格: Free | 类别: Games
+2026-03-31 04:26:50,557 [INFO] [7880/8374] 处理: Carrom Pool: Disc Game (id=1420551478)
+2026-03-31 04:26:50,686 [INFO]   ✓ Carrom Pool: Disc Game | 价格: Free | 类别: Games
+2026-03-31 04:26:52,616 [INFO] [7881/8374] 处理: Touchgrind Skate 2 (id=720068876)
+2026-03-31 04:26:52,790 [INFO]   ✓ Touchgrind Skate 2 | 价格: Free | 类别: Games
+2026-03-31 04:26:55,018 [INFO] [7882/8374] 处理: Real Chess 3D (id=1351939098)
+2026-03-31 04:26:55,097 [INFO]   ✓ Real Chess 3D | 价格: Free | 类别: Games
+2026-03-31 04:26:56,976 [INFO] [7883/8374] 处理: Mini Football - Soccer Game (id=1502383491)
+2026-03-31 04:26:57,117 [INFO]   ✓ Mini Football - Soccer Game | 价格: Free | 类别: Games
+2026-03-31 04:27:00,398 [INFO] [7884/8374] 处理: Flip Master (id=1214283838)
+2026-03-31 04:27:00,579 [INFO]   ✓ Flip Master | 价格: Free | 类别: Games
+2026-03-31 04:27:02,524 [INFO] [7885/8374] 处理: EA SPORTS FC™ 26 Companion (id=1127108818)
+2026-03-31 04:27:02,668 [INFO]   ✓ EA SPORTS FC™ 26 Companion | 价格: Free | 类别: Games
+2026-03-31 04:27:05,660 [INFO] [7886/8374] 处理: Go Fish! (id=1398987473)
+2026-03-31 04:27:05,827 [INFO]   ✓ Go Fish! | 价格: Free | 类别: Games
+2026-03-31 04:27:08,411 [INFO] [7887/8374] 处理: Baseball Boy! (id=1333523965)
+2026-03-31 04:27:08,602 [INFO]   ✓ Baseball Boy! | 价格: Free | 类别: Games
+2026-03-31 04:27:11,479 [INFO] [7888/8374] 处理: MADFUT 26 (id=6752884808)
+2026-03-31 04:27:11,609 [INFO]   ✓ MADFUT 26 | 价格: Free | 类别: Games
+2026-03-31 04:27:13,664 [INFO] [7889/8374] 处理: Football Battle - Touchdown! (id=1578801090)
+2026-03-31 04:27:13,733 [INFO]   ✓ Football Battle - Touchdown! | 价格: Free | 类别: Games
+2026-03-31 04:27:15,824 [INFO] [7890/8374] 处理: Infinity 8 Ball™ Pool King (id=1609032238)
+2026-03-31 04:27:15,927 [INFO]   ✓ Infinity 8 Ball™ Pool King | 价格: Free | 类别: Games
+2026-03-31 04:27:17,449 [INFO] [7891/8374] 处理: HAIKYU!! FLY HIGH (id=6737688139)
+2026-03-31 04:27:17,590 [INFO]   ✓ HAIKYU!! FLY HIGH | 价格: Free | 类别: Games
+2026-03-31 04:27:19,100 [INFO] [7892/8374] 处理: Topps Total Football® (id=1565131075)
+2026-03-31 04:27:19,243 [INFO]   ✓ Topps Total Football® | 价格: Free | 类别: Games
+2026-03-31 04:27:21,384 [INFO] [7893/8374] 处理: Disc Golf Valley (id=1454709572)
+2026-03-31 04:27:21,451 [INFO]   ✓ Disc Golf Valley | 价格: Free | 类别: Games
+2026-03-31 04:27:24,593 [INFO] [7894/8374] 处理: Griddy: Football Puzzles (id=6636555692)
+2026-03-31 04:27:24,661 [INFO]   ✓ Griddy: Football Puzzles | 价格: Free | 类别: Games
+2026-03-31 04:27:27,355 [INFO] [7895/8374] 处理: 컴투스프로야구2026 (id=880551258)
+2026-03-31 04:27:27,432 [INFO]   ✓ 컴투스프로야구2026 | 价格: Free | 类别: Games
+2026-03-31 04:27:29,759 [INFO] [7896/8374] 处理: WWE Mayhem (id=1237514483)
+2026-03-31 04:27:29,917 [INFO]   ✓ WWE Mayhem | 价格: Free | 类别: Games
+2026-03-31 04:27:32,582 [INFO] [7897/8374] 处理: PGA TOUR Golf Shootout (id=1446458226)
+2026-03-31 04:27:32,728 [INFO]   ✓ PGA TOUR Golf Shootout | 价格: Free | 类别: Games
+2026-03-31 04:27:34,562 [INFO] [7898/8374] 处理: 컴투스프로야구V26 (id=1458848044)
+2026-03-31 04:27:34,651 [INFO]   ✓ 컴투스프로야구V26 | 价格: Free | 类别: Games
+2026-03-31 04:27:37,944 [INFO] [7899/8374] 处理: BLUE LOCK PWC (id=6476623870)
+2026-03-31 04:27:38,022 [INFO]   ✓ BLUE LOCK PWC | 价格: Free | 类别: Games
+2026-03-31 04:27:39,977 [INFO] [7900/8374] 处理: Golf Blitz (id=1413826211)
+2026-03-31 04:27:40,096 [INFO]   ✓ Golf Blitz | 价格: Free | 类别: Games
+2026-03-31 04:27:42,623 [INFO] [7901/8374] 处理: Athletics Championship (id=1561798732)
+2026-03-31 04:27:42,862 [INFO]   ✓ Athletics Championship | 价格: Free | 类别: Games
+2026-03-31 04:27:44,667 [INFO] [7902/8374] 处理: NBA Infinite - PvP Basketball (id=1633590206)
+2026-03-31 04:27:44,798 [INFO]   ✓ NBA Infinite - PvP Basketball | 价格: Free | 类别: Games
+2026-03-31 04:27:47,313 [INFO] [7903/8374] 处理: Eras of Wrestling (id=6569255567)
+2026-03-31 04:27:47,380 [INFO]   ✓ Eras of Wrestling | 价格: Free | 类别: Games
+2026-03-31 04:27:49,019 [INFO] [7904/8374] 处理: The Program: College Football (id=1586374382)
+2026-03-31 04:27:49,184 [INFO]   ✓ The Program: College Football | 价格: Free | 类别: Games
+2026-03-31 04:27:51,577 [INFO] [7905/8374] 处理: Fishing Master (id=6471659176)
+2026-03-31 04:27:51,731 [INFO]   ✓ Fishing Master | 价格: Free | 类别: Games
+2026-03-31 04:27:54,904 [INFO] [7906/8374] 处理: Goal Battle - Soccer Games (id=6477293095)
+2026-03-31 04:27:54,992 [INFO]   ✓ Goal Battle - Soccer Games | 价格: Free | 类别: Games
+2026-03-31 04:27:56,632 [INFO] [7907/8374] 处理: Hooked Inc: Fishing Games (id=1436213906)
+2026-03-31 04:27:56,706 [INFO]   ✓ Hooked Inc: Fishing Games | 价格: Free | 类别: Games
+2026-03-31 04:27:59,851 [INFO] [7908/8374] 处理: Online Soccer Manager (OSM) (id=400201466)
+2026-03-31 04:27:59,981 [INFO]   ✓ Online Soccer Manager (OSM) | 价格: Free | 类别: Games
+2026-03-31 04:28:02,681 [INFO] [7909/8374] 处理: Ultimate Football Manager (id=6474134759)
+2026-03-31 04:28:02,758 [INFO]   ✓ Ultimate Football Manager | 价格: Free | 类别: Games
+2026-03-31 04:28:05,726 [INFO] [7910/8374] 处理: Ultimate Pro Football GM (id=1530542938)
+2026-03-31 04:28:05,850 [INFO]   ✓ Ultimate Pro Football GM | 价格: Free | 类别: Games
+2026-03-31 04:28:07,881 [INFO] [7911/8374] 处理: Boxing Star: Boxing Fight Game (id=1241887528)
+2026-03-31 04:28:08,027 [INFO]   ✓ Boxing Star: Boxing Fight Game | 价格: Free | 类别: Games
+2026-03-31 04:28:10,839 [INFO] [7912/8374] 处理: Ace Fishing: Wild Catch (id=694972182)
+2026-03-31 04:28:10,913 [INFO]   ✓ Ace Fishing: Wild Catch | 价格: Free | 类别: Games
+2026-03-31 04:28:13,604 [INFO] [7913/8374] 处理: Superstar Hockey (id=1556321339)
+2026-03-31 04:28:13,734 [INFO]   ✓ Superstar Hockey | 价格: Free | 类别: Games
+2026-03-31 04:28:16,907 [INFO] [7914/8374] 处理: Golf Impact - Real Golf Game (id=1532689217)
+2026-03-31 04:28:17,073 [INFO]   ✓ Golf Impact - Real Golf Game | 价格: Free | 类别: Games
+2026-03-31 04:28:18,993 [INFO] [7915/8374] 处理: World Robot Boxing (id=659425518)
+2026-03-31 04:28:19,133 [INFO]   ✓ World Robot Boxing | 价格: Free | 类别: Games
+2026-03-31 04:28:21,389 [INFO] [7916/8374] 处理: Soccer Manager 2026 - Football (id=6449935779)
+2026-03-31 04:28:21,522 [INFO]   ✓ Soccer Manager 2026 - Football | 价格: Free | 类别: Games
+2026-03-31 04:28:23,749 [INFO] [7917/8374] 处理: PBA® Bowling Challenge (id=657459418)
+2026-03-31 04:28:23,835 [INFO]   ✓ PBA® Bowling Challenge | 价格: Free | 类别: Games
+2026-03-31 04:28:26,356 [INFO] [7918/8374] 处理: Fishing Planet (id=1542220472)
+2026-03-31 04:28:26,426 [INFO]   ✓ Fishing Planet | 价格: Free | 类别: Games
+2026-03-31 04:28:28,641 [INFO] [7919/8374] 处理: ULT College Basketball Coach (id=6738276763)
+2026-03-31 04:28:28,709 [INFO]   ✓ ULT College Basketball Coach | 价格: Free | 类别: Games
+2026-03-31 04:28:32,069 [INFO] [7920/8374] 处理: Soccer Stars: Football Games (id=826523703)
+2026-03-31 04:28:32,224 [INFO]   ✓ Soccer Stars: Football Games | 价格: Free | 类别: Games
+2026-03-31 04:28:34,993 [INFO] [7921/8374] 处理: Mini Golf King - Multiplayer (id=1262262200)
+2026-03-31 04:28:35,134 [INFO]   ✓ Mini Golf King - Multiplayer | 价格: Free | 类别: Games
+2026-03-31 04:28:36,752 [INFO] [7922/8374] 处理: Ultimate 8 Ball Pool (id=1589311166)
+2026-03-31 04:28:36,919 [INFO]   ✓ Ultimate 8 Ball Pool | 价格: Free | 类别: Games
+2026-03-31 04:28:39,851 [INFO] [7923/8374] 处理: Equestrian the Game (id=1468871996)
+2026-03-31 04:28:39,926 [INFO]   ✓ Equestrian the Game | 价格: Free | 类别: Games
+2026-03-31 04:28:43,162 [INFO] [7924/8374] 处理: Basketrio: Allstar Streetball (id=1564040318)
+2026-03-31 04:28:43,299 [INFO]   ✓ Basketrio: Allstar Streetball | 价格: Free | 类别: Games
+2026-03-31 04:28:45,261 [INFO] [7925/8374] 处理: Touchdown - Football PvP Game (id=6748957494)
+2026-03-31 04:28:45,349 [INFO]   ✓ Touchdown - Football PvP Game | 价格: Free | 类别: Games
+2026-03-31 04:28:47,619 [INFO] [7926/8374] 处理: Total War: MEDIEVAL II (id=1477203766)
+2026-03-31 04:28:47,788 [INFO]   ✓ Total War: MEDIEVAL II | 价格: $14.99 | 类别: Games
+2026-03-31 04:28:50,251 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:28:50,252 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:28:52,846 [INFO] [7927/8374] 处理: Total War™: EMPIRE (id=6448530928)
+2026-03-31 04:28:52,986 [INFO]   ✓ Total War™: EMPIRE | 价格: $19.99 | 类别: Games
+2026-03-31 04:28:56,055 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:28:56,057 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:28:59,019 [INFO] [7928/8374] 处理: Backpack Battles (id=6572290447)
+2026-03-31 04:28:59,177 [INFO]   ✓ Backpack Battles | 价格: $9.99 | 类别: Games
+2026-03-31 04:29:05,872 [INFO] [7929/8374] 处理: Total War™: NAPOLEON (id=6744361551)
+2026-03-31 04:29:06,040 [INFO]   ✓ Total War™: NAPOLEON | 价格: $14.99 | 类别: Games
+2026-03-31 04:29:11,578 [INFO] [7930/8374] 处理: The Escapists: Prison Escape (id=1005658093)
+2026-03-31 04:29:11,679 [INFO]   ✓ The Escapists: Prison Escape | 价格: $4.99 | 类别: Games
+2026-03-31 04:29:16,179 [INFO] [7931/8374] 处理: RollerCoaster Tycoon® 3 (id=1008692660)
+2026-03-31 04:29:16,261 [INFO]   ✓ RollerCoaster Tycoon® 3 | 价格: $4.99 | 类别: Games
+2026-03-31 04:29:22,764 [INFO] [7932/8374] 处理: The Bonfire 2 Uncharted Shores (id=1448849222)
+2026-03-31 04:29:22,842 [INFO]   ✓ The Bonfire 2 Uncharted Shores | 价格: $4.99 | 类别: Games
+2026-03-31 04:29:28,433 [INFO] [7933/8374] 处理: State.io - Conquer the World (id=1559032748)
+2026-03-31 04:29:28,582 [INFO]   ✓ State.io - Conquer the World | 价格: Free | 类别: Games
+2026-03-31 04:29:31,804 [INFO] [7934/8374] 处理: Warpath: Ace Shooter (id=1529067679)
+2026-03-31 04:29:31,876 [INFO]   ✓ Warpath: Ace Shooter | 价格: Free | 类别: Games
+2026-03-31 04:29:33,780 [INFO] [7935/8374] 处理: Boom Blast: Doomsday (id=6532591623)
+2026-03-31 04:29:33,915 [INFO]   ✓ Boom Blast: Doomsday | 价格: Free | 类别: Games
+2026-03-31 04:29:36,274 [INFO] [7936/8374] 处理: Screw Out 3D: Nut Sort Jam (id=6747560860)
+2026-03-31 04:29:36,411 [INFO]   ✓ Screw Out 3D: Nut Sort Jam | 价格: Free | 类别: Games
+2026-03-31 04:29:39,332 [INFO] [7937/8374] 处理: Last Light: Wasteland (id=6754545818)
+2026-03-31 04:29:39,478 [INFO]   ✓ Last Light: Wasteland | 价格: Free | 类别: Games
+2026-03-31 04:29:41,127 [INFO] [7938/8374] 处理: Cooking Madness-Kitchen Frenzy (id=1323901884)
+2026-03-31 04:29:41,231 [INFO]   ✓ Cooking Madness-Kitchen Frenzy | 价格: Free | 类别: Games
+2026-03-31 04:29:44,710 [INFO] [7939/8374] 处理: Woodoku Blast: Block Puzzle (id=6608975929)
+2026-03-31 04:29:44,803 [INFO]   ✓ Woodoku Blast: Block Puzzle | 价格: Free | 类别: Games
+2026-03-31 04:29:47,884 [INFO] [7940/8374] 处理: State Connect: Traffic Control (id=1590353335)
+2026-03-31 04:29:47,959 [INFO]   ✓ State Connect: Traffic Control | 价格: Free | 类别: Games
+2026-03-31 04:29:51,151 [INFO] [7941/8374] 处理: Avatar: Realms Collide (id=6479603752)
+2026-03-31 04:29:51,426 [INFO]   ✓ Avatar: Realms Collide | 价格: Free | 类别: Games
+2026-03-31 04:29:53,996 [INFO] [7942/8374] 处理: Atmosphere Trivia (id=1671630544)
+2026-03-31 04:29:54,167 [INFO]   ✓ Atmosphere Trivia | 价格: Free | 类别: Games
+2026-03-31 04:29:57,617 [INFO] [7943/8374] 处理: Boing Big Eyes (id=6749232570)
+2026-03-31 04:29:57,768 [INFO]   ✓ Boing Big Eyes | 价格: Free | 类别: Games
+2026-03-31 04:30:00,519 [INFO] [7944/8374] 处理: Bloons TD 6 NETFLIX (id=1671633204)
+2026-03-31 04:30:00,607 [INFO]   ✓ Bloons TD 6 NETFLIX | 价格: Free | 类别: Games
+2026-03-31 04:30:02,618 [INFO] [7945/8374] 处理: Brain Tile Battle (id=6757803555)
+2026-03-31 04:30:02,694 [INFO]   ✓ Brain Tile Battle | 价格: Free | 类别: Games
+2026-03-31 04:30:04,961 [INFO] [7946/8374] 处理: Games for Watch (id=987241690)
+2026-03-31 04:30:05,042 [INFO]   ✓ Games for Watch | 价格: Free | 类别: Games
+2026-03-31 04:30:07,754 [INFO] [7947/8374] 处理: Cooking City: Restaurant Games (id=1397824035)
+2026-03-31 04:30:07,907 [INFO]   ✓ Cooking City: Restaurant Games | 价格: Free | 类别: Games
+2026-03-31 04:30:11,306 [INFO] [7948/8374] 处理: Lichess (id=1662361230)
+2026-03-31 04:30:11,479 [INFO]   ✓ Lichess | 价格: Free | 类别: Games
+2026-03-31 04:30:13,336 [INFO] [7949/8374] 处理: Idle Guy: Life Simulator games (id=1612163874)
+2026-03-31 04:30:13,416 [INFO]   ✓ Idle Guy: Life Simulator games | 价格: Free | 类别: Games
+2026-03-31 04:30:15,768 [INFO] [7950/8374] 处理: Age of Empires Mobile (id=6476261995)
+2026-03-31 04:30:16,000 [INFO]   ✓ Age of Empires Mobile | 价格: Free | 类别: Games
+2026-03-31 04:30:18,994 [INFO] [7951/8374] 处理: Battle Bag: War Zone (id=6746075769)
+2026-03-31 04:30:19,130 [INFO]   ✓ Battle Bag: War Zone | 价格: Free | 类别: Games
+2026-03-31 04:30:20,797 [INFO] [7952/8374] 处理: Train Station 3 (id=6670169904)
+2026-03-31 04:30:20,933 [INFO]   ✓ Train Station 3 | 价格: Free | 类别: Games
+2026-03-31 04:30:23,169 [INFO] [7953/8374] 处理: Baldi's Basics Classic (id=1473998368)
+2026-03-31 04:30:23,423 [INFO]   ✓ Baldi's Basics Classic | 价格: Free | 类别: Games
+2026-03-31 04:30:26,851 [INFO] [7954/8374] 处理: Dice of Kalma: Dice Roguelike (id=6752259371)
+2026-03-31 04:30:27,087 [INFO]   ✓ Dice of Kalma: Dice Roguelike | 价格: Free | 类别: Games
+2026-03-31 04:30:28,843 [INFO] [7955/8374] 处理: States Builder: Trade Empire (id=6464049892)
+2026-03-31 04:30:28,953 [INFO]   ✓ States Builder: Trade Empire | 价格: Free | 类别: Games
+2026-03-31 04:30:31,398 [INFO] [7956/8374] 处理: Woodoku - Wood Block Puzzles (id=1496354836)
+2026-03-31 04:30:31,569 [INFO]   ✓ Woodoku - Wood Block Puzzles | 价格: Free | 类别: Games
+2026-03-31 04:30:33,106 [INFO] [7957/8374] 处理: Ice Haven (id=6758926494)
+2026-03-31 04:30:33,177 [INFO]   ✓ Ice Haven | 价格: Free | 类别: Games
+2026-03-31 04:30:35,632 [INFO] [7958/8374] 处理: War Inc: Rising (id=6747767390)
+2026-03-31 04:30:35,784 [INFO]   ✓ War Inc: Rising | 价格: Free | 类别: Games
+2026-03-31 04:30:38,693 [INFO] [7959/8374] 处理: Color Clash Arena (id=6475672172)
+2026-03-31 04:30:38,884 [INFO]   ✓ Color Clash Arena | 价格: Free | 类别: Games
+2026-03-31 04:30:41,192 [INFO] [7960/8374] 处理: Weed Inc: Idle Tycoon (id=1355866764)
+2026-03-31 04:30:41,387 [INFO]   ✓ Weed Inc: Idle Tycoon | 价格: Free | 类别: Games
+2026-03-31 04:30:44,669 [INFO] [7961/8374] 处理: Kiss of War (id=1465860096)
+2026-03-31 04:30:44,780 [INFO]   ✓ Kiss of War | 价格: Free | 类别: Games
+2026-03-31 04:30:46,795 [INFO] [7962/8374] 处理: The Grand Mafia (id=1471493354)
+2026-03-31 04:30:46,915 [INFO]   ✓ The Grand Mafia | 价格: Free | 类别: Games
+2026-03-31 04:30:49,520 [INFO] [7963/8374] 处理: Mafia City: War of Underworld (id=1235569398)
+2026-03-31 04:30:49,705 [INFO]   ✓ Mafia City: War of Underworld | 价格: Free | 类别: Games
+2026-03-31 04:30:52,252 [INFO] [7964/8374] 处理: Cooking Diary® Restaurant Game (id=1214763610)
+2026-03-31 04:30:52,329 [INFO]   ✓ Cooking Diary® Restaurant Game | 价格: Free | 类别: Games
+2026-03-31 04:30:54,336 [INFO] [7965/8374] 处理: Tarbaa - ترَبَّع (id=6499569262)
+2026-03-31 04:30:54,472 [INFO]   ✓ Tarbaa - ترَبَّع | 价格: $34.99 | 类别: Games
+2026-03-31 04:30:57,888 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 04:30:57,889 [INFO]   ✓ 内购: 3 项
+2026-03-31 04:30:59,644 [INFO] [7966/8374] 处理: Placid Plastic Duck Simulator (id=6742243377)
+2026-03-31 04:30:59,738 [INFO]   ✓ Placid Plastic Duck Simulator | 价格: $1.99 | 类别: Games
+2026-03-31 04:31:02,397 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 04:31:02,398 [INFO]   ✓ 内购: 8 项
+2026-03-31 04:31:05,709 [INFO] [7967/8374] 处理: Penny Dell Jumbo Crosswords – Crossword Puzzles for Everyone! (id=757072473)
+2026-03-31 04:31:05,941 [INFO]   ✓ Penny Dell Jumbo Crosswords – Crossword Puzzles for Everyone! | 价格: $4.99 | 类别: Games
+2026-03-31 04:31:10,045 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 04:31:10,047 [INFO]   ✓ 内购: 5 项
+2026-03-31 04:31:11,575 [INFO] [7968/8374] 处理: North America Country's States (id=1188125434)
+2026-03-31 04:31:11,682 [INFO]   ✓ North America Country's States | 价格: $0.99 | 类别: Games
+2026-03-31 04:31:17,901 [INFO] [7969/8374] 处理: Spell&Speak (id=540745022)
+2026-03-31 04:31:18,031 [INFO]   ✓ Spell&Speak | 价格: $1.99 | 类别: Games
+2026-03-31 04:31:22,864 [INFO] [7970/8374] 处理: The Moron Test 2 (id=479067148)
+2026-03-31 04:31:22,996 [INFO]   ✓ The Moron Test 2 | 价格: $0.99 | 类别: Games
+2026-03-31 04:31:30,117 [INFO] [7971/8374] 处理: Functional Groups in Chemistry (id=859802575)
+2026-03-31 04:31:30,252 [INFO]   ✓ Functional Groups in Chemistry | 价格: $0.99 | 类别: Games
+2026-03-31 04:31:33,359 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:31:33,360 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:31:35,843 [INFO] [7972/8374] 处理: Phrase Party! — Guess Phrases (id=306628397)
+2026-03-31 04:31:35,917 [INFO]   ✓ Phrase Party! — Guess Phrases | 价格: $1.99 | 类别: Games
+2026-03-31 04:31:38,010 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 04:31:38,011 [INFO]   ✓ 内购: 8 项
+2026-03-31 04:31:39,864 [INFO] [7973/8374] 处理: GeoGuesser 2 (id=1523549743)
+2026-03-31 04:31:39,999 [INFO]   ✓ GeoGuesser 2 | 价格: $2.99 | 类别: Games
+2026-03-31 04:31:45,098 [INFO] [7974/8374] 处理: Bible Bowl Practice (id=1299367293)
+2026-03-31 04:31:45,192 [INFO]   ✓ Bible Bowl Practice | 价格: $1.99 | 类别: Games
+2026-03-31 04:31:51,204 [INFO] [7975/8374] 处理: Trivia Snack (id=6755155863)
+2026-03-31 04:31:51,305 [INFO]   ✓ Trivia Snack | 价格: $1.99 | 类别: Games
+2026-03-31 04:31:56,744 [INFO] [7976/8374] 处理: Полная Эврика! Головоломка (id=918422770)
+2026-03-31 04:31:56,873 [INFO]   ✓ Полная Эврика! Головоломка | 价格: $0.99 | 类别: Games
+2026-03-31 04:32:02,320 [INFO] [7977/8374] 处理: Twice as Clever (id=1448698380)
+2026-03-31 04:32:02,390 [INFO]   ✓ Twice as Clever | 价格: $3.99 | 类别: Games
+2026-03-31 04:32:05,541 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:32:05,542 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:32:08,844 [INFO] [7978/8374] 处理: Coffee-Roaster (id=1475660279)
+2026-03-31 04:32:08,915 [INFO]   ✓ Coffee-Roaster | 价格: $3.99 | 类别: Games
+2026-03-31 04:32:14,508 [INFO] [7979/8374] 处理: Литератор PRO (id=1178973444)
+2026-03-31 04:32:14,583 [INFO]   ✓ Литератор PRO | 价格: $0.99 | 类别: Games
+2026-03-31 04:32:20,074 [INFO] [7980/8374] 处理: Car Trivia: Any Topic! (id=6757024865)
+2026-03-31 04:32:20,208 [INFO]   ✓ Car Trivia: Any Topic! | 价格: $2.99 | 类别: Games
+2026-03-31 04:32:22,252 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 04:32:22,253 [INFO]   ✓ 内购: 2 项
+2026-03-31 04:32:23,798 [INFO] [7981/8374] 处理: Interrogation: Deceived (id=1495159910)
+2026-03-31 04:32:23,868 [INFO]   ✓ Interrogation: Deceived | 价格: $3.99 | 类别: Games
+2026-03-31 04:32:28,308 [INFO] [7982/8374] 处理: Dirty Phrase Frenzy (id=791402347)
+2026-03-31 04:32:28,439 [INFO]   ✓ Dirty Phrase Frenzy | 价格: $0.99 | 类别: Games
+2026-03-31 04:32:34,851 [INFO] [7983/8374] 处理: Subwords: Word Game & Trivia (id=1205201517)
+2026-03-31 04:32:34,925 [INFO]   ✓ Subwords: Word Game & Trivia | 价格: $2.99 | 类别: Games
+2026-03-31 04:32:41,729 [INFO] [7984/8374] 处理: Majotori (id=1084967404)
+2026-03-31 04:32:41,909 [INFO]   ✓ Majotori | 价格: $2.99 | 类别: Games
+2026-03-31 04:32:46,613 [INFO] [7985/8374] 处理: The 1% Club World Challenge (id=6747707761)
+2026-03-31 04:32:46,715 [INFO]   ✓ The 1% Club World Challenge | 价格: $1.99 | 类别: Games
+2026-03-31 04:32:53,667 [INFO] [7986/8374] 处理: Concentration (universal) (id=503956942)
+2026-03-31 04:32:53,811 [INFO]   ✓ Concentration (universal) | 价格: $2.99 | 类别: Games
+2026-03-31 04:32:57,414 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 04:32:57,415 [INFO]   ✓ 内购: 9 项
+2026-03-31 04:32:59,953 [INFO] [7987/8374] 处理: Dino Merge: Idle Clicker Game (id=6502412177)
+2026-03-31 04:33:00,132 [INFO]   ✓ Dino Merge: Idle Clicker Game | 价格: $0.99 | 类别: Games
+2026-03-31 04:33:03,150 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:33:03,151 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:33:06,578 [INFO] [7988/8374] 处理: Brain Flip: Watch Quiz Game (id=6758226832)
+2026-03-31 04:33:06,717 [INFO]   ✓ Brain Flip: Watch Quiz Game | 价格: $1.99 | 类别: Games
+2026-03-31 04:33:12,455 [INFO] [7989/8374] 处理: Cessabit: a Stress Relief Game (id=1432204333)
+2026-03-31 04:33:12,611 [INFO]   ✓ Cessabit: a Stress Relief Game | 价格: $1.99 | 类别: Games
+2026-03-31 04:33:16,768 [INFO] [7990/8374] 处理: Clever Mixed (id=6476489377)
+2026-03-31 04:33:16,919 [INFO]   ✓ Clever Mixed | 价格: $3.99 | 类别: Games
+2026-03-31 04:33:22,126 [INFO] [7991/8374] 处理: Number Rush (Vargas Tech) (id=6760939617)
+2026-03-31 04:33:22,271 [INFO]   ✓ Number Rush (Vargas Tech) | 价格: $0.99 | 类别: Games
+2026-03-31 04:33:27,691 [INFO] [7992/8374] 处理: The Bible Trivia Game (id=442139789)
+2026-03-31 04:33:27,906 [INFO]   ✓ The Bible Trivia Game | 价格: $1.99 | 类别: Games
+2026-03-31 04:33:33,353 [INFO] [7993/8374] 处理: Грамотей PRO (id=796873021)
+2026-03-31 04:33:33,496 [INFO]   ✓ Грамотей PRO | 价格: $0.99 | 类别: Games
+2026-03-31 04:33:40,897 [INFO] [7994/8374] 处理: Mandarin Challenge (id=6741360584)
+2026-03-31 04:33:41,087 [INFO]   ✓ Mandarin Challenge | 价格: $0.49 | 类别: Games
+2026-03-31 04:33:44,146 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 04:33:44,147 [INFO]   ✓ 内购: 2 项
+2026-03-31 04:33:45,845 [INFO] [7995/8374] 处理: Logicals Pro (id=1041680820)
+2026-03-31 04:33:45,979 [INFO]   ✓ Logicals Pro | 价格: $1.99 | 类别: Games
+2026-03-31 04:33:50,097 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 04:33:50,098 [INFO]   ✓ 内购: 10 项
+2026-03-31 04:33:52,929 [INFO] [7996/8374] 处理: Word Games Pro (id=1484694586)
+2026-03-31 04:33:53,091 [INFO]   ✓ Word Games Pro | 价格: $3.99 | 类别: Games
+2026-03-31 04:33:59,502 [INFO] [7997/8374] 处理: Famous Composers of Classical Music: Portrait Quiz (id=1209743007)
+2026-03-31 04:33:59,706 [INFO]   ✓ Famous Composers of Classical Music: Portrait Quiz | 价格: $0.99 | 类别: Games
+2026-03-31 04:34:02,039 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 04:34:02,040 [INFO]   ✓ 内购: 1 项
+2026-03-31 04:34:04,541 [INFO] [7998/8374] 处理: Escape Team MDM (id=1615666474)
+2026-03-31 04:34:04,612 [INFO]   ✓ Escape Team MDM | 价格: $14.99 | 类别: Games
+2026-03-31 04:34:10,393 [INFO] [7999/8374] 处理: GuessPhrase Pro - Word Game (id=1481295291)
+2026-03-31 04:34:10,460 [INFO]   ✓ GuessPhrase Pro - Word Game | 价格: $2.99 | 类别: Games
+2026-03-31 04:34:16,305 [INFO] [8000/8374] 处理: Trivia Mexicano! : Charades (id=1340060131)
+2026-03-31 04:34:16,376 [INFO]   ✓ Trivia Mexicano! : Charades | 价格: $2.99 | 类别: Games
+2026-03-31 04:34:20,164 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 04:34:20,165 [INFO]   ✓ 内购: 4 项
+2026-03-31 04:34:23,620 [INFO] 历史价格已保存: 8868 条记录（本次新增/更新: 1000）
+2026-03-31 04:34:23,621 [INFO] 📌 进度已保存：下次从第 8001 个 App 开始（共 8374 个）
+2026-03-31 04:34:23,704 [INFO] HTML 已生成: index.html (8868 个 App)
+2026-03-31 04:34:23,706 [INFO] ============================================================
+2026-03-31 04:34:23,706 [INFO] 运行完成 | 成功: 1000 | 失败: 0 | 降价: 3 项
+2026-03-31 04:34:23,706 [INFO] 本次降价汇总:
+2026-03-31 04:34:23,706 [INFO]   [app] Throttle Tactics: Racing RPG - Throttle Tactics: Racing RPG: $1.99 → $0.99
+2026-03-31 04:34:23,706 [INFO]   [iap] Motorsport Manager 4 - Bundle: $9.99 → $4.99
+2026-03-31 04:34:23,706 [INFO]   [iap] Motorsport Manager Mobile 3 - Bundle: $9.99 → $4.99
+2026-03-31 04:34:23,706 [INFO] ============================================================
