@@ -44476,3 +44476,2240 @@
 2026-03-31 12:15:02,298 [INFO]   [iap] 8mm Vintage Camera - 8mm Pro: $39.99 → $9.99
 2026-03-31 12:15:02,298 [INFO]   [iap] ProShot - Donation: $4.99 → $0.99
 2026-03-31 12:15:02,298 [INFO] ============================================================
+2026-03-31 14:02:54,974 [INFO] ============================================================
+2026-03-31 14:02:54,974 [INFO] App Store 价格监控 启动 - 2026-03-31 14:02:54
+2026-03-31 14:02:54,974 [INFO] ============================================================
+2026-03-31 14:02:54,986 [INFO] 监控列表: 共 8374 个 App，本次处理 [3001~4000]，批大小: 1000
+2026-03-31 14:02:54,986 [INFO] 国家: us，内购抓取: True
+2026-03-31 14:02:55,057 [INFO] [3001/8374] 处理: C-MAP: Boating (id=967289980)
+2026-03-31 14:02:55,264 [INFO]   ✓ C-MAP: Boating | 价格: Free | 类别: Navigation
+2026-03-31 14:02:56,927 [INFO] [3002/8374] 处理: Location Changer: Loc Saver (id=6745719111)
+2026-03-31 14:02:57,034 [INFO]   ✓ Location Changer: Loc Saver | 价格: Free | 类别: Navigation
+2026-03-31 14:02:58,539 [INFO] [3003/8374] 处理: Share Location: Phone Tracker (id=1465999276)
+2026-03-31 14:02:58,639 [INFO]   ✓ Share Location: Phone Tracker | 价格: Free | 类别: Navigation
+2026-03-31 14:03:02,042 [INFO] [3004/8374] 处理: TomTom GO Expert: Truck GPS (id=884963367)
+2026-03-31 14:03:02,190 [INFO]   ✓ TomTom GO Expert: Truck GPS | 价格: Free | 类别: Navigation
+2026-03-31 14:03:03,716 [INFO] [3005/8374] 处理: Wikiloc - Trails of the World (id=432102730)
+2026-03-31 14:03:03,825 [INFO]   ✓ Wikiloc - Trails of the World | 价格: Free | 类别: Navigation
+2026-03-31 14:03:06,734 [INFO] [3006/8374] 处理: Villages GPS (id=765377272)
+2026-03-31 14:03:06,829 [INFO]   ✓ Villages GPS | 价格: Free | 类别: Navigation
+2026-03-31 14:03:09,972 [INFO] [3007/8374] 处理: Paddle Ways - Lets Go Paddling (id=1673590983)
+2026-03-31 14:03:10,075 [INFO]   ✓ Paddle Ways - Lets Go Paddling | 价格: Free | 类别: Navigation
+2026-03-31 14:03:12,630 [INFO] [3008/8374] 处理: Location Changer - Drop Pin (id=6755604715)
+2026-03-31 14:03:12,784 [INFO]   ✓ Location Changer - Drop Pin | 价格: Free | 类别: Navigation
+2026-03-31 14:03:14,573 [INFO] [3009/8374] 处理: Scenic Motorcycle Navigation (id=1089668246)
+2026-03-31 14:03:14,724 [INFO]   ✓ Scenic Motorcycle Navigation | 价格: Free | 类别: Navigation
+2026-03-31 14:03:17,316 [INFO] [3010/8374] 处理: Car Play Connect: Auto Sync (id=6751472670)
+2026-03-31 14:03:17,442 [INFO]   ✓ Car Play Connect: Auto Sync | 价格: Free | 类别: Navigation
+2026-03-31 14:03:19,129 [INFO] [3011/8374] 处理: Taximeter - Meter App (id=931234419)
+2026-03-31 14:03:19,236 [INFO]   ✓ Taximeter - Meter App | 价格: Free | 类别: Navigation
+2026-03-31 14:03:21,032 [INFO] [3012/8374] 处理: Ableton Note (id=1633243177)
+2026-03-31 14:03:21,178 [INFO]   ✓ Ableton Note | 价格: $6.99 | 类别: Music
+2026-03-31 14:03:25,200 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:03:25,201 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:03:27,720 [INFO] [3013/8374] 处理: PadLab - Live Pads (id=6759358968)
+2026-03-31 14:03:27,818 [INFO]   ✓ PadLab - Live Pads | 价格: $2.99 | 类别: Music
+2026-03-31 14:03:32,240 [INFO] [3014/8374] 处理: Cleartune (id=286799607)
+2026-03-31 14:03:32,385 [INFO]   ✓ Cleartune | 价格: $3.99 | 类别: Music
+2026-03-31 14:03:38,109 [INFO] [3015/8374] 处理: Note Rush: Music Reading Game (id=1083801827)
+2026-03-31 14:03:38,228 [INFO]   ✓ Note Rush: Music Reading Game | 价格: $8.99 | 类别: Music
+2026-03-31 14:03:44,445 [INFO] [3016/8374] 处理: forScore (id=363738376)
+2026-03-31 14:03:44,644 [INFO]   ✓ forScore | 价格: $24.99 | 类别: Music
+2026-03-31 14:03:48,875 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:03:48,876 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:03:51,962 [INFO] [3017/8374] 处理: Drum Tuner - iDrumTune Pro (id=1234266367)
+2026-03-31 14:03:52,159 [INFO]   ✓ Drum Tuner - iDrumTune Pro | 价格: $12.99 | 类别: Music
+2026-03-31 14:03:57,208 [INFO] [3018/8374] 处理: iStroboSoft (id=308296029)
+2026-03-31 14:03:57,355 [INFO]   ✓ iStroboSoft | 价格: $9.99 | 类别: Music
+2026-03-31 14:03:59,675 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:03:59,676 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:04:03,172 [INFO] [3019/8374] 处理: iTablaPro (id=337350026)
+2026-03-31 14:04:03,341 [INFO]   ✓ iTablaPro | 价格: $29.99 | 类别: Music
+2026-03-31 14:04:06,561 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:04:06,562 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:04:08,554 [INFO] [3020/8374] 处理: DJ Rehab Music (id=6752807769)
+2026-03-31 14:04:08,653 [INFO]   ✓ DJ Rehab Music | 价格: $4.99 | 类别: Music
+2026-03-31 14:04:13,694 [INFO] [3021/8374] 处理: Tempo - Metronome with Setlist (id=304731501)
+2026-03-31 14:04:13,801 [INFO]   ✓ Tempo - Metronome with Setlist | 价格: $2.99 | 类别: Music
+2026-03-31 14:04:16,691 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:04:16,692 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:04:18,822 [INFO] [3022/8374] 处理: Theory Lessons (id=493157418)
+2026-03-31 14:04:18,921 [INFO]   ✓ Theory Lessons | 价格: $2.99 | 类别: Music
+2026-03-31 14:04:24,607 [INFO] [3023/8374] 处理: Otoo (id=6759285903)
+2026-03-31 14:04:24,886 [INFO]   ✓ Otoo | 价格: $4.99 | 类别: Music
+2026-03-31 14:04:29,898 [INFO] [3024/8374] 处理: Guitar Pro (id=400666114)
+2026-03-31 14:04:30,055 [INFO]   ✓ Guitar Pro | 价格: $6.99 | 类别: Music
+2026-03-31 14:04:35,107 [INFO] [3025/8374] 处理: Evil Otto (id=6760843522)
+2026-03-31 14:04:35,207 [INFO]   ✓ Evil Otto | 价格: $2.99 | 类别: Music
+2026-03-31 14:04:39,611 [INFO] [3026/8374] 处理: BLEASS Peaks (id=6756374105)
+2026-03-31 14:04:39,727 [INFO]   ✓ BLEASS Peaks | 价格: $12.99 | 类别: Music
+2026-03-31 14:04:46,065 [INFO] [3027/8374] 处理: AeroPads - Pads & Soundscapes (id=1612952507)
+2026-03-31 14:04:46,178 [INFO]   ✓ AeroPads - Pads & Soundscapes | 价格: $5.99 | 类别: Music
+2026-03-31 14:04:48,792 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:04:48,793 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:04:51,373 [INFO] [3028/8374] 处理: SonoSequencr (id=967043604)
+2026-03-31 14:04:51,512 [INFO]   ✓ SonoSequencr | 价格: $2.99 | 类别: Music
+2026-03-31 14:04:54,596 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 14:04:54,597 [INFO]   ✓ 内购: 6 项
+2026-03-31 14:04:56,601 [INFO] [3029/8374] 处理: InTune – Tuning Practice (id=580791793)
+2026-03-31 14:04:56,756 [INFO]   ✓ InTune – Tuning Practice | 价格: $0.99 | 类别: Music
+2026-03-31 14:05:00,428 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:05:00,429 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:05:03,220 [INFO] [3030/8374] 处理: AutoPad — Ambient Pad Loops (id=1270890718)
+2026-03-31 14:05:03,374 [INFO]   ✓ AutoPad — Ambient Pad Loops | 价格: $6.99 | 类别: Music
+2026-03-31 14:05:05,576 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:05:05,577 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:05:07,937 [INFO] [3031/8374] 处理: Minimoog Model D Synthesizer (id=1339418001)
+2026-03-31 14:05:08,047 [INFO]   ✓ Minimoog Model D Synthesizer | 价格: $14.99 | 类别: Music
+2026-03-31 14:05:11,892 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 14:05:11,893 [INFO]   ✓ 内购: 9 项
+2026-03-31 14:05:14,311 [INFO] [3032/8374] 处理: Marvis Pro (id=1447768809)
+2026-03-31 14:05:14,460 [INFO]   ✓ Marvis Pro | 价格: $9.99 | 类别: Music
+2026-03-31 14:05:17,195 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:05:17,196 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:05:18,699 [INFO] [3033/8374] 处理: Tunable – Tuner & Metronome (id=608540795)
+2026-03-31 14:05:18,796 [INFO]   ✓ Tunable – Tuner & Metronome | 价格: $7.99 | 类别: Music
+2026-03-31 14:05:21,412 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 14:05:21,413 [INFO]   ✓ 内购: 4 项
+2026-03-31 14:05:23,956 [INFO] [3034/8374] 处理: Solo - Fretboard Visualization (id=1537057699)
+2026-03-31 14:05:24,054 [INFO]   ✓ Solo - Fretboard Visualization | 价格: $17.99 | 类别: Music
+2026-03-31 14:05:26,322 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:05:26,323 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:05:28,660 [INFO] [3035/8374] 处理: Smart Metronome & Tuner + (id=1077134281)
+2026-03-31 14:05:28,888 [INFO]   ✓ Smart Metronome & Tuner + | 价格: $3.99 | 类别: Music
+2026-03-31 14:05:36,019 [INFO] [3036/8374] 处理: Cubasis 3 - DAW & Music Studio (id=1207839273)
+2026-03-31 14:05:36,169 [INFO]   ✓ Cubasis 3 - DAW & Music Studio | 价格: $29.99 | 类别: Music
+2026-03-31 14:05:39,575 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:05:39,576 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:05:39,576 [INFO]   🔥 降价！共 10 项变动
+2026-03-31 14:05:39,576 [INFO]      [app] Cubasis 3 - DAW & Music Studio: $49.99 → $29.99
+2026-03-31 14:05:39,576 [INFO]      [iap] Waves Tune Real-Time: $4.99 → $2.49
+2026-03-31 14:05:39,576 [INFO]      [iap] Classic Machines: $6.99 → $3.49
+2026-03-31 14:05:39,576 [INFO]      [iap] Waves Plug-in Bundle: $19.99 → $9.99
+2026-03-31 14:05:39,576 [INFO]      [iap] FX Pack 1: Reverbs & Delays: $6.99 → $3.49
+2026-03-31 14:05:39,577 [INFO]      [iap] Micrologue ARP Arpeggiator: $4.99 → $2.49
+2026-03-31 14:05:39,577 [INFO]      [iap] FX Pack 2: Vintage FX: $6.99 → $3.49
+2026-03-31 14:05:39,577 [INFO]      [iap] HALion Sonic Selection: $19.99 → $14.99
+2026-03-31 14:05:39,577 [INFO]      [iap] FM Classics: $13.99 → $9.99
+2026-03-31 14:05:39,577 [INFO]      [iap] Neo FM: $13.99 → $9.99
+2026-03-31 14:05:42,761 [INFO] [3037/8374] 处理: Tuner T1 Pro (id=954982733)
+2026-03-31 14:05:42,922 [INFO]   ✓ Tuner T1 Pro | 价格: $4.99 | 类别: Music
+2026-03-31 14:05:47,985 [INFO] [3038/8374] 处理: AudioShare (id=543859300)
+2026-03-31 14:05:48,134 [INFO]   ✓ AudioShare | 价格: $4.99 | 类别: Music
+2026-03-31 14:05:54,898 [INFO] [3039/8374] 处理: AudioTools, dB, Sound & Audio (id=325307477)
+2026-03-31 14:05:55,064 [INFO]   ✓ AudioTools, dB, Sound & Audio | 价格: $19.99 | 类别: Music
+2026-03-31 14:05:58,846 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:05:58,847 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:06:01,326 [INFO] [3040/8374] 处理: Anytune Pro+: Studio Tools  (id=478293637)
+2026-03-31 14:06:01,484 [INFO]   ✓ Anytune Pro+: Studio Tools  | 价格: $14.99 | 类别: Music
+2026-03-31 14:06:04,557 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:06:04,559 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:06:07,889 [INFO] [3041/8374] 处理: Loopy HD: Looper (id=467923185)
+2026-03-31 14:06:08,053 [INFO]   ✓ Loopy HD: Looper | 价格: $4.99 | 类别: Music
+2026-03-31 14:06:15,604 [INFO] [3042/8374] 处理: Amazing Slow Downer (id=308998718)
+2026-03-31 14:06:15,715 [INFO]   ✓ Amazing Slow Downer | 价格: $14.99 | 类别: Music
+2026-03-31 14:06:22,299 [INFO] [3043/8374] 处理: Tonality: Music Theory (id=1467552236)
+2026-03-31 14:06:22,444 [INFO]   ✓ Tonality: Music Theory | 价格: $7.99 | 类别: Music
+2026-03-31 14:06:25,530 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:06:25,531 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:06:28,163 [INFO] [3044/8374] 处理: Spectra - Music Visualizer (id=1505140281)
+2026-03-31 14:06:28,312 [INFO]   ✓ Spectra - Music Visualizer | 价格: $1.99 | 类别: Music
+2026-03-31 14:06:34,797 [INFO] [3045/8374] 处理: Pano Tuner - Chromatic Tuner (id=348094874)
+2026-03-31 14:06:34,895 [INFO]   ✓ Pano Tuner - Chromatic Tuner | 价格: $1.99 | 类别: Music
+2026-03-31 14:06:41,150 [INFO] [3046/8374] 处理: Audyssey MultEQ Editor app (id=1210584625)
+2026-03-31 14:06:41,260 [INFO]   ✓ Audyssey MultEQ Editor app | 价格: $19.99 | 类别: Music
+2026-03-31 14:06:46,815 [INFO] [3047/8374] 处理: Salsa Rhythm (id=379868541)
+2026-03-31 14:06:46,914 [INFO]   ✓ Salsa Rhythm | 价格: $2.99 | 类别: Music
+2026-03-31 14:06:54,250 [INFO] [3048/8374] 处理: Time Trainer Metronome (id=502491350)
+2026-03-31 14:06:54,391 [INFO]   ✓ Time Trainer Metronome | 价格: $1.99 | 类别: Music
+2026-03-31 14:06:58,393 [INFO] [3049/8374] 处理: Vocal Pitch Monitor (id=842218231)
+2026-03-31 14:06:58,545 [INFO]   ✓ Vocal Pitch Monitor | 价格: $1.99 | 类别: Music
+2026-03-31 14:07:04,102 [INFO] [3050/8374] 处理: TuneIn Radio: Music & Sports (id=319295332)
+2026-03-31 14:07:04,263 [INFO]   ✓ TuneIn Radio: Music & Sports | 价格: $9.99 | 类别: Music
+2026-03-31 14:07:08,052 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:07:08,054 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:07:08,054 [INFO]   🔥 降价！共 3 项变动
+2026-03-31 14:07:08,054 [INFO]      [iap] TuneIn Premium: $9.99 → $7.99
+2026-03-31 14:07:08,054 [INFO]      [iap] TuneIn Premium: $9.99 → $1.99
+2026-03-31 14:07:08,054 [INFO]      [iap] TuneIn Premium: $9.99 → $1.99
+2026-03-31 14:07:10,776 [INFO] [3051/8374] 处理: VirtualDJ Remote (id=407160120)
+2026-03-31 14:07:10,874 [INFO]   ✓ VirtualDJ Remote | 价格: $9.99 | 类别: Music
+2026-03-31 14:07:16,513 [INFO] [3052/8374] 处理: In Progress: Local Music (id=6760368318)
+2026-03-31 14:07:16,625 [INFO]   ✓ In Progress: Local Music | 价格: $1.99 | 类别: Music
+2026-03-31 14:07:23,357 [INFO] [3053/8374] 处理: Tuner by Piascore (id=635644097)
+2026-03-31 14:07:23,455 [INFO]   ✓ Tuner by Piascore | 价格: $4.99 | 类别: Music
+2026-03-31 14:07:28,353 [INFO] [3054/8374] 处理: Amen Break Generator (Revived) (id=6467719500)
+2026-03-31 14:07:28,456 [INFO]   ✓ Amen Break Generator (Revived) | 价格: $3.99 | 类别: Music
+2026-03-31 14:07:35,282 [INFO] [3055/8374] 处理: AudioStretch (id=571863178)
+2026-03-31 14:07:35,429 [INFO]   ✓ AudioStretch | 价格: $9.99 | 类别: Music
+2026-03-31 14:07:42,230 [INFO] [3056/8374] 处理: Dark Park - Cinematic Synth (id=6760255481)
+2026-03-31 14:07:42,371 [INFO]   ✓ Dark Park - Cinematic Synth | 价格: $3.99 | 类别: Music
+2026-03-31 14:07:47,379 [INFO] [3057/8374] 处理: iTanpura (id=326115058)
+2026-03-31 14:07:47,476 [INFO]   ✓ iTanpura | 价格: $17.99 | 类别: Music
+2026-03-31 14:07:54,665 [INFO] [3058/8374] 处理: JULY - Analog Synth (id=6748565545)
+2026-03-31 14:07:54,820 [INFO]   ✓ JULY - Analog Synth | 价格: $12.99 | 类别: Music
+2026-03-31 14:08:00,644 [INFO] [3059/8374] 处理: play:Sub Music Streamer (id=955329386)
+2026-03-31 14:08:00,827 [INFO]   ✓ play:Sub Music Streamer | 价格: $4.99 | 类别: Music
+2026-03-31 14:08:04,252 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:08:04,253 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:08:06,306 [INFO] [3060/8374] 处理: Player for Watch (id=6446242162)
+2026-03-31 14:08:06,464 [INFO]   ✓ Player for Watch | 价格: $3.99 | 类别: Music
+2026-03-31 14:08:11,609 [INFO] [3061/8374] 处理: TwistedWave Audio Editor (id=401438496)
+2026-03-31 14:08:11,755 [INFO]   ✓ TwistedWave Audio Editor | 价格: $9.99 | 类别: Music
+2026-03-31 14:08:17,392 [INFO] [3062/8374] 处理: Apostolic C&V Pro (id=1467969863)
+2026-03-31 14:08:17,542 [INFO]   ✓ Apostolic C&V Pro | 价格: $1.99 | 类别: Music
+2026-03-31 14:08:23,689 [INFO] [3063/8374] 处理: PercussionTutor (id=518086179)
+2026-03-31 14:08:23,816 [INFO]   ✓ PercussionTutor | 价格: $14.99 | 类别: Music
+2026-03-31 14:08:28,763 [INFO] [3064/8374] 处理: Guitar: Fretboard Expert (id=1601293040)
+2026-03-31 14:08:28,873 [INFO]   ✓ Guitar: Fretboard Expert | 价格: $0.99 | 类别: Music
+2026-03-31 14:08:36,268 [INFO] [3065/8374] 处理: MobileSheets® (id=1620569987)
+2026-03-31 14:08:36,381 [INFO]   ✓ MobileSheets® | 价格: $15.99 | 类别: Music
+2026-03-31 14:08:41,240 [INFO] [3066/8374] 处理: SunVox (id=324462544)
+2026-03-31 14:08:41,385 [INFO]   ✓ SunVox | 价格: $5.99 | 类别: Music
+2026-03-31 14:08:46,329 [INFO] [3067/8374] 处理: Chord! (id=606691230)
+2026-03-31 14:08:46,434 [INFO]   ✓ Chord! | 价格: $4.99 | 类别: Music
+2026-03-31 14:08:53,202 [INFO] [3068/8374] 处理: RTA (id=298839433)
+2026-03-31 14:08:53,365 [INFO]   ✓ RTA | 价格: $4.99 | 类别: Music
+2026-03-31 14:08:56,834 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:08:56,836 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:08:59,387 [INFO] [3069/8374] 处理: GRFX - Granular Effects (id=6745477065)
+2026-03-31 14:08:59,486 [INFO]   ✓ GRFX - Granular Effects | 价格: $2.99 | 类别: Music
+2026-03-31 14:09:05,127 [INFO] [3070/8374] 处理: iMPC Pro 2 for iPhone (id=1413887036)
+2026-03-31 14:09:05,228 [INFO]   ✓ iMPC Pro 2 for iPhone | 价格: $12.99 | 类别: Music
+2026-03-31 14:09:10,620 [INFO] [3071/8374] 处理: 432 Player (id=633600716)
+2026-03-31 14:09:10,721 [INFO]   ✓ 432 Player | 价格: $5.99 | 类别: Music
+2026-03-31 14:09:14,676 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:09:14,677 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:09:16,230 [INFO] [3072/8374] 处理: Time Guru Metronome (id=421929034)
+2026-03-31 14:09:16,390 [INFO]   ✓ Time Guru Metronome | 价格: $2.99 | 类别: Music
+2026-03-31 14:09:22,367 [INFO] [3073/8374] 处理: Rhythm Sight Reading Trainer (id=396302174)
+2026-03-31 14:09:22,519 [INFO]   ✓ Rhythm Sight Reading Trainer | 价格: $3.99 | 类别: Music
+2026-03-31 14:09:28,130 [INFO] [3074/8374] 处理: Audio Evolution Mobile Studio (id=1094758623)
+2026-03-31 14:09:28,231 [INFO]   ✓ Audio Evolution Mobile Studio | 价格: $11.99 | 类别: Music
+2026-03-31 14:09:32,601 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:09:32,602 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:09:34,467 [INFO] [3075/8374] 处理: Piano Notes Fun (id=375618944)
+2026-03-31 14:09:34,568 [INFO]   ✓ Piano Notes Fun | 价格: $1.99 | 类别: Music
+2026-03-31 14:09:39,276 [INFO] [3076/8374] 处理: BeatCutter (id=1536114453)
+2026-03-31 14:09:39,411 [INFO]   ✓ BeatCutter | 价格: $15.99 | 类别: Music
+2026-03-31 14:09:45,294 [INFO] [3077/8374] 处理: Music Studio (id=328608539)
+2026-03-31 14:09:45,449 [INFO]   ✓ Music Studio | 价格: $14.99 | 类别: Music
+2026-03-31 14:09:49,039 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 14:09:49,041 [INFO]   ✓ 内购: 6 项
+2026-03-31 14:09:52,350 [INFO] [3078/8374] 处理: OnPitch - Vocal Pitch Monitor (id=1212118228)
+2026-03-31 14:09:52,458 [INFO]   ✓ OnPitch - Vocal Pitch Monitor | 价格: $2.99 | 类别: Music
+2026-03-31 14:09:59,301 [INFO] [3079/8374] 处理: Raw Tuner (id=6748946202)
+2026-03-31 14:09:59,417 [INFO]   ✓ Raw Tuner | 价格: $0.99 | 类别: Music
+2026-03-31 14:10:05,420 [INFO] [3080/8374] 处理: K7D - Tape Delay (id=1460245991)
+2026-03-31 14:10:05,572 [INFO]   ✓ K7D - Tape Delay | 价格: $2.99 | 类别: Music
+2026-03-31 14:10:10,131 [INFO] [3081/8374] 处理: Harmony Voice (id=532501340)
+2026-03-31 14:10:10,242 [INFO]   ✓ Harmony Voice | 价格: $4.99 | 类别: Music
+2026-03-31 14:10:15,025 [INFO] [3082/8374] 处理: XAir Monitor Mixer (id=1271279395)
+2026-03-31 14:10:15,173 [INFO]   ✓ XAir Monitor Mixer | 价格: $3.99 | 类别: Music
+2026-03-31 14:10:21,733 [INFO] [3083/8374] 处理: C.ARP (id=1481916004)
+2026-03-31 14:10:21,920 [INFO]   ✓ C.ARP | 价格: $9.99 | 类别: Music
+2026-03-31 14:10:27,532 [INFO] [3084/8374] 处理: Tempo Magic (id=390593407)
+2026-03-31 14:10:27,635 [INFO]   ✓ Tempo Magic | 价格: $5.99 | 类别: Music
+2026-03-31 14:10:33,284 [INFO] [3085/8374] 处理: SuperMetronome Groovebox Pro (id=590278208)
+2026-03-31 14:10:33,393 [INFO]   ✓ SuperMetronome Groovebox Pro | 价格: $6.99 | 类别: Music
+2026-03-31 14:10:40,008 [INFO] [3086/8374] 处理: Iconica Sketch - Orchestra app (id=6504404183)
+2026-03-31 14:10:40,116 [INFO]   ✓ Iconica Sketch - Orchestra app | 价格: $26.99 | 类别: Music
+2026-03-31 14:10:45,791 [INFO] [3087/8374] 处理: 432 & 528 Tuner (id=807438648)
+2026-03-31 14:10:45,910 [INFO]   ✓ 432 & 528 Tuner | 价格: $5.99 | 类别: Music
+2026-03-31 14:10:50,951 [INFO] [3088/8374] 处理: Drone Tuner (id=1326016622)
+2026-03-31 14:10:51,061 [INFO]   ✓ Drone Tuner | 价格: $9.99 | 类别: Music
+2026-03-31 14:10:55,869 [INFO] [3089/8374] 处理: ScoreCloud Express (id=566535238)
+2026-03-31 14:10:55,973 [INFO]   ✓ ScoreCloud Express | 价格: $2.99 | 类别: Music
+2026-03-31 14:10:59,208 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:10:59,210 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:11:01,325 [INFO] [3090/8374] 处理: Rassel - Pocket shaker (id=1575364575)
+2026-03-31 14:11:01,475 [INFO]   ✓ Rassel - Pocket shaker | 价格: $0.99 | 类别: Music
+2026-03-31 14:11:05,743 [INFO] [3091/8374] 处理: DynaSynth (id=6760549746)
+2026-03-31 14:11:05,890 [INFO]   ✓ DynaSynth | 价格: $2.99 | 类别: Music
+2026-03-31 14:11:11,909 [INFO] [3092/8374] 处理: ThumbJam (id=338977566)
+2026-03-31 14:11:12,029 [INFO]   ✓ ThumbJam | 价格: $8.99 | 类别: Music
+2026-03-31 14:11:18,395 [INFO] [3093/8374] 处理: Hohner Mini-SqueezeBox (id=418802896)
+2026-03-31 14:11:18,490 [INFO]   ✓ Hohner Mini-SqueezeBox | 价格: $2.99 | 类别: Music
+2026-03-31 14:11:23,127 [INFO] [3094/8374] 处理: Eavescrob - for Last.fm (id=1177915141)
+2026-03-31 14:11:23,277 [INFO]   ✓ Eavescrob - for Last.fm | 价格: $0.99 | 类别: Music
+2026-03-31 14:11:29,933 [INFO] [3095/8374] 处理: Onyx: Pitch Pipe (id=464787055)
+2026-03-31 14:11:30,042 [INFO]   ✓ Onyx: Pitch Pipe | 价格: $0.99 | 类别: Music
+2026-03-31 14:11:34,997 [INFO] [3096/8374] 处理: Pitch Pipe+ (id=317211808)
+2026-03-31 14:11:35,117 [INFO]   ✓ Pitch Pipe+ | 价格: $0.99 | 类别: Music
+2026-03-31 14:11:40,754 [INFO] [3097/8374] 处理: SongCapsule (id=1476724373)
+2026-03-31 14:11:40,904 [INFO]   ✓ SongCapsule | 价格: $4.99 | 类别: Music
+2026-03-31 14:11:46,836 [INFO] [3098/8374] 处理: Bloom (id=292792586)
+2026-03-31 14:11:47,032 [INFO]   ✓ Bloom | 价格: $3.99 | 类别: Music
+2026-03-31 14:11:52,614 [INFO] [3099/8374] 处理: InTune Pro – Tuning Practice (id=1557548736)
+2026-03-31 14:11:52,801 [INFO]   ✓ InTune Pro – Tuning Practice | 价格: $4.99 | 类别: Music
+2026-03-31 14:11:59,427 [INFO] [3100/8374] 处理: Chordbot (id=394754767)
+2026-03-31 14:11:59,590 [INFO]   ✓ Chordbot | 价格: $4.99 | 类别: Music
+2026-03-31 14:12:04,322 [INFO] [3101/8374] 处理: Phazr (id=1472113449)
+2026-03-31 14:12:04,471 [INFO]   ✓ Phazr | 价格: $4.99 | 类别: Music
+2026-03-31 14:12:11,412 [INFO] [3102/8374] 处理: Patatap (id=880626868)
+2026-03-31 14:12:11,563 [INFO]   ✓ Patatap | 价格: $1.99 | 类别: Music
+2026-03-31 14:12:16,974 [INFO] [3103/8374] 处理: MixPlay routine-music player (id=975427293)
+2026-03-31 14:12:17,126 [INFO]   ✓ MixPlay routine-music player | 价格: $3.99 | 类别: Music
+2026-03-31 14:12:22,428 [INFO] [3104/8374] 处理: Shazam: Find Music & Concerts (id=284993459)
+2026-03-31 14:12:22,607 [INFO]   ✓ Shazam: Find Music & Concerts | 价格: Free | 类别: Music
+2026-03-31 14:12:25,257 [INFO] [3105/8374] 处理: iHeart: Play & Listen to Music (id=290638154)
+2026-03-31 14:12:25,353 [INFO]   ✓ iHeart: Play & Listen to Music | 价格: Free | 类别: Music
+2026-03-31 14:12:28,827 [INFO] [3106/8374] 处理: BandLab – Music Maker & Beats (id=968585775)
+2026-03-31 14:12:28,933 [INFO]   ✓ BandLab – Music Maker & Beats | 价格: Free | 类别: Music
+2026-03-31 14:12:32,167 [INFO] [3107/8374] 处理: Suno - AI Songs & Music (id=6480136315)
+2026-03-31 14:12:32,338 [INFO]   ✓ Suno - AI Songs & Music | 价格: Free | 类别: Music
+2026-03-31 14:12:33,981 [INFO] [3108/8374] 处理: TouchTunes: Jukebox Music (id=378351144)
+2026-03-31 14:12:34,126 [INFO]   ✓ TouchTunes: Jukebox Music | 价格: Free | 类别: Music
+2026-03-31 14:12:36,821 [INFO] [3109/8374] 处理: Audiomack - Play Music Offline (id=921765888)
+2026-03-31 14:12:36,923 [INFO]   ✓ Audiomack - Play Music Offline | 价格: Free | 类别: Music
+2026-03-31 14:12:39,418 [INFO] [3110/8374] 处理: DICE: Live Shows (id=898358948)
+2026-03-31 14:12:39,515 [INFO]   ✓ DICE: Live Shows | 价格: Free | 类别: Music
+2026-03-31 14:12:41,710 [INFO] [3111/8374] 处理: SiriusXM: Music, Sports & News (id=317951436)
+2026-03-31 14:12:41,855 [INFO]   ✓ SiriusXM: Music, Sports & News | 价格: Free | 类别: Music
+2026-03-31 14:12:43,661 [INFO] [3112/8374] 处理: Bose (id=1364986984)
+2026-03-31 14:12:43,796 [INFO]   ✓ Bose | 价格: Free | 类别: Music
+2026-03-31 14:12:46,826 [INFO] [3113/8374] 处理: Music X - Best music streaming (id=1110273623)
+2026-03-31 14:12:46,973 [INFO]   ✓ Music X - Best music streaming | 价格: Free | 类别: Music
+2026-03-31 14:12:49,726 [INFO] [3114/8374] 处理: ClipTone: Ringtone & AI Cover (id=6737531446)
+2026-03-31 14:12:49,823 [INFO]   ✓ ClipTone: Ringtone & AI Cover | 价格: Free | 类别: Music
+2026-03-31 14:12:51,502 [INFO] [3115/8374] 处理: JBL Headphones (id=1053136947)
+2026-03-31 14:12:51,645 [INFO]   ✓ JBL Headphones | 价格: Free | 类别: Music
+2026-03-31 14:12:54,648 [INFO] [3116/8374] 处理: Moongate: Binaural Beats (id=6471041035)
+2026-03-31 14:12:54,754 [INFO]   ✓ Moongate: Binaural Beats | 价格: Free | 类别: Music
+2026-03-31 14:12:56,509 [INFO] [3117/8374] 处理: MyTunes : AI Music Generator (id=6447001239)
+2026-03-31 14:12:56,619 [INFO]   ✓ MyTunes : AI Music Generator | 价格: Free | 类别: Music
+2026-03-31 14:12:59,193 [INFO] [3118/8374] 处理: Reverse Audio: Sing Challenge (id=6754755473)
+2026-03-31 14:12:59,415 [INFO]   ✓ Reverse Audio: Sing Challenge | 价格: Free | 类别: Music
+2026-03-31 14:13:02,459 [INFO] [3119/8374] 处理: GuitarTuna: Tune & Play Guitar (id=527588389)
+2026-03-31 14:13:02,623 [INFO]   ✓ GuitarTuna: Tune & Play Guitar | 价格: Free | 类别: Music
+2026-03-31 14:13:05,990 [INFO] [3120/8374] 处理: Airbuds Widget (id=1638906106)
+2026-03-31 14:13:06,160 [INFO]   ✓ Airbuds Widget | 价格: Free | 类别: Music
+2026-03-31 14:13:07,688 [INFO] [3121/8374] 处理: Edjing Mix - DJ Music Mixer (id=493226494)
+2026-03-31 14:13:07,795 [INFO]   ✓ Edjing Mix - DJ Music Mixer | 价格: Free | 类别: Music
+2026-03-31 14:13:10,291 [INFO] [3122/8374] 处理: Piano - Keyboard Lesson & Game (id=1360309966)
+2026-03-31 14:13:10,397 [INFO]   ✓ Piano - Keyboard Lesson & Game | 价格: Free | 类别: Music
+2026-03-31 14:13:13,819 [INFO] [3123/8374] 处理: Sonos (id=1488977981)
+2026-03-31 14:13:13,916 [INFO]   ✓ Sonos | 价格: Free | 类别: Music
+2026-03-31 14:13:16,911 [INFO] [3124/8374] 处理: Simply Sing: My Singing App (id=1592900217)
+2026-03-31 14:13:17,011 [INFO]   ✓ Simply Sing: My Singing App | 价格: Free | 类别: Music
+2026-03-31 14:13:20,215 [INFO] [3125/8374] 处理: soundcore (id=1331876603)
+2026-03-31 14:13:20,377 [INFO]   ✓ soundcore | 价格: Free | 类别: Music
+2026-03-31 14:13:22,130 [INFO] [3126/8374] 处理: Beat Maker Pro: Music drum Pad (id=1362013798)
+2026-03-31 14:13:22,232 [INFO]   ✓ Beat Maker Pro: Music drum Pad | 价格: Free | 类别: Music
+2026-03-31 14:13:23,937 [INFO] [3127/8374] 处理: djay - DJ App & AI Mixer (id=450527929)
+2026-03-31 14:13:24,048 [INFO]   ✓ djay - DJ App & AI Mixer | 价格: Free | 类别: Music
+2026-03-31 14:13:27,429 [INFO] [3128/8374] 处理: Radio‎‎ App (id=6477182124)
+2026-03-31 14:13:27,544 [INFO]   ✓ Radio‎‎ App | 价格: Free | 类别: Music
+2026-03-31 14:13:29,312 [INFO] [3129/8374] 处理: Ringtones Maker & Wallpapers (id=6748665495)
+2026-03-31 14:13:29,413 [INFO]   ✓ Ringtones Maker & Wallpapers | 价格: Free | 类别: Music
+2026-03-31 14:13:31,258 [INFO] [3130/8374] 处理: JBL Portable (id=994041762)
+2026-03-31 14:13:31,398 [INFO]   ✓ JBL Portable | 价格: Free | 类别: Music
+2026-03-31 14:13:33,156 [INFO] [3131/8374] 处理: AMI Play (id=640607231)
+2026-03-31 14:13:33,310 [INFO]   ✓ AMI Play | 价格: Free | 类别: Music
+2026-03-31 14:13:36,334 [INFO] [3132/8374] 处理: Offline Music Player (id=1259949354)
+2026-03-31 14:13:36,441 [INFO]   ✓ Offline Music Player | 价格: Free | 类别: Music
+2026-03-31 14:13:38,245 [INFO] [3133/8374] 处理: Audacy: Radio & Sports Talk (id=323701765)
+2026-03-31 14:13:38,341 [INFO]   ✓ Audacy: Radio & Sports Talk | 价格: Free | 类别: Music
+2026-03-31 14:13:40,063 [INFO] [3134/8374] 处理: Ultimate Guitar: Chords & Tabs (id=357828853)
+2026-03-31 14:13:40,163 [INFO]   ✓ Ultimate Guitar: Chords & Tabs | 价格: Free | 类别: Music
+2026-03-31 14:13:43,189 [INFO] [3135/8374] 处理: JLab (id=6449068333)
+2026-03-31 14:13:43,339 [INFO]   ✓ JLab | 价格: Free | 类别: Music
+2026-03-31 14:13:45,280 [INFO] [3136/8374] 处理: Shokz (id=1596854072)
+2026-03-31 14:13:45,474 [INFO]   ✓ Shokz | 价格: Free | 类别: Music
+2026-03-31 14:13:48,502 [INFO] [3137/8374] 处理: MP3 Converter - Audio Trimmer (id=6739273941)
+2026-03-31 14:13:48,672 [INFO]   ✓ MP3 Converter - Audio Trimmer | 价格: Free | 类别: Music
+2026-03-31 14:13:50,851 [INFO] [3138/8374] 处理: Offline music MP3: Asmr Musi (id=6615071731)
+2026-03-31 14:13:50,965 [INFO]   ✓ Offline music MP3: Asmr Musi | 价格: Free | 类别: Music
+2026-03-31 14:13:54,290 [INFO] [3139/8374] 处理: Bandsintown Concerts (id=471394851)
+2026-03-31 14:13:54,387 [INFO]   ✓ Bandsintown Concerts | 价格: Free | 类别: Music
+2026-03-31 14:13:57,396 [INFO] [3140/8374] 处理: Piano ٞ (id=1126477246)
+2026-03-31 14:13:57,512 [INFO]   ✓ Piano ٞ | 价格: Free | 类别: Music
+2026-03-31 14:13:59,972 [INFO] [3141/8374] 处理: Strum - Play Guitar (id=6749384181)
+2026-03-31 14:14:00,199 [INFO]   ✓ Strum - Play Guitar | 价格: Free | 类别: Music
+2026-03-31 14:14:01,957 [INFO] [3142/8374] 处理: EQUALS: Make Friends via Music (id=6471002462)
+2026-03-31 14:14:02,054 [INFO]   ✓ EQUALS: Make Friends via Music | 价格: Free | 类别: Music
+2026-03-31 14:14:04,288 [INFO] [3143/8374] 处理: Demus: Easy Music Streaming (id=6474685600)
+2026-03-31 14:14:04,428 [INFO]   ✓ Demus: Easy Music Streaming | 价格: Free | 类别: Music
+2026-03-31 14:14:06,388 [INFO] [3144/8374] 处理: Skullcandy (id=1466689851)
+2026-03-31 14:14:06,488 [INFO]   ✓ Skullcandy | 价格: Free | 类别: Music
+2026-03-31 14:14:08,467 [INFO] [3145/8374] 处理: Garage Ringtones for iPhone (id=6444570129)
+2026-03-31 14:14:08,615 [INFO]   ✓ Garage Ringtones for iPhone | 价格: Free | 类别: Music
+2026-03-31 14:14:12,114 [INFO] [3146/8374] 处理: Smart Metronome & Tuner (id=889571826)
+2026-03-31 14:14:12,227 [INFO]   ✓ Smart Metronome & Tuner | 价格: Free | 类别: Music
+2026-03-31 14:14:15,483 [INFO] [3147/8374] 处理: Shoom・AI Music, Song Generator (id=6499126830)
+2026-03-31 14:14:15,588 [INFO]   ✓ Shoom・AI Music, Song Generator | 价格: Free | 类别: Music
+2026-03-31 14:14:18,629 [INFO] [3148/8374] 处理: Simple Radio - FM AM Stations (id=891132290)
+2026-03-31 14:14:18,772 [INFO]   ✓ Simple Radio - FM AM Stations | 价格: Free | 类别: Music
+2026-03-31 14:14:20,963 [INFO] [3149/8374] 处理: Clear Wave (id=1557211189)
+2026-03-31 14:14:21,136 [INFO]   ✓ Clear Wave | 价格: Free | 类别: Music
+2026-03-31 14:14:23,775 [INFO] [3150/8374] 处理: StarMaker-Sing Karaoke Songs (id=342138881)
+2026-03-31 14:14:23,931 [INFO]   ✓ StarMaker-Sing Karaoke Songs | 价格: Free | 类别: Music
+2026-03-31 14:14:26,990 [INFO] [3151/8374] 处理: Lyrix: Dynamic Lyricsㅤ (id=6651860228)
+2026-03-31 14:14:27,131 [INFO]   ✓ Lyrix: Dynamic Lyricsㅤ | 价格: Free | 类别: Music
+2026-03-31 14:14:29,246 [INFO] [3152/8374] 处理: TuneIn Radio: Music & Sports (id=418987775)
+2026-03-31 14:14:29,402 [INFO]   ✓ TuneIn Radio: Music & Sports | 价格: Free | 类别: Music
+2026-03-31 14:14:32,093 [INFO] [3153/8374] 处理: Moises: The Musician's App (id=1515796612)
+2026-03-31 14:14:32,301 [INFO]   ✓ Moises: The Musician's App | 价格: Free | 类别: Music
+2026-03-31 14:14:34,982 [INFO] [3154/8374] 处理: Water Eject ‒ Speaker Cleaner (id=6499516431)
+2026-03-31 14:14:35,140 [INFO]   ✓ Water Eject ‒ Speaker Cleaner | 价格: Free | 类别: Music
+2026-03-31 14:14:36,698 [INFO] [3155/8374] 处理: Fender Tune: Guitar Tuner App (id=1107017950)
+2026-03-31 14:14:36,851 [INFO]   ✓ Fender Tune: Guitar Tuner App | 价格: Free | 类别: Music
+2026-03-31 14:14:38,490 [INFO] [3156/8374] 处理: Musicana - Organizer & Player (id=1434023161)
+2026-03-31 14:14:38,590 [INFO]   ✓ Musicana - Organizer & Player | 价格: Free | 类别: Music
+2026-03-31 14:14:41,704 [INFO] [3157/8374] 处理: Skull-iQ (id=1635588098)
+2026-03-31 14:14:41,797 [INFO]   ✓ Skull-iQ | 价格: Free | 类别: Music
+2026-03-31 14:14:44,484 [INFO] [3158/8374] 处理: طرب الفيديو (id=1199065602)
+2026-03-31 14:14:44,644 [INFO]   ✓ طرب الفيديو | 价格: Free | 类别: Music
+2026-03-31 14:14:47,868 [INFO] [3159/8374] 处理: Tuner Pro: Guitar Tuner & Tab (id=1438248122)
+2026-03-31 14:14:48,022 [INFO]   ✓ Tuner Pro: Guitar Tuner & Tab | 价格: Free | 类别: Music
+2026-03-31 14:14:50,757 [INFO] [3160/8374] 处理: Music X - Music Offline Player (id=6752231606)
+2026-03-31 14:14:50,902 [INFO]   ✓ Music X - Music Offline Player | 价格: Free | 类别: Music
+2026-03-31 14:14:52,412 [INFO] [3161/8374] 处理: AI Song Generator - Zona (id=6499261254)
+2026-03-31 14:14:52,566 [INFO]   ✓ AI Song Generator - Zona | 价格: Free | 类别: Music
+2026-03-31 14:14:55,874 [INFO] [3162/8374] 处理: LittyTone:Ringtone & AI Voice (id=6743316094)
+2026-03-31 14:14:56,147 [INFO]   ✓ LittyTone:Ringtone & AI Voice | 价格: Free | 类别: Music
+2026-03-31 14:14:59,182 [INFO] [3163/8374] 处理: Guitar Tuner - Simply Tune (id=1573260863)
+2026-03-31 14:14:59,331 [INFO]   ✓ Guitar Tuner - Simply Tune | 价格: Free | 类别: Music
+2026-03-31 14:15:01,525 [INFO] [3164/8374] 处理: Ringtones for iphone: Ringtune (id=1036141497)
+2026-03-31 14:15:01,631 [INFO]   ✓ Ringtones for iphone: Ringtune | 价格: Free | 类别: Music
+2026-03-31 14:15:03,617 [INFO] [3165/8374] 处理: Ringtones: for iPhone (id=1470100930)
+2026-03-31 14:15:03,722 [INFO]   ✓ Ringtones: for iPhone | 价格: Free | 类别: Music
+2026-03-31 14:15:05,886 [INFO] [3166/8374] 处理: Coachella Official (id=632833729)
+2026-03-31 14:15:06,035 [INFO]   ✓ Coachella Official | 价格: Free | 类别: Music
+2026-03-31 14:15:07,753 [INFO] [3167/8374] 处理: SongShift (id=1097974566)
+2026-03-31 14:15:07,854 [INFO]   ✓ SongShift | 价格: Free | 类别: Music
+2026-03-31 14:15:11,061 [INFO] [3168/8374] 处理: Speaker & Headphones Connect (id=1612024321)
+2026-03-31 14:15:11,222 [INFO]   ✓ Speaker & Headphones Connect | 价格: Free | 类别: Music
+2026-03-31 14:15:13,360 [INFO] [3169/8374] 处理: Music X Player-Music Streaming (id=6749886233)
+2026-03-31 14:15:13,457 [INFO]   ✓ Music X Player-Music Streaming | 价格: Free | 类别: Music
+2026-03-31 14:15:15,733 [INFO] [3170/8374] 处理: Piano for iPhone (id=531263194)
+2026-03-31 14:15:15,876 [INFO]   ✓ Piano for iPhone | 价格: Free | 类别: Music
+2026-03-31 14:15:18,171 [INFO] [3171/8374] 处理: MuseScore－Sheet Music & Chords (id=835731296)
+2026-03-31 14:15:18,333 [INFO]   ✓ MuseScore－Sheet Music & Chords | 价格: Free | 类别: Music
+2026-03-31 14:15:19,888 [INFO] [3172/8374] 处理: TREBEL Music - Download Songs (id=912390687)
+2026-03-31 14:15:20,071 [INFO]   ✓ TREBEL Music - Download Songs | 价格: Free | 类别: Music
+2026-03-31 14:15:22,571 [INFO] [3173/8374] 处理: Sound Player : Unlimited Music (id=6740703431)
+2026-03-31 14:15:22,711 [INFO]   ✓ Sound Player : Unlimited Music | 价格: Free | 类别: Music
+2026-03-31 14:15:25,691 [INFO] [3174/8374] 处理: Rythmix - AI Music Generator (id=6736849866)
+2026-03-31 14:15:25,883 [INFO]   ✓ Rythmix - AI Music Generator | 价格: Free | 类别: Music
+2026-03-31 14:15:27,540 [INFO] [3175/8374] 处理: stats.fm for Spotify Music App (id=1526912392)
+2026-03-31 14:15:27,687 [INFO]   ✓ stats.fm for Spotify Music App | 价格: Free | 类别: Music
+2026-03-31 14:15:29,655 [INFO] [3176/8374] 处理: [untitled] (id=6445854828)
+2026-03-31 14:15:29,809 [INFO]   ✓ [untitled] | 价格: Free | 类别: Music
+2026-03-31 14:15:31,342 [INFO] [3177/8374] 处理: Bose Connect (id=1046510029)
+2026-03-31 14:15:31,493 [INFO]   ✓ Bose Connect | 价格: Free | 类别: Music
+2026-03-31 14:15:33,177 [INFO] [3178/8374] 处理: Rockbot - Request Music (id=401347343)
+2026-03-31 14:15:33,352 [INFO]   ✓ Rockbot - Request Music | 价格: Free | 类别: Music
+2026-03-31 14:15:36,348 [INFO] [3179/8374] 处理: Smule: Sing & Duet (id=509993510)
+2026-03-31 14:15:36,462 [INFO]   ✓ Smule: Sing & Duet | 价格: Free | 类别: Music
+2026-03-31 14:15:38,718 [INFO] [3180/8374] 处理: AI Song Generator - Mozart (id=6502656704)
+2026-03-31 14:15:38,852 [INFO]   ✓ AI Song Generator - Mozart | 价格: Free | 类别: Music
+2026-03-31 14:15:42,227 [INFO] [3181/8374] 处理: DistroKid (id=1548832265)
+2026-03-31 14:15:42,381 [INFO]   ✓ DistroKid | 价格: Free | 类别: Music
+2026-03-31 14:15:44,446 [INFO] [3182/8374] 处理: Sony | Music Center (id=724406878)
+2026-03-31 14:15:44,551 [INFO]   ✓ Sony | Music Center | 价格: Free | 类别: Music
+2026-03-31 14:15:46,493 [INFO] [3183/8374] 处理: RaMusi: Offline Music Player (id=6544791962)
+2026-03-31 14:15:46,603 [INFO]   ✓ RaMusi: Offline Music Player | 价格: Free | 类别: Music
+2026-03-31 14:15:49,569 [INFO] [3184/8374] 处理: TIDAL Music: HiFi Sound (id=913943275)
+2026-03-31 14:15:49,671 [INFO]   ✓ TIDAL Music: HiFi Sound | 价格: Free | 类别: Music
+2026-03-31 14:15:53,149 [INFO] [3185/8374] 处理: Shotgun: Live Music Experience (id=760028892)
+2026-03-31 14:15:53,295 [INFO]   ✓ Shotgun: Live Music Experience | 价格: Free | 类别: Music
+2026-03-31 14:15:55,487 [INFO] [3186/8374] 处理: MusiChic-Offline Music Player (id=6751705626)
+2026-03-31 14:15:55,625 [INFO]   ✓ MusiChic-Offline Music Player | 价格: Free | 类别: Music
+2026-03-31 14:15:58,602 [INFO] [3187/8374] 处理: KaraFun – Karaoke & Music Quiz (id=431050674)
+2026-03-31 14:15:58,702 [INFO]   ✓ KaraFun – Karaoke & Music Quiz | 价格: Free | 类别: Music
+2026-03-31 14:16:00,433 [INFO] [3188/8374] 处理: Sondo - AI Music Video & AI MV (id=6751086438)
+2026-03-31 14:16:00,622 [INFO]   ✓ Sondo - AI Music Video & AI MV | 价格: Free | 类别: Music
+2026-03-31 14:16:02,817 [INFO] [3189/8374] 处理: Weezer Fan Club (id=1444657735)
+2026-03-31 14:16:02,998 [INFO]   ✓ Weezer Fan Club | 价格: Free | 类别: Music
+2026-03-31 14:16:05,543 [INFO] [3190/8374] 处理: RadioApp - A Simple Radio App (id=720291153)
+2026-03-31 14:16:05,709 [INFO]   ✓ RadioApp - A Simple Radio App | 价格: Free | 类别: Music
+2026-03-31 14:16:07,957 [INFO] [3191/8374] 处理: Dynamic-Lyrics (id=6476125287)
+2026-03-31 14:16:08,065 [INFO]   ✓ Dynamic-Lyrics | 价格: Free | 类别: Music
+2026-03-31 14:16:11,324 [INFO] [3192/8374] 处理: Tuner T1 (id=453056916)
+2026-03-31 14:16:11,426 [INFO]   ✓ Tuner T1 | 价格: Free | 类别: Music
+2026-03-31 14:16:13,980 [INFO] [3193/8374] 处理: Anima: Binaural Beats (id=6753141187)
+2026-03-31 14:16:14,090 [INFO]   ✓ Anima: Binaural Beats | 价格: Free | 类别: Music
+2026-03-31 14:16:15,953 [INFO] [3194/8374] 处理: Mezquite Diatonic Accordion (id=1060954956)
+2026-03-31 14:16:16,102 [INFO]   ✓ Mezquite Diatonic Accordion | 价格: Free | 类别: Music
+2026-03-31 14:16:18,117 [INFO] [3195/8374] 处理: SoundLab - Audio Editor (id=1450417400)
+2026-03-31 14:16:18,281 [INFO]   ✓ SoundLab - Audio Editor | 价格: Free | 类别: Music
+2026-03-31 14:16:21,199 [INFO] [3196/8374] 处理: Songsterr Tabs & Chords (id=399211291)
+2026-03-31 14:16:21,348 [INFO]   ✓ Songsterr Tabs & Chords | 价格: Free | 类别: Music
+2026-03-31 14:16:24,246 [INFO] [3197/8374] 处理: Radio Garden Live (id=1339670993)
+2026-03-31 14:16:24,352 [INFO]   ✓ Radio Garden Live | 价格: Free | 类别: Music
+2026-03-31 14:16:26,660 [INFO] [3198/8374] 处理: iVocal-Melodic Bliss (id=6608968218)
+2026-03-31 14:16:26,807 [INFO]   ✓ iVocal-Melodic Bliss | 价格: Free | 类别: Music
+2026-03-31 14:16:28,556 [INFO] [3199/8374] 处理: nugs: Live Music Lives Here (id=1032794422)
+2026-03-31 14:16:28,703 [INFO]   ✓ nugs: Live Music Lives Here | 价格: Free | 类别: Music
+2026-03-31 14:16:31,025 [INFO] [3200/8374] 处理: UnitedMasters: Release Music (id=1442118788)
+2026-03-31 14:16:31,124 [INFO]   ✓ UnitedMasters: Release Music | 价格: Free | 类别: Music
+2026-03-31 14:16:32,637 [INFO] [3201/8374] 处理: Qobuz: Music & Editorial (id=946429340)
+2026-03-31 14:16:32,743 [INFO]   ✓ Qobuz: Music & Editorial | 价格: Free | 类别: Music
+2026-03-31 14:16:35,932 [INFO] [3202/8374] 处理: Deezer: Music Player, Podcast (id=292738169)
+2026-03-31 14:16:36,042 [INFO]   ✓ Deezer: Music Player, Podcast | 价格: Free | 类别: Music
+2026-03-31 14:16:38,998 [INFO] [3203/8374] 处理: Donna AI Song & Music Maker (id=6482289804)
+2026-03-31 14:16:39,102 [INFO]   ✓ Donna AI Song & Music Maker | 价格: Free | 类别: Music
+2026-03-31 14:16:40,808 [INFO] [3204/8374] 处理: LivePhish (id=374048661)
+2026-03-31 14:16:40,908 [INFO]   ✓ LivePhish | 价格: Free | 类别: Music
+2026-03-31 14:16:44,131 [INFO] [3205/8374] 处理: Rap Fame - Rap Music Studio (id=1476399789)
+2026-03-31 14:16:44,305 [INFO]   ✓ Rap Fame - Rap Music Studio | 价格: Free | 类别: Music
+2026-03-31 14:16:47,235 [INFO] [3206/8374] 处理: Voloco: Vocal Recording Studio (id=1052970183)
+2026-03-31 14:16:47,354 [INFO]   ✓ Voloco: Vocal Recording Studio | 价格: Free | 类别: Music
+2026-03-31 14:16:49,344 [INFO] [3207/8374] 处理: Chordify: Songs, Chords, Tuner (id=1073624757)
+2026-03-31 14:16:49,495 [INFO]   ✓ Chordify: Songs, Chords, Tuner | 价格: Free | 类别: Music
+2026-03-31 14:16:51,460 [INFO] [3208/8374] 处理: Fit Radio: Train Inspired (id=440844625)
+2026-03-31 14:16:51,605 [INFO]   ✓ Fit Radio: Train Inspired | 价格: Free | 类别: Music
+2026-03-31 14:16:53,170 [INFO] [3209/8374] 处理: Anghami: Play Music & Podcasts (id=545395155)
+2026-03-31 14:16:53,331 [INFO]   ✓ Anghami: Play Music & Podcasts | 价格: Free | 类别: Music
+2026-03-31 14:16:55,262 [INFO] [3210/8374] 处理: AI Song Music Generator: Muzio (id=6502530415)
+2026-03-31 14:16:55,404 [INFO]   ✓ AI Song Music Generator: Muzio | 价格: Free | 类别: Music
+2026-03-31 14:16:57,365 [INFO] [3211/8374] 处理: Mureka - AI Music Generator (id=6677033144)
+2026-03-31 14:16:57,516 [INFO]   ✓ Mureka - AI Music Generator | 价格: Free | 类别: Music
+2026-03-31 14:16:59,593 [INFO] [3212/8374] 处理: VocalMe Music: AI Cover Songs (id=6479740642)
+2026-03-31 14:16:59,754 [INFO]   ✓ VocalMe Music: AI Cover Songs | 价格: Free | 类别: Music
+2026-03-31 14:17:01,876 [INFO] [3213/8374] 处理: AI Music: Cover & Song Maker (id=6529535168)
+2026-03-31 14:17:01,980 [INFO]   ✓ AI Music: Cover & Song Maker | 价格: Free | 类别: Music
+2026-03-31 14:17:03,498 [INFO] [3214/8374] 处理: AI Song: AI Music Generator (id=6489035718)
+2026-03-31 14:17:03,607 [INFO]   ✓ AI Song: AI Music Generator | 价格: Free | 类别: Music
+2026-03-31 14:17:06,799 [INFO] [3215/8374] 处理: AI Song Maker - Soniva Music (id=6502906463)
+2026-03-31 14:17:06,983 [INFO]   ✓ AI Song Maker - Soniva Music | 价格: Free | 类别: Music
+2026-03-31 14:17:08,770 [INFO] [3216/8374] 处理: Playlist Transfer for My Music (id=6478631467)
+2026-03-31 14:17:08,925 [INFO]   ✓ Playlist Transfer for My Music | 价格: Free | 类别: Music
+2026-03-31 14:17:12,122 [INFO] [3217/8374] 处理: Loops By CDub (id=1088667674)
+2026-03-31 14:17:12,266 [INFO]   ✓ Loops By CDub | 价格: Free | 类别: Music
+2026-03-31 14:17:13,859 [INFO] [3218/8374] 处理: Singing Machine Karaoke (id=450555662)
+2026-03-31 14:17:14,009 [INFO]   ✓ Singing Machine Karaoke | 价格: Free | 类别: Music
+2026-03-31 14:17:16,826 [INFO] [3219/8374] 处理: SingUp: AI Music Generator (id=6470182519)
+2026-03-31 14:17:16,934 [INFO]   ✓ SingUp: AI Music Generator | 价格: Free | 类别: Music
+2026-03-31 14:17:20,304 [INFO] [3220/8374] 处理: LiveOne Music (id=298307011)
+2026-03-31 14:17:20,400 [INFO]   ✓ LiveOne Music | 价格: Free | 类别: Music
+2026-03-31 14:17:23,649 [INFO] [3221/8374] 处理: Stemz: remover vocal audio pro (id=1596495598)
+2026-03-31 14:17:24,250 [INFO]   ✓ Stemz: remover vocal audio pro | 价格: Free | 类别: Music
+2026-03-31 14:17:27,160 [INFO] [3222/8374] 处理: Reverse Singing (id=6751476834)
+2026-03-31 14:17:27,269 [INFO]   ✓ Reverse Singing | 价格: Free | 类别: Music
+2026-03-31 14:17:29,910 [INFO] [3223/8374] 处理: Whoop Triggerz Plus (id=1441880422)
+2026-03-31 14:17:30,060 [INFO]   ✓ Whoop Triggerz Plus | 价格: Free | 类别: Music
+2026-03-31 14:17:33,525 [INFO] [3224/8374] 处理: Beatron : AI Song, Music Maker (id=6751319787)
+2026-03-31 14:17:33,673 [INFO]   ✓ Beatron : AI Song, Music Maker | 价格: Free | 类别: Music
+2026-03-31 14:17:35,986 [INFO] [3225/8374] 处理: AmpMe – Speaker & Music Sync (id=986905979)
+2026-03-31 14:17:36,143 [INFO]   ✓ AmpMe – Speaker & Music Sync | 价格: Free | 类别: Music
+2026-03-31 14:17:39,255 [INFO] [3226/8374] 处理: AI Song Generator - Jukebox (id=6733226170)
+2026-03-31 14:17:39,363 [INFO]   ✓ AI Song Generator - Jukebox | 价格: Free | 类别: Music
+2026-03-31 14:17:42,451 [INFO] [3227/8374] 处理: Appcompanist (id=1279455633)
+2026-03-31 14:17:42,598 [INFO]   ✓ Appcompanist | 价格: Free | 类别: Music
+2026-03-31 14:17:44,861 [INFO] [3228/8374] 处理: Napster - AI Music & Experts (id=584557117)
+2026-03-31 14:17:44,958 [INFO]   ✓ Napster - AI Music & Experts | 价格: Free | 类别: Music
+2026-03-31 14:17:47,286 [INFO] [3229/8374] 处理: MP3 Converter : music editor (id=6469768761)
+2026-03-31 14:17:47,486 [INFO]   ✓ MP3 Converter : music editor | 价格: Free | 类别: Music
+2026-03-31 14:17:50,976 [INFO] [3230/8374] 处理: Rapchat: Music Maker Studio (id=804913240)
+2026-03-31 14:17:51,085 [INFO]   ✓ Rapchat: Music Maker Studio | 价格: Free | 类别: Music
+2026-03-31 14:17:53,975 [INFO] [3231/8374] 处理: Sonos S1・S2 Speaker Controller (id=6502056598)
+2026-03-31 14:17:54,140 [INFO]   ✓ Sonos S1・S2 Speaker Controller | 价格: Free | 类别: Music
+2026-03-31 14:17:57,033 [INFO] [3232/8374] 处理: Banger for Artists: AI Music (id=6477824849)
+2026-03-31 14:17:57,131 [INFO]   ✓ Banger for Artists: AI Music | 价格: Free | 类别: Music
+2026-03-31 14:18:00,194 [INFO] [3233/8374] 处理: NTS RADIO (id=1204567739)
+2026-03-31 14:18:00,340 [INFO]   ✓ NTS RADIO | 价格: Free | 类别: Music
+2026-03-31 14:18:03,142 [INFO] [3234/8374] 处理: Worship Backing Tracks (id=1241843183)
+2026-03-31 14:18:03,258 [INFO]   ✓ Worship Backing Tracks | 价格: Free | 类别: Music
+2026-03-31 14:18:06,101 [INFO] [3235/8374] 处理: JioSaavn – Music & Podcasts (id=441813332)
+2026-03-31 14:18:06,227 [INFO]   ✓ JioSaavn – Music & Podcasts | 价格: Free | 类别: Music
+2026-03-31 14:18:08,443 [INFO] [3236/8374] 处理: Songstats: Music Analytics (id=1436000800)
+2026-03-31 14:18:08,559 [INFO]   ✓ Songstats: Music Analytics | 价格: Free | 类别: Music
+2026-03-31 14:18:10,315 [INFO] [3237/8374] 处理: rekordbox - DJ App & DJ Mixer (id=1487048203)
+2026-03-31 14:18:10,476 [INFO]   ✓ rekordbox - DJ App & DJ Mixer | 价格: Free | 类别: Music
+2026-03-31 14:18:13,833 [INFO] [3238/8374] 处理: Amuse Music Distribution (id=1160922922)
+2026-03-31 14:18:13,939 [INFO]   ✓ Amuse Music Distribution | 价格: Free | 类别: Music
+2026-03-31 14:18:17,261 [INFO] [3239/8374] 处理: Vocal Remover - Musiclab (id=6479388279)
+2026-03-31 14:18:17,419 [INFO]   ✓ Vocal Remover - Musiclab | 价格: Free | 类别: Music
+2026-03-31 14:18:20,692 [INFO] [3240/8374] 处理: Music Recognition- Song Finder (id=6599842047)
+2026-03-31 14:18:20,801 [INFO]   ✓ Music Recognition- Song Finder | 价格: Free | 类别: Music
+2026-03-31 14:18:22,588 [INFO] [3241/8374] 处理: Jamzone - Sing & Play Along (id=998972770)
+2026-03-31 14:18:22,704 [INFO]   ✓ Jamzone - Sing & Play Along | 价格: Free | 类别: Music
+2026-03-31 14:18:24,811 [INFO] [3242/8374] 处理: Banger: AI Music Generator (id=6452017015)
+2026-03-31 14:18:24,909 [INFO]   ✓ Banger: AI Music Generator | 价格: Free | 类别: Music
+2026-03-31 14:18:27,734 [INFO] [3243/8374] 处理: Chord ai - Play any song! (id=1446177109)
+2026-03-31 14:18:27,842 [INFO]   ✓ Chord ai - Play any song! | 价格: Free | 类别: Music
+2026-03-31 14:18:31,117 [INFO] [3244/8374] 处理: Spirit Talker ® (id=1536762482)
+2026-03-31 14:18:31,226 [INFO]   ✓ Spirit Talker ® | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:18:37,194 [INFO] [3245/8374] 处理: Cloud Baby Monitor (id=432791399)
+2026-03-31 14:18:37,299 [INFO]   ✓ Cloud Baby Monitor | 价格: $6.99 | 类别: Lifestyle
+2026-03-31 14:18:43,143 [INFO] [3246/8374] 处理: ملكة: للباحثين عن شريك الحياة (id=6473904105)
+2026-03-31 14:18:43,285 [INFO]   ✓ ملكة: للباحثين عن شريك الحياة | 价格: $0.29 | 类别: Lifestyle
+2026-03-31 14:18:47,290 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:18:47,291 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:18:49,921 [INFO] [3247/8374] 处理: Universalis (id=284942719)
+2026-03-31 14:18:50,031 [INFO]   ✓ Universalis | 价格: $9.99 | 类别: Lifestyle
+2026-03-31 14:18:53,935 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:18:53,936 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:18:53,937 [INFO]   🔥 降价！共 3 项变动
+2026-03-31 14:18:53,937 [INFO]      [iap] All Hours: $29.99 → $2.99
+2026-03-31 14:18:53,937 [INFO]      [iap] Daily Mass Readings: $19.99 → $1.99
+2026-03-31 14:18:53,937 [INFO]      [iap] Daytime Hours: $29.99 → $2.99
+2026-03-31 14:18:57,080 [INFO] [3248/8374] 处理: Falling Fruit (id=380859409)
+2026-03-31 14:18:57,243 [INFO]   ✓ Falling Fruit | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:19:03,221 [INFO] [3249/8374] 处理: Ravit - Ravelry on the hop (id=1234214894)
+2026-03-31 14:19:03,369 [INFO]   ✓ Ravit - Ravelry on the hop | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:19:08,744 [INFO] [3250/8374] 处理: 12 Steps Companion AA Big Book (id=295775656)
+2026-03-31 14:19:08,899 [INFO]   ✓ 12 Steps Companion AA Big Book | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:19:15,158 [INFO] [3251/8374] 处理: B-hyve Pro (id=1199551273)
+2026-03-31 14:19:15,267 [INFO]   ✓ B-hyve Pro | 价格: $9.99 | 类别: Lifestyle
+2026-03-31 14:19:20,492 [INFO] [3252/8374] 处理: Yard Planner (id=440420011)
+2026-03-31 14:19:20,660 [INFO]   ✓ Yard Planner | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:19:26,822 [INFO] [3253/8374] 处理: Time Nomad Astrology Charts (id=1092841332)
+2026-03-31 14:19:26,926 [INFO]   ✓ Time Nomad Astrology Charts | 价格: $8.99 | 类别: Lifestyle
+2026-03-31 14:19:30,916 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:19:30,917 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:19:34,073 [INFO] [3254/8374] 处理: Baby Led Weaning Recipes (id=1114320457)
+2026-03-31 14:19:34,181 [INFO]   ✓ Baby Led Weaning Recipes | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:19:37,940 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:19:37,942 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:19:40,482 [INFO] [3255/8374] 处理: LeafSpy Pro (id=967376861)
+2026-03-31 14:19:40,614 [INFO]   ✓ LeafSpy Pro | 价格: $19.99 | 类别: Lifestyle
+2026-03-31 14:19:45,508 [INFO] [3256/8374] 处理: CopperKnob (id=1112916047)
+2026-03-31 14:19:45,627 [INFO]   ✓ CopperKnob | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:19:51,512 [INFO] [3257/8374] 处理: Assalatu Noor - الصلاة نور (id=1220141181)
+2026-03-31 14:19:51,613 [INFO]   ✓ Assalatu Noor - الصلاة نور | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:19:58,162 [INFO] [3258/8374] 处理: Board Game Stats (id=892542000)
+2026-03-31 14:19:58,267 [INFO]   ✓ Board Game Stats | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:20:01,293 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 14:20:01,294 [INFO]   ✓ 内购: 9 项
+2026-03-31 14:20:04,666 [INFO] [3259/8374] 处理: 10th Step (id=899778010)
+2026-03-31 14:20:04,812 [INFO]   ✓ 10th Step | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:20:10,556 [INFO] [3260/8374] 处理: Baby Monitor 3G (id=490077681)
+2026-03-31 14:20:10,701 [INFO]   ✓ Baby Monitor 3G | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:20:14,960 [INFO] [3261/8374] 处理: Breviarium Meum (id=438927135)
+2026-03-31 14:20:15,115 [INFO]   ✓ Breviarium Meum | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:20:21,056 [INFO] [3262/8374] 处理: CCRR care guide (id=6760981397)
+2026-03-31 14:20:21,164 [INFO]   ✓ CCRR care guide | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:20:26,729 [INFO] [3263/8374] 处理: Hummingbird Tracker (id=1500033590)
+2026-03-31 14:20:26,880 [INFO]   ✓ Hummingbird Tracker | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:20:34,171 [INFO] [3264/8374] 处理: Stylebook Men (id=515126225)
+2026-03-31 14:20:34,325 [INFO]   ✓ Stylebook Men | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:20:40,205 [INFO] [3265/8374] 处理: The Secret To Money (id=1115022026)
+2026-03-31 14:20:40,313 [INFO]   ✓ The Secret To Money | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:20:46,773 [INFO] [3266/8374] 处理: Pool-Calculator (id=412876581)
+2026-03-31 14:20:46,872 [INFO]   ✓ Pool-Calculator | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:20:51,859 [INFO] [3267/8374] 处理: ZOONZOON - Gamepad Vibration (id=1595186051)
+2026-03-31 14:20:51,968 [INFO]   ✓ ZOONZOON - Gamepad Vibration | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:20:57,882 [INFO] [3268/8374] 处理: Reporter App (id=779697486)
+2026-03-31 14:20:57,989 [INFO]   ✓ Reporter App | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:21:03,640 [INFO] [3269/8374] 处理: Salatuk - صلاتك (id=686077611)
+2026-03-31 14:21:03,746 [INFO]   ✓ Salatuk - صلاتك | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:21:08,692 [INFO] [3270/8374] 处理: Armitage’s Great Garden Plants (id=621169534)
+2026-03-31 14:21:08,839 [INFO]   ✓ Armitage’s Great Garden Plants | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:21:14,787 [INFO] [3271/8374] 处理: Cross Stitch Saga (id=1440279996)
+2026-03-31 14:21:14,943 [INFO]   ✓ Cross Stitch Saga | 价格: $14.99 | 类别: Lifestyle
+2026-03-31 14:21:19,065 [INFO] [3272/8374] 处理: S:G LiDAR - Infrared Laser Cam (id=6448686968)
+2026-03-31 14:21:19,181 [INFO]   ✓ S:G LiDAR - Infrared Laser Cam | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:21:24,990 [INFO] [3273/8374] 处理: WiFi Blocker (id=1236583707)
+2026-03-31 14:21:25,093 [INFO]   ✓ WiFi Blocker | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:21:30,640 [INFO] [3274/8374] 处理: Flush Toilet Finder Pro (id=960457446)
+2026-03-31 14:21:30,793 [INFO]   ✓ Flush Toilet Finder Pro | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:21:35,354 [INFO] [3275/8374] 处理: Dr. McDougall Mobile Cookbook (id=418470303)
+2026-03-31 14:21:35,495 [INFO]   ✓ Dr. McDougall Mobile Cookbook | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:21:40,583 [INFO] [3276/8374] 处理: Random Number Generator + (id=634324938)
+2026-03-31 14:21:40,746 [INFO]   ✓ Random Number Generator + | 价格: $0.79 | 类别: Lifestyle
+2026-03-31 14:21:44,230 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 14:21:44,231 [INFO]   ✓ 内购: 6 项
+2026-03-31 14:21:46,780 [INFO] [3277/8374] 处理: Tend - Nurture your People (id=6760505817)
+2026-03-31 14:21:46,926 [INFO]   ✓ Tend - Nurture your People | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:21:52,834 [INFO] [3278/8374] 处理: Vocular (id=1080181813)
+2026-03-31 14:21:52,936 [INFO]   ✓ Vocular | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:21:58,248 [INFO] [3279/8374] 处理: Thermo Watch for Nest & Ecobee (id=1086717755)
+2026-03-31 14:21:58,402 [INFO]   ✓ Thermo Watch for Nest & Ecobee | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:22:00,872 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:22:00,873 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:22:04,200 [INFO] [3280/8374] 处理: The Magic of Psalms (id=6746058448)
+2026-03-31 14:22:04,332 [INFO]   ✓ The Magic of Psalms | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:22:11,776 [INFO] [3281/8374] 处理: dots: days left widget (id=6743134010)
+2026-03-31 14:22:11,926 [INFO]   ✓ dots: days left widget | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:22:17,811 [INFO] [3282/8374] 处理: Visualize You: weight change viewer (id=971308919)
+2026-03-31 14:22:17,911 [INFO]   ✓ Visualize You: weight change viewer | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:22:24,468 [INFO] [3283/8374] 处理: HOGSCAN (id=974831296)
+2026-03-31 14:22:24,621 [INFO]   ✓ HOGSCAN | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:22:31,671 [INFO] [3284/8374] 处理: Player for Monocle Radio (Fan) (id=6657988143)
+2026-03-31 14:22:31,782 [INFO]   ✓ Player for Monocle Radio (Fan) | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:22:38,407 [INFO] [3285/8374] 处理: HomeCam for HomeKit (id=1292995895)
+2026-03-31 14:22:38,527 [INFO]   ✓ HomeCam for HomeKit | 价格: $7.99 | 类别: Lifestyle
+2026-03-31 14:22:45,546 [INFO] [3286/8374] 处理: Planetary Hours + Widget (id=1517281147)
+2026-03-31 14:22:45,674 [INFO]   ✓ Planetary Hours + Widget | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:22:52,544 [INFO] [3287/8374] 处理: UltiPro (id=1587164426)
+2026-03-31 14:22:52,651 [INFO]   ✓ UltiPro | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:22:58,164 [INFO] [3288/8374] 处理: HRV4Biofeedback (id=1504638613)
+2026-03-31 14:22:58,328 [INFO]   ✓ HRV4Biofeedback | 价格: $9.99 | 类别: Lifestyle
+2026-03-31 14:23:04,903 [INFO] [3289/8374] 处理: LikeSo (id=1074943747)
+2026-03-31 14:23:05,006 [INFO]   ✓ LikeSo | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:23:10,463 [INFO] [3290/8374] 处理: Gardenate (id=362009731)
+2026-03-31 14:23:10,619 [INFO]   ✓ Gardenate | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:23:17,451 [INFO] [3291/8374] 处理: Dayora (id=6742139901)
+2026-03-31 14:23:17,604 [INFO]   ✓ Dayora | 价格: $0.49 | 类别: Lifestyle
+2026-03-31 14:23:23,742 [INFO] [3292/8374] 处理: INKHUNTER PRO Tattoos try on (id=1365164709)
+2026-03-31 14:23:23,888 [INFO]   ✓ INKHUNTER PRO Tattoos try on | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:23:29,754 [INFO] [3293/8374] 处理: Atlas Bourgogne (id=602158442)
+2026-03-31 14:23:29,902 [INFO]   ✓ Atlas Bourgogne | 价格: $8.99 | 类别: Lifestyle
+2026-03-31 14:23:35,337 [INFO] [3294/8374] 处理: The Catechism (id=6478526459)
+2026-03-31 14:23:35,462 [INFO]   ✓ The Catechism | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:23:42,504 [INFO] [3295/8374] 处理: Web Browser for Watch (id=6737495663)
+2026-03-31 14:23:42,683 [INFO]   ✓ Web Browser for Watch | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:23:48,940 [INFO] [3296/8374] 处理: DeadWave (id=1468695846)
+2026-03-31 14:23:49,039 [INFO]   ✓ DeadWave | 价格: $10.99 | 类别: Lifestyle
+2026-03-31 14:23:53,044 [INFO] [3297/8374] 处理: Seikomod Architect (id=6759468404)
+2026-03-31 14:23:53,203 [INFO]   ✓ Seikomod Architect | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:24:00,140 [INFO] [3298/8374] 处理: Crochet and Knit Counter (id=1103338573)
+2026-03-31 14:24:00,319 [INFO]   ✓ Crochet and Knit Counter | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:24:02,831 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:24:02,833 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:24:05,600 [INFO] [3299/8374] 处理: Shaman Magic (id=363416013)
+2026-03-31 14:24:05,745 [INFO]   ✓ Shaman Magic | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:24:10,237 [INFO] [3300/8374] 处理: 852Hz Solfeggio Sonic Meditation by Glenn Harrold & Ali Calderwood (id=531595308)
+2026-03-31 14:24:10,338 [INFO]   ✓ 852Hz Solfeggio Sonic Meditation by Glenn Harrold & Ali Calderwood | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:24:17,617 [INFO] [3301/8374] 处理: Stop Smoking Forever - Hypnosis by Glenn Harrold (id=401606864)
+2026-03-31 14:24:17,720 [INFO]   ✓ Stop Smoking Forever - Hypnosis by Glenn Harrold | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:24:24,656 [INFO] [3302/8374] 处理: Ghost Tools (id=6469110785)
+2026-03-31 14:24:24,813 [INFO]   ✓ Ghost Tools | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:24:30,641 [INFO] [3303/8374] 处理: Relaxing Beaches In HD (id=1288220177)
+2026-03-31 14:24:30,816 [INFO]   ✓ Relaxing Beaches In HD | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:24:36,425 [INFO] [3304/8374] 处理: Fasting Timer Pro (id=6758459211)
+2026-03-31 14:24:36,578 [INFO]   ✓ Fasting Timer Pro | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:24:42,901 [INFO] [3305/8374] 处理: MicroCalc for microwave oven (id=1476506807)
+2026-03-31 14:24:43,013 [INFO]   ✓ MicroCalc for microwave oven | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:24:48,093 [INFO] [3306/8374] 处理: SeasonLeft: Season Countdown (id=6758740806)
+2026-03-31 14:24:48,223 [INFO]   ✓ SeasonLeft: Season Countdown | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:24:52,571 [INFO] [3307/8374] 处理: Polo Rules Test (id=6450876736)
+2026-03-31 14:24:52,737 [INFO]   ✓ Polo Rules Test | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:24:59,546 [INFO] [3308/8374] 处理: Kwikset -  Smart Lock on Watch (id=6751854353)
+2026-03-31 14:24:59,659 [INFO]   ✓ Kwikset -  Smart Lock on Watch | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:25:03,253 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:25:03,255 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:25:05,107 [INFO] [3309/8374] 处理: Al-Anon Daily Paths (id=6755981862)
+2026-03-31 14:25:05,210 [INFO]   ✓ Al-Anon Daily Paths | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:25:09,319 [INFO] [3310/8374] 处理: QL Dashboard (id=6760477734)
+2026-03-31 14:25:09,466 [INFO]   ✓ QL Dashboard | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:25:15,831 [INFO] [3311/8374] 处理: Color Genie (id=6737263152)
+2026-03-31 14:25:15,988 [INFO]   ✓ Color Genie | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:25:21,719 [INFO] [3312/8374] 处理: Fliqlo (id=900833042)
+2026-03-31 14:25:21,872 [INFO]   ✓ Fliqlo | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:25:24,455 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:25:24,456 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:25:26,224 [INFO] [3313/8374] 处理: ACIM Remind (id=737568020)
+2026-03-31 14:25:26,379 [INFO]   ✓ ACIM Remind | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:25:32,930 [INFO] [3314/8374] 处理: iMicroscope - Magnifying Glass (id=577434784)
+2026-03-31 14:25:33,099 [INFO]   ✓ iMicroscope - Magnifying Glass | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:25:38,641 [INFO] [3315/8374] 处理: Video Calls with Tooth Fairy (id=1091150573)
+2026-03-31 14:25:38,779 [INFO]   ✓ Video Calls with Tooth Fairy | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:25:41,824 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:25:41,825 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:25:44,289 [INFO] [3316/8374] 处理: Positive Discipline (id=363488035)
+2026-03-31 14:25:44,447 [INFO]   ✓ Positive Discipline | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:25:51,185 [INFO] [3317/8374] 处理: Clue Tracker for Letterboxing (id=349060603)
+2026-03-31 14:25:51,350 [INFO]   ✓ Clue Tracker for Letterboxing | 价格: $6.99 | 类别: Lifestyle
+2026-03-31 14:25:57,867 [INFO] [3318/8374] 处理: Live Wallpapers & Backgrounds+ (id=1067651799)
+2026-03-31 14:25:58,039 [INFO]   ✓ Live Wallpapers & Backgrounds+ | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:26:03,013 [INFO] [3319/8374] 处理: SSTV Slow Scan TV (id=387910013)
+2026-03-31 14:26:03,122 [INFO]   ✓ SSTV Slow Scan TV | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:26:10,504 [INFO] [3320/8374] 处理: NAVLIGHTS for Boats (id=829207340)
+2026-03-31 14:26:10,670 [INFO]   ✓ NAVLIGHTS for Boats | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:26:15,954 [INFO] [3321/8374] 处理: iWeaveIt (id=482959677)
+2026-03-31 14:26:16,122 [INFO]   ✓ iWeaveIt | 价格: $39.99 | 类别: Lifestyle
+2026-03-31 14:26:21,922 [INFO] [3322/8374] 处理: Pet Monitor VIGI (id=1035127285)
+2026-03-31 14:26:22,033 [INFO]   ✓ Pet Monitor VIGI | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:26:28,499 [INFO] [3323/8374] 处理: Puddle & Pile (id=722784846)
+2026-03-31 14:26:28,668 [INFO]   ✓ Puddle & Pile | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:26:33,484 [INFO] [3324/8374] 处理: izzy & friends (id=6753328759)
+2026-03-31 14:26:33,652 [INFO]   ✓ izzy & friends | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:26:39,244 [INFO] [3325/8374] 处理: KnitsThatFit Hats (id=1050935672)
+2026-03-31 14:26:39,396 [INFO]   ✓ KnitsThatFit Hats | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:26:45,999 [INFO] [3326/8374] 处理: Big Day - Event Countdown (id=295759189)
+2026-03-31 14:26:46,177 [INFO]   ✓ Big Day - Event Countdown | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:26:52,377 [INFO] [3327/8374] 处理: Ghostalker Pro (id=6752664028)
+2026-03-31 14:26:52,530 [INFO]   ✓ Ghostalker Pro | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:26:56,736 [INFO] [3328/8374] 处理: Shadow Work Journal Therapy (id=6451074930)
+2026-03-31 14:26:56,905 [INFO]   ✓ Shadow Work Journal Therapy | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:27:03,399 [INFO] [3329/8374] 处理: Omer: A Counting (id=1090497900)
+2026-03-31 14:27:03,502 [INFO]   ✓ Omer: A Counting | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:27:08,968 [INFO] [3330/8374] 处理: Otter - Food & Meal Diary (id=1551273147)
+2026-03-31 14:27:09,100 [INFO]   ✓ Otter - Food & Meal Diary | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:27:15,880 [INFO] [3331/8374] 处理: Sound Proof Puppy Training (id=700513321)
+2026-03-31 14:27:16,024 [INFO]   ✓ Sound Proof Puppy Training | 价格: $3.99 | 类别: Lifestyle
+2026-03-31 14:27:21,598 [INFO] [3332/8374] 处理: Nana Baby App (id=6756934535)
+2026-03-31 14:27:21,713 [INFO]   ✓ Nana Baby App | 价格: $4.99 | 类别: Lifestyle
+2026-03-31 14:27:26,695 [INFO] [3333/8374] 处理: SAS Survival Guide (id=357811968)
+2026-03-31 14:27:26,851 [INFO]   ✓ SAS Survival Guide | 价格: $5.99 | 类别: Lifestyle
+2026-03-31 14:27:30,415 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:27:30,417 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:27:32,264 [INFO] [3334/8374] 处理: Sex Offenders Search iPhone (id=373005430)
+2026-03-31 14:27:32,431 [INFO]   ✓ Sex Offenders Search iPhone | 价格: $1.99 | 类别: Lifestyle
+2026-03-31 14:27:37,879 [INFO] [3335/8374] 处理: BeePlus Beekeeping Manager (id=1018655661)
+2026-03-31 14:27:37,980 [INFO]   ✓ BeePlus Beekeeping Manager | 价格: $9.99 | 类别: Lifestyle
+2026-03-31 14:27:44,736 [INFO] [3336/8374] 处理: iMoodJournal - Mood Diary (id=517952128)
+2026-03-31 14:27:44,857 [INFO]   ✓ iMoodJournal - Mood Diary | 价格: $2.99 | 类别: Lifestyle
+2026-03-31 14:27:47,545 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:27:47,546 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:27:50,113 [INFO] [3337/8374] 处理: Examen - #1 Catholic Journal (id=6751051120)
+2026-03-31 14:27:50,235 [INFO]   ✓ Examen - #1 Catholic Journal | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:27:55,965 [INFO] [3338/8374] 处理: White Noise Baby (id=337495029)
+2026-03-31 14:27:56,074 [INFO]   ✓ White Noise Baby | 价格: $0.99 | 类别: Lifestyle
+2026-03-31 14:28:00,612 [INFO] [3339/8374] 处理: iPhemeris Astrology Charts (id=296160763)
+2026-03-31 14:28:00,781 [INFO]   ✓ iPhemeris Astrology Charts | 价格: $29.99 | 类别: Lifestyle
+2026-03-31 14:28:04,060 [INFO]   [网页] 找到 9 个内购项目
+2026-03-31 14:28:04,062 [INFO]   ✓ 内购: 9 项
+2026-03-31 14:28:07,509 [INFO] [3340/8374] 处理: Pocket Salsa (id=371402545)
+2026-03-31 14:28:07,670 [INFO]   ✓ Pocket Salsa | 价格: $9.99 | 类别: Lifestyle
+2026-03-31 14:28:10,139 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 14:28:10,140 [INFO]   ✓ 内购: 4 项
+2026-03-31 14:28:12,125 [INFO] [3341/8374] 处理: Zillow Real Estate & Rentals (id=310738695)
+2026-03-31 14:28:12,286 [INFO]   ✓ Zillow Real Estate & Rentals | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:14,355 [INFO] [3342/8374] 处理: SmartThings (id=1222822904)
+2026-03-31 14:28:14,522 [INFO]   ✓ SmartThings | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:17,819 [INFO] [3343/8374] 处理: Lemon8 - Lifestyle Community (id=1498607143)
+2026-03-31 14:28:17,994 [INFO]   ✓ Lemon8 - Lifestyle Community | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:20,793 [INFO] [3344/8374] 处理: Ring - Always Home (id=926252661)
+2026-03-31 14:28:20,897 [INFO]   ✓ Ring - Always Home | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:22,595 [INFO] [3345/8374] 处理: Booksy for Customers (id=723961236)
+2026-03-31 14:28:22,770 [INFO]   ✓ Booksy for Customers | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:24,403 [INFO] [3346/8374] 处理: Partiful: Party Invite Maker (id=1662982304)
+2026-03-31 14:28:24,505 [INFO]   ✓ Partiful: Party Invite Maker | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:27,027 [INFO] [3347/8374] 处理: Duet Dating App: Chat & Meet (id=1673723000)
+2026-03-31 14:28:27,182 [INFO]   ✓ Duet Dating App: Chat & Meet | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:29,796 [INFO] [3348/8374] 处理: Google Home (id=680819774)
+2026-03-31 14:28:30,001 [INFO]   ✓ Google Home | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:33,360 [INFO] [3349/8374] 处理: Amazon Alexa (id=944011620)
+2026-03-31 14:28:33,479 [INFO]   ✓ Amazon Alexa | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:36,525 [INFO] [3350/8374] 处理: Alarmy - Loud alarm clock (id=1163786766)
+2026-03-31 14:28:36,688 [INFO]   ✓ Alarmy - Loud alarm clock | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:40,092 [INFO] [3351/8374] 处理: myQ Garage & Access Control (id=456282559)
+2026-03-31 14:28:40,241 [INFO]   ✓ myQ Garage & Access Control | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:41,872 [INFO] [3352/8374] 处理: Toyota (id=1455685357)
+2026-03-31 14:28:42,024 [INFO]   ✓ Toyota | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:44,741 [INFO] [3353/8374] 处理: LG ThinQ (id=993504342)
+2026-03-31 14:28:44,855 [INFO]   ✓ LG ThinQ | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:47,755 [INFO] [3354/8374] 处理: Tesla (id=582007913)
+2026-03-31 14:28:47,903 [INFO]   ✓ Tesla | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:49,830 [INFO] [3355/8374] 处理: I Am Sober (id=672904239)
+2026-03-31 14:28:49,955 [INFO]   ✓ I Am Sober | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:52,789 [INFO] [3356/8374] 处理: Realtor.com Real Estate & Rent (id=336698281)
+2026-03-31 14:28:52,958 [INFO]   ✓ Realtor.com Real Estate & Rent | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:54,533 [INFO] [3357/8374] 处理: Scrambly: Rewards for Steps (id=6738506984)
+2026-03-31 14:28:54,639 [INFO]   ✓ Scrambly: Rewards for Steps | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:57,601 [INFO] [3358/8374] 处理: My Love - Relationship Counter (id=409609608)
+2026-03-31 14:28:57,756 [INFO]   ✓ My Love - Relationship Counter | 价格: Free | 类别: Lifestyle
+2026-03-31 14:28:59,660 [INFO] [3359/8374] 处理: Square Go (id=1623896123)
+2026-03-31 14:28:59,836 [INFO]   ✓ Square Go | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:02,721 [INFO] [3360/8374] 处理: VeSync (id=1289575311)
+2026-03-31 14:29:02,889 [INFO]   ✓ VeSync | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:06,340 [INFO] [3361/8374] 处理: eero wifi system (id=1023499075)
+2026-03-31 14:29:06,516 [INFO]   ✓ eero wifi system | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:09,793 [INFO] [3362/8374] 处理: eufy (id=1424956516)
+2026-03-31 14:29:09,910 [INFO]   ✓ eufy | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:12,610 [INFO] [3363/8374] 处理: AAA Mobile (id=310730297)
+2026-03-31 14:29:12,775 [INFO]   ✓ AAA Mobile | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:15,692 [INFO] [3364/8374] 处理: Ford™ (id=1095418609)
+2026-03-31 14:29:15,862 [INFO]   ✓ Ford™ | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:19,086 [INFO] [3365/8374] 处理: Deepsearch AI Search Assistant (id=6741062364)
+2026-03-31 14:29:19,238 [INFO]   ✓ Deepsearch AI Search Assistant | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:21,502 [INFO] [3366/8374] 处理: LotusLanternX (id=1279356519)
+2026-03-31 14:29:21,651 [INFO]   ✓ LotusLanternX | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:24,516 [INFO] [3367/8374] 处理: Thumbtack: Home Service Pros (id=852703300)
+2026-03-31 14:29:24,672 [INFO]   ✓ Thumbtack: Home Service Pros | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:27,941 [INFO] [3368/8374] 处理: SmartLife- Smart Living (id=1115101477)
+2026-03-31 14:29:28,094 [INFO]   ✓ SmartLife- Smart Living | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:29,700 [INFO] [3369/8374] 处理: Hily Dating App: Meet. Date. (id=1250946975)
+2026-03-31 14:29:29,814 [INFO]   ✓ Hily Dating App: Meet. Date. | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:33,291 [INFO] [3370/8374] 处理: TP-Link Tapo (id=1472718009)
+2026-03-31 14:29:33,449 [INFO]   ✓ TP-Link Tapo | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:36,221 [INFO] [3371/8374] 处理: Blood Pressure Monitor-InPulse (id=6478997398)
+2026-03-31 14:29:36,485 [INFO]   ✓ Blood Pressure Monitor-InPulse | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:38,837 [INFO] [3372/8374] 处理: Taskrabbit - Handyman & more (id=374165361)
+2026-03-31 14:29:38,993 [INFO]   ✓ Taskrabbit - Handyman & more | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:41,919 [INFO] [3373/8374] 处理: Apple Invites (id=6472498645)
+2026-03-31 14:29:42,074 [INFO]   ✓ Apple Invites | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:44,954 [INFO] [3374/8374] 处理: NGL: ask me anything (id=1596550932)
+2026-03-31 14:29:45,111 [INFO]   ✓ NGL: ask me anything | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:48,084 [INFO] [3375/8374] 处理: myChevrolet (id=398596699)
+2026-03-31 14:29:48,189 [INFO]   ✓ myChevrolet | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:49,720 [INFO] [3376/8374] 处理: Apartments.com Rental Finder (id=319836632)
+2026-03-31 14:29:49,828 [INFO]   ✓ Apartments.com Rental Finder | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:52,878 [INFO] [3377/8374] 处理: Candle: Couples & Relationship (id=6743355635)
+2026-03-31 14:29:52,988 [INFO]   ✓ Candle: Couples & Relationship | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:54,981 [INFO] [3378/8374] 处理: DOOR: Smart Access & Control (id=6499252863)
+2026-03-31 14:29:55,083 [INFO]   ✓ DOOR: Smart Access & Control | 价格: Free | 类别: Lifestyle
+2026-03-31 14:29:58,084 [INFO] [3379/8374] 处理: PURE: Open-Minded Dating App (id=690661663)
+2026-03-31 14:29:58,210 [INFO]   ✓ PURE: Open-Minded Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:00,447 [INFO] [3380/8374] 处理: Blood Pressure Log, Heart Rate (id=1575719736)
+2026-03-31 14:30:00,550 [INFO]   ✓ Blood Pressure Log, Heart Rate | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:03,910 [INFO] [3381/8374] 处理: Redfin: Buy, Sell & Rent Homes (id=327962480)
+2026-03-31 14:30:04,065 [INFO]   ✓ Redfin: Buy, Sell & Rent Homes | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:07,016 [INFO] [3382/8374] 处理: Fitted (id=6596771952)
+2026-03-31 14:30:07,184 [INFO]   ✓ Fitted | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:08,819 [INFO] [3383/8374] 处理: CarMax: Used Cars for Sale (id=571044395)
+2026-03-31 14:30:08,991 [INFO]   ✓ CarMax: Used Cars for Sale | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:10,719 [INFO] [3384/8374] 处理: Homes.com Real Estate Search (id=306423353)
+2026-03-31 14:30:10,822 [INFO]   ✓ Homes.com Real Estate Search | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:14,238 [INFO] [3385/8374] 处理: Apartment List: Apt rentals (id=659694038)
+2026-03-31 14:30:14,348 [INFO]   ✓ Apartment List: Apt rentals | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:17,690 [INFO] [3386/8374] 处理: theCut: Barbershop Booking (id=1101408626)
+2026-03-31 14:30:17,824 [INFO]   ✓ theCut: Barbershop Booking | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:19,956 [INFO] [3387/8374] 处理: Whop (id=1600181492)
+2026-03-31 14:30:20,133 [INFO]   ✓ Whop | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:22,380 [INFO] [3388/8374] 处理: Phone Tracker - Family Locator (id=1669041518)
+2026-03-31 14:30:22,532 [INFO]   ✓ Phone Tracker - Family Locator | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:24,135 [INFO] [3389/8374] 处理: Co–Star Personalized Astrology (id=1264782561)
+2026-03-31 14:30:24,238 [INFO]   ✓ Co–Star Personalized Astrology | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:27,259 [INFO] [3390/8374] 处理: Feeld: Dating for the Curious (id=887914690)
+2026-03-31 14:30:27,414 [INFO]   ✓ Feeld: Dating for the Curious | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:29,463 [INFO] [3391/8374] 处理: Auto Club App (id=1094393125)
+2026-03-31 14:30:29,617 [INFO]   ✓ Auto Club App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:31,934 [INFO] [3392/8374] 处理: ecobee (id=916985674)
+2026-03-31 14:30:32,069 [INFO]   ✓ ecobee | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:35,015 [INFO] [3393/8374] 处理: HondaLink (id=750465030)
+2026-03-31 14:30:35,117 [INFO]   ✓ HondaLink | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:36,837 [INFO] [3394/8374] 处理: Alipay - Simplify Your Life (id=333206289)
+2026-03-31 14:30:36,958 [INFO]   ✓ Alipay - Simplify Your Life | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:39,765 [INFO] [3395/8374] 处理: Influenster: Try & Review (id=917701230)
+2026-03-31 14:30:39,929 [INFO]   ✓ Influenster: Try & Review | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:41,841 [INFO] [3396/8374] 处理: First Alert by Resideo (id=6457097692)
+2026-03-31 14:30:42,021 [INFO]   ✓ First Alert by Resideo | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:43,576 [INFO] [3397/8374] 处理: Wild Thumb: TX native plants (id=6749037334)
+2026-03-31 14:30:43,680 [INFO]   ✓ Wild Thumb: TX native plants | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:46,225 [INFO] [3398/8374] 处理: Zillow Rentals (id=538946076)
+2026-03-31 14:30:46,385 [INFO]   ✓ Zillow Rentals | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:48,991 [INFO] [3399/8374] 处理: PetDesk (id=631377773)
+2026-03-31 14:30:49,149 [INFO]   ✓ PetDesk | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:51,416 [INFO] [3400/8374] 处理: Owlet Dream (id=1590590105)
+2026-03-31 14:30:51,569 [INFO]   ✓ Owlet Dream | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:53,529 [INFO] [3401/8374] 处理: Eureka: Earn money for surveys (id=1466346433)
+2026-03-31 14:30:53,632 [INFO]   ✓ Eureka: Earn money for surveys | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:56,393 [INFO] [3402/8374] 处理: The tea app - Action Journal (id=6758542254)
+2026-03-31 14:30:56,499 [INFO]   ✓ The tea app - Action Journal | 价格: Free | 类别: Lifestyle
+2026-03-31 14:30:59,175 [INFO] [3403/8374] 处理: Alta Daily: Digital AI Closet (id=6481705400)
+2026-03-31 14:30:59,319 [INFO]   ✓ Alta Daily: Digital AI Closet | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:01,895 [INFO] [3404/8374] 处理: One Tap Away (id=6670760560)
+2026-03-31 14:31:02,076 [INFO]   ✓ One Tap Away | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:05,061 [INFO] [3405/8374] 处理: Nest (id=464988855)
+2026-03-31 14:31:05,182 [INFO]   ✓ Nest | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:08,602 [INFO] [3406/8374] 处理: Paired: Couples & Relationship (id=1469609343)
+2026-03-31 14:31:08,762 [INFO]   ✓ Paired: Couples & Relationship | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:12,262 [INFO] [3407/8374] 处理: myPurina – Pet Rewards App (id=1658539065)
+2026-03-31 14:31:12,361 [INFO]   ✓ myPurina – Pet Rewards App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:15,169 [INFO] [3408/8374] 处理: Roborock (id=1462875428)
+2026-03-31 14:31:15,281 [INFO]   ✓ Roborock | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:17,523 [INFO] [3409/8374] 处理: Breeze: Start Self-Discovery (id=1450365119)
+2026-03-31 14:31:17,629 [INFO]   ✓ Breeze: Start Self-Discovery | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:19,197 [INFO] [3410/8374] 处理: Dog Translator - Dog Talk (id=6737748858)
+2026-03-31 14:31:19,311 [INFO]   ✓ Dog Translator - Dog Talk | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:22,106 [INFO] [3411/8374] 处理: Rent. Apartments and Homes (id=388038507)
+2026-03-31 14:31:22,272 [INFO]   ✓ Rent. Apartments and Homes | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:24,763 [INFO] [3412/8374] 处理: Great Clips Online Check-in (id=414012602)
+2026-03-31 14:31:24,910 [INFO]   ✓ Great Clips Online Check-in | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:27,526 [INFO] [3413/8374] 处理: Swagbucks: Surveys for Money (id=640439547)
+2026-03-31 14:31:27,641 [INFO]   ✓ Swagbucks: Surveys for Money | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:29,893 [INFO] [3414/8374] 处理: MyDyson™ (id=993135524)
+2026-03-31 14:31:29,997 [INFO]   ✓ MyDyson™ | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:32,960 [INFO] [3415/8374] 处理: DOWN: The Casual Dating App (id=601174087)
+2026-03-31 14:31:33,113 [INFO]   ✓ DOWN: The Casual Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:35,887 [INFO] [3416/8374] 处理: Planner 5D: AI Home Design (id=606173978)
+2026-03-31 14:31:36,069 [INFO]   ✓ Planner 5D: AI Home Design | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:38,824 [INFO] [3417/8374] 处理: SmartHQ (id=992883749)
+2026-03-31 14:31:38,969 [INFO]   ✓ SmartHQ | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:42,003 [INFO] [3418/8374] 处理: Resident Portal Mobile (id=443831139)
+2026-03-31 14:31:42,176 [INFO]   ✓ Resident Portal Mobile | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:45,047 [INFO] [3419/8374] 处理: Hubspace (id=1506042235)
+2026-03-31 14:31:45,213 [INFO]   ✓ Hubspace | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:47,186 [INFO] [3420/8374] 处理: edikted (id=1588252721)
+2026-03-31 14:31:47,342 [INFO]   ✓ edikted | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:49,162 [INFO] [3421/8374] 处理: Cozy Couples: Relationship App (id=6463766369)
+2026-03-31 14:31:49,313 [INFO]   ✓ Cozy Couples: Relationship App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:50,922 [INFO] [3422/8374] 处理: LOFT Living (id=333244247)
+2026-03-31 14:31:51,072 [INFO]   ✓ LOFT Living | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:54,509 [INFO] [3423/8374] 处理: Hair AI: Hairstyle Filter, Cut (id=6695743833)
+2026-03-31 14:31:54,645 [INFO]   ✓ Hair AI: Hairstyle Filter, Cut | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:56,406 [INFO] [3424/8374] 处理: SharkClean (id=1271409097)
+2026-03-31 14:31:56,523 [INFO]   ✓ SharkClean | 价格: Free | 类别: Lifestyle
+2026-03-31 14:31:59,619 [INFO] [3425/8374] 处理: Vagaro (id=536110000)
+2026-03-31 14:31:59,731 [INFO]   ✓ Vagaro | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:02,562 [INFO] [3426/8374] 处理: Kasa Smart (id=1034035493)
+2026-03-31 14:32:02,713 [INFO]   ✓ Kasa Smart | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:05,453 [INFO] [3427/8374] 处理: HUD™ Bedroom Dating App (id=1042814349)
+2026-03-31 14:32:05,583 [INFO]   ✓ HUD™ Bedroom Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:08,969 [INFO] [3428/8374] 处理: Care.com Caregiver: Find Jobs (id=1367528046)
+2026-03-31 14:32:09,140 [INFO]   ✓ Care.com Caregiver: Find Jobs | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:11,153 [INFO] [3429/8374] 处理: Church Center App (id=1357742931)
+2026-03-31 14:32:11,326 [INFO]   ✓ Church Center App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:14,237 [INFO] [3430/8374] 处理: Arlo Secure: Home Security (id=1459289784)
+2026-03-31 14:32:14,344 [INFO]   ✓ Arlo Secure: Home Security | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:16,736 [INFO] [3431/8374] 处理: Trulia Real Estate & Rentals (id=288487321)
+2026-03-31 14:32:16,888 [INFO]   ✓ Trulia Real Estate & Rentals | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:18,897 [INFO] [3432/8374] 处理: Mercedes-Benz (USA/CA) (id=1397873833)
+2026-03-31 14:32:19,001 [INFO]   ✓ Mercedes-Benz (USA/CA) | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:22,472 [INFO] [3433/8374] 处理: Resideo - Smart Home (id=880332077)
+2026-03-31 14:32:22,587 [INFO]   ✓ Resideo - Smart Home | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:25,431 [INFO] [3434/8374] 处理: ADT Control ® (id=1423831457)
+2026-03-31 14:32:25,545 [INFO]   ✓ ADT Control ® | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:27,679 [INFO] [3435/8374] 处理: Nanit (id=1137885597)
+2026-03-31 14:32:27,851 [INFO]   ✓ Nanit | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:30,641 [INFO] [3436/8374] 处理: The League: Intelligent Dating (id=893653132)
+2026-03-31 14:32:30,745 [INFO]   ✓ The League: Intelligent Dating | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:33,662 [INFO] [3437/8374] 处理: CHANI: Your Astrology Guide (id=1532791252)
+2026-03-31 14:32:33,776 [INFO]   ✓ CHANI: Your Astrology Guide | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:35,604 [INFO] [3438/8374] 处理: Coffee Meets Bagel: Dating App (id=6502307144)
+2026-03-31 14:32:35,753 [INFO]   ✓ Coffee Meets Bagel: Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:37,478 [INFO] [3439/8374] 处理: Once: Perfect Match Dating App (id=1489440748)
+2026-03-31 14:32:37,587 [INFO]   ✓ Once: Perfect Match Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:41,013 [INFO] [3440/8374] 处理: Meete - Meet New Friends (id=1510917465)
+2026-03-31 14:32:41,172 [INFO]   ✓ Meete - Meet New Friends | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:44,322 [INFO] [3441/8374] 处理: DateMyAge™ - Mature Dating 40+ (id=1270059501)
+2026-03-31 14:32:44,473 [INFO]   ✓ DateMyAge™ - Mature Dating 40+ | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:46,271 [INFO] [3442/8374] 处理: OkCupid Dating: Date Singles (id=338701294)
+2026-03-31 14:32:46,448 [INFO]   ✓ OkCupid Dating: Date Singles | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:49,826 [INFO] [3443/8374] 处理: Kismia Dating - Meet Singles (id=1571274697)
+2026-03-31 14:32:49,999 [INFO]   ✓ Kismia Dating - Meet Singles | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:52,797 [INFO] [3444/8374] 处理: Badoo Dating: Meet New People (id=351331194)
+2026-03-31 14:32:52,979 [INFO]   ✓ Badoo Dating: Meet New People | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:54,650 [INFO] [3445/8374] 处理: HER:Lesbian&Queer LGBTQ Dating (id=573328837)
+2026-03-31 14:32:54,819 [INFO]   ✓ HER:Lesbian&Queer LGBTQ Dating | 价格: Free | 类别: Lifestyle
+2026-03-31 14:32:58,069 [INFO] [3446/8374] 处理: Nebula: Horoscope & Astrology (id=1459969523)
+2026-03-31 14:32:58,187 [INFO]   ✓ Nebula: Horoscope & Astrology | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:00,093 [INFO] [3447/8374] 处理: The Pattern: Astrology (id=1071085727)
+2026-03-31 14:33:00,257 [INFO]   ✓ The Pattern: Astrology | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:02,637 [INFO] [3448/8374] 处理: Muzz: Where Muslims Marry (id=969997496)
+2026-03-31 14:33:02,804 [INFO]   ✓ Muzz: Where Muslims Marry | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:05,244 [INFO] [3449/8374] 处理: CorrLinks Text Chat (id=6503455318)
+2026-03-31 14:33:05,350 [INFO]   ✓ CorrLinks Text Chat | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:08,311 [INFO] [3450/8374] 处理: Dil Mil: South Asian Dating (id=879383901)
+2026-03-31 14:33:08,454 [INFO]   ✓ Dil Mil: South Asian Dating | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:10,445 [INFO] [3451/8374] 处理: Planta: AI Plant & Garden Care (id=1410126781)
+2026-03-31 14:33:10,637 [INFO]   ✓ Planta: AI Plant & Garden Care | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:12,599 [INFO] [3452/8374] 处理: Woofz - Puppy and Dog Training (id=1532020050)
+2026-03-31 14:33:12,753 [INFO]   ✓ Woofz - Puppy and Dog Training | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:15,234 [INFO] [3453/8374] 处理: Astra - Life Advice (id=6473748536)
+2026-03-31 14:33:15,339 [INFO]   ✓ Astra - Life Advice | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:17,905 [INFO] [3454/8374] 处理: Victory Shield (id=335318146)
+2026-03-31 14:33:18,004 [INFO]   ✓ Victory Shield | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:20,546 [INFO] [3455/8374] 处理: Plant Parent: Plant Care Guide (id=1612792132)
+2026-03-31 14:33:20,702 [INFO]   ✓ Plant Parent: Plant Care Guide | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:23,412 [INFO] [3456/8374] 处理: Candid - Capture the Moment (id=6755029675)
+2026-03-31 14:33:23,519 [INFO]   ✓ Candid - Capture the Moment | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:26,383 [INFO] [3457/8374] 处理: favorited (id=1638796139)
+2026-03-31 14:33:26,488 [INFO]   ✓ favorited | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:28,976 [INFO] [3458/8374] 处理: Zmodo (id=1020070571)
+2026-03-31 14:33:29,134 [INFO]   ✓ Zmodo | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:32,315 [INFO] [3459/8374] 处理: Petlibro (id=1586120661)
+2026-03-31 14:33:32,469 [INFO]   ✓ Petlibro | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:34,102 [INFO] [3460/8374] 处理: 测测-女性情感倾诉直播社区 (id=756771906)
+2026-03-31 14:33:34,246 [INFO]   ✓ 测测-女性情感倾诉直播社区 | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:36,927 [INFO] [3461/8374] 处理: GrowIt: Garden Planner (id=6443580320)
+2026-03-31 14:33:37,029 [INFO]   ✓ GrowIt: Garden Planner | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:39,318 [INFO] [3462/8374] 处理: Purple Ocean Psychic Reading (id=926748329)
+2026-03-31 14:33:39,420 [INFO]   ✓ Purple Ocean Psychic Reading | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:41,225 [INFO] [3463/8374] 处理: BalanceMe-Health AI&Self Care (id=6469513178)
+2026-03-31 14:33:41,334 [INFO]   ✓ BalanceMe-Health AI&Self Care | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:43,480 [INFO] [3464/8374] 处理: YarnPal - Crochet & Knitting (id=6738537088)
+2026-03-31 14:33:43,653 [INFO]   ✓ YarnPal - Crochet & Knitting | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:46,603 [INFO] [3465/8374] 处理: Precious - Baby Photo Art (id=1103530261)
+2026-03-31 14:33:46,769 [INFO]   ✓ Precious - Baby Photo Art | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:49,330 [INFO] [3466/8374] 处理: Powerful Cleaner-Clean Storage (id=1618902724)
+2026-03-31 14:33:49,443 [INFO]   ✓ Powerful Cleaner-Clean Storage | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:52,466 [INFO] [3467/8374] 处理: iScape: Landscape Design (id=439688430)
+2026-03-31 14:33:52,637 [INFO]   ✓ iScape: Landscape Design | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:55,797 [INFO] [3468/8374] 处理: YI Home (id=1011626777)
+2026-03-31 14:33:55,940 [INFO]   ✓ YI Home | 价格: Free | 类别: Lifestyle
+2026-03-31 14:33:59,032 [INFO] [3469/8374] 处理: RIZZ (id=1663430725)
+2026-03-31 14:33:59,141 [INFO]   ✓ RIZZ | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:01,046 [INFO] [3470/8374] 处理: Roomster (id=1045548013)
+2026-03-31 14:34:01,223 [INFO]   ✓ Roomster | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:03,336 [INFO] [3471/8374] 处理: Chyrpe: Female-Led Dating (id=6478389867)
+2026-03-31 14:34:03,479 [INFO]   ✓ Chyrpe: Female-Led Dating | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:05,284 [INFO] [3472/8374] 处理: Phone Number Tracker: Location (id=6502455147)
+2026-03-31 14:34:05,429 [INFO]   ✓ Phone Number Tracker: Location | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:07,770 [INFO] [3473/8374] 处理: Lox Club - Jewish Dating App (id=1523344686)
+2026-03-31 14:34:07,931 [INFO]   ✓ Lox Club - Jewish Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:11,150 [INFO] [3474/8374] 处理: Qustodio Parental Control App (id=1501720596)
+2026-03-31 14:34:11,261 [INFO]   ✓ Qustodio Parental Control App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:14,746 [INFO] [3475/8374] 处理: Perfect365 Makeup Photo Editor (id=475976577)
+2026-03-31 14:34:14,920 [INFO]   ✓ Perfect365 Makeup Photo Editor | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:16,735 [INFO] [3476/8374] 处理: Pulsetto Wellness (id=1636176641)
+2026-03-31 14:34:16,842 [INFO]   ✓ Pulsetto Wellness | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:18,925 [INFO] [3477/8374] 处理: Starla - Call the Universe (id=6741873786)
+2026-03-31 14:34:19,075 [INFO]   ✓ Starla - Call the Universe | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:20,619 [INFO] [3478/8374] 处理: MyScreen - Live Wallpapers (id=1039845801)
+2026-03-31 14:34:20,790 [INFO]   ✓ MyScreen - Live Wallpapers | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:22,543 [INFO] [3479/8374] 处理: Hippo - Meet New Friends (id=1439390717)
+2026-03-31 14:34:22,664 [INFO]   ✓ Hippo - Meet New Friends | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:25,281 [INFO] [3480/8374] 处理: ToChat - Meet New Friends (id=1591156837)
+2026-03-31 14:34:25,421 [INFO]   ✓ ToChat - Meet New Friends | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:28,864 [INFO] [3481/8374] 处理: Smart Life - Smart Home App (id=6738117098)
+2026-03-31 14:34:28,966 [INFO]   ✓ Smart Life - Smart Home App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:30,786 [INFO] [3482/8374] 处理: AT&T Secure Family® parent app (id=353334746)
+2026-03-31 14:34:30,892 [INFO]   ✓ AT&T Secure Family® parent app | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:33,396 [INFO] [3483/8374] 处理: Couple Joy - Relationship App (id=1624758651)
+2026-03-31 14:34:33,545 [INFO]   ✓ Couple Joy - Relationship App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:35,248 [INFO] [3484/8374] 处理: Care.com: Hire Caregivers (id=328453619)
+2026-03-31 14:34:35,450 [INFO]   ✓ Care.com: Hire Caregivers | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:37,620 [INFO] [3485/8374] 处理: FamilyAlbum - Photo Sharing (id=935672069)
+2026-03-31 14:34:38,024 [INFO]   ✓ FamilyAlbum - Photo Sharing | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:40,470 [INFO] [3486/8374] 处理: Findmykids: GPS Phone Tracker (id=994098803)
+2026-03-31 14:34:40,582 [INFO]   ✓ Findmykids: GPS Phone Tracker | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:42,546 [INFO] [3487/8374] 处理: AI Decor - AI Home Design (id=6752771686)
+2026-03-31 14:34:42,657 [INFO]   ✓ AI Decor - AI Home Design | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:45,171 [INFO] [3488/8374] 处理: 华人168-招聘求职租房二手买卖 (id=1380601411)
+2026-03-31 14:34:45,300 [INFO]   ✓ 华人168-招聘求职租房二手买卖 | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:47,415 [INFO] [3489/8374] 处理: AuraReel (id=6756252146)
+2026-03-31 14:34:47,531 [INFO]   ✓ AuraReel | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:49,758 [INFO] [3490/8374] 处理: Home Planner - AI Room Design (id=1076159017)
+2026-03-31 14:34:49,945 [INFO]   ✓ Home Planner - AI Room Design | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:52,589 [INFO] [3491/8374] 处理: Tile - Find lost keys & phone (id=664939913)
+2026-03-31 14:34:52,698 [INFO]   ✓ Tile - Find lost keys & phone | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:54,603 [INFO] [3492/8374] 处理: Find My Location: Tracker (id=6741145225)
+2026-03-31 14:34:54,732 [INFO]   ✓ Find My Location: Tracker | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:56,686 [INFO] [3493/8374] 处理: CloudEdge (id=1294635090)
+2026-03-31 14:34:56,830 [INFO]   ✓ CloudEdge | 价格: Free | 类别: Lifestyle
+2026-03-31 14:34:59,932 [INFO] [3494/8374] 处理: Warhammer 40,000: The App (id=6443503982)
+2026-03-31 14:35:00,153 [INFO]   ✓ Warhammer 40,000: The App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:01,924 [INFO] [3495/8374] 处理: Watch Faces by Facer (id=1057071179)
+2026-03-31 14:35:02,029 [INFO]   ✓ Watch Faces by Facer | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:04,722 [INFO] [3496/8374] 处理: Plug AI: Texting Assistant (id=6449750416)
+2026-03-31 14:35:04,825 [INFO]   ✓ Plug AI: Texting Assistant | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:07,144 [INFO] [3497/8374] 处理: Instinct: Casual Dating App (id=1595390736)
+2026-03-31 14:35:07,248 [INFO]   ✓ Instinct: Casual Dating App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:09,735 [INFO] [3498/8374] 处理: TimePassages Astrology (id=488946918)
+2026-03-31 14:35:09,887 [INFO]   ✓ TimePassages Astrology | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:12,666 [INFO] [3499/8374] 处理: Hubb - Connect & Chat, Enjoy (id=6752853751)
+2026-03-31 14:35:12,836 [INFO]   ✓ Hubb - Connect & Chat, Enjoy | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:15,253 [INFO] [3500/8374] 处理: CUE Astrology (id=6499107303)
+2026-03-31 14:35:15,358 [INFO]   ✓ CUE Astrology | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:18,256 [INFO] [3501/8374] 处理: Led Light Controller Home App (id=1670269554)
+2026-03-31 14:35:18,382 [INFO]   ✓ Led Light Controller Home App | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:20,291 [INFO] [3502/8374] 处理: Watch Faces - WatchLab (id=6446290569)
+2026-03-31 14:35:20,401 [INFO]   ✓ Watch Faces - WatchLab | 价格: Free | 类别: Lifestyle
+2026-03-31 14:35:22,938 [INFO] [3503/8374] 处理: StridePal - Step Counter (id=6760667243)
+2026-03-31 14:35:23,083 [INFO]   ✓ StridePal - Step Counter | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:35:27,886 [INFO] [3504/8374] 处理: WorkOutDoors (id=1241909999)
+2026-03-31 14:35:27,988 [INFO]   ✓ WorkOutDoors | 价格: $8.99 | 类别: Health & Fitness
+2026-03-31 14:35:31,223 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 14:35:31,225 [INFO]   ✓ 内购: 5 项
+2026-03-31 14:35:33,497 [INFO] [3505/8374] 处理: White Noise (id=289894882)
+2026-03-31 14:35:33,599 [INFO]   ✓ White Noise | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:35:36,686 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:35:36,687 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:35:39,128 [INFO] [3506/8374] 处理: Snug as a Bub (id=1445967092)
+2026-03-31 14:35:39,297 [INFO]   ✓ Snug as a Bub | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:35:43,661 [INFO] [3507/8374] 处理: PepCalc: Peptide Calculator (id=1524577846)
+2026-03-31 14:35:43,764 [INFO]   ✓ PepCalc: Peptide Calculator | 价格: $9.99 | 类别: Health & Fitness
+2026-03-31 14:35:49,744 [INFO] [3508/8374] 处理: USAF PFA & USSF HPA Calculator (id=1569922923)
+2026-03-31 14:35:49,886 [INFO]   ✓ USAF PFA & USSF HPA Calculator | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:35:55,275 [INFO] [3509/8374] 处理: HealthFit (id=1202650514)
+2026-03-31 14:35:55,377 [INFO]   ✓ HealthFit | 价格: $6.99 | 类别: Health & Fitness
+2026-03-31 14:35:57,815 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:35:57,816 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:36:01,240 [INFO] [3510/8374] 处理: Blood Type Diet® (id=379485721)
+2026-03-31 14:36:01,469 [INFO]   ✓ Blood Type Diet® | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:36:07,223 [INFO] [3511/8374] 处理: O₂ Buddy: Blood Oxygen (id=6751239297)
+2026-03-31 14:36:07,373 [INFO]   ✓ O₂ Buddy: Blood Oxygen | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:36:13,248 [INFO] [3512/8374] 处理: Couch to 5K® - Run training (id=448474423)
+2026-03-31 14:36:13,378 [INFO]   ✓ Couch to 5K® - Run training | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:36:19,019 [INFO] [3513/8374] 处理: Clock Yourself (id=1142095221)
+2026-03-31 14:36:19,132 [INFO]   ✓ Clock Yourself | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:36:24,001 [INFO] [3514/8374] 处理: Baby Shusher Sleep Miracle App (id=419606496)
+2026-03-31 14:36:24,147 [INFO]   ✓ Baby Shusher Sleep Miracle App | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:36:30,190 [INFO] [3515/8374] 处理: BrainWave: 37 Binaural Series™ (id=307219387)
+2026-03-31 14:36:30,310 [INFO]   ✓ BrainWave: 37 Binaural Series™ | 价格: $5.99 | 类别: Health & Fitness
+2026-03-31 14:36:36,601 [INFO] [3516/8374] 处理: Schumann Resonance (id=1462584573)
+2026-03-31 14:36:36,738 [INFO]   ✓ Schumann Resonance | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:36:39,176 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:36:39,178 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:36:42,494 [INFO] [3517/8374] 处理: Watch to 5K－Couch to 5km coach (id=1517914828)
+2026-03-31 14:36:42,602 [INFO]   ✓ Watch to 5K－Couch to 5km coach | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:36:45,353 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 14:36:45,354 [INFO]   ✓ 内购: 5 项
+2026-03-31 14:36:48,273 [INFO] [3518/8374] 处理: HRV4Training (id=686923970)
+2026-03-31 14:36:48,403 [INFO]   ✓ HRV4Training | 价格: $9.99 | 类别: Health & Fitness
+2026-03-31 14:36:53,943 [INFO] [3519/8374] 处理: Calorie Counter PRO MyNetDiary (id=352247139)
+2026-03-31 14:36:54,050 [INFO]   ✓ Calorie Counter PRO MyNetDiary | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:36:58,235 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:36:58,236 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:36:58,236 [INFO]   🔥 降价！共 3 项变动
+2026-03-31 14:36:58,236 [INFO]      [iap] MyNetDiary Premium: $59.99 → $8.99
+2026-03-31 14:36:58,237 [INFO]      [iap] MyNetDiary Premium: $59.99 → $39.99
+2026-03-31 14:36:58,237 [INFO]      [iap] MyNetDiary Premium: $59.99 → $29.99
+2026-03-31 14:37:01,475 [INFO] [3520/8374] 处理: Sleep Machine (id=323061162)
+2026-03-31 14:37:01,606 [INFO]   ✓ Sleep Machine | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:37:07,276 [INFO] [3521/8374] 处理: Nomo Widgets (id=6753310758)
+2026-03-31 14:37:07,380 [INFO]   ✓ Nomo Widgets | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:37:12,761 [INFO] [3522/8374] 处理: Seconds Pro Interval Timer (id=363978811)
+2026-03-31 14:37:12,917 [INFO]   ✓ Seconds Pro Interval Timer | 价格: $7.99 | 类别: Health & Fitness
+2026-03-31 14:37:20,210 [INFO] [3523/8374] 处理: Calm Harm – manage self-harm (id=961611581)
+2026-03-31 14:37:20,358 [INFO]   ✓ Calm Harm – manage self-harm | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:37:27,281 [INFO] [3524/8374] 处理: Peptide Tracker Calculator (id=6739737107)
+2026-03-31 14:37:27,418 [INFO]   ✓ Peptide Tracker Calculator | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:37:31,715 [INFO] [3525/8374] 处理: Float Control: VESC Companion (id=1590924299)
+2026-03-31 14:37:31,832 [INFO]   ✓ Float Control: VESC Companion | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:37:35,061 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:37:35,062 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:37:36,949 [INFO] [3526/8374] 处理: My Pollen Forecast Pro (id=1244429473)
+2026-03-31 14:37:37,058 [INFO]   ✓ My Pollen Forecast Pro | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:37:40,145 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:37:40,146 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:37:42,572 [INFO] [3527/8374] 处理: Health Export CSV (id=1477944755)
+2026-03-31 14:37:42,720 [INFO]   ✓ Health Export CSV | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:37:46,002 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:37:46,004 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:37:49,327 [INFO] [3528/8374] 处理: Starting Strength Official (id=1008697836)
+2026-03-31 14:37:49,449 [INFO]   ✓ Starting Strength Official | 价格: $14.99 | 类别: Health & Fitness
+2026-03-31 14:37:53,496 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 14:37:53,497 [INFO]   ✓ 内购: 8 项
+2026-03-31 14:37:56,803 [INFO] [3529/8374] 处理: Progressive Alarm Clock (id=362389803)
+2026-03-31 14:37:56,905 [INFO]   ✓ Progressive Alarm Clock | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:38:03,373 [INFO] [3530/8374] 处理: Airway Gym (id=1440259704)
+2026-03-31 14:38:03,490 [INFO]   ✓ Airway Gym | 价格: $6.99 | 类别: Health & Fitness
+2026-03-31 14:38:09,708 [INFO] [3531/8374] 处理: Little Bean - Cosmetic Checker (id=1578243186)
+2026-03-31 14:38:09,872 [INFO]   ✓ Little Bean - Cosmetic Checker | 价格: $7.99 | 类别: Health & Fitness
+2026-03-31 14:38:14,537 [INFO] [3532/8374] 处理: Deep Sleep with AJ (id=337349999)
+2026-03-31 14:38:14,647 [INFO]   ✓ Deep Sleep with AJ | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:38:20,823 [INFO] [3533/8374] 处理: DBT Diary Card & Skills Coach (id=479013889)
+2026-03-31 14:38:20,926 [INFO]   ✓ DBT Diary Card & Skills Coach | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:38:25,690 [INFO] [3534/8374] 处理: 72Hour Fasting Timer (id=6745131744)
+2026-03-31 14:38:25,792 [INFO]   ✓ 72Hour Fasting Timer | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:38:30,704 [INFO] [3535/8374] 处理: Pocket Yoga Teacher (id=471786434)
+2026-03-31 14:38:30,828 [INFO]   ✓ Pocket Yoga Teacher | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:38:38,365 [INFO] [3536/8374] 处理: Haptic Vibration Timer (id=6747902090)
+2026-03-31 14:38:38,517 [INFO]   ✓ Haptic Vibration Timer | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:38:45,781 [INFO] [3537/8374] 处理: Sedona Hiking (id=599443592)
+2026-03-31 14:38:45,943 [INFO]   ✓ Sedona Hiking | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:38:53,212 [INFO] [3538/8374] 处理: HotLog - Sauna Session Tracker (id=1413952733)
+2026-03-31 14:38:53,371 [INFO]   ✓ HotLog - Sauna Session Tracker | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:38:58,932 [INFO] [3539/8374] 处理: PowNap (id=6743547737)
+2026-03-31 14:38:59,054 [INFO]   ✓ PowNap | 价格: $5.99 | 类别: Health & Fitness
+2026-03-31 14:39:04,028 [INFO] [3540/8374] 处理: The Work App (id=478610069)
+2026-03-31 14:39:04,152 [INFO]   ✓ The Work App | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:39:09,808 [INFO] [3541/8374] 处理: RunTempo - Runners Metronome (id=646414918)
+2026-03-31 14:39:10,001 [INFO]   ✓ RunTempo - Runners Metronome | 价格: $5.99 | 类别: Health & Fitness
+2026-03-31 14:39:15,553 [INFO] [3542/8374] 处理: PostureScreen Mobile (id=405109185)
+2026-03-31 14:39:15,729 [INFO]   ✓ PostureScreen Mobile | 价格: $59.99 | 类别: Health & Fitness
+2026-03-31 14:39:18,539 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:39:18,541 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:39:18,541 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 14:39:18,541 [INFO]      [iap] Unlimited Assessment Plan: $249.0 → $24.99
+2026-03-31 14:39:20,534 [INFO] [3543/8374] 处理: Noisli (id=862773459)
+2026-03-31 14:39:20,680 [INFO]   ✓ Noisli | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:39:26,860 [INFO] [3544/8374] 处理: Cardiogram (id=6758928120)
+2026-03-31 14:39:27,004 [INFO]   ✓ Cardiogram | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:39:32,281 [INFO] [3545/8374] 处理: Windy Pro ~ Cozy White Noise (id=6504160127)
+2026-03-31 14:39:32,390 [INFO]   ✓ Windy Pro ~ Cozy White Noise | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:39:38,296 [INFO] [3546/8374] 处理: Whole Eats (id=1273547462)
+2026-03-31 14:39:38,470 [INFO]   ✓ Whole Eats | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:39:44,759 [INFO] [3547/8374] 处理: 7 Minute Workout Challenge (id=680170305)
+2026-03-31 14:39:44,867 [INFO]   ✓ 7 Minute Workout Challenge | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:39:49,104 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 14:39:49,106 [INFO]   ✓ 内购: 4 项
+2026-03-31 14:39:52,376 [INFO] [3548/8374] 处理: SnoreClock - Do you snore? (id=673980122)
+2026-03-31 14:39:52,532 [INFO]   ✓ SnoreClock - Do you snore? | 价格: $9.99 | 类别: Health & Fitness
+2026-03-31 14:39:58,130 [INFO] [3549/8374] 处理: Sauna & Cold Plunge Tracker (id=6739606616)
+2026-03-31 14:39:58,252 [INFO]   ✓ Sauna & Cold Plunge Tracker | 价格: $5.99 | 类别: Health & Fitness
+2026-03-31 14:40:04,537 [INFO] [3550/8374] 处理: Soft Challenge (id=6448931254)
+2026-03-31 14:40:04,702 [INFO]   ✓ Soft Challenge | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:40:10,092 [INFO] [3551/8374] 处理: Ref Guide for Essential Oils (id=937793199)
+2026-03-31 14:40:10,252 [INFO]   ✓ Ref Guide for Essential Oils | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:40:13,693 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:40:13,694 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:40:16,551 [INFO] [3552/8374] 处理: Anxiety Release based on EMDR (id=647038074)
+2026-03-31 14:40:16,669 [INFO]   ✓ Anxiety Release based on EMDR | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:40:22,079 [INFO] [3553/8374] 处理: PushFit Pro (id=766098740)
+2026-03-31 14:40:22,219 [INFO]   ✓ PushFit Pro | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:40:25,678 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:40:25,679 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:40:27,585 [INFO] [3554/8374] 处理: EoEbooks (id=1264769388)
+2026-03-31 14:40:27,714 [INFO]   ✓ EoEbooks | 价格: $7.99 | 类别: Health & Fitness
+2026-03-31 14:40:30,913 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:40:30,914 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:40:33,413 [INFO] [3555/8374] 处理: SleepTown (id=1210251567)
+2026-03-31 14:40:33,517 [INFO]   ✓ SleepTown | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:40:40,278 [INFO] [3556/8374] 处理: Fast Tract Diet (id=1062915865)
+2026-03-31 14:40:40,832 [INFO]   ✓ Fast Tract Diet | 价格: $7.99 | 类别: Health & Fitness
+2026-03-31 14:40:46,023 [INFO] [3557/8374] 处理: Dunstan Baby (id=1561052311)
+2026-03-31 14:40:46,139 [INFO]   ✓ Dunstan Baby | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:40:51,561 [INFO] [3558/8374] 处理: Miles - Running Tracker (id=6478332265)
+2026-03-31 14:40:55,113 [INFO]   ✓ Miles - Running Tracker | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:41:01,749 [INFO] [3559/8374] 处理: 40Hz Gamma (id=6752361990)
+2026-03-31 14:41:01,860 [INFO]   ✓ 40Hz Gamma | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:41:06,450 [INFO] [3560/8374] 处理: Planetary-K-Index (id=1475622148)
+2026-03-31 14:41:06,680 [INFO]   ✓ Planetary-K-Index | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:41:12,306 [INFO] [3561/8374] 处理: Fitmeter Bike - GPS Cycling (id=1088672024)
+2026-03-31 14:41:12,438 [INFO]   ✓ Fitmeter Bike - GPS Cycling | 价格: $5.99 | 类别: Health & Fitness
+2026-03-31 14:41:17,805 [INFO] [3562/8374] 处理: CNS Tap Test (id=495396849)
+2026-03-31 14:41:17,910 [INFO]   ✓ CNS Tap Test | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:41:24,429 [INFO] [3563/8374] 处理: Air Force PT Calculator 2026 (id=6761141936)
+2026-03-31 14:41:24,544 [INFO]   ✓ Air Force PT Calculator 2026 | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:41:28,915 [INFO] [3564/8374] 处理: Pocket Yoga (id=347400507)
+2026-03-31 14:41:29,020 [INFO]   ✓ Pocket Yoga | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:41:35,425 [INFO] [3565/8374] 处理: Period Tracker Deluxe (id=289084315)
+2026-03-31 14:41:35,562 [INFO]   ✓ Period Tracker Deluxe | 价格: $9.99 | 类别: Health & Fitness
+2026-03-31 14:41:40,966 [INFO] [3566/8374] 处理: Calorie Counter - EasyFit Pro (id=1504221051)
+2026-03-31 14:41:41,077 [INFO]   ✓ Calorie Counter - EasyFit Pro | 价格: $7.99 | 类别: Health & Fitness
+2026-03-31 14:41:47,171 [INFO] [3567/8374] 处理: LivingTo100.com (id=768905897)
+2026-03-31 14:41:47,278 [INFO]   ✓ LivingTo100.com | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:41:53,918 [INFO] [3568/8374] 处理: Cardiograph (id=1073907652)
+2026-03-31 14:41:54,070 [INFO]   ✓ Cardiograph | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:41:56,536 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:41:56,537 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:41:58,361 [INFO] [3569/8374] 处理: Pilates Timer (id=6758810170)
+2026-03-31 14:41:58,488 [INFO]   ✓ Pilates Timer | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:42:03,388 [INFO] [3570/8374] 处理: GSafe Watch (id=6503191053)
+2026-03-31 14:42:03,500 [INFO]   ✓ GSafe Watch | 价格: $5.99 | 类别: Health & Fitness
+2026-03-31 14:42:09,402 [INFO] [3571/8374] 处理: Red Light For Your Eyes (id=6449202094)
+2026-03-31 14:42:09,587 [INFO]   ✓ Red Light For Your Eyes | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:42:12,608 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:42:12,609 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:42:14,535 [INFO] [3572/8374] 处理: Periodic Timer + (id=1175807581)
+2026-03-31 14:42:14,699 [INFO]   ✓ Periodic Timer + | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:42:20,814 [INFO] [3573/8374] 处理: True Weight (id=287941226)
+2026-03-31 14:42:20,988 [INFO]   ✓ True Weight | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:42:27,162 [INFO] [3574/8374] 处理: Sleep Tracker ++ (id=1179236591)
+2026-03-31 14:42:27,264 [INFO]   ✓ Sleep Tracker ++ | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:42:31,860 [INFO] [3575/8374] 处理: iSmoothRun (id=410965399)
+2026-03-31 14:42:32,031 [INFO]   ✓ iSmoothRun | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:42:35,070 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:42:35,071 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:42:38,202 [INFO] [3576/8374] 处理: Adrian James: HIIT (id=659630807)
+2026-03-31 14:42:38,350 [INFO]   ✓ Adrian James: HIIT | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:42:44,035 [INFO] [3577/8374] 处理: Cardiogram: HR Monitor (id=1437386558)
+2026-03-31 14:42:44,197 [INFO]   ✓ Cardiogram: HR Monitor | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:42:51,100 [INFO] [3578/8374] 处理: Fitness Stats (id=1511179040)
+2026-03-31 14:42:51,260 [INFO]   ✓ Fitness Stats | 价格: $7.99 | 类别: Health & Fitness
+2026-03-31 14:42:54,825 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 14:42:54,826 [INFO]   ✓ 内购: 6 项
+2026-03-31 14:42:58,299 [INFO] [3579/8374] 处理: MyBites - Diet & Macro Tracker (id=1329088519)
+2026-03-31 14:42:58,456 [INFO]   ✓ MyBites - Diet & Macro Tracker | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:43:04,697 [INFO] [3580/8374] 处理: 417hz Solfeggio Sonic Meditation by Glenn Harrold & Ali Calderwood (id=491618203)
+2026-03-31 14:43:04,815 [INFO]   ✓ 417hz Solfeggio Sonic Meditation by Glenn Harrold & Ali Calderwood | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:43:11,353 [INFO] [3581/8374] 处理: Dry day calendar - alpicto (id=1441751130)
+2026-03-31 14:43:11,500 [INFO]   ✓ Dry day calendar - alpicto | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:43:17,867 [INFO] [3582/8374] 处理: Fever Thermometer 98.6F (id=6446221471)
+2026-03-31 14:43:18,028 [INFO]   ✓ Fever Thermometer 98.6F | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:43:24,895 [INFO] [3583/8374] 处理: Fasting-Timer (id=1493231247)
+2026-03-31 14:43:25,062 [INFO]   ✓ Fasting-Timer | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:43:29,353 [INFO] [3584/8374] 处理: Intermittent Fast(ing) Tracker (id=6470127892)
+2026-03-31 14:43:29,504 [INFO]   ✓ Intermittent Fast(ing) Tracker | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:43:35,393 [INFO] [3585/8374] 处理: FormCheck AI: 表格检查 (id=1621267448)
+2026-03-31 14:43:35,563 [INFO]   ✓ FormCheck AI: 表格检查 | 价格: $0.99 | 类别: Health & Fitness
+2026-03-31 14:43:39,689 [INFO]   [网页] 找到 7 个内购项目
+2026-03-31 14:43:39,690 [INFO]   ✓ 内购: 7 项
+2026-03-31 14:43:39,690 [INFO]   🔥 降价！共 2 项变动
+2026-03-31 14:43:39,690 [INFO]      [iap] weekly pro: $9.99 → $1.99
+2026-03-31 14:43:39,690 [INFO]      [iap] weekly pro: $9.99 → $1.99
+2026-03-31 14:43:43,059 [INFO] [3586/8374] 处理: Faith Based CBT Tools (id=6745845951)
+2026-03-31 14:43:43,216 [INFO]   ✓ Faith Based CBT Tools | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:43:48,301 [INFO] [3587/8374] 处理: Push Up Counter. (id=6758037844)
+2026-03-31 14:43:48,463 [INFO]   ✓ Push Up Counter. | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:43:54,276 [INFO] [3588/8374] 处理: BodyMorpher: 3D Body Tracker (id=6755445627)
+2026-03-31 14:43:54,395 [INFO]   ✓ BodyMorpher: 3D Body Tracker | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:43:58,630 [INFO] [3589/8374] 处理: nevada - breathe (id=6760597876)
+2026-03-31 14:43:58,810 [INFO]   ✓ nevada - breathe | 价格: $2.99 | 类别: Health & Fitness
+2026-03-31 14:44:03,615 [INFO] [3590/8374] 处理: Relax & Rest Guided Meditation (id=354176883)
+2026-03-31 14:44:03,776 [INFO]   ✓ Relax & Rest Guided Meditation | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:44:09,251 [INFO] [3591/8374] 处理: KidsDoc - from the AAP (id=373964536)
+2026-03-31 14:44:09,400 [INFO]   ✓ KidsDoc - from the AAP | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:44:15,067 [INFO] [3592/8374] 处理: BruxApp (id=984225820)
+2026-03-31 14:44:15,304 [INFO]   ✓ BruxApp | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:44:22,182 [INFO] [3593/8374] 处理: BSDR Player (id=395162743)
+2026-03-31 14:44:22,345 [INFO]   ✓ BSDR Player | 价格: $4.99 | 类别: Health & Fitness
+2026-03-31 14:44:27,313 [INFO] [3594/8374] 处理: ProBikeGarage: Bicycle tracker (id=1422489202)
+2026-03-31 14:44:27,534 [INFO]   ✓ ProBikeGarage: Bicycle tracker | 价格: $3.99 | 类别: Health & Fitness
+2026-03-31 14:44:30,076 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:44:30,077 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:44:33,474 [INFO] [3595/8374] 处理: HealthFace (id=1176374647)
+2026-03-31 14:44:33,585 [INFO]   ✓ HealthFace | 价格: $1.99 | 类别: Health & Fitness
+2026-03-31 14:44:38,353 [INFO] [3596/8374] 处理: Planet Fitness (id=399857015)
+2026-03-31 14:44:38,686 [INFO]   ✓ Planet Fitness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:41,311 [INFO] [3597/8374] 处理: Yuka - Food & Cosmetic Scanner (id=1092799236)
+2026-03-31 14:44:41,458 [INFO]   ✓ Yuka - Food & Cosmetic Scanner | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:44,556 [INFO] [3598/8374] 处理: Cal AI - Calorie Tracker (id=6480417616)
+2026-03-31 14:44:44,661 [INFO]   ✓ Cal AI - Calorie Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:47,486 [INFO] [3599/8374] 处理: Tolan: Alien Best Friend (id=6477549878)
+2026-03-31 14:44:47,598 [INFO]   ✓ Tolan: Alien Best Friend | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:50,753 [INFO] [3600/8374] 处理: Olive - Holistic Food Scanner (id=6739765789)
+2026-03-31 14:44:50,898 [INFO]   ✓ Olive - Holistic Food Scanner | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:53,372 [INFO] [3601/8374] 处理: AllTrails: Hike, Bike & Run (id=405075943)
+2026-03-31 14:44:53,519 [INFO]   ✓ AllTrails: Hike, Bike & Run | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:56,944 [INFO] [3602/8374] 处理: Finch: Self-Care Pet (id=1528595748)
+2026-03-31 14:44:57,073 [INFO]   ✓ Finch: Self-Care Pet | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:44:59,979 [INFO] [3603/8374] 处理: Cronometer: Calorie Counter (id=1145935738)
+2026-03-31 14:45:00,265 [INFO]   ✓ Cronometer: Calorie Counter | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:02,565 [INFO] [3604/8374] 处理: Oura (id=1043837948)
+2026-03-31 14:45:02,685 [INFO]   ✓ Oura | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:04,574 [INFO] [3605/8374] 处理: Calorie Counter & Food Tracker (id=6474290049)
+2026-03-31 14:45:04,697 [INFO]   ✓ Calorie Counter & Food Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:06,777 [INFO] [3606/8374] 处理: Endel: Focus & Sleep Sounds (id=1346247457)
+2026-03-31 14:45:06,943 [INFO]   ✓ Endel: Focus & Sleep Sounds | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:09,240 [INFO] [3607/8374] 处理: Crunch Fitness (id=398210959)
+2026-03-31 14:45:09,389 [INFO]   ✓ Crunch Fitness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:12,740 [INFO] [3608/8374] 处理: Garmin Connect™ (id=583446403)
+2026-03-31 14:45:12,924 [INFO]   ✓ Garmin Connect™ | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:16,127 [INFO] [3609/8374] 处理: Fitbod: Gym & Fitness Planner (id=1041517543)
+2026-03-31 14:45:16,273 [INFO]   ✓ Fitbod: Gym & Fitness Planner | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:19,316 [INFO] [3610/8374] 处理: RISE: Sleep Tracker (id=1453884781)
+2026-03-31 14:45:19,492 [INFO]   ✓ RISE: Sleep Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:22,842 [INFO] [3611/8374] 处理: ClassPass: Fitness, Spa, Salon (id=912947244)
+2026-03-31 14:45:22,946 [INFO]   ✓ ClassPass: Fitness, Spa, Salon | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:24,967 [INFO] [3612/8374] 处理: Liftoff - Ranked Gym Workouts (id=6448081563)
+2026-03-31 14:45:25,083 [INFO]   ✓ Liftoff - Ranked Gym Workouts | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:28,403 [INFO] [3613/8374] 处理: Wayk: Alarm Clock to Wake Up (id=6758021281)
+2026-03-31 14:45:28,552 [INFO]   ✓ Wayk: Alarm Clock to Wake Up | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:31,964 [INFO] [3614/8374] 处理: Aetna Health (id=1261033071)
+2026-03-31 14:45:32,128 [INFO]   ✓ Aetna Health | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:34,467 [INFO] [3615/8374] 处理: StepsApp Pedometer (id=1037595083)
+2026-03-31 14:45:34,577 [INFO]   ✓ StepsApp Pedometer | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:37,410 [INFO] [3616/8374] 处理: Liven: Discover yourself (id=6450840109)
+2026-03-31 14:45:37,515 [INFO]   ✓ Liven: Discover yourself | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:39,561 [INFO] [3617/8374] 处理: Calorie Counter - MyNetDiary (id=287529757)
+2026-03-31 14:45:39,683 [INFO]   ✓ Calorie Counter - MyNetDiary | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:41,400 [INFO] [3618/8374] 处理: Impulse - Brain Training (id=1451295827)
+2026-03-31 14:45:41,514 [INFO]   ✓ Impulse - Brain Training | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:44,744 [INFO] [3619/8374] 处理: BetterMe: Health Coaching (id=1264546236)
+2026-03-31 14:45:44,854 [INFO]   ✓ BetterMe: Health Coaching | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:46,409 [INFO] [3620/8374] 处理: WHOOP (id=933944389)
+2026-03-31 14:45:46,562 [INFO]   ✓ WHOOP | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:48,917 [INFO] [3621/8374] 处理: Health Scan: Heart & Sugar (id=6742006017)
+2026-03-31 14:45:49,027 [INFO]   ✓ Health Scan: Heart & Sugar | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:51,057 [INFO] [3622/8374] 处理: Stardust Period Tracker (id=1495829322)
+2026-03-31 14:45:51,161 [INFO]   ✓ Stardust Period Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:54,069 [INFO] [3623/8374] 处理: Runna: Running Plans & Coach (id=1594204443)
+2026-03-31 14:45:54,177 [INFO]   ✓ Runna: Running Plans & Coach | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:56,376 [INFO] [3624/8374] 处理: AI Calorie Counter:FoodPilot (id=6738115267)
+2026-03-31 14:45:56,485 [INFO]   ✓ AI Calorie Counter:FoodPilot | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:45:58,529 [INFO] [3625/8374] 处理: Mindbody: Fitness & Wellness (id=689501356)
+2026-03-31 14:45:58,631 [INFO]   ✓ Mindbody: Fitness & Wellness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:00,798 [INFO] [3626/8374] 处理: MenuFit - Healthy Eating Out (id=6746144481)
+2026-03-31 14:46:00,932 [INFO]   ✓ MenuFit - Healthy Eating Out | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:02,651 [INFO] [3627/8374] 处理: Kilter Board Climbing Wall App (id=6755110303)
+2026-03-31 14:46:02,810 [INFO]   ✓ Kilter Board Climbing Wall App | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:06,258 [INFO] [3628/8374] 处理: EōS Fitness (id=1074049192)
+2026-03-31 14:46:06,429 [INFO]   ✓ EōS Fitness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:08,026 [INFO] [3629/8374] 处理: Lose It! – Calorie Counter (id=297368629)
+2026-03-31 14:46:08,148 [INFO]   ✓ Lose It! – Calorie Counter | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:11,583 [INFO] [3630/8374] 处理: BitePal: Food Calorie Tracker (id=6479529917)
+2026-03-31 14:46:11,756 [INFO]   ✓ BitePal: Food Calorie Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:13,450 [INFO] [3631/8374] 处理: Motivation - Daily quotes (id=876080126)
+2026-03-31 14:46:13,577 [INFO]   ✓ Motivation - Daily quotes | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:15,695 [INFO] [3632/8374] 处理: Nike Run Club: Running Coach (id=387771637)
+2026-03-31 14:46:15,857 [INFO]   ✓ Nike Run Club: Running Coach | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:17,504 [INFO] [3633/8374] 处理: Medbridge GO for Patients (id=1089747982)
+2026-03-31 14:46:17,660 [INFO]   ✓ Medbridge GO for Patients | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:20,411 [INFO] [3634/8374] 处理: Fig: Food Scanner & Guide (id=1564434726)
+2026-03-31 14:46:20,570 [INFO]   ✓ Fig: Food Scanner & Guide | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:22,707 [INFO] [3635/8374] 处理: Sweatcoin Walking Step Counter (id=971023427)
+2026-03-31 14:46:22,848 [INFO]   ✓ Sweatcoin Walking Step Counter | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:25,178 [INFO] [3636/8374] 处理: Calm (id=571800810)
+2026-03-31 14:46:25,286 [INFO]   ✓ Calm | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:27,522 [INFO] [3637/8374] 处理: Oasis – What's Healthy (id=6499478532)
+2026-03-31 14:46:27,665 [INFO]   ✓ Oasis – What's Healthy | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:30,618 [INFO] [3638/8374] 处理: Hevy - Workout Tracker Gym Log (id=1458862350)
+2026-03-31 14:46:30,733 [INFO]   ✓ Hevy - Workout Tracker Gym Log | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:32,327 [INFO] [3639/8374] 处理: myCigna (id=569266174)
+2026-03-31 14:46:32,425 [INFO]   ✓ myCigna | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:35,497 [INFO] [3640/8374] 处理: Period Tracker Period Calendar (id=896501514)
+2026-03-31 14:46:35,660 [INFO]   ✓ Period Tracker Period Calendar | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:38,706 [INFO] [3641/8374] 处理: Hatch Sleep (id=1158048301)
+2026-03-31 14:46:38,907 [INFO]   ✓ Hatch Sleep | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:41,931 [INFO] [3642/8374] 处理: Simple: AI Weight Loss Coach (id=1467720176)
+2026-03-31 14:46:42,193 [INFO]   ✓ Simple: AI Weight Loss Coach | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:44,280 [INFO] [3643/8374] 处理: StressWatch: AI Stress Monitor (id=6444737095)
+2026-03-31 14:46:44,415 [INFO]   ✓ StressWatch: AI Stress Monitor | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:46,113 [INFO] [3644/8374] 处理: LA Fitness Mobile (id=376098999)
+2026-03-31 14:46:46,269 [INFO]   ✓ LA Fitness Mobile | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:48,931 [INFO] [3645/8374] 处理: LADDER Strength Training Plans (id=1502936453)
+2026-03-31 14:46:49,082 [INFO]   ✓ LADDER Strength Training Plans | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:51,956 [INFO] [3646/8374] 处理: SuppCo: Supplement Scanner (id=6504838951)
+2026-03-31 14:46:52,062 [INFO]   ✓ SuppCo: Supplement Scanner | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:54,655 [INFO] [3647/8374] 处理: Pushscroll Screen Time Control (id=6741765734)
+2026-03-31 14:46:54,760 [INFO]   ✓ Pushscroll Screen Time Control | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:56,821 [INFO] [3648/8374] 处理: HeartSnap:Health Tracker (id=6749660470)
+2026-03-31 14:46:56,975 [INFO]   ✓ HeartSnap:Health Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:46:59,507 [INFO] [3649/8374] 处理: WeWard - Walking Rewards App (id=1454213029)
+2026-03-31 14:46:59,653 [INFO]   ✓ WeWard - Walking Rewards App | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:01,441 [INFO] [3650/8374] 处理: I am - Daily Affirmations (id=874656917)
+2026-03-31 14:47:01,600 [INFO]   ✓ I am - Daily Affirmations | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:03,663 [INFO] [3651/8374] 处理: Lively - Period Tracker, Cycle (id=6447674634)
+2026-03-31 14:47:03,866 [INFO]   ✓ Lively - Period Tracker, Cycle | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:06,133 [INFO] [3652/8374] 处理: Hume Health (id=1477782599)
+2026-03-31 14:47:06,239 [INFO]   ✓ Hume Health | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:08,163 [INFO] [3653/8374] 处理: Kaiser Permanente (id=493390354)
+2026-03-31 14:47:08,312 [INFO]   ✓ Kaiser Permanente | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:10,397 [INFO] [3654/8374] 处理: Blood Pressure App-BP Tracker (id=6474598021)
+2026-03-31 14:47:10,566 [INFO]   ✓ Blood Pressure App-BP Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:13,425 [INFO] [3655/8374] 处理: StepUp Pedometer Step Counter (id=979101825)
+2026-03-31 14:47:13,546 [INFO]   ✓ StepUp Pedometer Step Counter | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:16,082 [INFO] [3656/8374] 处理: Home Workout - No Equipments (id=1313192037)
+2026-03-31 14:47:16,206 [INFO]   ✓ Home Workout - No Equipments | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:17,728 [INFO] [3657/8374] 处理: Heartica: Heart Rate Monitor (id=6742904990)
+2026-03-31 14:47:17,843 [INFO]   ✓ Heartica: Heart Rate Monitor | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:19,523 [INFO] [3658/8374] 处理: RENPHO Health (id=1543340610)
+2026-03-31 14:47:19,701 [INFO]   ✓ RENPHO Health | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:22,271 [INFO] [3659/8374] 处理: MadMuscles: Workouts & Diet (id=1526814298)
+2026-03-31 14:47:22,401 [INFO]   ✓ MadMuscles: Workouts & Diet | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:25,427 [INFO] [3660/8374] 处理: Smart Bites: Food Quality Scan (id=6446603776)
+2026-03-31 14:47:25,543 [INFO]   ✓ Smart Bites: Food Quality Scan | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:28,458 [INFO] [3661/8374] 处理: Thea - Start Your Glowup (id=6523434295)
+2026-03-31 14:47:28,569 [INFO]   ✓ Thea - Start Your Glowup | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:31,584 [INFO] [3662/8374] 处理: Bevel: All-In-One Health App (id=6456176249)
+2026-03-31 14:47:31,695 [INFO]   ✓ Bevel: All-In-One Health App | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:34,838 [INFO] [3663/8374] 处理: Gymverse: AI Gym Workout Plans (id=1048454034)
+2026-03-31 14:47:34,982 [INFO]   ✓ Gymverse: AI Gym Workout Plans | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:37,858 [INFO] [3664/8374] 处理: Wellmy - Heart Rate Monitor (id=6463719381)
+2026-03-31 14:47:38,014 [INFO]   ✓ Wellmy - Heart Rate Monitor | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:40,478 [INFO] [3665/8374] 处理: Calo: AI Food Calorie Counter (id=6447434453)
+2026-03-31 14:47:40,591 [INFO]   ✓ Calo: AI Food Calorie Counter | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:43,160 [INFO] [3666/8374] 处理: Fitbit: Health & Fitness (id=462638897)
+2026-03-31 14:47:43,281 [INFO]   ✓ Fitbit: Health & Fitness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:46,050 [INFO] [3667/8374] 处理: Life Time Digital (id=1192326768)
+2026-03-31 14:47:46,332 [INFO]   ✓ Life Time Digital | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:48,689 [INFO] [3668/8374] 处理: ShutEye®: Sleep Tracker, Sound (id=1490078804)
+2026-03-31 14:47:48,838 [INFO]   ✓ ShutEye®: Sleep Tracker, Sound | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:50,830 [INFO] [3669/8374] 处理: Map My Run GPS Running Tracker (id=291890420)
+2026-03-31 14:47:50,991 [INFO]   ✓ Map My Run GPS Running Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:52,729 [INFO] [3670/8374] 处理: OMRON connect US/CAN/EMEA (id=1166317885)
+2026-03-31 14:47:52,898 [INFO]   ✓ OMRON connect US/CAN/EMEA | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:54,703 [INFO] [3671/8374] 处理: Sleep Tracker & Sound by Remly (id=6514310473)
+2026-03-31 14:47:54,858 [INFO]   ✓ Sleep Tracker & Sound by Remly | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:56,755 [INFO] [3672/8374] 处理: MacroFactor - Macro Tracker (id=1553503471)
+2026-03-31 14:47:56,887 [INFO]   ✓ MacroFactor - Macro Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:47:58,584 [INFO] [3673/8374] 处理: BetterSleep: Relax and Sleep (id=314498713)
+2026-03-31 14:47:58,730 [INFO]   ✓ BetterSleep: Relax and Sleep | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:01,756 [INFO] [3674/8374] 处理: Clue Period & Cycle Tracker (id=657189652)
+2026-03-31 14:48:01,873 [INFO]   ✓ Clue Period & Cycle Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:04,164 [INFO] [3675/8374] 处理: InBody (id=884923678)
+2026-03-31 14:48:04,287 [INFO]   ✓ InBody | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:06,534 [INFO] [3676/8374] 处理: BetterHelp - Therapy (id=995252384)
+2026-03-31 14:48:06,671 [INFO]   ✓ BetterHelp - Therapy | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:09,901 [INFO] [3677/8374] 处理: OTC Health Solutions (id=6473449658)
+2026-03-31 14:48:10,056 [INFO]   ✓ OTC Health Solutions | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:12,884 [INFO] [3678/8374] 处理: Insight Timer–Meditate & Sleep (id=337472899)
+2026-03-31 14:48:13,011 [INFO]   ✓ Insight Timer: Meditate, Sleep | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:14,612 [INFO] [3679/8374] 处理: SnapCal: AI Calorie Counter (id=6747375157)
+2026-03-31 14:48:14,767 [INFO]   ✓ SnapCal: AI Calorie Counter | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:17,899 [INFO] [3680/8374] 处理: Heart Beat: Heart Rate Monitor (id=6744920106)
+2026-03-31 14:48:18,019 [INFO]   ✓ Heart Beat: Heart Rate Monitor | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:20,052 [INFO] [3681/8374] 处理: Pedometer++ (id=712286167)
+2026-03-31 14:48:20,173 [INFO]   ✓ Pedometer++ | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:21,913 [INFO] [3682/8374] 处理: LeanBites - Healthy Dining (id=6754943623)
+2026-03-31 14:48:22,055 [INFO]   ✓ LeanBites - Healthy Dining | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:25,045 [INFO] [3683/8374] 处理: Lyfta: Gym Workout Tracker Log (id=6443740936)
+2026-03-31 14:48:25,214 [INFO]   ✓ Lyfta: Gym Workout Tracker Log | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:27,831 [INFO] [3684/8374] 处理: Home Workouts & Fitness | Luvu (id=6747844405)
+2026-03-31 14:48:27,951 [INFO]   ✓ Home Workouts & Fitness | Luvu | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:29,683 [INFO] [3685/8374] 处理: Headspace: Meditation & Sleep (id=493145008)
+2026-03-31 14:48:29,839 [INFO]   ✓ Headspace: Meditation & Sleep | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:32,812 [INFO] [3686/8374] 处理: Nourish: Eating Well Made Easy (id=6448732070)
+2026-03-31 14:48:33,223 [INFO]   ✓ Nourish: Eating Well Made Easy | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:35,534 [INFO] [3687/8374] 处理: Bend: Stretching & Flexibility (id=1513988468)
+2026-03-31 14:48:35,729 [INFO]   ✓ Bend: Stretching & Flexibility | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:38,800 [INFO] [3688/8374] 处理: Fullscript (id=6446033161)
+2026-03-31 14:48:38,904 [INFO]   ✓ Fullscript | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:41,057 [INFO] [3689/8374] 处理: Omada (id=805711008)
+2026-03-31 14:48:41,222 [INFO]   ✓ Omada | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:43,110 [INFO] [3690/8374] 处理: Intermittent Fasting Tracker: (id=6448909309)
+2026-03-31 14:48:43,271 [INFO]   ✓ Intermittent Fasting Tracker: | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:46,755 [INFO] [3691/8374] 处理: ZOZOFIT: 3D Body Scanner (id=1636398776)
+2026-03-31 14:48:46,868 [INFO]   ✓ ZOZOFIT: 3D Body Scanner | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:48,448 [INFO] [3692/8374] 处理: Welltory: Health, Heart Rate (id=1074367771)
+2026-03-31 14:48:48,649 [INFO]   ✓ Welltory: Health, Heart Rate | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:50,941 [INFO] [3693/8374] 处理: Peloton: Fitness & Workouts (id=792750948)
+2026-03-31 14:48:51,059 [INFO]   ✓ Peloton: Fitness & Workouts | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:54,319 [INFO] [3694/8374] 处理: WeightWatchers Program (id=331308914)
+2026-03-31 14:48:54,524 [INFO]   ✓ WeightWatchers Program | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:56,487 [INFO] [3695/8374] 处理: Natural Cycles Fertility App (id=765535549)
+2026-03-31 14:48:56,662 [INFO]   ✓ Natural Cycles Fertility App | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:48:58,847 [INFO] [3696/8374] 处理: iCardiac: Heart Rate & Health (id=6468660073)
+2026-03-31 14:48:59,006 [INFO]   ✓ iCardiac: Heart Rate & Health | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:02,443 [INFO] [3697/8374] 处理: Noom Weight Loss, Food Tracker (id=634598719)
+2026-03-31 14:49:02,623 [INFO]   ✓ Noom Weight Loss, Food Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:05,149 [INFO] [3698/8374] 处理: Sweat: Fitness App For Women (id=1049234587)
+2026-03-31 14:49:05,307 [INFO]   ✓ Sweat: Fitness App For Women | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:06,997 [INFO] [3699/8374] 处理: InPulse - Heart Rate Monitor (id=1489944782)
+2026-03-31 14:49:07,138 [INFO]   ✓ InPulse - Heart Rate Monitor | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:10,551 [INFO] [3700/8374] 处理: BODi by Beachbody Home Fitness (id=1031660123)
+2026-03-31 14:49:10,722 [INFO]   ✓ BODi by Beachbody Home Fitness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:12,951 [INFO] [3701/8374] 处理: iFIT Workouts (id=1274601042)
+2026-03-31 14:49:13,058 [INFO]   ✓ iFIT Workouts | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:15,599 [INFO] [3702/8374] 处理: Sleep Cycle - Tracker & Sounds (id=320606217)
+2026-03-31 14:49:15,711 [INFO]   ✓ Sleep Cycle - Tracker & Sounds | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:17,874 [INFO] [3703/8374] 处理: Zwift: Indoor Cycling Fitness (id=1134655040)
+2026-03-31 14:49:18,001 [INFO]   ✓ Zwift: Indoor Cycling Fitness | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:20,866 [INFO] [3704/8374] 处理: WalkFit: Walking & Weight Loss (id=1457956232)
+2026-03-31 14:49:21,052 [INFO]   ✓ WalkFit: Walking & Weight Loss | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:23,018 [INFO] [3705/8374] 处理: JustFit: Lazy Workout & Fit (id=1574460221)
+2026-03-31 14:49:23,182 [INFO]   ✓ JustFit: Lazy Workout & Fit | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:25,923 [INFO] [3706/8374] 处理: Alive by Whitney Simmons (id=1488020055)
+2026-03-31 14:49:26,029 [INFO]   ✓ Alive by Whitney Simmons | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:27,855 [INFO] [3707/8374] 处理: LazyFit: Workout For Beginners (id=1669413773)
+2026-03-31 14:49:28,028 [INFO]   ✓ LazyFit: Workout For Beginners | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:31,157 [INFO] [3708/8374] 处理: Waking Up: Meditation & Wisdom (id=1307736395)
+2026-03-31 14:49:31,327 [INFO]   ✓ Waking Up: Meditation & Wisdom | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:33,019 [INFO] [3709/8374] 处理: Workout Planner Muscle Booster (id=1446447749)
+2026-03-31 14:49:33,173 [INFO]   ✓ Workout Planner Muscle Booster | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:36,454 [INFO] [3710/8374] 处理: Strong Workout Tracker Gym Log (id=464254577)
+2026-03-31 14:49:36,606 [INFO]   ✓ Strong Workout Tracker Gym Log | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:38,720 [INFO] [3711/8374] 处理: FORM: Strength, Pilates, Gym (id=1578636146)
+2026-03-31 14:49:38,820 [INFO]   ✓ FORM: Strength, Pilates, Gym | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:41,891 [INFO] [3712/8374] 处理: The Wonder Weeks - Baby leaps (id=529815782)
+2026-03-31 14:49:42,052 [INFO]   ✓ The Wonder Weeks - Baby leaps | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:43,659 [INFO] [3713/8374] 处理: Premom Ovulation Tracker & BBT (id=1279295922)
+2026-03-31 14:49:43,839 [INFO]   ✓ Premom Ovulation Tracker & BBT | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:45,771 [INFO] [3714/8374] 处理: Motivation: daily Peptalk (id=976885594)
+2026-03-31 14:49:45,934 [INFO]   ✓ Motivation: daily Peptalk | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:47,450 [INFO] [3715/8374] 处理: White Noise Deep Sleep Sounds (id=1083248251)
+2026-03-31 14:49:47,571 [INFO]   ✓ White Noise Deep Sleep Sounds | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:49,239 [INFO] [3716/8374] 处理: Lumenate: Explore & Relax (id=1538397461)
+2026-03-31 14:49:49,348 [INFO]   ✓ Lumenate: Explore & Relax | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:51,213 [INFO] [3717/8374] 处理: Shotsy GLP-1 Tracker (id=6499510249)
+2026-03-31 14:49:51,377 [INFO]   ✓ Shotsy GLP-1 Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:53,683 [INFO] [3718/8374] 处理: 1st Phorm (id=1445819600)
+2026-03-31 14:49:53,832 [INFO]   ✓ 1st Phorm | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:56,411 [INFO] [3719/8374] 处理: Pregmate Ovulation Tracker (id=1610694094)
+2026-03-31 14:49:56,567 [INFO]   ✓ Pregmate Ovulation Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:49:59,333 [INFO] [3720/8374] 处理: Balance: Meditation & Sleep (id=1361356590)
+2026-03-31 14:49:59,491 [INFO]   ✓ Balance: Meditation & Sleep | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:01,600 [INFO] [3721/8374] 处理: TrainingPeaks: Plan Lift Train (id=408047715)
+2026-03-31 14:50:01,759 [INFO]   ✓ TrainingPeaks: Plan Lift Train | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:03,446 [INFO] [3722/8374] 处理: Zero: Fasting & Food Tracker (id=1168348542)
+2026-03-31 14:50:03,568 [INFO]   ✓ Zero: Fasting & Food Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:05,729 [INFO] [3723/8374] 处理: Happiest Baby, makers of SNOO (id=1562132169)
+2026-03-31 14:50:05,832 [INFO]   ✓ Happiest Baby, makers of SNOO | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:08,855 [INFO] [3724/8374] 处理: SleepWatch - Top Sleep Tracker (id=1138066420)
+2026-03-31 14:50:08,962 [INFO]   ✓ SleepWatch - Top Sleep Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:12,310 [INFO] [3725/8374] 处理: Replika - AI Friend (id=1158555867)
+2026-03-31 14:50:12,591 [INFO]   ✓ Replika - AI Friend | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:15,037 [INFO] [3726/8374] 处理: Breethe: Sleep & Meditation (id=920161006)
+2026-03-31 14:50:15,381 [INFO]   ✓ Breethe: Sleep & Meditation | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:17,370 [INFO] [3727/8374] 处理: Yoga-Go: Chair Yoga & Tai Chi (id=1361619409)
+2026-03-31 14:50:17,530 [INFO]   ✓ Yoga-Go: Chair Yoga & Tai Chi | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:19,154 [INFO] [3728/8374] 处理: Day One: Daily Journal & Diary (id=1044867788)
+2026-03-31 14:50:19,318 [INFO]   ✓ Day One: Daily Journal & Diary | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:21,202 [INFO] [3729/8374] 处理: Pray.com: Bible & Daily Prayer (id=1161035371)
+2026-03-31 14:50:21,365 [INFO]   ✓ Pray.com: Bible & Daily Prayer | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:24,032 [INFO] [3730/8374] 处理: Withings (id=542701020)
+2026-03-31 14:50:24,195 [INFO]   ✓ Withings | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:27,228 [INFO] [3731/8374] 处理: EvolveYou: Strength For Women (id=1446735127)
+2026-03-31 14:50:27,327 [INFO]   ✓ EvolveYou: Strength For Women | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:29,495 [INFO] [3732/8374] 处理: STNDRD: Bodybuilding Workouts (id=1573298047)
+2026-03-31 14:50:29,657 [INFO]   ✓ STNDRD: Bodybuilding Workouts | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:32,167 [INFO] [3733/8374] 处理: Heartify: Heart Health Monitor (id=1546156891)
+2026-03-31 14:50:32,281 [INFO]   ✓ Heartify: Heart Health Monitor | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:34,359 [INFO] [3734/8374] 处理: Check Heart Rate Now (id=6467655857)
+2026-03-31 14:50:34,542 [INFO]   ✓ Check Heart Rate Now | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:37,760 [INFO] [3735/8374] 处理: Ride with GPS: Bike Navigation (id=893687399)
+2026-03-31 14:50:37,913 [INFO]   ✓ Ride with GPS: Bike Navigation | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:40,736 [INFO] [3736/8374] 处理: Carb Manager—Keto Diet Tracker (id=410089731)
+2026-03-31 14:50:40,936 [INFO]   ✓ Carb Manager—Keto Diet Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:43,109 [INFO] [3737/8374] 处理: The Sculpt Society (id=1481275761)
+2026-03-31 14:50:43,230 [INFO]   ✓ The Sculpt Society | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:45,526 [INFO] [3738/8374] 处理: BodyWave: Health Tracker (id=6479513000)
+2026-03-31 14:50:45,687 [INFO]   ✓ BodyWave: Health Tracker | 价格: Free | 类别: Health & Fitness
+2026-03-31 14:50:48,321 [INFO] [3739/8374] 处理: Military Retirement (id=563082328)
+2026-03-31 14:50:48,442 [INFO]   ✓ Military Retirement | 价格: $5.99 | 类别: Finance
+2026-03-31 14:50:53,834 [INFO] [3740/8374] 处理: US Debt Clock .org (id=929822826)
+2026-03-31 14:50:53,978 [INFO]   ✓ US Debt Clock .org | 价格: $4.99 | 类别: Finance
+2026-03-31 14:50:58,976 [INFO] [3741/8374] 处理: 10bii Financial Calculator (id=360256797)
+2026-03-31 14:50:59,125 [INFO]   ✓ 10bii Financial Calculator | 价格: $7.99 | 类别: Finance
+2026-03-31 14:51:02,257 [INFO]   [网页] 找到 8 个内购项目
+2026-03-31 14:51:02,258 [INFO]   ✓ 内购: 8 项
+2026-03-31 14:51:03,974 [INFO] [3742/8374] 处理: Money Pro: Personal Finance AR (id=918609651)
+2026-03-31 14:51:04,161 [INFO]   ✓ Money Pro: Personal Finance AR | 价格: $0.99 | 类别: Finance
+2026-03-31 14:51:07,509 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 14:51:07,511 [INFO]   ✓ 内购: 6 项
+2026-03-31 14:51:07,511 [INFO]   🔥 降价！共 2 项变动
+2026-03-31 14:51:07,511 [INFO]      [iap] GOLD: $39.99 → $9.99
+2026-03-31 14:51:07,511 [INFO]      [iap] PLUS: $19.99 → $4.99
+2026-03-31 14:51:10,584 [INFO] [3743/8374] 处理: HP 12c Financial Calculator (id=503641946)
+2026-03-31 14:51:10,741 [INFO]   ✓ HP 12c Financial Calculator | 价格: $14.99 | 类别: Finance
+2026-03-31 14:51:17,086 [INFO] [3744/8374] 处理: 金十数据专业版-为交易而生 (id=1197275827)
+2026-03-31 14:51:17,240 [INFO]   ✓ 金十数据专业版-为交易而生 | 价格: $0.99 | 类别: Finance
+2026-03-31 14:51:21,355 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:51:21,356 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:51:23,911 [INFO] [3745/8374] 处理: Accounts 3 Checkbook (id=1638551535)
+2026-03-31 14:51:24,138 [INFO]   ✓ Accounts 3 Checkbook | 价格: $4.99 | 类别: Finance
+2026-03-31 14:51:31,421 [INFO] [3746/8374] 处理: BA Financial Calculator (PRO) (id=1481719060)
+2026-03-31 14:51:31,560 [INFO]   ✓ BA Financial Calculator (PRO) | 价格: $3.99 | 类别: Finance
+2026-03-31 14:51:37,137 [INFO] [3747/8374] 处理: BA II Plus™ Financial Calc (id=329739750)
+2026-03-31 14:51:37,244 [INFO]   ✓ BA II Plus™ Financial Calc | 价格: $14.99 | 类别: Finance
+2026-03-31 14:51:43,155 [INFO] [3748/8374] 处理: 同花顺至尊版-股票软件 (id=954724812)
+2026-03-31 14:51:43,308 [INFO]   ✓ 同花顺至尊版-股票软件 | 价格: $0.99 | 类别: Finance
+2026-03-31 14:51:46,951 [INFO]   [网页] 找到 10 个内购项目
+2026-03-31 14:51:46,953 [INFO]   ✓ 内购: 10 项
+2026-03-31 14:51:50,450 [INFO] [3749/8374] 处理: My Currency Converter Pro (id=1035430719)
+2026-03-31 14:51:50,621 [INFO]   ✓ My Currency Converter Pro | 价格: $3.99 | 类别: Finance
+2026-03-31 14:51:54,377 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:51:54,378 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:51:56,976 [INFO] [3750/8374] 处理: Money Manager (Remove Ads) (id=564730202)
+2026-03-31 14:51:57,090 [INFO]   ✓ Money Manager (Remove Ads) | 价格: $5.99 | 类别: Finance
+2026-03-31 14:51:59,386 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:51:59,388 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:52:01,921 [INFO] [3751/8374] 处理: ClearToRetire (id=6760211356)
+2026-03-31 14:52:02,092 [INFO]   ✓ ClearToRetire | 价格: $2.99 | 类别: Finance
+2026-03-31 14:52:06,292 [INFO] [3752/8374] 处理: HomeBudget with Sync (id=306257910)
+2026-03-31 14:52:06,474 [INFO]   ✓ HomeBudget with Sync | 价格: $4.99 | 类别: Finance
+2026-03-31 14:52:11,429 [INFO] [3753/8374] 处理: Income OK - income & expenses (id=961048437)
+2026-03-31 14:52:11,601 [INFO]   ✓ Income OK - income & expenses | 价格: $3.99 | 类别: Finance
+2026-03-31 14:52:17,341 [INFO] [3754/8374] 处理: 10bII Financial Calculator PRO (id=1454590301)
+2026-03-31 14:52:17,442 [INFO]   ✓ 10bII Financial Calculator PRO | 价格: $5.99 | 类别: Finance
+2026-03-31 14:52:22,737 [INFO] [3755/8374] 处理: Adding Machine 10Key iPhone (id=392883834)
+2026-03-31 14:52:22,861 [INFO]   ✓ Adding Machine 10Key iPhone | 价格: $2.99 | 类别: Finance
+2026-03-31 14:52:28,218 [INFO] [3756/8374] 处理: Road Trip MPG (id=298398207)
+2026-03-31 14:52:28,367 [INFO]   ✓ Road Trip MPG | 价格: $6.99 | 类别: Finance
+2026-03-31 14:52:33,371 [INFO] [3757/8374] 处理: Six Functions of a $1 (id=458482416)
+2026-03-31 14:52:33,532 [INFO]   ✓ Six Functions of a $1 | 价格: $0.99 | 类别: Finance
+2026-03-31 14:52:36,415 [WARNING]   Request error attempt 1: Exceeded 30 redirects.
+2026-03-31 14:52:41,917 [WARNING]   Request error attempt 2: Exceeded 30 redirects.
+2026-03-31 14:52:52,478 [WARNING]   Request error attempt 3: Exceeded 30 redirects.
+2026-03-31 14:52:54,794 [INFO] [3758/8374] 处理: iSpreadsheet™ (id=932687167)
+2026-03-31 14:52:54,987 [INFO]   ✓ iSpreadsheet™ | 价格: $2.99 | 类别: Finance
+2026-03-31 14:53:00,734 [INFO] [3759/8374] 处理: myBill$ (id=903418257)
+2026-03-31 14:53:00,860 [INFO]   ✓ myBill$ | 价格: $1.99 | 类别: Finance
+2026-03-31 14:53:04,237 [WARNING]   Request error attempt 1: Exceeded 30 redirects.
+2026-03-31 14:53:09,822 [WARNING]   Request error attempt 2: Exceeded 30 redirects.
+2026-03-31 14:53:20,348 [WARNING]   Request error attempt 3: Exceeded 30 redirects.
+2026-03-31 14:53:22,545 [INFO] [3760/8374] 处理: CheckCraft (id=6469945468)
+2026-03-31 14:53:22,727 [INFO]   ✓ CheckCraft | 价格: $4.99 | 类别: Finance
+2026-03-31 14:53:28,252 [INFO] [3761/8374] 处理: KIS Futures (id=381228811)
+2026-03-31 14:53:28,400 [INFO]   ✓ KIS Futures | 价格: $1.99 | 类别: Finance
+2026-03-31 14:53:33,504 [INFO] [3762/8374] 处理: Debt Manager (id=482482660)
+2026-03-31 14:53:33,657 [INFO]   ✓ Debt Manager | 价格: $0.99 | 类别: Finance
+2026-03-31 14:53:38,327 [INFO] [3763/8374] 处理: 10BII Calc HD (id=382452060)
+2026-03-31 14:53:38,494 [INFO]   ✓ 10BII Calc HD | 价格: $8.99 | 类别: Finance
+2026-03-31 14:53:43,340 [INFO] [3764/8374] 处理: Karat Kalculator (id=433835471)
+2026-03-31 14:53:43,461 [INFO]   ✓ Karat Kalculator | 价格: $1.99 | 类别: Finance
+2026-03-31 14:53:48,597 [INFO] [3765/8374] 处理: Halt Scanner (id=6743727197)
+2026-03-31 14:53:48,754 [INFO]   ✓ Halt Scanner | 价格: $4.99 | 类别: Finance
+2026-03-31 14:53:54,923 [INFO] [3766/8374] 处理: Ghollak (Persian - English) (id=544694377)
+2026-03-31 14:53:55,065 [INFO]   ✓ Ghollak (Persian - English) | 价格: $3.99 | 类别: Finance
+2026-03-31 14:53:59,969 [INFO] [3767/8374] 处理: Gold - Live Badge Price (id=436402486)
+2026-03-31 14:54:00,271 [INFO]   ✓ Gold - Live Badge Price | 价格: $1.99 | 类别: Finance
+2026-03-31 14:54:05,824 [INFO] [3768/8374] 处理: The Checkbook (id=6468368811)
+2026-03-31 14:54:06,063 [INFO]   ✓ The Checkbook | 价格: $4.99 | 类别: Finance
+2026-03-31 14:54:09,852 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:54:09,853 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:54:13,259 [INFO] [3769/8374] 处理: Weple Money Pro (id=441683476)
+2026-03-31 14:54:13,434 [INFO]   ✓ Weple Money Pro | 价格: $11.49 | 类别: Finance
+2026-03-31 14:54:19,706 [INFO] [3770/8374] 处理: iAllowance (Chores Allowances) (id=398299456)
+2026-03-31 14:54:19,867 [INFO]   ✓ iAllowance (Chores Allowances) | 价格: $2.99 | 类别: Finance
+2026-03-31 14:54:26,524 [INFO] [3771/8374] 处理: Accounts 2 Checkbook (id=494333145)
+2026-03-31 14:54:26,709 [INFO]   ✓ Accounts 2 Checkbook | 价格: $3.99 | 类别: Finance
+2026-03-31 14:54:31,220 [INFO] [3772/8374] 处理: Profit & Margin Calculator (id=6450585893)
+2026-03-31 14:54:31,388 [INFO]   ✓ Profit & Margin Calculator | 价格: $3.99 | 类别: Finance
+2026-03-31 14:54:37,556 [INFO] [3773/8374] 处理: 10bii+ Financial Calculator (id=734187686)
+2026-03-31 14:54:37,727 [INFO]   ✓ 10bii+ Financial Calculator | 价格: $5.99 | 类别: Finance
+2026-03-31 14:54:43,178 [INFO] [3774/8374] 处理: Military Retire Pay (id=1515083854)
+2026-03-31 14:54:43,297 [INFO]   ✓ Military Retire Pay | 价格: $1.99 | 类别: Finance
+2026-03-31 14:54:50,281 [INFO] [3775/8374] 处理: SEE Finance 3 Mobile (id=6755652476)
+2026-03-31 14:54:50,392 [INFO]   ✓ SEE Finance 3 Mobile | 价格: $9.99 | 类别: Finance
+2026-03-31 14:54:55,297 [INFO] [3776/8374] 处理: Vicinno Financial Calculator (id=400147868)
+2026-03-31 14:54:55,399 [INFO]   ✓ Vicinno Financial Calculator | 价格: $5.99 | 类别: Finance
+2026-03-31 14:55:02,213 [INFO] [3777/8374] 处理: Card Checkr (id=1501467409)
+2026-03-31 14:55:02,356 [INFO]   ✓ Card Checkr | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:08,356 [INFO] [3778/8374] 处理: Numo: Income tracker (id=6744545823)
+2026-03-31 14:55:08,508 [INFO]   ✓ Numo: Income tracker | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:15,477 [INFO] [3779/8374] 处理: Purchases List (id=1517829258)
+2026-03-31 14:55:15,688 [INFO]   ✓ Purchases List | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:19,462 [INFO]   [网页] 找到 4 个内购项目
+2026-03-31 14:55:19,463 [INFO]   ✓ 内购: 4 项
+2026-03-31 14:55:22,821 [INFO] [3780/8374] 处理: BudgetMe: Budget Planner (id=6760857981)
+2026-03-31 14:55:23,009 [INFO]   ✓ BudgetMe: Budget Planner | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:30,370 [INFO] [3781/8374] 处理: Tax Me Pro (id=417188140)
+2026-03-31 14:55:30,547 [INFO]   ✓ Tax Me Pro | 价格: $4.99 | 类别: Finance
+2026-03-31 14:55:37,725 [INFO] [3782/8374] 处理: Currenzy (id=719162125)
+2026-03-31 14:55:37,947 [INFO]   ✓ Currenzy | 价格: $2.99 | 类别: Finance
+2026-03-31 14:55:43,307 [INFO] [3783/8374] 处理: Easy Spending Budget. (id=459019300)
+2026-03-31 14:55:43,484 [INFO]   ✓ Easy Spending Budget. | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:45,966 [INFO]   [网页] 找到 6 个内购项目
+2026-03-31 14:55:45,967 [INFO]   ✓ 内购: 6 项
+2026-03-31 14:55:49,013 [INFO] [3784/8374] 处理: Salary Tax Calculator (id=1043866310)
+2026-03-31 14:55:49,177 [INFO]   ✓ Salary Tax Calculator | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:54,567 [INFO] [3785/8374] 处理: Bills Monitor Pro (id=468993411)
+2026-03-31 14:55:54,687 [INFO]   ✓ Bills Monitor Pro | 价格: $0.99 | 类别: Finance
+2026-03-31 14:55:58,245 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:55:58,246 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:56:00,301 [INFO] [3786/8374] 处理: CalcTape Paper Tape Calculator (id=525997288)
+2026-03-31 14:56:00,491 [INFO]   ✓ CalcTape Paper Tape Calculator | 价格: $2.99 | 类别: Finance
+2026-03-31 14:56:07,758 [INFO] [3787/8374] 处理: Poker Income Bankroll Tracker (id=316520188)
+2026-03-31 14:56:07,862 [INFO]   ✓ Poker Income Bankroll Tracker | 价格: $9.99 | 类别: Finance
+2026-03-31 14:56:13,052 [INFO] [3788/8374] 处理: StockSpy: Real-time Quotes (id=299972304)
+2026-03-31 14:56:13,206 [INFO]   ✓ StockSpy: Real-time Quotes | 价格: $9.99 | 类别: Finance
+2026-03-31 14:56:18,835 [INFO] [3789/8374] 处理: سلم الرواتب برو - موعد الرواتب (id=1502036298)
+2026-03-31 14:56:18,993 [INFO]   ✓ سلم الرواتب برو - موعد الرواتب | 价格: $2.99 | 类别: Finance
+2026-03-31 14:56:25,465 [INFO] [3790/8374] 处理: Mortgages & Loan payment calculator with schedule (id=299806961)
+2026-03-31 14:56:25,627 [INFO]   ✓ Mortgages & Loan payment calculator with schedule | 价格: $3.99 | 类别: Finance
+2026-03-31 14:56:30,507 [INFO] [3791/8374] 处理: Trade Size stock trading risk (id=1528852919)
+2026-03-31 14:56:30,681 [INFO]   ✓ Trade Size stock trading risk | 价格: $3.99 | 类别: Finance
+2026-03-31 14:56:36,585 [INFO] [3792/8374] 处理: Reimbursable (id=6758589393)
+2026-03-31 14:56:36,759 [INFO]   ✓ Reimbursable | 价格: $1.99 | 类别: Finance
+2026-03-31 14:56:41,388 [INFO] [3793/8374] 处理: Myanmar Market Price Pro (id=6651837338)
+2026-03-31 14:56:41,539 [INFO]   ✓ Myanmar Market Price Pro | 价格: $9.99 | 类别: Finance
+2026-03-31 14:56:46,581 [INFO] [3794/8374] 处理: Payments reminder (id=820210381)
+2026-03-31 14:56:46,771 [INFO]   ✓ Payments reminder | 价格: $0.99 | 类别: Finance
+2026-03-31 14:56:51,146 [INFO] [3795/8374] 处理: Money box App - Plan purchases (id=1418679631)
+2026-03-31 14:56:51,308 [INFO]   ✓ Money box App - Plan purchases | 价格: $0.99 | 类别: Finance
+2026-03-31 14:56:57,557 [INFO] [3796/8374] 处理: BalanceTrackr (RegnskApp) (id=6743946348)
+2026-03-31 14:56:57,680 [INFO]   ✓ BalanceTrackr (RegnskApp) | 价格: $1.99 | 类别: Finance
+2026-03-31 14:57:01,200 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 14:57:01,202 [INFO]   ✓ 内购: 5 项
+2026-03-31 14:57:02,931 [INFO] [3797/8374] 处理: Self Employed: Income & Tax (id=6743955187)
+2026-03-31 14:57:03,035 [INFO]   ✓ Self Employed: Income & Tax | 价格: $29.99 | 类别: Finance
+2026-03-31 14:57:09,346 [INFO] [3798/8374] 处理: حسابي - دفتر نفقات شخصي آمن (id=6738001858)
+2026-03-31 14:57:09,561 [INFO]   ✓ حسابي - دفتر نفقات شخصي آمن | 价格: $4.99 | 类别: Finance
+2026-03-31 14:57:16,608 [INFO] [3799/8374] 处理: Rental Time Tracker (id=6753695100)
+2026-03-31 14:57:16,846 [INFO]   ✓ Rental Time Tracker | 价格: $79.99 | 类别: Finance
+2026-03-31 14:57:20,063 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:57:20,065 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:57:21,661 [INFO] [3800/8374] 处理: Unsheet (id=6760315604)
+2026-03-31 14:57:21,771 [INFO]   ✓ Unsheet | 价格: $2.99 | 类别: Finance
+2026-03-31 14:57:26,604 [INFO] [3801/8374] 处理: The Stack Up App (id=6754883931)
+2026-03-31 14:57:26,731 [INFO]   ✓ The Stack Up App | 价格: $0.99 | 类别: Finance
+2026-03-31 14:57:32,282 [INFO] [3802/8374] 处理: DataMan - Data Usage Widget (id=592962356)
+2026-03-31 14:57:32,445 [INFO]   ✓ DataMan - Data Usage Widget | 价格: $0.99 | 类别: Finance
+2026-03-31 14:57:34,949 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 14:57:34,951 [INFO]   ✓ 内购: 2 项
+2026-03-31 14:57:38,080 [INFO] [3803/8374] 处理: Simple Envelope Budgeting (id=6443788334)
+2026-03-31 14:57:38,233 [INFO]   ✓ Simple Envelope Budgeting | 价格: $1.99 | 类别: Finance
+2026-03-31 14:57:44,023 [INFO] [3804/8374] 处理: RetirePlan (id=435739013)
+2026-03-31 14:57:44,152 [INFO]   ✓ RetirePlan | 价格: $4.99 | 类别: Finance
+2026-03-31 14:57:46,963 [INFO]   [网页] 找到 5 个内购项目
+2026-03-31 14:57:46,965 [INFO]   ✓ 内购: 5 项
+2026-03-31 14:57:48,930 [INFO] [3805/8374] 处理: BAFinancePrime (id=6751114519)
+2026-03-31 14:57:49,100 [INFO]   ✓ BAFinancePrime | 价格: $8.99 | 类别: Finance
+2026-03-31 14:57:54,986 [INFO] [3806/8374] 处理: Crude Oil - Live Badge Price (id=1425670575)
+2026-03-31 14:57:55,137 [INFO]   ✓ Crude Oil - Live Badge Price | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:01,338 [INFO] [3807/8374] 处理: Total Returns Stocks Dividends (id=1293625656)
+2026-03-31 14:58:01,533 [INFO]   ✓ Total Returns Stocks Dividends | 价格: $6.99 | 类别: Finance
+2026-03-31 14:58:08,964 [INFO] [3808/8374] 处理: Karl's Mortgage Calculator Pro (id=1299095698)
+2026-03-31 14:58:09,131 [INFO]   ✓ Karl's Mortgage Calculator Pro | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:13,275 [INFO] [3809/8374] 处理: Mortgage Calculator™ (id=409695797)
+2026-03-31 14:58:13,431 [INFO]   ✓ Mortgage Calculator™ | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:16,546 [INFO]   [网页] 找到 1 个内购项目
+2026-03-31 14:58:16,548 [INFO]   ✓ 内购: 1 项
+2026-03-31 14:58:19,474 [INFO] [3810/8374] 处理: Loan Calculator Pro (id=304485729)
+2026-03-31 14:58:19,647 [INFO]   ✓ Loan Calculator Pro | 价格: $0.99 | 类别: Finance
+2026-03-31 14:58:24,542 [INFO] [3811/8374] 处理: Loan Calculator + (id=443673909)
+2026-03-31 14:58:24,645 [INFO]   ✓ Loan Calculator + | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:31,319 [INFO] [3812/8374] 处理: Simple Budget Envelopes (id=1339993499)
+2026-03-31 14:58:31,551 [INFO]   ✓ Simple Budget Envelopes | 价格: $0.99 | 类别: Finance
+2026-03-31 14:58:36,537 [INFO] [3813/8374] 处理: Print Cheque (id=494038769)
+2026-03-31 14:58:36,687 [INFO]   ✓ Print Cheque | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:42,462 [INFO] [3814/8374] 处理: iMargin (id=1018627241)
+2026-03-31 14:58:42,559 [INFO]   ✓ iMargin | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:49,705 [INFO] [3815/8374] 处理: 1SecMoney (id=926076608)
+2026-03-31 14:58:49,830 [INFO]   ✓ 1SecMoney | 价格: $1.99 | 类别: Finance
+2026-03-31 14:58:54,364 [INFO] [3816/8374] 处理: WealthPlus Net Worth (id=933534901)
+2026-03-31 14:58:54,572 [INFO]   ✓ WealthPlus Net Worth | 价格: $0.99 | 类别: Finance
+2026-03-31 14:59:01,439 [INFO] [3817/8374] 处理: myAccount$ (id=871608181)
+2026-03-31 14:59:01,615 [INFO]   ✓ myAccount$ | 价格: $2.99 | 类别: Finance
+2026-03-31 14:59:05,460 [WARNING]   Request error attempt 1: Exceeded 30 redirects.
+2026-03-31 14:59:11,024 [WARNING]   Request error attempt 2: Exceeded 30 redirects.
+2026-03-31 14:59:21,570 [WARNING]   Request error attempt 3: Exceeded 30 redirects.
+2026-03-31 14:59:25,050 [INFO] [3818/8374] 处理: أسعار العملات - Currency Rates (id=415591208)
+2026-03-31 14:59:25,221 [INFO]   ✓ أسعار العملات - Currency Rates | 价格: $4.99 | 类别: Finance
+2026-03-31 14:59:28,688 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 14:59:28,689 [INFO]   ✓ 内购: 3 项
+2026-03-31 14:59:31,707 [INFO] [3819/8374] 处理: Really Simple Finance (id=1370859710)
+2026-03-31 14:59:31,823 [INFO]   ✓ Really Simple Finance | 价格: $0.99 | 类别: Finance
+2026-03-31 14:59:36,348 [INFO] [3820/8374] 处理: SilverBug (id=1525850466)
+2026-03-31 14:59:36,524 [INFO]   ✓ SilverBug | 价格: $1.99 | 类别: Finance
+2026-03-31 14:59:41,710 [INFO] [3821/8374] 处理: Military Net Pay (id=6758679141)
+2026-03-31 14:59:41,812 [INFO]   ✓ Military Net Pay | 价格: $0.99 | 类别: Finance
+2026-03-31 14:59:47,451 [INFO] [3822/8374] 处理: ResellHQ (id=6759969634)
+2026-03-31 14:59:47,681 [INFO]   ✓ ResellHQ | 价格: $1.99 | 类别: Finance
+2026-03-31 14:59:52,857 [INFO] [3823/8374] 处理: XPENZNET (id=6744484775)
+2026-03-31 14:59:53,003 [INFO]   ✓ XPENZNET | 价格: $0.99 | 类别: Finance
+2026-03-31 14:59:58,243 [INFO] [3824/8374] 处理: BudGIT AI - Offline Budget App (id=6760745058)
+2026-03-31 14:59:58,407 [INFO]   ✓ BudGIT AI - Offline Budget App | 价格: $2.99 | 类别: Finance
+2026-03-31 15:00:03,726 [INFO] [3825/8374] 处理: MileTrack by Plenitudo (id=6759682972)
+2026-03-31 15:00:03,892 [INFO]   ✓ MileTrack by Plenitudo | 价格: Free | 类别: Finance
+2026-03-31 15:00:06,178 [INFO] [3826/8374] 处理: Invoice and event management (id=6753126135)
+2026-03-31 15:00:06,443 [INFO]   ✓ Invoice and event management | 价格: $4.99 | 类别: Finance
+2026-03-31 15:00:13,296 [INFO] [3827/8374] 处理: BookBI: AI Accounting App (id=6748306131)
+2026-03-31 15:00:13,519 [INFO]   ✓ BookBI: AI Accounting App | 价格: $0.99 | 类别: Finance
+2026-03-31 15:00:15,941 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 15:00:15,942 [INFO]   ✓ 内购: 2 项
+2026-03-31 15:00:17,485 [INFO] [3828/8374] 处理: Quick Checkbook Pro (id=588959204)
+2026-03-31 15:00:17,641 [INFO]   ✓ Quick Checkbook Pro | 价格: $0.99 | 类别: Finance
+2026-03-31 15:00:21,641 [INFO]   [网页] 找到 3 个内购项目
+2026-03-31 15:00:21,642 [INFO]   ✓ 内购: 3 项
+2026-03-31 15:00:24,967 [INFO] [3829/8374] 处理: Forge: Personal Finance (id=6760410920)
+2026-03-31 15:00:25,118 [INFO]   ✓ Forge: Personal Finance | 价格: $1.99 | 类别: Finance
+2026-03-31 15:00:31,707 [INFO] [3830/8374] 处理: EstiMate CRE (id=6760441836)
+2026-03-31 15:00:31,810 [INFO]   ✓ EstiMate CRE | 价格: $2.99 | 类别: Finance
+2026-03-31 15:00:37,582 [INFO] [3831/8374] 处理: Binance Smart Chain Explorer (id=1572877652)
+2026-03-31 15:00:37,751 [INFO]   ✓ Binance Smart Chain Explorer | 价格: $2.99 | 类别: Finance
+2026-03-31 15:00:41,866 [INFO]   [网页] 找到 2 个内购项目
+2026-03-31 15:00:41,867 [INFO]   ✓ 内购: 2 项
+2026-03-31 15:00:41,867 [INFO]   🔥 降价！共 1 项变动
+2026-03-31 15:00:41,867 [INFO]      [iap] Real-time Notifications: $17.99 → $1.99
+2026-03-31 15:00:44,527 [INFO] [3832/8374] 处理: Simple Offline Budget (id=6758187910)
+2026-03-31 15:00:44,692 [INFO]   ✓ Simple Offline Budget | 价格: $1.99 | 类别: Finance
+2026-03-31 15:00:49,862 [INFO] [3833/8374] 处理: AndroMoney (id=679044544)
+2026-03-31 15:00:50,056 [INFO]   ✓ AndroMoney | 价格: $1.99 | 类别: Finance
+2026-03-31 15:00:56,022 [INFO] [3834/8374] 处理: MEL PRO: Mileage & Expense Log (id=520749207)
+2026-03-31 15:00:56,161 [INFO]   ✓ MEL PRO: Mileage & Expense Log | 价格: $24.99 | 类别: Finance
+2026-03-31 15:01:02,211 [INFO] [3835/8374] 处理: Checkbook Pro (id=469331073)
+2026-03-31 15:01:02,450 [INFO]   ✓ Checkbook Pro | 价格: $9.99 | 类别: Finance
+2026-03-31 15:01:08,760 [INFO] [3836/8374] 处理: EZ Financial Calculators Pro (id=606700873)
+2026-03-31 15:01:08,921 [INFO]   ✓ EZ Financial Calculators Pro | 价格: $6.99 | 类别: Finance
+2026-03-31 15:01:16,381 [INFO] [3837/8374] 处理: WalletApp (id=1038175626)
+2026-03-31 15:01:16,537 [INFO]   ✓ WalletApp | 价格: $2.99 | 类别: Finance
+2026-03-31 15:01:22,741 [INFO] [3838/8374] 处理: Chase Mobile®: Bank & Invest (id=298867247)
+2026-03-31 15:01:22,914 [INFO]   ✓ Chase Mobile®: Bank & Invest | 价格: Free | 类别: Finance
+2026-03-31 15:01:25,974 [INFO] [3839/8374] 处理: OnePay – Mobile Banking (id=1494523953)
+2026-03-31 15:01:26,146 [INFO]   ✓ OnePay – Mobile Banking | 价格: Free | 类别: Finance
+2026-03-31 15:01:27,877 [INFO] [3840/8374] 处理: Klarna: Smarter everyday money (id=1115120118)
+2026-03-31 15:01:28,029 [INFO]   ✓ Klarna: Smarter everyday money | 价格: Free | 类别: Finance
+2026-03-31 15:01:31,513 [INFO] [3841/8374] 处理: TurboTax: File Your Tax Return (id=940247939)
+2026-03-31 15:01:31,636 [INFO]   ✓ TurboTax: File Your Tax Return | 价格: Free | 类别: Finance
+2026-03-31 15:01:34,742 [INFO] [3842/8374] 处理: Fidelity Investments (id=348177453)
+2026-03-31 15:01:34,846 [INFO]   ✓ Fidelity Investments | 价格: Free | 类别: Finance
+2026-03-31 15:01:37,456 [INFO] [3843/8374] 处理: MySynchrony (id=1280992496)
+2026-03-31 15:01:37,570 [INFO]   ✓ MySynchrony | 价格: Free | 类别: Finance
+2026-03-31 15:01:40,686 [INFO] [3844/8374] 处理: State Farm® (id=318142137)
+2026-03-31 15:01:40,847 [INFO]   ✓ State Farm® | 价格: Free | 类别: Finance
+2026-03-31 15:01:42,723 [INFO] [3845/8374] 处理: Wells Fargo Mobile® (id=311548709)
+2026-03-31 15:01:42,947 [INFO]   ✓ Wells Fargo Mobile® | 价格: Free | 类别: Finance
+2026-03-31 15:01:45,244 [INFO] [3846/8374] 处理: Citi Mobile® (id=301724680)
+2026-03-31 15:01:45,407 [INFO]   ✓ Citi Mobile® | 价格: Free | 类别: Finance
+2026-03-31 15:01:47,769 [INFO] [3847/8374] 处理: Rocket Money - Bills & Budgets (id=1130616675)
+2026-03-31 15:01:47,919 [INFO]   ✓ Rocket Money - Bills & Budgets | 价格: Free | 类别: Finance
+2026-03-31 15:01:51,075 [INFO] [3848/8374] 处理: SoFi: Bank, Invest & Crypto (id=1191985736)
+2026-03-31 15:01:51,204 [INFO]   ✓ SoFi: Bank, Invest & Crypto | 价格: Free | 类别: Finance
+2026-03-31 15:01:54,507 [INFO] [3849/8374] 处理: Ollo Credit Card Mobile App (id=6749548849)
+2026-03-31 15:01:54,670 [INFO]   ✓ Ollo Credit Card Mobile App | 价格: Free | 类别: Finance
+2026-03-31 15:01:57,942 [INFO] [3850/8374] 处理: Bank of America Mobile Banking (id=284847138)
+2026-03-31 15:01:58,120 [INFO]   ✓ Bank of America Mobile Banking | 价格: Free | 类别: Finance
+2026-03-31 15:02:01,027 [INFO] [3851/8374] 处理: Experian® (id=1087101090)
+2026-03-31 15:02:01,180 [INFO]   ✓ Experian® | 价格: Free | 类别: Finance
+2026-03-31 15:02:03,931 [INFO] [3852/8374] 处理: Amex (id=362348516)
+2026-03-31 15:02:04,044 [INFO]   ✓ Amex | 价格: Free | 类别: Finance
+2026-03-31 15:02:07,486 [INFO] [3853/8374] 处理: GEICO Mobile - Car Insurance (id=331763096)
+2026-03-31 15:02:07,695 [INFO]   ✓ GEICO Mobile - Car Insurance | 价格: Free | 类别: Finance
+2026-03-31 15:02:11,184 [INFO] [3854/8374] 处理: Robinhood: Trading & Investing (id=938003185)
+2026-03-31 15:02:11,291 [INFO]   ✓ Robinhood: Trading & Investing | 价格: Free | 类别: Finance
+2026-03-31 15:02:13,933 [INFO] [3855/8374] 处理: Polymarket (id=6648798962)
+2026-03-31 15:02:14,109 [INFO]   ✓ Polymarket | 价格: Free | 类别: Finance
+2026-03-31 15:02:17,094 [INFO] [3856/8374] 处理: IRS2Go (id=414113282)
+2026-03-31 15:02:17,250 [INFO]   ✓ IRS2Go | 价格: Free | 类别: Finance
+2026-03-31 15:02:20,725 [INFO] [3857/8374] 处理: PayMe - Claim Your Money (id=6749705807)
+2026-03-31 15:02:20,883 [INFO]   ✓ PayMe - Claim Your Money | 价格: Free | 类别: Finance
+2026-03-31 15:02:24,371 [INFO] [3858/8374] 处理: Remitly: Global Money Transfer (id=674258465)
+2026-03-31 15:02:24,529 [INFO]   ✓ Remitly: Global Money Transfer | 价格: Free | 类别: Finance
+2026-03-31 15:02:26,398 [INFO] [3859/8374] 处理: Bread Financial (id=1600495551)
+2026-03-31 15:02:26,570 [INFO]   ✓ Bread Financial | 价格: Free | 类别: Finance
+2026-03-31 15:02:29,634 [INFO] [3860/8374] 处理: Credit One Bank Mobile (id=1128712763)
+2026-03-31 15:02:29,826 [INFO]   ✓ Credit One Bank Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:02:32,505 [INFO] [3861/8374] 处理: TradingView: Track All Markets (id=1205990992)
+2026-03-31 15:02:32,631 [INFO]   ✓ TradingView: Track All Markets | 价格: Free | 类别: Finance
+2026-03-31 15:02:35,648 [INFO] [3862/8374] 处理: Discover Mobile (id=338010821)
+2026-03-31 15:02:35,754 [INFO]   ✓ Discover Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:02:37,659 [INFO] [3863/8374] 处理: Allstate® Mobile (id=364376344)
+2026-03-31 15:02:37,805 [INFO]   ✓ Allstate® Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:02:41,240 [INFO] [3864/8374] 处理: Current - Mobile Banking (id=1077366211)
+2026-03-31 15:02:41,357 [INFO]   ✓ Current - Mobile Banking | 价格: Free | 类别: Finance
+2026-03-31 15:02:44,776 [INFO] [3865/8374] 处理: Wise - Global Money (id=612261027)
+2026-03-31 15:02:44,948 [INFO]   ✓ Wise - Global Money | 价格: Free | 类别: Finance
+2026-03-31 15:02:46,709 [INFO] [3866/8374] 处理: Coinbase: Buy Crypto & Stocks (id=886427730)
+2026-03-31 15:02:46,816 [INFO]   ✓ Coinbase: Buy Crypto & Stocks | 价格: Free | 类别: Finance
+2026-03-31 15:02:49,105 [INFO] [3867/8374] 处理: NetBenefits (id=640179084)
+2026-03-31 15:02:49,254 [INFO]   ✓ NetBenefits | 价格: Free | 类别: Finance
+2026-03-31 15:02:51,879 [INFO] [3868/8374] 处理: Atlas - Rewards Credit Card (id=1617487581)
+2026-03-31 15:02:52,049 [INFO]   ✓ Atlas - Rewards Credit Card | 价格: Free | 类别: Finance
+2026-03-31 15:02:53,615 [INFO] [3869/8374] 处理: Kikoff – Build Credit Quickly (id=1525159784)
+2026-03-31 15:02:53,777 [INFO]   ✓ Kikoff – Build Credit Quickly | 价格: Free | 类别: Finance
+2026-03-31 15:02:56,410 [INFO] [3870/8374] 处理: Alinea: Personalized Investing (id=1554623825)
+2026-03-31 15:02:56,519 [INFO]   ✓ Alinea: Personalized Investing | 价格: Free | 类别: Finance
+2026-03-31 15:02:59,874 [INFO] [3871/8374] 处理: Flex - Rent On Your Schedule (id=1458274896)
+2026-03-31 15:03:00,118 [INFO]   ✓ Flex - Rent On Your Schedule | 价格: Free | 类别: Finance
+2026-03-31 15:03:02,456 [INFO] [3872/8374] 处理: Barclays US (id=425199399)
+2026-03-31 15:03:02,641 [INFO]   ✓ Barclays US | 价格: Free | 类别: Finance
+2026-03-31 15:03:04,428 [INFO] [3873/8374] 处理: MoneyLion: Banking & Cash Back (id=1064677082)
+2026-03-31 15:03:04,609 [INFO]   ✓ MoneyLion: Banking & Cash Back | 价格: Free | 类别: Finance
+2026-03-31 15:03:07,361 [INFO] [3874/8374] 处理: Empower ® (id=1001257338)
+2026-03-31 15:03:07,472 [INFO]   ✓ Empower ® | 价格: Free | 类别: Finance
+2026-03-31 15:03:10,090 [INFO] [3875/8374] 处理: Dave: Credit, Cash & Money App (id=1193801909)
+2026-03-31 15:03:10,196 [INFO]   ✓ Dave: Credit, Cash & Money App | 价格: Free | 类别: Finance
+2026-03-31 15:03:12,817 [INFO] [3876/8374] 处理: myEquifax (id=6502468755)
+2026-03-31 15:03:12,938 [INFO]   ✓ myEquifax | 价格: Free | 类别: Finance
+2026-03-31 15:03:16,357 [INFO] [3877/8374] 处理: Bilt Rewards (id=1565576987)
+2026-03-31 15:03:16,518 [INFO]   ✓ Bilt Rewards | 价格: Free | 类别: Finance
+2026-03-31 15:03:19,911 [INFO] [3878/8374] 处理: Western Union: Send Money (id=424716908)
+2026-03-31 15:03:20,071 [INFO]   ✓ Western Union: Send Money | 价格: Free | 类别: Finance
+2026-03-31 15:03:22,793 [INFO] [3879/8374] 处理: Brigit: Cash Advance & Credit (id=1341884073)
+2026-03-31 15:03:22,943 [INFO]   ✓ Brigit: Cash Advance & Credit | 价格: Free | 类别: Finance
+2026-03-31 15:03:24,973 [INFO] [3880/8374] 处理: HealthEquity Mobile (id=642959434)
+2026-03-31 15:03:25,136 [INFO]   ✓ HealthEquity Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:03:26,733 [INFO] [3881/8374] 处理: Rocket Mortgage (id=431156417)
+2026-03-31 15:03:26,882 [INFO]   ✓ Rocket Mortgage | 价格: Free | 类别: Finance
+2026-03-31 15:03:28,703 [INFO] [3882/8374] 处理: Splitwise (id=458023433)
+2026-03-31 15:03:28,854 [INFO]   ✓ Splitwise | 价格: Free | 类别: Finance
+2026-03-31 15:03:31,807 [INFO] [3883/8374] 处理: testerup - earn money (id=1241984225)
+2026-03-31 15:03:31,966 [INFO]   ✓ Testerup: Earn Money & Rewards | 价格: Free | 类别: Finance
+2026-03-31 15:03:34,724 [INFO] [3884/8374] 处理: Albert: Budgeting and Banking (id=1057771088)
+2026-03-31 15:03:34,871 [INFO]   ✓ Albert: Budgeting and Banking | 价格: Free | 类别: Finance
+2026-03-31 15:03:36,669 [INFO] [3885/8374] 处理: Schwab Mobile (id=407358186)
+2026-03-31 15:03:36,824 [INFO]   ✓ Schwab Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:03:39,780 [INFO] [3886/8374] 处理: U.S. Bank Mobile Banking (id=458734623)
+2026-03-31 15:03:39,936 [INFO]   ✓ U.S. Bank Mobile Banking | 价格: Free | 类别: Finance
+2026-03-31 15:03:43,040 [INFO] [3887/8374] 处理: Grant Cash Advance (id=6472350114)
+2026-03-31 15:03:43,198 [INFO]   ✓ Grant Cash Advance | 价格: Free | 类别: Finance
+2026-03-31 15:03:45,031 [INFO] [3888/8374] 处理: Tilt: Cash Advance & Credit (id=1136397354)
+2026-03-31 15:03:45,180 [INFO]   ✓ Tilt: Cash Advance & Credit | 价格: Free | 类别: Finance
+2026-03-31 15:03:48,322 [INFO] [3889/8374] 处理: MyBlock: Tax Docs & Refund (id=490111274)
+2026-03-31 15:03:48,489 [INFO]   ✓ MyBlock: Tax Docs & Refund | 价格: Free | 类别: Finance
+2026-03-31 15:03:51,419 [INFO] [3890/8374] 处理: Acorns: Invest For Your Future (id=883324671)
+2026-03-31 15:03:51,578 [INFO]   ✓ Acorns: Invest For Your Future | 价格: Free | 类别: Finance
+2026-03-31 15:03:53,693 [INFO] [3891/8374] 处理: Robinhood Banking (id=6462308655)
+2026-03-31 15:03:53,844 [INFO]   ✓ Robinhood Banking | 价格: Free | 类别: Finance
+2026-03-31 15:03:56,288 [INFO] [3892/8374] 处理: Navy Federal Credit Union (id=370811491)
+2026-03-31 15:03:56,452 [INFO]   ✓ Navy Federal Credit Union | 价格: Free | 类别: Finance
+2026-03-31 15:03:58,679 [INFO] [3893/8374] 处理: MyCardWallet. (id=1230221247)
+2026-03-31 15:03:58,808 [INFO]   ✓ MyCardWallet. | 价格: Free | 类别: Finance
+2026-03-31 15:04:00,429 [INFO] [3894/8374] 处理: Gusto Mobile (id=1478804271)
+2026-03-31 15:04:00,560 [INFO]   ✓ Gusto Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:04:02,550 [INFO] [3895/8374] 处理: Ally: Bank, Auto & Invest (id=514374715)
+2026-03-31 15:04:02,701 [INFO]   ✓ Ally: Bank, Auto & Invest | 价格: Free | 类别: Finance
+2026-03-31 15:04:05,707 [INFO] [3896/8374] 处理: Vanguard: Save, Invest, Retire (id=335186209)
+2026-03-31 15:04:05,814 [INFO]   ✓ Vanguard: Save, Invest, Retire | 价格: Free | 类别: Finance
+2026-03-31 15:04:08,387 [INFO] [3897/8374] 处理: DailyPay On-Demand Pay (id=1399085077)
+2026-03-31 15:04:08,504 [INFO]   ✓ DailyPay On-Demand Pay | 价格: Free | 类别: Finance
+2026-03-31 15:04:11,716 [INFO] [3898/8374] 处理: Taptap Send: Money Transfer (id=1413346006)
+2026-03-31 15:04:11,872 [INFO]   ✓ Taptap Send: Money Transfer | 价格: Free | 类别: Finance
+2026-03-31 15:04:15,144 [INFO] [3899/8374] 处理: EarnIn: Beyond Cash Advance (id=723815926)
+2026-03-31 15:04:15,291 [INFO]   ✓ EarnIn: Beyond Cash Advance | 价格: Free | 类别: Finance
+2026-03-31 15:04:18,107 [INFO] [3900/8374] 处理: Klover - Instant Cash Advance (id=1471211372)
+2026-03-31 15:04:18,242 [INFO]   ✓ Klover - Instant Cash Advance | 价格: Free | 类别: Finance
+2026-03-31 15:04:20,890 [INFO] [3901/8374] 处理: Varo Bank: Online Banking (id=1517676784)
+2026-03-31 15:04:20,996 [INFO]   ✓ Varo Bank: Online Banking | 价格: Free | 类别: Finance
+2026-03-31 15:04:23,176 [INFO] [3902/8374] 处理: TransUnion® (id=649008868)
+2026-03-31 15:04:23,331 [INFO]   ✓ TransUnion® | 价格: Free | 类别: Finance
+2026-03-31 15:04:25,034 [INFO] [3903/8374] 处理: Uber Pro Card (id=1615818085)
+2026-03-31 15:04:25,181 [INFO]   ✓ Uber Pro Card | 价格: Free | 类别: Finance
+2026-03-31 15:04:28,575 [INFO] [3904/8374] 处理: PNC Mobile Banking (id=303113127)
+2026-03-31 15:04:28,743 [INFO]   ✓ PNC Mobile Banking | 价格: Free | 类别: Finance
+2026-03-31 15:04:30,320 [INFO] [3905/8374] 处理: Revolut: Send, spend and save (id=932493382)
+2026-03-31 15:04:30,432 [INFO]   ✓ Revolut: Send, spend and save | 价格: Free | 类别: Finance
+2026-03-31 15:04:32,038 [INFO] [3906/8374] 处理: Credit Genie: Get Cash Advance (id=1588301749)
+2026-03-31 15:04:32,259 [INFO]   ✓ Credit Genie: Get Cash Advance | 价格: Free | 类别: Finance
+2026-03-31 15:04:33,921 [INFO] [3907/8374] 处理: FloatMe: Easy Cash Advances (id=1395667279)
+2026-03-31 15:04:34,022 [INFO]   ✓ FloatMe: Easy Cash Advances | 价格: Free | 类别: Finance
+2026-03-31 15:04:35,661 [INFO] [3908/8374] 处理: CareCredit Mobile (id=1031312446)
+2026-03-31 15:04:35,819 [INFO]   ✓ CareCredit Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:04:38,914 [INFO] [3909/8374] 处理: Propel: EBT, SNAP, WIC, & more (id=1112719759)
+2026-03-31 15:04:39,209 [INFO]   ✓ Propel: EBT, SNAP, WIC, & more | 价格: Free | 类别: Finance
+2026-03-31 15:04:42,087 [INFO] [3910/8374] 处理: Ava: Build Credit Fast (id=1584183782)
+2026-03-31 15:04:42,295 [INFO]   ✓ Ava: Build Credit Fast | 价格: Free | 类别: Finance
+2026-03-31 15:04:44,588 [INFO] [3911/8374] 处理: True Finance: Cash Advance (id=6443564349)
+2026-03-31 15:04:44,714 [INFO]   ✓ True Finance: Cash Advance | 价格: Free | 类别: Finance
+2026-03-31 15:04:47,970 [INFO] [3912/8374] 处理: TaxDome Client Portal (id=1472202357)
+2026-03-31 15:04:48,128 [INFO]   ✓ TaxDome Client Portal | 价格: Free | 类别: Finance
+2026-03-31 15:04:49,756 [INFO] [3913/8374] 处理: Kemper (id=6753996569)
+2026-03-31 15:04:49,930 [INFO]   ✓ Kemper | 价格: Free | 类别: Finance
+2026-03-31 15:04:52,251 [INFO] [3914/8374] 处理: Bright: Loans & Credit Builder (id=1511043796)
+2026-03-31 15:04:52,363 [INFO]   ✓ Bright: Loans & Credit Builder | 价格: Free | 类别: Finance
+2026-03-31 15:04:54,104 [INFO] [3915/8374] 处理: Super.com - Save, Earn, Travel (id=1450304211)
+2026-03-31 15:04:54,210 [INFO]   ✓ Super.com - Save, Earn, Travel | 价格: Free | 类别: Finance
+2026-03-31 15:04:56,845 [INFO] [3916/8374] 处理: Webull: Investing & Trading (id=1179213067)
+2026-03-31 15:04:56,952 [INFO]   ✓ Webull: Investing & Trading | 价格: Free | 类别: Finance
+2026-03-31 15:04:59,586 [INFO] [3917/8374] 处理: Self – Credit Builder & Cash (id=1364215562)
+2026-03-31 15:04:59,761 [INFO]   ✓ Self – Credit Builder & Cash | 价格: Free | 类别: Finance
+2026-03-31 15:05:02,554 [INFO] [3918/8374] 处理: EveryDollar: Budget Management (id=942571931)
+2026-03-31 15:05:02,702 [INFO]   ✓ EveryDollar: Budget Management | 价格: Free | 类别: Finance
+2026-03-31 15:05:04,684 [INFO] [3919/8374] 处理: Binance.US: Buy BTC & Crypto (id=1492670702)
+2026-03-31 15:05:04,849 [INFO]   ✓ Binance.US: Buy BTC & Crypto | 价格: Free | 类别: Finance
+2026-03-31 15:05:07,293 [INFO] [3920/8374] 处理: Monarch: Budget & Track Money (id=1459319842)
+2026-03-31 15:05:07,399 [INFO]   ✓ Monarch: Budget & Track Money | 价格: Free | 类别: Finance
+2026-03-31 15:05:10,201 [INFO] [3921/8374] 处理: USAA Mobile (id=312325565)
+2026-03-31 15:05:10,348 [INFO]   ✓ USAA Mobile | 价格: Free | 类别: Finance
+2026-03-31 15:05:12,556 [INFO] [3922/8374] 处理: Suica (id=1156875272)
+2026-03-31 15:05:12,680 [INFO]   ✓ Suica | 价格: Free | 类别: Finance
+2026-03-31 15:05:16,164 [INFO] [3923/8374] 处理: Lemonade Insurance (id=1055653645)
+2026-03-31 15:05:16,283 [INFO]   ✓ Lemonade Insurance | 价格: Free | 类别: Finance
+2026-03-31 15:05:18,416 [INFO] [3924/8374] 处理: Concora Credit (id=6449258739)
+2026-03-31 15:05:18,533 [INFO]   ✓ Concora Credit | 价格: Free | 类别: Finance
+2026-03-31 15:05:21,664 [INFO] [3925/8374] 处理: MetaTrader 5 (id=413251709)
+2026-03-31 15:05:21,789 [INFO]   ✓ MetaTrader 5 | 价格: Free | 类别: Finance
+2026-03-31 15:05:23,741 [INFO] [3926/8374] 处理: Copper: Earn Cash (id=1486647561)
+2026-03-31 15:05:23,893 [INFO]   ✓ Copper: Earn Cash | 价格: Free | 类别: Finance
+2026-03-31 15:05:26,433 [INFO] [3927/8374] 处理: Possible: Fast Cash & Credit (id=1380384597)
+2026-03-31 15:05:26,619 [INFO]   ✓ Possible: Fast Cash & Credit | 价格: Free | 类别: Finance
+2026-03-31 15:05:30,102 [INFO] [3928/8374] 处理: Perpay - Shop and Build Credit (id=1421276642)
+2026-03-31 15:05:30,323 [INFO]   ✓ Perpay - Shop and Build Credit | 价格: Free | 类别: Finance
+2026-03-31 15:05:32,316 [INFO] [3929/8374] 处理: Ramp (id=1628197245)
+2026-03-31 15:05:32,434 [INFO]   ✓ Ramp | 价格: Free | 类别: Finance
+2026-03-31 15:05:34,899 [INFO] [3930/8374] 处理: MileIQ: Mileage Tracker & Log (id=578830929)
+2026-03-31 15:05:35,005 [INFO]   ✓ MileIQ: Mileage Tracker & Log | 价格: Free | 类别: Finance
+2026-03-31 15:05:36,573 [INFO] [3931/8374] 处理: Copilot: Track & Budget Money (id=1447330651)
+2026-03-31 15:05:36,685 [INFO]   ✓ Copilot: Track & Budget Money | 价格: Free | 类别: Finance
+2026-03-31 15:05:38,602 [INFO] [3932/8374] 处理: YNAB (id=1010865877)
+2026-03-31 15:05:38,708 [INFO]   ✓ YNAB | 价格: Free | 类别: Finance
+2026-03-31 15:05:41,512 [INFO] [3933/8374] 处理: Build Credit & Fix It: Dovly (id=1584248673)
+2026-03-31 15:05:41,669 [INFO]   ✓ Build Credit & Fix It: Dovly | 价格: Free | 类别: Finance
+2026-03-31 15:05:44,918 [INFO] [3934/8374] 处理: Seeking Alpha: News & Analysis (id=552799694)
+2026-03-31 15:05:45,117 [INFO]   ✓ Seeking Alpha: News & Analysis | 价格: Free | 类别: Finance
+2026-03-31 15:05:48,215 [INFO] [3935/8374] 处理: Mileage Tracker by Everlance (id=985378916)
+2026-03-31 15:05:48,328 [INFO]   ✓ Mileage Tracker by Everlance | 价格: Free | 类别: Finance
+2026-03-31 15:05:50,985 [INFO] [3936/8374] 处理: LifeLock Identity (id=1422875903)
+2026-03-31 15:05:51,158 [INFO]   ✓ LifeLock Identity | 价格: Free | 类别: Finance
+2026-03-31 15:05:52,930 [INFO] [3937/8374] 处理: Aura: Security & Protection (id=1547735089)
+2026-03-31 15:05:53,045 [INFO]   ✓ Aura: Security & Protection | 价格: Free | 类别: Finance
+2026-03-31 15:05:55,008 [INFO] [3938/8374] 处理: SimplyWise: Receipts, Expenses (id=1538521095)
+2026-03-31 15:05:55,136 [INFO]   ✓ SimplyWise: Receipts, Expenses | 价格: Free | 类别: Finance
+2026-03-31 15:05:56,687 [INFO] [3939/8374] 处理: Quicken Simplifi: Budget Smart (id=1449777194)
+2026-03-31 15:05:56,803 [INFO]   ✓ Quicken Simplifi: Budget Smart | 价格: Free | 类别: Finance
+2026-03-31 15:06:00,183 [INFO] [3940/8374] 处理: ATLAS:EARTH - Fun Cashback (id=1567636697)
+2026-03-31 15:06:00,398 [INFO]   ✓ ATLAS:EARTH - Fun Cashback | 价格: Free | 类别: Finance
+2026-03-31 15:06:02,734 [INFO] [3941/8374] 处理: Kraken: Buy Crypto & Stocks (id=1481947260)
+2026-03-31 15:06:02,913 [INFO]   ✓ Kraken: Buy Crypto & Stocks | 价格: Free | 类别: Finance
+2026-03-31 15:06:06,103 [INFO] [3942/8374] 处理: Solo: Your Gig Business App (id=1586902173)
+2026-03-31 15:06:06,243 [INFO]   ✓ Solo: Your Gig Business App | 价格: Free | 类别: Finance
+2026-03-31 15:06:09,340 [INFO] [3943/8374] 处理: Lenme: Investing and Borrowing (id=1409169287)
+2026-03-31 15:06:09,490 [INFO]   ✓ Lenme: Investing and Borrowing | 价格: Free | 类别: Finance
+2026-03-31 15:06:12,459 [INFO] [3944/8374] 处理: Stocks To Buy Now : AI Signals (id=1565527320)
+2026-03-31 15:06:12,632 [INFO]   ✓ Stocks To Buy Now : AI Signals | 价格: Free | 类别: Finance
+2026-03-31 15:06:14,753 [INFO] [3945/8374] 处理: SubPilot: Cancel Subscriptions (id=6751181747)
+2026-03-31 15:06:14,878 [INFO]   ✓ SubPilot: Cancel Subscriptions | 价格: Free | 类别: Finance
+2026-03-31 15:06:18,309 [INFO] [3946/8374] 处理: Gridwise: Gig Driver Assistant (id=1215991382)
+2026-03-31 15:06:18,533 [INFO]   ✓ Gridwise: Gig Driver Assistant | 价格: Free | 类别: Finance
+2026-03-31 15:06:20,719 [INFO] [3947/8374] 处理: Investing.com: Stock Market (id=909998122)
+2026-03-31 15:06:20,921 [INFO]   ✓ Investing.com: Stock Market | 价格: Free | 类别: Finance
+2026-03-31 15:06:22,801 [INFO] [3948/8374] 处理: CardPointers for Credit Cards (id=1472875808)
+2026-03-31 15:06:22,955 [INFO]   ✓ CardPointers for Credit Cards | 价格: Free | 类别: Finance
+2026-03-31 15:06:25,199 [INFO] [3949/8374] 处理: Hurdlr Mileage, Expenses & Tax (id=951737201)
+2026-03-31 15:06:25,355 [INFO]   ✓ Hurdlr Mileage, Expenses & Tax | 价格: Free | 类别: Finance
+2026-03-31 15:06:27,590 [INFO] [3950/8374] 处理: Easy Invoice Maker App (id=1568511681)
+2026-03-31 15:06:27,698 [INFO]   ✓ Easy Invoice Maker App | 价格: Free | 类别: Finance
+2026-03-31 15:06:30,344 [INFO] [3951/8374] 处理: Payout: Claim Class Actions (id=6748968935)
+2026-03-31 15:06:30,492 [INFO]   ✓ Payout: Claim Class Actions | 价格: Free | 类别: Finance
+2026-03-31 15:06:33,187 [INFO] [3952/8374] 处理: Yahoo Finance: Stocks & News (id=328412701)
+2026-03-31 15:06:33,295 [INFO]   ✓ Yahoo Finance: Stocks & News | 价格: Free | 类别: Finance
+2026-03-31 15:06:35,783 [INFO] [3953/8374] 处理: MarketWatch - News & Data (id=336693422)
+2026-03-31 15:06:35,881 [INFO]   ✓ MarketWatch - News & Data | 价格: Free | 类别: Finance
+2026-03-31 15:06:38,042 [INFO] [3954/8374] 处理: Bitcoin Mining: Crypto Miner (id=6468313323)
+2026-03-31 15:06:38,205 [INFO]   ✓ Bitcoin Mining: Crypto Miner | 价格: Free | 类别: Finance
+2026-03-31 15:06:41,691 [INFO] [3955/8374] 处理: Investor's Business Daily (id=1132274579)
+2026-03-31 15:06:41,808 [INFO]   ✓ Investor's Business Daily | 价格: Free | 类别: Finance
+2026-03-31 15:06:44,879 [INFO] [3956/8374] 处理: TipRanks Stock Market Analysis (id=1237516490)
+2026-03-31 15:06:45,000 [INFO]   ✓ TipRanks Stock Market Analysis | 价格: Free | 类别: Finance
+2026-03-31 15:06:46,563 [INFO] [3957/8374] 处理: dub: Copy Real Investors (id=1598920501)
+2026-03-31 15:06:46,728 [INFO]   ✓ dub: Copy Real Investors | 价格: Free | 类别: Finance
+2026-03-31 15:06:48,622 [INFO] [3958/8374] 处理: Bitcoin Mining · Cloud Mining (id=6503180820)
+2026-03-31 15:06:48,774 [INFO]   ✓ Bitcoin Mining · Cloud Mining | 价格: Free | 类别: Finance
+2026-03-31 15:06:51,071 [INFO] [3959/8374] 处理: VectorVest: Stock & Investment (id=1174967174)
+2026-03-31 15:06:51,262 [INFO]   ✓ VectorVest: Stock & Investment | 价格: Free | 类别: Finance
+2026-03-31 15:06:52,805 [INFO] [3960/8374] 处理: Budget Planner App - Fleur (id=1621020173)
+2026-03-31 15:06:52,924 [INFO]   ✓ Budget Planner App - Fleur | 价格: Free | 类别: Finance
+2026-03-31 15:06:56,264 [INFO] [3961/8374] 处理: Profit AI - Trading Assistant (id=6743035682)
+2026-03-31 15:06:56,420 [INFO]   ✓ Profit AI - Trading Assistant | 价格: Free | 类别: Finance
+2026-03-31 15:06:58,251 [INFO] [3962/8374] 处理: Invoice Maker & Estimate App (id=1419627421)
+2026-03-31 15:06:58,376 [INFO]   ✓ Invoice Maker & Estimate App | 价格: Free | 类别: Finance
+2026-03-31 15:07:00,238 [INFO] [3963/8374] 处理: PocketGuard – Budgeting App (id=949414211)
+2026-03-31 15:07:00,392 [INFO]   ✓ PocketGuard – Budgeting App | 价格: Free | 类别: Finance
+2026-03-31 15:07:02,692 [INFO] [3964/8374] 处理: Receipt Scanner・Track Expenses (id=1550270774)
+2026-03-31 15:07:02,875 [INFO]   ✓ Receipt Scanner・Track Expenses | 价格: Free | 类别: Finance
+2026-03-31 15:07:04,956 [INFO] [3965/8374] 处理: Stock Signal: AI Stocks Watch (id=1545704110)
+2026-03-31 15:07:05,163 [INFO]   ✓ Stock Signal: AI Stocks Watch | 价格: Free | 类别: Finance
+2026-03-31 15:07:07,775 [INFO] [3966/8374] 处理: Dollarwise: Budget & Tracking (id=6739215932)
+2026-03-31 15:07:07,892 [INFO]   ✓ Dollarwise: Budget & Tracking | 价格: Free | 类别: Finance
+2026-03-31 15:07:11,151 [INFO] [3967/8374] 处理: Dumbo Credit (id=6745514687)
+2026-03-31 15:07:11,274 [INFO]   ✓ Dumbo Credit | 价格: Free | 类别: Finance
+2026-03-31 15:07:14,688 [INFO] [3968/8374] 处理: Mileage Tracker by Driversnote (id=924418916)
+2026-03-31 15:07:14,806 [INFO]   ✓ Mileage Tracker by Driversnote | 价格: Free | 类别: Finance
+2026-03-31 15:07:17,815 [INFO] [3969/8374] 处理: Credit Sesame: Grow Your Score (id=476718980)
+2026-03-31 15:07:18,074 [INFO]   ✓ Credit Sesame: Grow Your Score | 价格: Free | 类别: Finance
+2026-03-31 15:07:20,537 [INFO] [3970/8374] 处理: Ditch: Pay Off Debt Faster (id=6466198208)
+2026-03-31 15:07:20,647 [INFO]   ✓ Ditch: Pay Off Debt Faster | 价格: Free | 类别: Finance
+2026-03-31 15:07:23,412 [INFO] [3971/8374] 处理: Ember - Free Games. Big Wins. (id=1406211993)
+2026-03-31 15:07:23,577 [INFO]   ✓ Ember - Free Games. Big Wins. | 价格: Free | 类别: Finance
+2026-03-31 15:07:26,177 [INFO] [3972/8374] 处理: Freebie Invoice Maker (id=1590349103)
+2026-03-31 15:07:26,308 [INFO]   ✓ Freebie Invoice Maker | 价格: Free | 类别: Finance
+2026-03-31 15:07:29,619 [INFO] [3973/8374] 处理: Budget Bestie (id=6460258044)
+2026-03-31 15:07:29,746 [INFO]   ✓ Budget Bestie | 价格: Free | 类别: Finance
+2026-03-31 15:07:31,426 [INFO] [3974/8374] 处理: ServerLife - Tip Tracker (id=1098987860)
+2026-03-31 15:07:31,530 [INFO]   ✓ ServerLife - Tip Tracker | 价格: Free | 类别: Finance
+2026-03-31 15:07:33,421 [INFO] [3975/8374] 处理: Smart Receipts: Expenses & Tax (id=905698613)
+2026-03-31 15:07:33,553 [INFO]   ✓ Smart Receipts: Expenses & Tax | 价格: Free | 类别: Finance
+2026-03-31 15:07:35,386 [INFO] [3976/8374] 处理: MoneyPilot: Class Action (id=6757743834)
+2026-03-31 15:07:35,554 [INFO]   ✓ MoneyPilot: Class Action | 价格: Free | 类别: Finance
+2026-03-31 15:07:37,140 [INFO] [3977/8374] 处理: Fundstrat Direct (id=1667830378)
+2026-03-31 15:07:37,243 [INFO]   ✓ Fundstrat Direct | 价格: Free | 类别: Finance
+2026-03-31 15:07:40,347 [INFO] [3978/8374] 处理: Till: Kids & Teen Banking (id=1496157742)
+2026-03-31 15:07:40,456 [INFO]   ✓ Till: Kids & Teen Banking | 价格: Free | 类别: Finance
+2026-03-31 15:07:43,782 [INFO] [3979/8374] 处理: Uphold: Buy BTC, ETH and 360+ (id=1101145849)
+2026-03-31 15:07:43,987 [INFO]   ✓ Uphold: Buy BTC, ETH and 360+ | 价格: Free | 类别: Finance
+2026-03-31 15:07:46,442 [INFO] [3980/8374] 处理: MinerX-BTC (id=6756476436)
+2026-03-31 15:07:46,540 [INFO]   ✓ MinerX-BTC | 价格: Free | 类别: Finance
+2026-03-31 15:07:49,765 [INFO] [3981/8374] 处理: Budget app - spending tracker (id=1525179720)
+2026-03-31 15:07:49,938 [INFO]   ✓ Budget app - spending tracker | 价格: Free | 类别: Finance
+2026-03-31 15:07:52,742 [INFO] [3982/8374] 处理: MarketSurge - Stock Research (id=433822602)
+2026-03-31 15:07:52,853 [INFO]   ✓ MarketSurge - Stock Research | 价格: Free | 类别: Finance
+2026-03-31 15:07:54,736 [INFO] [3983/8374] 处理: Settlemate: Claim Money (id=6759353688)
+2026-03-31 15:07:54,885 [INFO]   ✓ Settlemate: Claim Money | 价格: Free | 类别: Finance
+2026-03-31 15:07:56,699 [INFO] [3984/8374] 处理: FreeMaker - Invoice Maker (id=1593605951)
+2026-03-31 15:07:56,810 [INFO]   ✓ FreeMaker - Invoice Maker | 价格: Free | 类别: Finance
+2026-03-31 15:07:58,816 [INFO] [3985/8374] 处理: Dollarbird - Budget Calendar (id=1214299218)
+2026-03-31 15:07:58,917 [INFO]   ✓ Dollarbird - Budget Calendar | 价格: Free | 类别: Finance
+2026-03-31 15:08:01,834 [INFO] [3986/8374] 处理: Finimize: Investing Insights (id=1335577505)
+2026-03-31 15:08:01,935 [INFO]   ✓ Finimize: Investing Insights | 价格: Free | 类别: Finance
+2026-03-31 15:08:04,344 [INFO] [3987/8374] 处理: Benson AI Stock Trading (id=6470971278)
+2026-03-31 15:08:04,634 [INFO]   ✓ Benson AI Stock Trading | 价格: Free | 类别: Finance
+2026-03-31 15:08:07,022 [INFO] [3988/8374] 处理: WalletHub: Credit & Budgeting (id=1110552982)
+2026-03-31 15:08:07,134 [INFO]   ✓ WalletHub: Credit & Budgeting | 价格: Free | 类别: Finance
+2026-03-31 15:08:10,264 [INFO] [3989/8374] 处理: Self Employed - Accounting (id=6450295655)
+2026-03-31 15:08:10,367 [INFO]   ✓ Self Employed - Accounting | 价格: Free | 类别: Finance
+2026-03-31 15:08:12,965 [INFO] [3990/8374] 处理: CoinStats: Crypto Portfolio (id=1247849330)
+2026-03-31 15:08:13,151 [INFO]   ✓ CoinStats: Crypto Portfolio | 价格: Free | 类别: Finance
+2026-03-31 15:08:15,003 [INFO] [3991/8374] 处理: Zacks Mobile App (id=731593509)
+2026-03-31 15:08:15,202 [INFO]   ✓ Zacks Mobile App | 价格: Free | 类别: Finance
+2026-03-31 15:08:16,849 [INFO] [3992/8374] 处理: Trade AI: Chart AI Analysis (id=6741457696)
+2026-03-31 15:08:17,007 [INFO]   ✓ Trade AI: Chart AI Analysis | 价格: Free | 类别: Finance
+2026-03-31 15:08:20,142 [INFO] [3993/8374] 处理: Debt Payoff Planner & Tracker (id=1009323715)
+2026-03-31 15:08:20,294 [INFO]   ✓ Debt Payoff Planner & Tracker | 价格: Free | 类别: Finance
+2026-03-31 15:08:23,129 [INFO] [3994/8374] 处理: Skip – AI for Entrepreneurs (id=1534615615)
+2026-03-31 15:08:23,243 [INFO]   ✓ Skip – AI for Entrepreneurs | 价格: Free | 类别: Finance
+2026-03-31 15:08:25,145 [INFO] [3995/8374] 处理: Buddy: Budget Planner App (id=936422955)
+2026-03-31 15:08:25,319 [INFO]   ✓ Buddy: Budget Planner App | 价格: Free | 类别: Finance
+2026-03-31 15:08:28,002 [INFO] [3996/8374] 处理: Cancel Subscriptions & Refund (id=6479920412)
+2026-03-31 15:08:28,168 [INFO]   ✓ Cancel Subscriptions & Refund | 价格: Free | 类别: Finance
+2026-03-31 15:08:30,838 [INFO] [3997/8374] 处理: Snowball Analytics (id=6463484375)
+2026-03-31 15:08:30,984 [INFO]   ✓ Snowball Analytics | 价格: Free | 类别: Finance
+2026-03-31 15:08:34,093 [INFO] [3998/8374] 处理: BitTycoon:BTC Cloud Mining (id=6738644410)
+2026-03-31 15:08:34,236 [INFO]   ✓ BitTycoon:BTC Cloud Mining | 价格: Free | 类别: Finance
+2026-03-31 15:08:36,894 [INFO] [3999/8374] 处理: Intellectia: AI Trading Signal (id=6743067049)
+2026-03-31 15:08:37,021 [INFO]   ✓ Intellectia: AI Trading Signal | 价格: Free | 类别: Finance
+2026-03-31 15:08:40,374 [INFO] [4000/8374] 处理: Goodbudget Budget Planner (id=471112395)
+2026-03-31 15:08:40,533 [INFO]   ✓ Goodbudget Budget Planner | 价格: Free | 类别: Finance
+2026-03-31 15:08:44,046 [INFO] 历史价格已保存: 8868 条记录（本次新增/更新: 1000）
+2026-03-31 15:08:44,046 [INFO] 📌 进度已保存：下次从第 4001 个 App 开始（共 8374 个）
+2026-03-31 15:08:44,130 [INFO] HTML 已生成: index.html (8868 个 App)
+2026-03-31 15:08:44,132 [INFO] ============================================================
+2026-03-31 15:08:44,132 [INFO] 运行完成 | 成功: 1000 | 失败: 0 | 降价: 25 项
+2026-03-31 15:08:44,132 [INFO] 本次降价汇总:
+2026-03-31 15:08:44,132 [INFO]   [app] Cubasis 3 - DAW & Music Studio - Cubasis 3 - DAW & Music Studio: $49.99 → $29.99
+2026-03-31 15:08:44,132 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - Waves Tune Real-Time: $4.99 → $2.49
+2026-03-31 15:08:44,132 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - Classic Machines: $6.99 → $3.49
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - Waves Plug-in Bundle: $19.99 → $9.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - FX Pack 1: Reverbs & Delays: $6.99 → $3.49
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - Micrologue ARP Arpeggiator: $4.99 → $2.49
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - FX Pack 2: Vintage FX: $6.99 → $3.49
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - HALion Sonic Selection: $19.99 → $14.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - FM Classics: $13.99 → $9.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Cubasis 3 - DAW & Music Studio - Neo FM: $13.99 → $9.99
+2026-03-31 15:08:44,133 [INFO]   [iap] TuneIn Radio: Music & Sports - TuneIn Premium: $9.99 → $7.99
+2026-03-31 15:08:44,133 [INFO]   [iap] TuneIn Radio: Music & Sports - TuneIn Premium: $9.99 → $1.99
+2026-03-31 15:08:44,133 [INFO]   [iap] TuneIn Radio: Music & Sports - TuneIn Premium: $9.99 → $1.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Universalis - All Hours: $29.99 → $2.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Universalis - Daily Mass Readings: $19.99 → $1.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Universalis - Daytime Hours: $29.99 → $2.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Calorie Counter PRO MyNetDiary - MyNetDiary Premium: $59.99 → $8.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Calorie Counter PRO MyNetDiary - MyNetDiary Premium: $59.99 → $39.99
+2026-03-31 15:08:44,133 [INFO]   [iap] Calorie Counter PRO MyNetDiary - MyNetDiary Premium: $59.99 → $29.99
+2026-03-31 15:08:44,133 [INFO]   [iap] PostureScreen Mobile - Unlimited Assessment Plan: $249.0 → $24.99
+2026-03-31 15:08:44,133 [INFO]   [iap] FormCheck AI: 表格检查 - weekly pro: $9.99 → $1.99
+2026-03-31 15:08:44,133 [INFO]   [iap] FormCheck AI: 表格检查 - weekly pro: $9.99 → $1.99
+2026-03-31 15:08:44,134 [INFO]   [iap] Money Pro: Personal Finance AR - GOLD: $39.99 → $9.99
+2026-03-31 15:08:44,134 [INFO]   [iap] Money Pro: Personal Finance AR - PLUS: $19.99 → $4.99
+2026-03-31 15:08:44,134 [INFO]   [iap] Binance Smart Chain Explorer - Real-time Notifications: $17.99 → $1.99
+2026-03-31 15:08:44,134 [INFO] ============================================================
