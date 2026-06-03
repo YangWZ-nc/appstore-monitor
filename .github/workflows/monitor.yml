@@ -1,12 +1,8 @@
 name: "App Store Price Monitor"
 
 on:
-  # 每 2 小时运行一次（自动续跑直到全量完成）
-  # 凌晨 2 点 UTC 也会触发，确保每天至少有一次
   schedule:
     - cron: "15 */2 * * *"
-
-  # 允许手动触发
   workflow_dispatch:
     inputs:
       batch_size:
@@ -23,11 +19,14 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   monitor:
     name: "Run Price Monitor"
     runs-on: ubuntu-latest
-    timeout-minutes: 110        # 110 分钟，留余量给 commit/push
+    timeout-minutes: 115
 
     steps:
       - name: Checkout repository
