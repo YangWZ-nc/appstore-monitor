@@ -465,7 +465,7 @@
     "category": "Games",
     "rating": 3.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "515114051": {
     "app_id": "515114051",
@@ -896,14 +896,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/b5/e1/dfb5e15f-5a73-09eb-c58e-6889182ae4d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/00/fa/6a00fa2a-257a-b0db-9a75-57fb5c411214/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "developer": "Goodnotes Limited",
     "bundle_id": "com.goodnotesapp.x",
     "store_url": "https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4",
     "category": "Productivity",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "360593530": {
     "app_id": "360593530",
@@ -948,7 +948,7 @@
     "category": "Productivity",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1511601750": {
     "app_id": "1511601750",
@@ -978,7 +978,7 @@
     "category": "Productivity",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "916366645": {
     "app_id": "916366645",
@@ -8350,14 +8350,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/36/33/f0363391-be64-440a-a5f0-5d03d5bfbdbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1a/94/241a9475-be32-5b43-8728-4f995f051ef9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Oakever Games",
     "bundle_id": "kidultlovin.word.zen",
     "store_url": "https://apps.apple.com/us/app/zen-word-relax-puzzle-game/id1660171117?uo=4",
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1664415775": {
     "app_id": "1664415775",
@@ -84275,7 +84275,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "408665134": {
     "app_id": "408665134",
@@ -84290,7 +84290,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "367288615": {
     "app_id": "367288615",
@@ -84311,7 +84311,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "305627630": {
     "app_id": "305627630",
@@ -84326,7 +84326,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "465899255": {
     "app_id": "465899255",
@@ -84352,7 +84352,7 @@
         "original_price": 1.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "467327200": {
     "app_id": "467327200",
@@ -84367,7 +84367,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "982836020": {
     "app_id": "982836020",
@@ -84382,7 +84382,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "660070298": {
     "app_id": "660070298",
@@ -84448,7 +84448,7 @@
         "original_price": 9.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "889417668": {
     "app_id": "889417668",
@@ -84463,7 +84463,7 @@
     "category": "Games",
     "rating": 4.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "488667779": {
     "app_id": "488667779",
@@ -84478,7 +84478,7 @@
     "category": "Games",
     "rating": 3.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "465112244": {
     "app_id": "465112244",
@@ -84493,7 +84493,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "446199878": {
     "app_id": "446199878",
@@ -84514,7 +84514,7 @@
         "original_price": 1.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "335724587": {
     "app_id": "335724587",
@@ -84529,7 +84529,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "513184827": {
     "app_id": "513184827",
@@ -84544,7 +84544,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "516023543": {
     "app_id": "516023543",
@@ -84559,7 +84559,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "484395345": {
     "app_id": "484395345",
@@ -84574,7 +84574,7 @@
     "category": "Games",
     "rating": 1.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "354880016": {
     "app_id": "354880016",
@@ -84589,7 +84589,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "348988242": {
     "app_id": "348988242",
@@ -84604,7 +84604,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "568409056": {
     "app_id": "568409056",
@@ -84625,7 +84625,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "340361737": {
     "app_id": "340361737",
@@ -84640,7 +84640,7 @@
     "category": "Games",
     "rating": 1.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "298042472": {
     "app_id": "298042472",
@@ -84676,7 +84676,7 @@
         "original_price": 24.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "318914584": {
     "app_id": "318914584",
@@ -84691,7 +84691,7 @@
     "category": "Games",
     "rating": 3.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "515836751": {
     "app_id": "515836751",
@@ -84699,14 +84699,14 @@
     "price": 14.99,
     "currency": "USD",
     "formatted_price": "$14.99",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/67/af/a767af93-98c7-9e95-32e4-4662349c5a8f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/8c/01/188c01d6-893e-bc8c-c66c-36c0965f279e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Sierra Chica Software SL",
     "bundle_id": "com.jarvapps.geoexpert",
     "store_url": "https://apps.apple.com/us/app/geoexpert-world-geography-map/id515836751?uo=4",
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1308038634": {
     "app_id": "1308038634",
@@ -84762,7 +84762,7 @@
         "original_price": 29.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1533426901": {
     "app_id": "1533426901",
@@ -84777,7 +84777,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1043400501": {
     "app_id": "1043400501",
@@ -84798,14 +84798,14 @@
         "original_price": 2.99
       },
       {
-        "name": "Package of 25 Shuffles",
-        "price": 3.99,
-        "original_price": 3.99
-      },
-      {
         "name": "Package of 5 bombs",
         "price": 0.99,
         "original_price": 0.99
+      },
+      {
+        "name": "Package of 25 Shuffles",
+        "price": 3.99,
+        "original_price": 3.99
       },
       {
         "name": "Package of 100 Shuffles",
@@ -84838,7 +84838,7 @@
         "original_price": 2.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "976690822": {
     "app_id": "976690822",
@@ -84853,7 +84853,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1051006680": {
     "app_id": "1051006680",
@@ -84894,7 +84894,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "847640469": {
     "app_id": "847640469",
@@ -84909,7 +84909,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "455578451": {
     "app_id": "455578451",
@@ -84924,7 +84924,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "442950324": {
     "app_id": "442950324",
@@ -84955,7 +84955,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "369681554": {
     "app_id": "369681554",
@@ -84970,7 +84970,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "339749089": {
     "app_id": "339749089",
@@ -84985,7 +84985,7 @@
     "category": "Games",
     "rating": 2.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1215536285": {
     "app_id": "1215536285",
@@ -85000,7 +85000,7 @@
     "category": "Games",
     "rating": 1.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "581548715": {
     "app_id": "581548715",
@@ -85015,7 +85015,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1244428793": {
     "app_id": "1244428793",
@@ -85030,7 +85030,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1232567752": {
     "app_id": "1232567752",
@@ -85051,7 +85051,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "467343891": {
     "app_id": "467343891",
@@ -85066,7 +85066,7 @@
     "category": "Games",
     "rating": 1.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "638282228": {
     "app_id": "638282228",
@@ -85087,7 +85087,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "882669045": {
     "app_id": "882669045",
@@ -85108,7 +85108,7 @@
         "original_price": 2.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "555594329": {
     "app_id": "555594329",
@@ -85123,7 +85123,7 @@
     "category": "Games",
     "rating": 0.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1536414223": {
     "app_id": "1536414223",
@@ -85138,7 +85138,7 @@
     "category": "Games",
     "rating": 1.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1387964565": {
     "app_id": "1387964565",
@@ -85159,7 +85159,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1252927289": {
     "app_id": "1252927289",
@@ -85174,7 +85174,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "686500602": {
     "app_id": "686500602",
@@ -85189,7 +85189,7 @@
     "category": "Games",
     "rating": 1.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "373741215": {
     "app_id": "373741215",
@@ -85219,7 +85219,7 @@
     "category": "Games",
     "rating": 3.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "827797752": {
     "app_id": "827797752",
@@ -85234,7 +85234,7 @@
     "category": "Games",
     "rating": 0.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1102825551": {
     "app_id": "1102825551",
@@ -85285,7 +85285,7 @@
         "original_price": 14.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1504000687": {
     "app_id": "1504000687",
@@ -85300,7 +85300,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1049876497": {
     "app_id": "1049876497",
@@ -85308,14 +85308,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/d2/a9/dad2a91b-7968-66c9-537f-c833071d2240/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1f/23/431f235e-7c78-e564-38c1-f11800b44f6d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "developer": "GeoGuessr AB",
     "bundle_id": "com.GeoGuessr.iOS.GeoGuessr",
     "store_url": "https://apps.apple.com/us/app/geoguessr/id1049876497?uo=4",
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1580601028": {
     "app_id": "1580601028",
@@ -85323,14 +85323,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/12/58/da12586c-634b-b57e-8020-4cdaef1585c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ba/05/a4ba0578-d7b1-6bef-a967-b5ed657b7be8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Fanatee",
     "bundle_id": "com.fanatee.keep",
     "store_url": "https://apps.apple.com/us/app/everyday-puzzles-mini-games/id1580601028?uo=4",
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1050443738": {
     "app_id": "1050443738",
@@ -85338,14 +85338,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/31/b7/9531b79d-4680-697b-a8f4-2c42c16ac418/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/6d/62/ee6d6290-eea7-3d43-e3cb-c38b1d3ed19b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "developer": "Photo Roulette AS",
     "bundle_id": "com.hortemo.photoguessr",
     "store_url": "https://apps.apple.com/us/app/photo-roulette/id1050443738?uo=4",
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6742410648": {
     "app_id": "6742410648",
@@ -85360,7 +85360,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6480004025": {
     "app_id": "6480004025",
@@ -85375,7 +85375,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1626781939": {
     "app_id": "1626781939",
@@ -85390,7 +85390,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6758080238": {
     "app_id": "6758080238",
@@ -85405,7 +85405,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1484143447": {
     "app_id": "1484143447",
@@ -85420,7 +85420,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "628052020": {
     "app_id": "628052020",
@@ -85435,7 +85435,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1096884447": {
     "app_id": "1096884447",
@@ -85450,7 +85450,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1486192343": {
     "app_id": "1486192343",
@@ -85465,7 +85465,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "962969578": {
     "app_id": "962969578",
@@ -85480,7 +85480,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6741133499": {
     "app_id": "6741133499",
@@ -85495,7 +85495,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1537890432": {
     "app_id": "1537890432",
@@ -85510,7 +85510,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1581869942": {
     "app_id": "1581869942",
@@ -85525,7 +85525,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1479305181": {
     "app_id": "1479305181",
@@ -85540,7 +85540,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6748455155": {
     "app_id": "6748455155",
@@ -85555,7 +85555,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "500595081": {
     "app_id": "500595081",
@@ -85570,7 +85570,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1437263404": {
     "app_id": "1437263404",
@@ -85585,7 +85585,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "898040123": {
     "app_id": "898040123",
@@ -85593,14 +85593,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/34/a5/ea34a582-3e32-5946-4033-3f1b831e8ee0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/2b/2a/6b2b2a14-767a-f957-25fc-0dc6d0bb6959/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Scopely, Inc.",
     "bundle_id": "com.scopely.wheeloffortune",
     "store_url": "https://apps.apple.com/us/app/wheel-of-fortune-official-game/id898040123?uo=4",
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1572007006": {
     "app_id": "1572007006",
@@ -85615,7 +85615,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6738333688": {
     "app_id": "6738333688",
@@ -85630,7 +85630,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6472485066": {
     "app_id": "6472485066",
@@ -85645,7 +85645,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6475600785": {
     "app_id": "6475600785",
@@ -85660,7 +85660,7 @@
     "category": "Games",
     "rating": 2.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6670433218": {
     "app_id": "6670433218",
@@ -85675,7 +85675,7 @@
     "category": "Games",
     "rating": 3.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6479301314": {
     "app_id": "6479301314",
@@ -85690,7 +85690,7 @@
     "category": "Games",
     "rating": 3.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1509517244": {
     "app_id": "1509517244",
@@ -85705,7 +85705,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1216673574": {
     "app_id": "1216673574",
@@ -85720,7 +85720,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6451004192": {
     "app_id": "6451004192",
@@ -85735,7 +85735,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1126783692": {
     "app_id": "1126783692",
@@ -85750,7 +85750,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "595558452": {
     "app_id": "595558452",
@@ -85765,7 +85765,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6468810871": {
     "app_id": "6468810871",
@@ -85780,7 +85780,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1506496657": {
     "app_id": "1506496657",
@@ -85795,7 +85795,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1295936594": {
     "app_id": "1295936594",
@@ -85810,7 +85810,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1562848833": {
     "app_id": "1562848833",
@@ -85825,7 +85825,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6446330973": {
     "app_id": "6446330973",
@@ -85840,7 +85840,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1424533120": {
     "app_id": "1424533120",
@@ -85855,7 +85855,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1270393677": {
     "app_id": "1270393677",
@@ -85870,7 +85870,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6479217224": {
     "app_id": "6479217224",
@@ -85885,7 +85885,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6504657055": {
     "app_id": "6504657055",
@@ -85900,7 +85900,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1467771859": {
     "app_id": "1467771859",
@@ -85915,7 +85915,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1564146071": {
     "app_id": "1564146071",
@@ -85930,7 +85930,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6757229845": {
     "app_id": "6757229845",
@@ -85945,7 +85945,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1526940871": {
     "app_id": "1526940871",
@@ -85960,7 +85960,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1598130921": {
     "app_id": "1598130921",
@@ -85975,7 +85975,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6749267275": {
     "app_id": "6749267275",
@@ -85983,14 +85983,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/c3/fc/f3c3fce7-0f8d-9924-44ea-3ce084b00045/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/77/3f/e7773f62-c5a9-7d86-c59d-07485727541f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "developer": "Robert Akrouche",
     "bundle_id": "com.robquiz.app",
     "store_url": "https://apps.apple.com/us/app/robquiz-play/id6749267275?uo=4",
     "category": "Games",
     "rating": 3.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1611741868": {
     "app_id": "1611741868",
@@ -85998,14 +85998,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/4e/03/a64e038c-12fa-dd35-dab4-9b1add2170ea/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/3a/14/533a1412-c4b0-8272-4382-0cc7bfe029aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "ELIA GAMES",
     "bundle_id": "games.elia.peoplesay",
     "store_url": "https://apps.apple.com/us/app/people-say-trivia-quiz-game/id1611741868?uo=4",
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "999816135": {
     "app_id": "999816135",
@@ -86020,7 +86020,7 @@
     "category": "Games",
     "rating": 3.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1325285782": {
     "app_id": "1325285782",
@@ -86035,7 +86035,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6741417896": {
     "app_id": "6741417896",
@@ -86050,7 +86050,7 @@
     "category": "Games",
     "rating": 3.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1602077913": {
     "app_id": "1602077913",
@@ -86065,7 +86065,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1275023828": {
     "app_id": "1275023828",
@@ -86080,7 +86080,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1486637414": {
     "app_id": "1486637414",
@@ -86095,7 +86095,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6755225782": {
     "app_id": "6755225782",
@@ -86110,7 +86110,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1473573813": {
     "app_id": "1473573813",
@@ -86125,7 +86125,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "687877464": {
     "app_id": "687877464",
@@ -86140,7 +86140,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1234094465": {
     "app_id": "1234094465",
@@ -86155,7 +86155,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "615261740": {
     "app_id": "615261740",
@@ -86170,7 +86170,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1107507527": {
     "app_id": "1107507527",
@@ -86185,7 +86185,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1503437368": {
     "app_id": "1503437368",
@@ -86200,7 +86200,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6450404387": {
     "app_id": "6450404387",
@@ -86215,7 +86215,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1539388451": {
     "app_id": "1539388451",
@@ -86230,7 +86230,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1418794453": {
     "app_id": "1418794453",
@@ -86245,7 +86245,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6479996795": {
     "app_id": "6479996795",
@@ -86275,7 +86275,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1261761935": {
     "app_id": "1261761935",
@@ -86290,7 +86290,7 @@
     "category": "Games",
     "rating": 3.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6474274690": {
     "app_id": "6474274690",
@@ -86305,7 +86305,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "600674056": {
     "app_id": "600674056",
@@ -86313,14 +86313,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b4/7b/58b47b28-3f6f-83bb-f5c0-069ddae096a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/5e/8b/705e8b49-ef7a-914a-c25d-3f6915e11362/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
     "developer": "Kooapps",
     "bundle_id": "com.kooapps.pictoword",
     "store_url": "https://apps.apple.com/us/app/pictoword-fun-word-quiz-games/id600674056?uo=4",
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6754612383": {
     "app_id": "6754612383",
@@ -86335,7 +86335,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6737213796": {
     "app_id": "6737213796",
@@ -86350,7 +86350,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "553432225": {
     "app_id": "553432225",
@@ -86365,7 +86365,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1579122980": {
     "app_id": "1579122980",
@@ -86373,14 +86373,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/5f/35/7f5f35a8-8d1e-bf32-378a-27ada58bc8eb/AppIcon-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/14/f8/6314f8a4-c4e1-9067-e90f-7c874ed71656/AppIcon-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png/100x100bb.jpg",
     "developer": "HyperBeard Inc.",
     "bundle_id": "com.grapetree.meowtower",
     "store_url": "https://apps.apple.com/us/app/meow-tower-nonogram-puzzle/id1579122980?uo=4",
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1546175708": {
     "app_id": "1546175708",
@@ -86395,7 +86395,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6754833303": {
     "app_id": "6754833303",
@@ -86410,7 +86410,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6739618563": {
     "app_id": "6739618563",
@@ -86425,7 +86425,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6749035917": {
     "app_id": "6749035917",
@@ -86455,7 +86455,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1488266461": {
     "app_id": "1488266461",
@@ -86470,7 +86470,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1234019228": {
     "app_id": "1234019228",
@@ -86485,7 +86485,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6759899677": {
     "app_id": "6759899677",
@@ -86500,7 +86500,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1184083151": {
     "app_id": "1184083151",
@@ -86515,7 +86515,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1610104620": {
     "app_id": "1610104620",
@@ -86530,7 +86530,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1517829670": {
     "app_id": "1517829670",
@@ -86545,7 +86545,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6499236530": {
     "app_id": "6499236530",
@@ -86560,7 +86560,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1092689152": {
     "app_id": "1092689152",
@@ -86575,7 +86575,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1252073947": {
     "app_id": "1252073947",
@@ -86590,7 +86590,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1453835217": {
     "app_id": "1453835217",
@@ -86605,7 +86605,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1287540998": {
     "app_id": "1287540998",
@@ -86620,7 +86620,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1379080711": {
     "app_id": "1379080711",
@@ -86635,7 +86635,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1451060960": {
     "app_id": "1451060960",
@@ -86643,14 +86643,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/c0/68/43c0686e-0032-8c70-eeca-ad1752bd4230/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/ba/3b/ceba3b8f-4425-f4ca-e703-7b66c4d09d4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "developer": "Cosmicode Lda",
     "bundle_id": "pt.cosmicode.guess-up-kids",
     "store_url": "https://apps.apple.com/us/app/charades-for-kids-guess-up/id1451060960?uo=4",
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1609570356": {
     "app_id": "1609570356",
@@ -86665,7 +86665,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1518963006": {
     "app_id": "1518963006",
@@ -86680,7 +86680,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1454183741": {
     "app_id": "1454183741",
@@ -86695,7 +86695,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6737181262": {
     "app_id": "6737181262",
@@ -86710,7 +86710,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6478389736": {
     "app_id": "6478389736",
@@ -86725,7 +86725,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6741367208": {
     "app_id": "6741367208",
@@ -86740,7 +86740,7 @@
     "category": "Games",
     "rating": 2.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1625682712": {
     "app_id": "1625682712",
@@ -86755,7 +86755,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1541321303": {
     "app_id": "1541321303",
@@ -86770,7 +86770,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6755425765": {
     "app_id": "6755425765",
@@ -86778,14 +86778,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ae/46/a4ae46ca-cd06-cf10-911c-6f267a882451/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ca/9e/14ca9e1e-7dc5-4c02-b9a1-dbb7b571bad8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "developer": "GeoHunter LLC",
     "bundle_id": "com.geohuntergame.mobile",
     "store_url": "https://apps.apple.com/us/app/geohunter/id6755425765?uo=4",
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6746659144": {
     "app_id": "6746659144",
@@ -86793,14 +86793,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/ad/97/68ad9700-7519-7683-ced4-593f13a6dcf2/L3eeb-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ff/e4/36ffe4c6-8c3e-5375-1b99-5cda46562861/L3eeb-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
     "developer": "Bader Al-Shaibani",
     "bundle_id": "com.l3bteam.l3bapp",
     "store_url": "https://apps.apple.com/us/app/l3b-%D9%84%D8%B9%D8%A8/id6746659144?uo=4",
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1059177218": {
     "app_id": "1059177218",
@@ -86815,7 +86815,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6743406417": {
     "app_id": "6743406417",
@@ -86830,7 +86830,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6748642216": {
     "app_id": "6748642216",
@@ -86845,7 +86845,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1633307858": {
     "app_id": "1633307858",
@@ -86860,7 +86860,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "658902767": {
     "app_id": "658902767",
@@ -86875,7 +86875,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1436049430": {
     "app_id": "1436049430",
@@ -86890,7 +86890,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1370245504": {
     "app_id": "1370245504",
@@ -86905,7 +86905,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1498057837": {
     "app_id": "1498057837",
@@ -86920,7 +86920,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1436464468": {
     "app_id": "1436464468",
@@ -86935,7 +86935,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1445135380": {
     "app_id": "1445135380",
@@ -86950,7 +86950,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1023782170": {
     "app_id": "1023782170",
@@ -86958,14 +86958,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/e1/e6/0ee1e6e7-7899-c81a-314f-de58291489e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/98/25/c3982521-770f-6343-8d11-06fe0c68fff4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Conversion, LLC",
     "bundle_id": "com.randomlogicgames.wordsearch",
     "store_url": "https://apps.apple.com/us/app/infinite-word-search-puzzles/id1023782170?uo=4",
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6472733074": {
     "app_id": "6472733074",
@@ -86978,9 +86978,9 @@
     "bundle_id": "com.hyperbeard.fairyvillage",
     "store_url": "https://apps.apple.com/us/app/fairy-village/id6472733074?uo=4",
     "category": "Games",
-    "rating": 4.4,
+    "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6449974483": {
     "app_id": "6449974483",
@@ -86995,7 +86995,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "655645841": {
     "app_id": "655645841",
@@ -87010,7 +87010,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6742747165": {
     "app_id": "6742747165",
@@ -87025,7 +87025,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6447509943": {
     "app_id": "6447509943",
@@ -87040,7 +87040,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1546228874": {
     "app_id": "1546228874",
@@ -87055,7 +87055,7 @@
     "category": "Education",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6476441461": {
     "app_id": "6476441461",
@@ -87070,7 +87070,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1487585438": {
     "app_id": "1487585438",
@@ -87078,14 +87078,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0e/71/db0e7191-5359-4788-a74e-316f634fc840/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/4f/3c/284f3ce9-4cb6-1339-5708-5e9efea5184d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
     "developer": "Hi Studio Limited",
     "bundle_id": "com.histudiogames.wordserenity",
     "store_url": "https://apps.apple.com/us/app/word-serenity-fun-brain-game/id1487585438?uo=4",
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "973605105": {
     "app_id": "973605105",
@@ -87100,7 +87100,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1492574252": {
     "app_id": "1492574252",
@@ -87115,7 +87115,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1523539543": {
     "app_id": "1523539543",
@@ -87130,7 +87130,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1349292121": {
     "app_id": "1349292121",
@@ -87145,7 +87145,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "459318432": {
     "app_id": "459318432",
@@ -87176,7 +87176,7 @@
         "original_price": 1.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6737422986": {
     "app_id": "6737422986",
@@ -87191,7 +87191,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "881274996": {
     "app_id": "881274996",
@@ -87206,7 +87206,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "952658953": {
     "app_id": "952658953",
@@ -87221,7 +87221,7 @@
     "category": "Games",
     "rating": 4.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6756895326": {
     "app_id": "6756895326",
@@ -87236,7 +87236,7 @@
     "category": "Games",
     "rating": 0.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6759479305": {
     "app_id": "6759479305",
@@ -87251,7 +87251,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6755334673": {
     "app_id": "6755334673",
@@ -87266,7 +87266,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "294536447": {
     "app_id": "294536447",
@@ -87281,7 +87281,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "284036524": {
     "app_id": "284036524",
@@ -87347,7 +87347,7 @@
         "original_price": 2.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "380210791": {
     "app_id": "380210791",
@@ -87362,7 +87362,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "333262544": {
     "app_id": "333262544",
@@ -87377,7 +87377,7 @@
     "category": "Games",
     "rating": 3.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "406150030": {
     "app_id": "406150030",
@@ -87392,7 +87392,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "327456838": {
     "app_id": "327456838",
@@ -87407,7 +87407,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "546236058": {
     "app_id": "546236058",
@@ -87422,7 +87422,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "672002602": {
     "app_id": "672002602",
@@ -87437,7 +87437,7 @@
     "category": "Games",
     "rating": 3.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "834706017": {
     "app_id": "834706017",
@@ -87458,7 +87458,7 @@
         "original_price": 2.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "288688365": {
     "app_id": "288688365",
@@ -87473,7 +87473,7 @@
     "category": "Games",
     "rating": 3.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "763991668": {
     "app_id": "763991668",
@@ -87539,7 +87539,7 @@
         "original_price": 2.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6738364965": {
     "app_id": "6738364965",
@@ -87554,7 +87554,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1451321452": {
     "app_id": "1451321452",
@@ -87569,7 +87569,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "929089228": {
     "app_id": "929089228",
@@ -87584,7 +87584,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6747488783": {
     "app_id": "6747488783",
@@ -87599,7 +87599,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1465364315": {
     "app_id": "1465364315",
@@ -87614,7 +87614,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6478508550": {
     "app_id": "6478508550",
@@ -87629,7 +87629,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1089856580": {
     "app_id": "1089856580",
@@ -87644,7 +87644,7 @@
     "category": "Games",
     "rating": 0.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1534959553": {
     "app_id": "1534959553",
@@ -87659,7 +87659,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "814622099": {
     "app_id": "814622099",
@@ -87680,7 +87680,7 @@
         "original_price": 2.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6757966051": {
     "app_id": "6757966051",
@@ -87695,7 +87695,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "393819590": {
     "app_id": "393819590",
@@ -87710,7 +87710,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6447632074": {
     "app_id": "6447632074",
@@ -87725,7 +87725,7 @@
     "category": "Games",
     "rating": 1.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "474662296": {
     "app_id": "474662296",
@@ -87740,7 +87740,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1112055588": {
     "app_id": "1112055588",
@@ -87755,7 +87755,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6446267827": {
     "app_id": "6446267827",
@@ -87770,7 +87770,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "310316214": {
     "app_id": "310316214",
@@ -87785,7 +87785,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "301295390": {
     "app_id": "301295390",
@@ -87800,7 +87800,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "301027036": {
     "app_id": "301027036",
@@ -87815,7 +87815,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "460744832": {
     "app_id": "460744832",
@@ -87830,7 +87830,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "452176000": {
     "app_id": "452176000",
@@ -87845,7 +87845,7 @@
     "category": "Games",
     "rating": 3.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "343077741": {
     "app_id": "343077741",
@@ -87860,7 +87860,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "504739597": {
     "app_id": "504739597",
@@ -87896,7 +87896,7 @@
         "original_price": 3.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "317452750": {
     "app_id": "317452750",
@@ -87911,7 +87911,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1223257768": {
     "app_id": "1223257768",
@@ -87926,7 +87926,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1117100543": {
     "app_id": "1117100543",
@@ -87941,7 +87941,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "404366437": {
     "app_id": "404366437",
@@ -87956,7 +87956,7 @@
     "category": "Games",
     "rating": 4.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "474299392": {
     "app_id": "474299392",
@@ -87971,7 +87971,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1261458837": {
     "app_id": "1261458837",
@@ -87986,7 +87986,7 @@
     "category": "Games",
     "rating": 3.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "550060613": {
     "app_id": "550060613",
@@ -88007,7 +88007,7 @@
         "original_price": 4.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1023152763": {
     "app_id": "1023152763",
@@ -88022,7 +88022,7 @@
     "category": "Games",
     "rating": 3.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "381884002": {
     "app_id": "381884002",
@@ -88037,7 +88037,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "285884423": {
     "app_id": "285884423",
@@ -88052,7 +88052,7 @@
     "category": "Games",
     "rating": 3.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "846195114": {
     "app_id": "846195114",
@@ -88067,7 +88067,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6477922067": {
     "app_id": "6477922067",
@@ -88097,7 +88097,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1135172555": {
     "app_id": "1135172555",
@@ -88112,7 +88112,7 @@
     "category": "Games",
     "rating": 3.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1392948321": {
     "app_id": "1392948321",
@@ -88127,7 +88127,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1003979151": {
     "app_id": "1003979151",
@@ -88142,7 +88142,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "410759189": {
     "app_id": "410759189",
@@ -88155,7 +88155,7 @@
     "bundle_id": "com.afksoft.WordShakerHD",
     "store_url": "https://apps.apple.com/us/app/word-shaker-hd/id410759189?uo=4",
     "category": "Games",
-    "rating": 4.7,
+    "rating": 4.6,
     "iap": [
       {
         "name": "VIP Club (1 month)",
@@ -88188,7 +88188,7 @@
         "original_price": 4.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "284963567": {
     "app_id": "284963567",
@@ -88203,7 +88203,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1504475352": {
     "app_id": "1504475352",
@@ -88233,7 +88233,7 @@
     "category": "Games",
     "rating": 3.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "620072282": {
     "app_id": "620072282",
@@ -88248,7 +88248,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "422056390": {
     "app_id": "422056390",
@@ -88263,7 +88263,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "715048833": {
     "app_id": "715048833",
@@ -88278,7 +88278,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "580847667": {
     "app_id": "580847667",
@@ -88344,7 +88344,7 @@
         "original_price": 4.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1107742264": {
     "app_id": "1107742264",
@@ -88359,7 +88359,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1421420656": {
     "app_id": "1421420656",
@@ -88375,6 +88375,16 @@
     "rating": 4.5,
     "iap": [
       {
+        "name": "Extra Support",
+        "price": 0.99,
+        "original_price": 0.99
+      },
+      {
+        "name": "Small Donation",
+        "price": 0.99,
+        "original_price": 0.99
+      },
+      {
         "name": "Big Donation",
         "price": 3.99,
         "original_price": 3.99
@@ -88383,19 +88393,9 @@
         "name": "Medium Donation",
         "price": 1.99,
         "original_price": 1.99
-      },
-      {
-        "name": "Small Donation",
-        "price": 0.99,
-        "original_price": 0.99
-      },
-      {
-        "name": "Extra Support",
-        "price": 0.99,
-        "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "596543924": {
     "app_id": "596543924",
@@ -88471,7 +88471,7 @@
         "original_price": 0.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "505384445": {
     "app_id": "505384445",
@@ -88486,7 +88486,7 @@
     "category": "Games",
     "rating": 3.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1454290016": {
     "app_id": "1454290016",
@@ -88501,7 +88501,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6746753182": {
     "app_id": "6746753182",
@@ -88516,7 +88516,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6749696890": {
     "app_id": "6749696890",
@@ -88524,14 +88524,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/ec/12/6aec1227-1774-b759-799b-669a01be5ef2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/22/df/1e22dfee-b5cf-4d7c-01ec-ba9e146f8c6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Burny Games",
     "bundle_id": "games.burny.associations.word.puzzle",
     "store_url": "https://apps.apple.com/us/app/associations-colorwood-game/id6749696890?uo=4",
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6759077038": {
     "app_id": "6759077038",
@@ -88546,7 +88546,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6739423612": {
     "app_id": "6739423612",
@@ -88561,7 +88561,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1369521645": {
     "app_id": "1369521645",
@@ -88576,7 +88576,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1636821805": {
     "app_id": "1636821805",
@@ -88591,7 +88591,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1513009813": {
     "app_id": "1513009813",
@@ -88606,7 +88606,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6737221366": {
     "app_id": "6737221366",
@@ -88621,7 +88621,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6747810901": {
     "app_id": "6747810901",
@@ -88636,7 +88636,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6740845687": {
     "app_id": "6740845687",
@@ -88651,7 +88651,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1342112505": {
     "app_id": "1342112505",
@@ -88666,7 +88666,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1644099880": {
     "app_id": "1644099880",
@@ -88681,7 +88681,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6742755086": {
     "app_id": "6742755086",
@@ -88696,7 +88696,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1420294918": {
     "app_id": "1420294918",
@@ -88704,14 +88704,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/24/f6/ac24f6d3-4d87-884a-7d34-addf10c8f067/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c5/18/3ac5183f-c7d0-6e5d-5fb2-00d8b8063007/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "PeopleFun, Inc.",
     "bundle_id": "com.peoplefun.wordsearch",
     "store_url": "https://apps.apple.com/us/app/wordscapes-search-word-game/id1420294918?uo=4",
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6756035115": {
     "app_id": "6756035115",
@@ -88726,7 +88726,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6499235533": {
     "app_id": "6499235533",
@@ -88741,7 +88741,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6744235731": {
     "app_id": "6744235731",
@@ -88756,7 +88756,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6736897776": {
     "app_id": "6736897776",
@@ -88771,7 +88771,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1214223596": {
     "app_id": "1214223596",
@@ -88786,7 +88786,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6692629257": {
     "app_id": "6692629257",
@@ -88794,14 +88794,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/bd/2a/a7bd2a30-62c3-0457-e2a3-6eea09292387/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/80/5c/1e805cac-4c65-cc18-fce6-695099ab5aad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Hitapps Games LTD",
     "bundle_id": "com.hitappsgames.connectwords",
     "store_url": "https://apps.apple.com/us/app/connect-word-association-game/id6692629257?uo=4",
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6446890132": {
     "app_id": "6446890132",
@@ -88816,7 +88816,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1549726220": {
     "app_id": "1549726220",
@@ -88831,7 +88831,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1581677528": {
     "app_id": "1581677528",
@@ -88846,7 +88846,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1580064408": {
     "app_id": "1580064408",
@@ -88861,7 +88861,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6751252728": {
     "app_id": "6751252728",
@@ -88876,7 +88876,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6612024746": {
     "app_id": "6612024746",
@@ -88891,7 +88891,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6754839783": {
     "app_id": "6754839783",
@@ -88906,7 +88906,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6759798103": {
     "app_id": "6759798103",
@@ -88921,7 +88921,7 @@
     "category": "Games",
     "rating": 5.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6474729809": {
     "app_id": "6474729809",
@@ -88929,14 +88929,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/13/e2/df13e29e-60bf-75b1-67ba-7012c446ed25/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/9f/a8/be9fa88e-ccef-b04f-882e-e0ded5e68f65/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "MAG Interactive",
     "bundle_id": "se.maginteractive.crozzle",
     "store_url": "https://apps.apple.com/us/app/crozzle-crossword-puzzles/id6474729809?uo=4",
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6476164708": {
     "app_id": "6476164708",
@@ -88951,7 +88951,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1598506904": {
     "app_id": "1598506904",
@@ -88966,7 +88966,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1603978681": {
     "app_id": "1603978681",
@@ -88981,7 +88981,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1306947001": {
     "app_id": "1306947001",
@@ -88996,7 +88996,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6452119853": {
     "app_id": "6452119853",
@@ -89011,7 +89011,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1542930270": {
     "app_id": "1542930270",
@@ -89026,7 +89026,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6756719766": {
     "app_id": "6756719766",
@@ -89041,7 +89041,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1143681780": {
     "app_id": "1143681780",
@@ -89056,7 +89056,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1512407890": {
     "app_id": "1512407890",
@@ -89071,7 +89071,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1526842079": {
     "app_id": "1526842079",
@@ -89086,7 +89086,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1197041040": {
     "app_id": "1197041040",
@@ -89101,7 +89101,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6755589571": {
     "app_id": "6755589571",
@@ -89116,7 +89116,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6599847974": {
     "app_id": "6599847974",
@@ -89131,7 +89131,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6742752351": {
     "app_id": "6742752351",
@@ -89146,7 +89146,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6754582928": {
     "app_id": "6754582928",
@@ -89161,7 +89161,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1226926872": {
     "app_id": "1226926872",
@@ -89176,7 +89176,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1217017696": {
     "app_id": "1217017696",
@@ -89191,7 +89191,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6714459074": {
     "app_id": "6714459074",
@@ -89206,7 +89206,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1123930673": {
     "app_id": "1123930673",
@@ -89221,7 +89221,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6753587430": {
     "app_id": "6753587430",
@@ -89236,7 +89236,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6756714377": {
     "app_id": "6756714377",
@@ -89251,7 +89251,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1357802596": {
     "app_id": "1357802596",
@@ -89266,7 +89266,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6757349076": {
     "app_id": "6757349076",
@@ -89281,7 +89281,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6475351623": {
     "app_id": "6475351623",
@@ -89296,7 +89296,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "532137502": {
     "app_id": "532137502",
@@ -89311,7 +89311,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1269540854": {
     "app_id": "1269540854",
@@ -89326,7 +89326,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6735268899": {
     "app_id": "6735268899",
@@ -89356,7 +89356,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1273162445": {
     "app_id": "1273162445",
@@ -89371,7 +89371,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1446728841": {
     "app_id": "1446728841",
@@ -89386,7 +89386,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6754153799": {
     "app_id": "6754153799",
@@ -89401,7 +89401,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1308181322": {
     "app_id": "1308181322",
@@ -89409,14 +89409,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/df/c6/d0dfc69f-3400-ee3b-2357-b56c5348a307/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/96/e4/8396e4e0-6487-a3b8-661a-9a681b98b360/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "AppyNation Ltd.",
     "bundle_id": "com.appynation.ppge",
     "store_url": "https://apps.apple.com/us/app/puzzle-page-daily-games/id1308181322?uo=4",
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1563215345": {
     "app_id": "1563215345",
@@ -89431,7 +89431,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1482382774": {
     "app_id": "1482382774",
@@ -89446,7 +89446,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6755478234": {
     "app_id": "6755478234",
@@ -89476,7 +89476,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1413942319": {
     "app_id": "1413942319",
@@ -89491,7 +89491,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6733229458": {
     "app_id": "6733229458",
@@ -89506,7 +89506,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1386727308": {
     "app_id": "1386727308",
@@ -89521,7 +89521,7 @@
     "category": "Games",
     "rating": 4.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1245525899": {
     "app_id": "1245525899",
@@ -89536,7 +89536,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1633021483": {
     "app_id": "1633021483",
@@ -89551,7 +89551,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1441645718": {
     "app_id": "1441645718",
@@ -89566,7 +89566,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6720741253": {
     "app_id": "6720741253",
@@ -89581,7 +89581,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "517840944": {
     "app_id": "517840944",
@@ -89596,7 +89596,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1197961218": {
     "app_id": "1197961218",
@@ -89611,7 +89611,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6453159988": {
     "app_id": "6453159988",
@@ -89626,7 +89626,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6444775332": {
     "app_id": "6444775332",
@@ -89641,7 +89641,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6608973267": {
     "app_id": "6608973267",
@@ -89656,7 +89656,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6479394113": {
     "app_id": "6479394113",
@@ -89671,7 +89671,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1390646086": {
     "app_id": "1390646086",
@@ -89686,7 +89686,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "975035622": {
     "app_id": "975035622",
@@ -89701,7 +89701,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6479947010": {
     "app_id": "6479947010",
@@ -89716,7 +89716,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6745254229": {
     "app_id": "6745254229",
@@ -89731,7 +89731,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1313561414": {
     "app_id": "1313561414",
@@ -89746,7 +89746,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "708600202": {
     "app_id": "708600202",
@@ -89761,7 +89761,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6450500130": {
     "app_id": "6450500130",
@@ -89776,7 +89776,7 @@
     "category": "Games",
     "rating": 4.3,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "431434152": {
     "app_id": "431434152",
@@ -89791,7 +89791,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1302451299": {
     "app_id": "1302451299",
@@ -89806,7 +89806,7 @@
     "category": "Games",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1465591510": {
     "app_id": "1465591510",
@@ -89821,7 +89821,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1640629241": {
     "app_id": "1640629241",
@@ -89836,7 +89836,7 @@
     "category": "Games",
     "rating": 4.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6450980545": {
     "app_id": "6450980545",
@@ -89851,7 +89851,7 @@
     "category": "Games",
     "rating": 3.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6462360082": {
     "app_id": "6462360082",
@@ -89866,7 +89866,7 @@
     "category": "Games",
     "rating": 3.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6473715300": {
     "app_id": "6473715300",
@@ -89881,7 +89881,7 @@
     "category": "Games",
     "rating": 3.4,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6449451200": {
     "app_id": "6449451200",
@@ -89896,7 +89896,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1136993233": {
     "app_id": "1136993233",
@@ -89937,7 +89937,7 @@
         "original_price": 4.99
       }
     ],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1560917688": {
     "app_id": "1560917688",
@@ -89952,7 +89952,7 @@
     "category": "Utilities",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "540992837": {
     "app_id": "540992837",
@@ -89967,7 +89967,7 @@
     "category": "Games",
     "rating": 3.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6453476038": {
     "app_id": "6453476038",
@@ -89982,7 +89982,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "424591347": {
     "app_id": "424591347",
@@ -89997,7 +89997,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1492041417": {
     "app_id": "1492041417",
@@ -90012,7 +90012,7 @@
     "category": "Games",
     "rating": 3.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1571685286": {
     "app_id": "1571685286",
@@ -90027,7 +90027,7 @@
     "category": "Games",
     "rating": 4.2,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1608888053": {
     "app_id": "1608888053",
@@ -90042,7 +90042,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1000876192": {
     "app_id": "1000876192",
@@ -90057,7 +90057,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1164056434": {
     "app_id": "1164056434",
@@ -90072,7 +90072,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1491520571": {
     "app_id": "1491520571",
@@ -90087,7 +90087,7 @@
     "category": "Games",
     "rating": 4.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "6473451387": {
     "app_id": "6473451387",
@@ -90102,7 +90102,7 @@
     "category": "Games",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1668983788": {
     "app_id": "1668983788",
@@ -90117,7 +90117,7 @@
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1336342304": {
     "app_id": "1336342304",
@@ -90132,7 +90132,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1480616748": {
     "app_id": "1480616748",
@@ -90140,14 +90140,14 @@
     "price": 0.0,
     "currency": "USD",
     "formatted_price": "Free",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/4b/dd/854bdd97-07dc-4e4e-539c-74644d2b0d32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/15/e3/2a15e328-4d7f-f708-7710-354739c0e71f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "developer": "Riot Games",
     "bundle_id": "com.riotgames.league.teamfighttactics",
     "store_url": "https://apps.apple.com/us/app/tft-teamfight-tactics/id1480616748?uo=4",
     "category": "Games",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1326686758": {
     "app_id": "1326686758",
@@ -90162,7 +90162,7 @@
     "category": "Reference",
     "rating": 4.9,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1540061397": {
     "app_id": "1540061397",
@@ -90177,7 +90177,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1571873795": {
     "app_id": "1571873795",
@@ -90192,7 +90192,7 @@
     "category": "Games",
     "rating": 4.0,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "573156739": {
     "app_id": "573156739",
@@ -90207,7 +90207,7 @@
     "category": "Games",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1006393168": {
     "app_id": "1006393168",
@@ -90222,7 +90222,7 @@
     "category": "Games",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1016366447": {
     "app_id": "1016366447",
@@ -90237,7 +90237,7 @@
     "category": "Productivity",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1236254471": {
     "app_id": "1236254471",
@@ -90252,7 +90252,7 @@
     "category": "Productivity",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "953286746": {
     "app_id": "953286746",
@@ -90267,7 +90267,7 @@
     "category": "Photo & Video",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1313580627": {
     "app_id": "1313580627",
@@ -90282,7 +90282,7 @@
     "category": "Photo & Video",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "694647259": {
     "app_id": "694647259",
@@ -90297,7 +90297,7 @@
     "category": "Photo & Video",
     "rating": 4.7,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "408709785": {
     "app_id": "408709785",
@@ -90312,7 +90312,7 @@
     "category": "Music",
     "rating": 4.1,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1487937127": {
     "app_id": "1487937127",
@@ -90327,7 +90327,7 @@
     "category": "Productivity",
     "rating": 4.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1557175442": {
     "app_id": "1557175442",
@@ -90342,7 +90342,7 @@
     "category": "Productivity",
     "rating": 4.5,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "288545208": {
     "app_id": "288545208",
@@ -90357,7 +90357,7 @@
     "category": "News",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "638394624": {
     "app_id": "638394624",
@@ -90372,7 +90372,7 @@
     "category": "Music",
     "rating": 4.6,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "364873582": {
     "app_id": "364873582",
@@ -90387,7 +90387,7 @@
     "category": "News",
     "rating": 3.8,
     "iap": [],
-    "last_updated": "2026-09-02T21:29:27.841621+00:00"
+    "last_updated": "2026-09-04T16:46:56.088135+00:00"
   },
   "1640632432": {
     "app_id": "1640632432",
